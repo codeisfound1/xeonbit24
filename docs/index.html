@@ -105,7 +105,11 @@
     header { background: var(--bg2); position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--border); }
     .header-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; align-items: center; justify-content: space-between; height: 62px; gap: 16px; }
     .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
-    .logo-icon { width: 34px; height: 34px; background: var(--amber); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; }
+    .logo-icon { width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .logo-icon .logo-dark { display: block; }
+    .logo-icon .logo-light { display: none; }
+    [data-theme="light"] .logo-icon .logo-dark { display: none; }
+    [data-theme="light"] .logo-icon .logo-light { display: block; }
     .logo-text { font-family: var(--display); font-size: 19px; font-weight: 700; color: var(--text); letter-spacing: -0.02em; }
     .logo-text span { color: var(--amber); }
     nav { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
@@ -355,7 +359,16 @@
 <header>
   <div class="header-inner">
     <a class="logo" href="/" aria-label="Xeonbit24 - Home">
-      <div class="logo-icon">₿</div>
+      <div class="logo-icon">
+        <picture class="logo-dark">
+          <source srcset="/logo-dark.webp" type="image/webp">
+          <img src="/logo-dark.png" alt="Xeonbit24 Logo" width="34" height="34" style="display:block;width:34px;height:34px;object-fit:contain;" loading="eager" decoding="async">
+        </picture>
+        <picture class="logo-light">
+          <source srcset="/logo-light.webp" type="image/webp">
+          <img src="/logo-light.png" alt="Xeonbit24 Logo" width="34" height="34" style="display:block;width:34px;height:34px;object-fit:contain;" loading="eager" decoding="async">
+        </picture>
+      </div>
       <span class="logo-text">Xeon<span>bit24</span></span>
     </a>
     <nav aria-label="Điều hướng chính" style="display:flex;align-items:center;gap:8px;">
