@@ -1,0 +1,10 @@
+{
+  "name": "xeonbit24",
+  "version": "2.0.0",
+  "description": "Xeonbit24 – Blog tổng hợp tin tức tiền điện tử từ nguồn uy tín, AI phân tích hàng ngày",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "start": "npx serve docs"
+  }
+}
