@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#diem-tin-crypto-01052026-luc-1552-thi-truong-bien-dong-voi-su-kien-bakkt-va-bitc</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777625525/xeonbit24/posts/diem-tin-crypto-01052026-luc-1552-thi-truong-bien-dong-voi-su-kien-bakkt-va-bitc.jpg</image:loc>
+      <image:title>Điểm tin crypto 01/05/2026 lúc 15:52: Thị trường biến động với sự kiện Bakkt và Bitcoin</image:title>
+      <image:caption>Điểm tin crypto 01/05/2026 lúc 15:52: Thị trường biến động với sự kiện Bakkt và Bitcoin</image:caption>
+    </image:image>
   </url>
 </urlset>
