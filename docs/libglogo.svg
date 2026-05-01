@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Xeonbit logo - light background">
+  <defs>
+    <!-- Brand colors -->
+    <linearGradient id="grad-Purple" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#5B1B7A"/>
+      <stop offset="1" stop-color="#3A0F5A"/>
+    </linearGradient>
+    <linearGradient id="grad-Blue" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6FD0FF"/>
+      <stop offset="1" stop-color="#1EA0FF"/>
+    </linearGradient>
+    <linearGradient id="grad-Mid" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#8A3B9A"/>
+      <stop offset="1" stop-color="#5B1B7A"/>
+    </linearGradient>
+    <style>
+      .wordmark { font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 700; font-size:64px; fill:#0B77D6; }
+    </style>
+  </defs>
+
+  <!-- Left downward block -->
+  <g transform="translate(120,120) scale(1.0)">
+    <!-- main purple face -->
+    <polygon points="0,160 80,80 200,200 120,280" fill="url(#grad-Purple)"/>
+    <!-- top bevel (lighter) -->
+    <polygon points="80,80 120,40 240,160 200,200" fill="url(#grad-Mid)"/>
+    <!-- right bevel (blue) -->
+    <polygon points="200,200 240,160 240,240 200,280" fill="url(#grad-Blue)"/>
+  </g>
+
+  <!-- Central connecting block -->
+  <g transform="translate(300,80)">
+    <polygon points="0,160 100,60 220,180 120,280" fill="url(#grad-Purple)"/>
+    <polygon points="100,60 140,20 260,140 220,180" fill="url(#grad-Mid)"/>
+    <polygon points="220,180 260,140 260,220 220,260" fill="url(#grad-Blue)"/>
+  </g>
+
+  <!-- Top-right three cubes -->
+  <g transform="translate(520,40) scale(0.6)">
+    <!-- cube 1 -->
+    <g transform="translate(0,0)">
+      <polygon points="0,120 40,80 120,160 80,200" fill="url(#grad-Purple)"/>
+      <polygon points="40,80 80,40 160,120 120,160" fill="url(#grad-Mid)"/>
+      <polygon points="120,160 160,120 160,200 120,240" fill="url(#grad-Blue)"/>
+    </g>
+    <!-- cube 2 -->
+    <g transform="translate(80,-40)">
+      <polygon points="0,120 40,80 120,160 80,200" fill="url(#grad-Purple)"/>
+      <polygon points="40,80 80,40 160,120 120,160" fill="url(#grad-Mid)"/>
+      <polygon points="120,160 160,120 160,200 120,240" fill="url(#grad-Blue)"/>
+    </g>
+    <!-- cube 3 -->
+    <g transform="translate(160,-80)">
+      <polygon points="0,120 40,80 120,160 80,200" fill="url(#grad-Purple)"/>
+      <polygon points="40,80 80,40 160,120 120,160" fill="url(#grad-Mid)"/>
+      <polygon points="120,160 160,120 160,200 120,240" fill="url(#grad-Blue)"/>
+    </g>
+  </g>
+
+  <!-- Small detached left blue rectangle -->
+  <g transform="translate(40,380) scale(1.0)">
+    <polygon points="0,40 40,0 120,80 80,120" fill="url(#grad-Blue)"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="170" y="520" class="wordmark">Xeonbit</text>
+</svg>
