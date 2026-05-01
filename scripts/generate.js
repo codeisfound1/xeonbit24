@@ -1,6 +1,6 @@
 // scripts/generate.js
-// Nguồn: RSS công khai từ CoinDesk, Cointelegraph, Decrypt, The Block
-// Lấy Top 10 tin mới nhất → Groq AI tổng hợp → lưu docs/posts.json
+// Sources: Public RSS from CoinDesk, Cointelegraph, Decrypt, The Block
+// Fetch Top 10 latest news → Groq AI summarizes → saves docs/posts.json
 
 "use strict";
 
@@ -12,7 +12,7 @@ const crypto = require("crypto");
 
 // ─── CONFIG ────────────────────────────────────────────────────────────────
 
-// RSS feeds công khai — không cần API key, không bị chặn bởi robots
+// Public RSS feeds — no API key required, not blocked by robots
 const RSS_SOURCES = [
   { name: "CoinDesk",       url: "https://www.coindesk.com/arc/outboundfeeds/rss/",  weight: 3 },
   { name: "Cointelegraph",  url: "https://cointelegraph.com/rss",                    weight: 3 },
@@ -46,7 +46,7 @@ const WATCHER_GURU_CHANNEL = "WatcherGuru";
 const WATCHER_GURU_LIMIT   = 3; // Số tin mới nhất cần lấy
 
 if (!GROQ_KEY) {
-  console.error("❌ Thiếu GROQ_API_KEY");
+  console.error("❌ Missing GROQ_API_KEY");
   process.exit(1);
 }
 
@@ -137,7 +137,7 @@ function fetchUrl(url, redirectCount, extraHeaders) {
       headers: Object.assign({
         "User-Agent":      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9,vi;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
         "Accept-Charset":  "UTF-8",
         "Cache-Control":   "no-cache",
         "Referer":         "https://www.google.com/",
@@ -239,14 +239,14 @@ async function retryWithBackoff(fn, maxAttempts = 3, baseDelayMs = 1500) {
  * Hỗ trợ cả RSS 2.0 và Atom
  */
 async function fetchRssFeed(source) {
-  console.log("📡  Đang đọc RSS: " + source.name + " ← " + source.url);
+  console.log("📡  Fetching RSS: " + source.name + " ← " + source.url);
   let xml;
   try {
     xml = await fetchUrl(source.url, 0, {
       "Accept": "application/rss+xml, application/xml, text/xml, */*",
     });
   } catch(e) {
-    console.warn("   ⚠️  " + source.name + " thất bại:", e.message);
+    console.warn("   ⚠️  " + source.name + " failed:", e.message);
     return [];
   }
 
@@ -296,7 +296,7 @@ async function fetchRssFeed(source) {
     articles.push({ url, title, description, imageUrl, publishedAt, sourceName: source.name });
   }
 
-  console.log("   → " + articles.length + " bài từ " + source.name);
+  console.log("   → " + articles.length + " articles from " + source.name);
   return articles;
 }
 
@@ -309,8 +309,8 @@ async function fetchRssFeed(source) {
  */
 async function fetchTelegramMessages() {
   const pageUrl = "https://t.me/s/" + WATCHER_GURU_CHANNEL;
-  console.log("📲  Đang lấy " + WATCHER_GURU_LIMIT + " tin mới nhất từ @" + WATCHER_GURU_CHANNEL + "...");
-  console.log("   📡 Scrape: " + pageUrl);
+  console.log("📲  Fetching " + WATCHER_GURU_LIMIT + " latest posts from @" + WATCHER_GURU_CHANNEL + "...");
+  console.log("   📡 Scraping: " + pageUrl);
 
   let html;
   try {
@@ -319,7 +319,7 @@ async function fetchTelegramMessages() {
       "Accept-Language": "en-US,en;q=0.9",
     });
   } catch (e) {
-    console.warn("   ⚠️  Không fetch được trang Telegram:", e.message);
+    console.warn("   ⚠️  Failed to fetch Telegram page:", e.message);
     return [];
   }
 
@@ -354,12 +354,12 @@ async function fetchTelegramMessages() {
     articles.push({ url, title, description, imageUrl: null, publishedAt, sourceName: "WatcherGuru (Telegram)" });
   }
 
-  console.log("   → " + articles.length + " tin từ @" + WATCHER_GURU_CHANNEL);
+  console.log("   → " + articles.length + " posts from @" + WATCHER_GURU_CHANNEL);
   return articles;
 }
 
 async function fetchTopNewsFromRss() {
-  console.log("\n📰  Đang tổng hợp RSS từ " + RSS_SOURCES.length + " nguồn + Telegram @" + WATCHER_GURU_CHANNEL + "...");
+  console.log("\n📰  Aggregating RSS from " + RSS_SOURCES.length + " sources + Telegram @" + WATCHER_GURU_CHANNEL + "...");
 
   const allArticles = [];
 
@@ -386,7 +386,7 @@ async function fetchTopNewsFromRss() {
 
   const result = unique.slice(0, TOP_N);
   const sourceCount = RSS_SOURCES.length + (tgMessages.length > 0 ? 1 : 0);
-  console.log("📋  Tổng hợp: " + unique.length + " bài từ " + sourceCount + " nguồn → lấy top " + result.length);
+  console.log("📋  Collected: " + unique.length + " articles from " + sourceCount + " sources → keeping top " + result.length);
   return result;
 }
 
@@ -395,12 +395,12 @@ async function fetchTopNewsFromRss() {
 async function enrichArticle(article) {
   // RSS thường đã có title + description đủ dùng
   if (article.title && article.description && article.description.length > 80 && article.imageUrl) {
-    console.log("  ✅ Đủ metadata: " + article.title.slice(0, 60));
+    console.log("  ✅ Metadata complete: " + article.title.slice(0, 60));
     return article;
   }
 
   // Chỉ fetch thêm nếu thiếu ảnh hoặc description quá ngắn
-  console.log("  📄 Fetch bổ sung: " + article.url.slice(0, 80));
+  console.log("  📄 Fetching extra metadata: " + article.url.slice(0, 80));
   try {
     const html = await fetchUrl(article.url);
 
@@ -430,7 +430,7 @@ async function enrichArticle(article) {
     article.contentSnippet = decodeHtmlEntities(cleanText);
 
   } catch(e) {
-    console.warn("  ⚠️  Không fetch được:", e.message);
+    console.warn("  ⚠️  Could not fetch:", e.message);
   }
 
   return article;
@@ -491,12 +491,12 @@ async function uploadToCloudinary(imageUrl, slug, altText, tags) {
       req.write(bodyBuf); req.end();
     });
 
-    if (result.error) { console.warn("⚠️  Cloudinary lỗi:", result.error.message); return null; }
+    if (result.error) { console.warn("⚠️  Cloudinary error:", result.error.message); return null; }
     const transformedUrl = result.secure_url.replace("/upload/", "/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/");
     console.log("✅  Cloudinary OK:", result.public_id);
     return { url: transformedUrl, rawUrl: result.secure_url, publicId: result.public_id, width: result.width, height: result.height, format: result.format, alt: altText };
   } catch(err) {
-    console.warn("⚠️  Cloudinary thất bại:", err.message);
+    console.warn("⚠️  Cloudinary failed:", err.message);
     return null;
   }
 }
@@ -506,14 +506,14 @@ async function uploadToCloudinary(imageUrl, slug, altText, tags) {
 function loadPosts() {
   try {
     if (fs.existsSync(POSTS_FILE)) return JSON.parse(fs.readFileSync(POSTS_FILE, "utf8"));
-  } catch(e) { console.warn("Không đọc được posts.json:", e.message); }
+  } catch(e) { console.warn("Could not read posts.json:", e.message); }
   return { posts: [], publishedUrls: [], publishedBatchKeys: [] };
 }
 
 function savePosts(data) {
   fs.mkdirSync(path.dirname(POSTS_FILE), { recursive: true });
   fs.writeFileSync(POSTS_FILE, JSON.stringify(data, null, 2), "utf8");
-  console.log("✅  Đã lưu " + data.posts.length + " bài vào docs/posts.json");
+  console.log("✅  Saved " + data.posts.length + " posts to docs/posts.json");
   saveSitemap(data.posts);
   saveRobots();
 }
@@ -545,46 +545,45 @@ function saveRobots() {
 // ─── GROQ AI – TỔNG HỢP TOP 10 TIN ───────────────────────────────────────
 
 async function generateRoundupWithGroq(articles) {
-  console.log("🤖  Groq AI tổng hợp " + articles.length + " tin từ RSS...");
+  console.log("🤖  Groq AI synthesizing " + articles.length + " articles from RSS...");
 
   const now = new Date();
-  const today = now.toLocaleDateString("vi-VN", { day: "2-digit", month: "2-digit", year: "numeric" });
-  const timeStr = now.toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Ho_Chi_Minh" });
-  const todayWithTime = today + " lúc " + timeStr;
+  const today = now.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
+  const timeStr = now.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", hour12: true, timeZone: "Asia/Ho_Chi_Minh" });
+  const todayWithTime = today + " at " + timeStr + " (ICT)";
   const sourceNames  = [...new Set(articles.map(a => a.sourceName))].join(", ");
 
   const newsListText = articles.map((a, i) =>
-    "[Tin " + (i + 1) + "] " + (a.title || "(không có tiêu đề)") + "\n" +
-    "Nguồn: " + (a.sourceName || "CoinMarketCap") + " | URL: " + a.url + "\n" +
-    (a.description ? "Mô tả: " + a.description.slice(0, 200) + "\n" : "") +
-    (a.contentSnippet ? "Nội dung: " + a.contentSnippet.slice(0, 400) + "\n" : "")
+    "[Article " + (i + 1) + "] " + (a.title || "(no title)") + "\n" +
+    "Source: " + (a.sourceName || "RSS") + " | URL: " + a.url + "\n" +
+    (a.description ? "Description: " + a.description.slice(0, 200) + "\n" : "") +
+    (a.contentSnippet ? "Content: " + a.contentSnippet.slice(0, 400) + "\n" : "")
   ).join("\n---\n");
 
   const systemPrompt =
-    "Bạn là chuyên gia phân tích thị trường tiền điện tử (cryptocurrency) hàng đầu tại Việt Nam. " +
-    "Bạn am hiểu sâu về Bitcoin, Ethereum, DeFi, NFT, altcoin và thị trường crypto toàn cầu. " +
-    "Nhiệm vụ: nhận danh sách top " + articles.length + " tin crypto mới nhất và TRẢ VỀ DUY NHẤT một JSON object hợp lệ UTF-8. " +
-    "Không có text nào khác, không markdown, không code block, không giải thích.";
+    "You are a world-class cryptocurrency and blockchain market analyst. " +
+    "You have deep expertise in Bitcoin, Ethereum, DeFi, NFTs, altcoins, and global crypto markets. " +
+    "Your task: receive the top " + articles.length + " latest crypto news articles and RETURN ONLY a valid UTF-8 JSON object. " +
+    "No other text, no markdown, no code blocks, no explanations.";
 
   const userPrompt =
-    "Dưới đây là TOP " + articles.length + " tin tức crypto mới nhất ngày " + todayWithTime +
-    " tổng hợp từ: " + sourceNames + ".\n" +
-    "Tổng hợp thành bài phân tích điểm tin thị trường toàn diện bằng tiếng Việt có dấu đầy đủ.\n\n" +
-    "=== DANH SÁCH TIN TỨC ===\n" + newsListText + "\n" +
-    "=== YÊU CẦU ===\n" +
-    "- Toàn bộ nội dung PHẢI bằng tiếng Việt có dấu đầy đủ\n" +
-    "- Tổng hợp TẤT CẢ " + articles.length + " tin, mỗi tin được phân tích riêng với heading\n" +
-    "- Cấu trúc: Dẫn nhập tổng quan → Phân tích từng tin (theo thứ tự quan trọng) → Nhận định thị trường chung → Khuyến nghị\n" +
-    "- Nêu bật xu hướng chung, mối liên hệ giữa các sự kiện\n" +
-    "- Phân tích tác động thực tế đến nhà đầu tư Việt Nam\n" +
-    "- Giải thích thuật ngữ kỹ thuật bằng tiếng Việt dễ hiểu\n" +
-    "- Độ dài 800-1200 từ, dùng HTML cho content\n" +
-    "- Tags bằng tiếng Việt hoặc tên coin (tối đa 6 tags)\n\n" +
-    "CHỈ trả về JSON object, KHÔNG có gì khác:\n" +
-    "{\"title\":\"Điểm tin crypto " + todayWithTime + ": [tóm tắt nổi bật]\"," +
-    "\"summary\":\"Tóm tắt 2-3 câu điểm qua các sự kiện nổi bật nhất\"," +
-    "\"tags\":[\"bitcoin\",\"ethereum\",\"thị trường\",\"điểm tin\"]," +
-    "\"content\":\"<p>Dẫn nhập...</p><h2>1. [Sự kiện nổi bật nhất]</h2><p>Phân tích...</p><h2>2. [...]</h2><p>...</p><h2>Nhận định thị trường</h2><p>...</p><h2>Khuyến nghị nhà đầu tư</h2><p>...</p>\"," +
+    "Below are the TOP " + articles.length + " latest crypto news articles from " + todayWithTime +
+    ", aggregated from: " + sourceNames + ".\n" +
+    "Write a comprehensive English crypto market roundup and analysis.\n\n" +
+    "=== NEWS ARTICLES ===\n" + newsListText + "\n" +
+    "=== REQUIREMENTS ===\n" +
+    "- ALL content MUST be written in English\n" +
+    "- Cover ALL " + articles.length + " articles, each with its own heading\n" +
+    "- Structure: Overview intro → Individual analysis per article (by importance) → Overall market outlook → Key takeaways\n" +
+    "- Highlight common trends and connections between events\n" +
+    "- Explain technical terms clearly for a general crypto audience\n" +
+    "- 800-1200 words, use HTML for content field\n" +
+    "- Tags in English or coin names (max 6 tags)\n\n" +
+    "ONLY return a JSON object, NOTHING else:\n" +
+    "{\"title\":\"Crypto Roundup " + todayWithTime + ": [highlight summary]\"," +
+    "\"summary\":\"2-3 sentence overview of the most important events\"," +
+    "\"tags\":[\"bitcoin\",\"ethereum\",\"market\",\"crypto news\"]," +
+    "\"content\":\"<p>Intro...</p><h2>1. [Top Story]</h2><p>Analysis...</p><h2>2. [...]</h2><p>...</p><h2>Market Outlook</h2><p>...</p><h2>Key Takeaways</h2><p>...</p>\"," +
     "\"readTime\":8}";
 
   const res = await retryWithBackoff(() => postJson(
@@ -619,16 +618,16 @@ function parseJson(text, articles) {
     }
     if (end !== -1) { try { const p = JSON.parse(text.slice(start, end + 1)); if (p && p.title) return p; } catch(_) {} }
   }
-  console.warn("⚠️   Dùng regex fallback");
+  console.warn("⚠️   Using regex fallback");
   const field = (k) => { const m = text.match(new RegExp('"' + k + '"\\s*:\\s*"((?:[^"\\\\]|\\\\.)*)"', "i")); return m ? m[1].replace(/\\n/g, "\n").replace(/\\"/g, '"') : null; };
   const arr   = (k) => { const m = text.match(new RegExp('"' + k + '"\\s*:\\s*\\[([^\\]]+)\\]', "i")); return m ? (m[1].match(/"([^"]+)"/g) || []).map(x => x.replace(/"/g, "")) : []; };
   const num   = (k) => { const m = text.match(new RegExp('"' + k + '"\\s*:\\s*(\\d+)', "i")); return m ? parseInt(m[1]) : 8; };
-  const title = field("title") || "Điểm tin crypto: Top " + articles.length + " sự kiện nổi bật";
+  const title = field("title") || "Crypto Roundup: Top " + articles.length + " Stories";
   return {
     title,
-    summary:  field("summary")  || "Tổng hợp " + articles.length + " tin crypto mới nhất từ CoinMarketCap AI Top News.",
+    summary:  field("summary")  || "Summary of the latest " + articles.length + " crypto news articles.",
     content:  field("content")  || "<p>" + articles.map(a => "<b>" + (a.title || a.url) + "</b>").join("</p><p>") + "</p>",
-    tags:     arr("tags").length ? arr("tags") : ["bitcoin", "điểm tin", "crypto", "thị trường"],
+    tags:     arr("tags").length ? arr("tags") : ["bitcoin", "crypto news", "market", "blockchain"],
     readTime: num("readTime"),
   };
 }
@@ -665,23 +664,23 @@ function decodeHtmlEntities(str) {
 async function main() {
   console.log("=".repeat(60));
   console.log("🚀  Xeonbit24 – Crypto & Blockchain News RSS -", new Date().toISOString());
-  console.log("📡  Nguồn:", RSS_SOURCES.map(s => s.name).join(", "));
-  console.log("📋  Lấy top", TOP_N, "tin mới nhất");
+  console.log("📡  Sources:", RSS_SOURCES.map(s => s.name).join(", "));
+  console.log("📋  Fetching top", TOP_N, "latest articles");
   console.log("=".repeat(60));
 
   const data = loadPosts();
-  console.log("📚  Hiện có:", data.posts.length, "bài đã đăng");
+  console.log("📚  Existing posts:", data.posts.length);
 
   // ─ Bước 1: Lấy top 10 tin từ RSS ─
   const cmcArticles = await fetchTopNewsFromRss();
 
   if (cmcArticles.length === 0) {
-    console.error("❌  Không lấy được tin từ CMC AI Top News. Kết thúc.");
+    console.error("❌  No articles fetched from RSS feeds. Exiting.");
     process.exit(1);
   }
 
   if (cmcArticles.length < 5) {
-    console.error(`❌  Chỉ lấy được ${cmcArticles.length} bài (cần tối thiểu 5). Kiểm tra lại RSS feeds.`);
+    console.error(`❌  Only ${cmcArticles.length} articles fetched (minimum 5 required). Check RSS feeds.`);
     process.exit(1);
   }
 
@@ -690,11 +689,11 @@ async function main() {
   const alreadyPosted   = !FORCE && (data.publishedBatchKeys || []).includes(batchKey);
 
   if (alreadyPosted) {
-    console.log("ℹ️   Batch tin này đã được tổng hợp. Dùng FORCE=true để bỏ qua.");
+    console.log("ℹ️   This batch was already published. Use FORCE=true to override.");
     return;
   }
 
-  console.log("\n📰  Danh sách " + cmcArticles.length + " tin từ CMC AI Top News:");
+  console.log("\n📰  Article list (" + cmcArticles.length + " from RSS feeds):");
   cmcArticles.forEach((a, i) => console.log("  [" + (i + 1) + "] " + (a.title || a.url).slice(0, 70)));
 
   // ─ Bước 3: Enrich từng bài ─
@@ -702,19 +701,19 @@ async function main() {
   const enriched = [];
   for (const article of cmcArticles) {
     try   { enriched.push(await enrichArticle(article)); }
-    catch (e) { console.warn("  ⚠️  Bỏ qua:", e.message); enriched.push(article); }
+    catch (e) { console.warn("  ⚠️  Skipping:", e.message); enriched.push(article); }
   }
 
   // ─ Bước 4: Chọn ảnh đại diện (bài đầu tiên có ảnh) ─
   const representativeArticle = enriched.find(a => a.imageUrl) || enriched[0];
-  console.log("\n🖼️   Ảnh đại diện:", representativeArticle.imageUrl || "(không có)");
+  console.log("\n🖼️   Cover image:", representativeArticle.imageUrl || "(none)");
 
   // ─ Bước 5: Groq tổng hợp ─
   const generated = await generateRoundupWithGroq(enriched);
 
   // ─ Bước 6: Tạo post ─
-  const slug = slugify(generated.title || "diem-tin-crypto-top-" + TOP_N + "-" + Date.now());
-  const tags = (generated.tags && generated.tags.length) ? generated.tags : ["bitcoin", "điểm tin", "crypto", "thị trường"];
+  const slug = slugify(generated.title || "crypto-roundup-top-" + TOP_N + "-" + Date.now());
+  const tags = (generated.tags && generated.tags.length) ? generated.tags : ["bitcoin", "crypto news", "market", "blockchain"];
 
   let imageObj = null;
   if (representativeArticle.imageUrl) {
@@ -730,11 +729,11 @@ async function main() {
     ' — <em>' + (a.sourceName || "RSS") + '</em></li>'
   ).join("\n");
   const contentWithSources = (generated.content || "") +
-    "\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n" + sourcesList + "\n</ol>";
+    "\n<h2>Sources</h2>\n<ol>\n" + sourcesList + "\n</ol>";
 
   const post = {
     id:               Date.now().toString(),
-    title:            generated.title   || "Điểm tin crypto: Top " + TOP_N + " sự kiện",
+    title:            generated.title   || "Crypto Roundup: Top " + TOP_N + " Stories",
     summary:          generated.summary || "",
     content:          contentWithSources,
     tags,
@@ -760,8 +759,8 @@ async function main() {
 
   savePosts(data);
 
-  console.log("\n🎉  Đã đăng:", post.title);
-  console.log("📊  Tổng hợp:", post.articleCount, "tin từ", RSS_SOURCES.map(s => s.name).join(", "));
+  console.log("\n🎉  Published:", post.title);
+  console.log("📊  Aggregated:", post.articleCount, "articles from", RSS_SOURCES.map(s => s.name).join(", "));
   if (post.image) console.log("🖼️   Thumbnail:", post.image.url);
   console.log("🏷️   Tags:", post.tags.join(", "));
   console.log("=".repeat(60));
@@ -780,7 +779,7 @@ async function main() {
  */
 function sendTelegramMessage(text) {
   if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
-    console.log("ℹ️   Bỏ qua Telegram: thiếu TELEGRAM_BOT_TOKEN hoặc TELEGRAM_CHAT_ID.");
+    console.log("ℹ️   Skipping Telegram: TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set.");
     return Promise.resolve();
   }
 
@@ -809,19 +808,19 @@ function sendTelegramMessage(text) {
         try {
           const json = JSON.parse(body);
           if (json.ok) {
-            console.log("📨  Đã chia sẻ lên Telegram (message_id:", json.result.message_id + ")");
+            console.log("📨  Shared to Telegram (message_id:", json.result.message_id + ")");
           } else {
-            console.warn("⚠️   Telegram API lỗi:", json.description);
+            console.warn("⚠️   Telegram API error:", json.description);
           }
         } catch (e) {
-          console.warn("⚠️   Không parse được phản hồi Telegram:", e.message);
+          console.warn("⚠️   Failed to parse Telegram response:", e.message);
         }
         resolve();
       });
     });
 
     req.on("error", err => {
-      console.warn("⚠️   Không gửi được Telegram:", err.message);
+      console.warn("⚠️   Failed to send Telegram message:", err.message);
       resolve();
     });
 
@@ -840,7 +839,7 @@ function buildTelegramMessage(post, postUrl) {
   return (
     "🔥 " + title + "\n\n" +
     (summary ? summary + "\n\n" : "") +
-    "📰 Tổng hợp từ " + count + " bài viết mới nhất.\n\n" +
+    "📰 Aggregated from " + count + " latest articles.\n\n" +
     "👉 " + postUrl + "\n\n" +
     tags
   );
@@ -848,6 +847,6 @@ function buildTelegramMessage(post, postUrl) {
 
 
 main().catch(err => {
-  console.error("❌  Lỗi nghiêm trọng:", err.message);
+  console.error("❌  Fatal error:", err.message);
   process.exit(1);
 });
