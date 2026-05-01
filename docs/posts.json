@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1777628161680",
+      "title": "Điểm tin crypto 01/05/2026 lúc 16:35: Thị trường biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua những biến động mạnh với giá Bitcoin vượt qua mốc 77.000 USD, trong khi các sự kiện quan trọng như việc Bithumb thắng kiện và Bakkt hoàn thành mua lại Distributed Technologies Research cũng đang thu hút sự chú ý.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua những biến động mạnh trong những ngày gần đây. Giá Bitcoin đã vượt qua mốc 77.000 USD, tạo ra sự quan tâm lớn trong cộng đồng đầu tư.</p><h2>1. Bithumb thắng kiện tại Hàn Quốc</h2><p>Bithumb, một trong những sàn giao dịch tiền điện tử lớn nhất tại Hàn Quốc, đã thắng kiện tại tòa án địa phương. Tòa án đã hủy bỏ quyết định đình chỉ hoạt động của Bithumb trong vòng 6 tháng, cho phép sàn giao dịch này tiếp tục hoạt động.</p><h2>2. Bakkt hoàn thành mua lại Distributed Technologies Research</h2><p>Bakkt, một công ty cung cấp dịch vụ thanh toán và lưu trữ tiền điện tử, đã hoàn thành việc mua lại Distributed Technologies Research, một công ty chuyên về công nghệ blockchain.</p><h2>3. Giá Bitcoin biến động mạnh</h2><p>Giá Bitcoin đã vượt qua mốc 77.000 USD, tạo ra sự quan tâm lớn trong cộng đồng đầu tư. Tuy nhiên, giá cũng đã trải qua những biến động mạnh, với sự giảm giá đột ngột trong những ngày gần đây.</p><h2>4. DeFi protocol Carrot trở thành nạn nhân của vụ tấn công</h2><p>DeFi protocol Carrot đã trở thành nạn nhân của vụ tấn công vào Drift, một nền tảng giao dịch tiền điện tử. Vụ tấn công này đã khiến cho giá trị của Carrot giảm mạnh.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trải qua những biến động mạnh, với sự quan tâm lớn đến giá Bitcoin và các sự kiện quan trọng khác. Tuy nhiên, nhà đầu tư cần phải cẩn thận và theo dõi chặt chẽ thị trường để tránh những rủi ro không mong muốn.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên theo dõi chặt chẽ thị trường và tránh những rủi ro không mong muốn. Ngoài ra, nhà đầu tư cũng nên đa dạng hóa danh mục đầu tư để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] South Korean court grants stay on Bithumb’s six-month suspension pending final ruling: reports — <em>The Block</em></li>\n<li>[2] Bitcoin edges above $77,000, but institutional activity suggests downside hedging — <em>CoinDesk</em></li>\n<li>[3] Riot reports $33 million in first data center revenue as AMD doubles contracted capacity — <em>The Block</em></li>\n<li>[4] Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research — <em>Cointelegraph</em></li>\n<li>[5] Bithumb scores a legal win in South Korea as six-month suspension is lifted by local judge — <em>CoinDesk</em></li>\n<li>[6] Strategy keeps STRC dividend at 11.5% as stock logs first monthly gain in nine — <em>CoinDesk</em></li>\n<li>[7] Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant — <em>Cointelegraph</em></li>\n<li>[8] Bitcoiners launch 'The Bitcoin Evidence Base' to stamp out FUD — <em>Cointelegraph</em></li>\n<li>[9] DeFi protocol Carrot becomes first casualty of $285M Drift exploit — <em>Cointelegraph</em></li>\n<li>[10] Bitcoin’s surge to $77K pressures shorts, but absent spot and long leverage caps rallies — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "bithumb"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777628161/xeonbit24/posts/diem-tin-crypto-01052026-luc-1635-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777628161/xeonbit24/posts/diem-tin-crypto-01052026-luc-1635-thi-truong-bien-dong-manh.jpg",
+        "publicId": "xeonbit24/posts/diem-tin-crypto-01052026-luc-1635-thi-truong-bien-dong-manh",
+        "width": 797,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 01/05/2026 lúc 16:35: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "South Korean court grants stay on Bithumb’s six-month suspension pending final ruling: reports",
+          "url": "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin edges above $77,000, but institutional activity suggests downside hedging",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Riot reports $33 million in first data center revenue as AMD doubles contracted capacity",
+          "url": "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bakkt completes acquisition of stablecoin payments firm Distributed Technologies Research",
+          "url": "https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bithumb scores a legal win in South Korea as six-month suspension is lifted by local judge",
+          "url": "https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy keeps STRC dividend at 11.5% as stock logs first monthly gain in nine",
+          "url": "https://www.coindesk.com/markets/2026/05/01/strategy-keeps-strc-dividend-at-11-5-as-stock-logs-first-monthly-gain-in-nine",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin risks extended retreat as April rally was futures-driven: CryptoQuant",
+          "url": "https://cointelegraph.com/news/bitcoin-risks-decline-rally-speculative-not-structural-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoiners launch 'The Bitcoin Evidence Base' to stamp out FUD",
+          "url": "https://cointelegraph.com/news/bitcoiner-launches-the-bitcoin-evidence-base-to-stamp-out-fud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
+          "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin’s surge to $77K pressures shorts, but absent spot and long leverage caps rallies",
+          "url": "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-05-01T09:36:01.680Z",
+      "slug": "diem-tin-crypto-01052026-luc-1635-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1777625525792",
       "title": "Điểm tin crypto 01/05/2026 lúc 15:52: Thị trường biến động với sự kiện Bakkt và Bitcoin",
       "summary": "Thị trường crypto chứng kiến sự kiện quan trọng với Bakkt hoàn tất việc mua lại Distributed Technologies Research, trong khi Bitcoin đối mặt với rủi ro giảm giá. Ngoài ra, DeFi protocol Carrot trở thành nạn nhân đầu tiên của vụ tấn công Drift trị giá 285 triệu đô la.",
@@ -90,9 +169,12 @@
     "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/tokenized-rwa-market-cap-spiked-in-the-last-15-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-senate-bans-itself-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/us-senate-bans-itself-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge"
+    "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
+    "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging|https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss"
   ]
 }
