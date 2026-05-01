@@ -6,6 +6,6 @@
     "directory": "."
   },
   "observability": {
-    "enabled": true
+    "enabled": false
   }
 }
