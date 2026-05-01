@@ -1,0 +1,10 @@
+{
+  "name": "xeonbit24-scripts",
+  "version": "2.0.0",
+  "description": "Xeonbit24 – Auto blog generator từ nguồn uy tín, AI phân tích hàng ngày",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
