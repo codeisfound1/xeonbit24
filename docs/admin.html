@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Admin — Xeonbit24</title>
+  <meta name="robots" content="noindex, nofollow"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Barlow:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg:       #06080f;
+      --bg2:      #0b0f1c;
+      --bg3:      #0f1525;
+      --bg4:      #141b2e;
+      --bg5:      #1a2340;
+      --amber:    #f59e0b;
+      --amber2:   #fbbf24;
+      --green:    #10b981;
+      --green2:   #6ee7b7;
+      --red:      #ef4444;
+      --red2:     #fca5a5;
+      --blue:     #3b82f6;
+      --border:   rgba(255,255,255,0.06);
+      --border2:  rgba(245,158,11,0.25);
+      --text:     #e2e8f0;
+      --text2:    #94a3b8;
+      --text3:    #475569;
+      --sans:     'IBM Plex Sans', sans-serif;
+      --display:  'Barlow', sans-serif;
+      --mono:     'IBM Plex Mono', monospace;
+    }
+    [data-theme="light"] {
+      --bg:      #f8f9fc; --bg2: #ffffff; --bg3: #f1f4f9; --bg4: #e8ecf4;
+      --border:  rgba(0,0,0,0.08); --border2: rgba(245,158,11,0.35);
+      --text:    #0f172a; --text2: #334155; --text3: #64748b;
+      --green2:  #059669; --red2: #dc2626;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--sans); background: var(--bg); color: var(--text); min-height: 100vh; font-size: 15px; line-height: 1.7; }
+
+    /* ── HEADER ── */
+    .admin-header { background: var(--bg2); border-bottom: 1px solid var(--border2); padding: 0 32px; height: 56px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; }
+    .admin-logo { font-family: var(--display); font-size: 18px; font-weight: 700; color: var(--amber); display: flex; align-items: center; gap: 10px; text-decoration: none; }
+    .admin-badge { background: rgba(245,158,11,0.15); border: 1px solid var(--border2); color: var(--amber); font-family: var(--mono); font-size: 10px; font-weight: 600; padding: 2px 10px; border-radius: 100px; letter-spacing: .08em; }
+    .header-actions { display: flex; gap: 10px; align-items: center; }
+    .btn { padding: 8px 16px; border-radius: 8px; font-size: 13px; font-family: var(--sans); cursor: pointer; border: 1px solid var(--border); transition: all 0.18s; }
+    .btn-amber { background: var(--amber); color: #000; border-color: var(--amber); font-weight: 700; }
+    .btn-amber:hover { background: var(--amber2); }
+    .btn-ghost { background: transparent; color: var(--text2); }
+    .btn-ghost:hover { border-color: var(--border2); color: var(--amber); }
+    .btn-back { background: transparent; color: var(--text2); font-family: var(--mono); font-size: 12px; text-decoration: none; border: 1px solid var(--border); padding: 6px 14px; border-radius: 8px; transition: all 0.18s; }
+    .btn-back:hover { border-color: var(--border2); color: var(--amber); }
+
+    /* ── LAYOUT ── */
+    .admin-wrap { max-width: 900px; margin: 0 auto; padding: 40px 24px 80px; }
+    .section { margin-bottom: 48px; }
+    .section-title { font-family: var(--display); font-size: 20px; font-weight: 700; color: var(--text); margin-bottom: 6px; display: flex; align-items: center; gap: 10px; }
+    .section-sub { font-size: 13px; color: var(--text3); margin-bottom: 24px; }
+
+    /* ── CARDS ── */
+    .card { background: var(--bg2); border: 1px solid var(--border); border-radius: 14px; padding: 28px; margin-bottom: 16px; }
+    .card-title { font-size: 15px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+    .card-sub { font-size: 12px; color: var(--text3); margin-bottom: 20px; }
+
+    /* ── FORM FIELDS ── */
+    .field { margin-bottom: 16px; }
+    .label { display: block; font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: .12em; text-transform: uppercase; color: var(--amber); margin-bottom: 7px; }
+    .input { width: 100%; background: var(--bg3); border: 1px solid var(--border); color: var(--text); padding: 11px 14px; border-radius: 9px; font-size: 14px; font-family: var(--sans); transition: border-color 0.18s; }
+    .input:focus { outline: none; border-color: var(--border2); background: var(--bg4); }
+    .input::placeholder { color: var(--text3); }
+    textarea.input { resize: vertical; min-height: 90px; font-family: var(--mono); font-size: 13px; }
+    .hint { font-size: 11px; color: var(--text3); margin-top: 6px; line-height: 1.6; }
+
+    /* ── STATUS ── */
+    .status { padding: 12px 14px; border-radius: 9px; font-size: 13px; line-height: 1.6; display: none; white-space: pre-line; font-family: var(--mono); margin-top: 14px; }
+    .status.loading { display: block; background: rgba(245,158,11,0.1); color: var(--amber); border: 1px solid rgba(245,158,11,0.2); }
+    .status.success { display: block; background: rgba(16,185,129,0.1); color: var(--green2); border: 1px solid rgba(16,185,129,0.2); }
+    .status.error   { display: block; background: rgba(239,68,68,0.1); color: var(--red2); border: 1px solid rgba(239,68,68,0.2); }
+
+    /* ── DIVIDER ── */
+    .divider { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+
+    /* ── POSTS LIST ── */
+    .post-item { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px; padding: 16px 20px; margin-bottom: 10px; display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; transition: border-color 0.18s; }
+    .post-item:hover { border-color: var(--border2); }
+    .post-info { flex: 1; min-width: 0; }
+    .post-title { font-size: 14px; font-weight: 500; color: var(--text); margin-bottom: 4px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .post-meta  { font-size: 11px; color: var(--text3); font-family: var(--mono); }
+    .post-actions { display: flex; gap: 8px; flex-shrink: 0; }
+    .btn-edit   { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 5px 12px; border-radius: 6px; font-size: 12px; cursor: pointer; transition: all 0.18s; }
+    .btn-edit:hover { border-color: var(--border2); color: var(--amber); }
+    .btn-del    { background: transparent; border: 1px solid var(--border); color: var(--text3); padding: 5px 10px; border-radius: 6px; font-size: 12px; cursor: pointer; transition: all 0.18s; }
+    .btn-del:hover { border-color: rgba(239,68,68,0.4); color: var(--red2); }
+    .queue-badge { display: inline-block; background: rgba(245,158,11,0.15); color: var(--amber); font-size: 10px; font-family: var(--mono); padding: 1px 8px; border-radius: 100px; margin-left: 8px; }
+    .deleted-badge { display: inline-block; background: rgba(239,68,68,0.1); color: var(--red2); font-size: 10px; font-family: var(--mono); padding: 1px 8px; border-radius: 100px; margin-left: 8px; }
+    #posts-loading { color: var(--text3); font-size: 13px; font-family: var(--mono); padding: 20px 0; }
+
+    /* ── BATCH BAR ── */
+    .batch-bar { display: none; background: rgba(245,158,11,0.08); border: 1px solid var(--border2); border-radius: 10px; padding: 12px 20px; margin-bottom: 24px; display: flex; align-items: center; gap: 12px; font-size: 13px; color: var(--amber); font-family: var(--mono); }
+    .batch-bar.hidden { display: none !important; }
+
+    /* ── MODAL ── */
+    .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.75); z-index: 999; padding: 24px; overflow-y: auto; backdrop-filter: blur(8px); }
+    .modal-overlay.open { display: block; }
+    .modal-wrap { display: flex; align-items: center; justify-content: center; min-height: 100%; }
+    .modal-box { background: var(--bg2); border: 1px solid var(--border2); border-radius: 16px; padding: 36px; width: 100%; max-width: 520px; margin: auto; }
+    .modal-box h3 { font-family: var(--display); font-size: 22px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+    .modal-box > p { font-size: 13px; color: var(--text3); margin-bottom: 24px; line-height: 1.6; }
+    .modal-actions { display: flex; gap: 10px; margin-top: 20px; }
+    .btn-run { flex: 1; background: var(--amber); color: #000; border: none; padding: 13px; border-radius: 9px; font-size: 14px; font-weight: 700; cursor: pointer; font-family: var(--sans); transition: background 0.18s; }
+    .btn-run:hover:not(:disabled) { background: var(--amber2); }
+    .btn-run:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn-cancel { background: transparent; border: 1px solid var(--border); color: var(--text3); padding: 13px 18px; border-radius: 9px; font-size: 14px; cursor: pointer; font-family: var(--sans); transition: all 0.18s; }
+    .btn-cancel:hover { border-color: var(--border2); color: var(--text); }
+
+    /* ── TOAST ── */
+    .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(80px); background: var(--bg4); color: var(--text); padding: 12px 20px; border-radius: 10px; font-size: 13px; z-index: 9999; transition: transform 0.3s ease; pointer-events: none; white-space: nowrap; border: 1px solid var(--border2); font-family: var(--mono); }
+    .toast.show { transform: translateX(-50%) translateY(0); }
+
+    /* ── THEME BTN ── */
+    .btn-theme { background: transparent; border: 1px solid var(--border); color: var(--text2); width: 34px; height: 34px; border-radius: 8px; font-size: 15px; cursor: pointer; transition: all 0.18s; display:flex; align-items:center; justify-content:center; }
+    .btn-theme:hover { border-color: var(--border2); color: var(--amber); }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="admin-header">
+  <div style="display:flex;align-items:center;gap:14px">
+    <a href="/" class="btn-back">← Trang chủ</a>
+    <a href="/admin.html" class="admin-logo">⚡ Xeonbit24</a>
+    <span class="admin-badge">ADMIN</span>
+  </div>
+  <div class="header-actions">
+    <button class="btn-theme" id="btn-theme" onclick="toggleTheme()" title="Đổi theme">🌙</button>
+    <button class="btn btn-ghost" onclick="loadPosts()">↺ Tải lại</button>
+    <button class="btn btn-amber" onclick="openTrigger()">⚡ Tạo bài mới</button>
+  </div>
+</header>
+
+<!-- MAIN -->
+<div class="admin-wrap">
+
+  <!-- TRIGGER WORKFLOW -->
+  <div class="section">
+    <div class="section-title">⚡ Tạo bài tự động</div>
+    <div class="section-sub">Kích hoạt GitHub Actions để tổng hợp tin tức crypto mới và tạo bài phân tích ngay.</div>
+    <div class="card">
+      <div class="field">
+        <label class="label" for="gh-owner">GitHub Username</label>
+        <input class="input" id="gh-owner" type="text" placeholder="vd: yourusername" autocomplete="off"/>
+      </div>
+      <div class="field">
+        <label class="label" for="gh-repo">Tên Repository</label>
+        <input class="input" id="gh-repo" type="text" placeholder="e.g. xeonbit24" autocomplete="off"/>
+      </div>
+      <div class="field">
+        <label class="label" for="gh-token">GitHub Personal Access Token</label>
+        <input class="input" id="gh-token" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"/>
+        <p class="hint">GitHub → Settings → Developer settings → Personal access tokens → Fine-grained<br>Quyền cần thiết: <strong style="color:var(--amber)">Actions: Read and write</strong></p>
+      </div>
+      <div style="display:flex;gap:10px;margin-top:4px">
+        <button class="btn btn-amber" id="trigger-btn" onclick="triggerWorkflow()">🚀 Chạy ngay</button>
+      </div>
+      <div class="status" id="trigger-status"></div>
+      <div style="font-size:11px;color:var(--text3);margin-top:8px;font-family:var(--mono)" id="trigger-progress"></div>
+    </div>
+  </div>
+
+  <hr class="divider"/>
+
+  <!-- MANAGE POSTS -->
+  <div class="section">
+    <div class="section-title">✏️ Quản lý bài viết</div>
+    <div class="section-sub">Chỉnh sửa hoặc xoá bài. Thay đổi được lưu vào queue — publish tất cả 1 lần bằng nút bên dưới.</div>
+
+    <!-- Batch bar -->
+    <div class="batch-bar hidden" id="batch-bar">
+      <span id="batch-label">0 thay đổi chưa publish</span>
+      <button class="btn btn-amber" style="padding:6px 14px;font-size:13px" id="btn-publish" onclick="openBatchModal()">🚀 Publish</button>
+      <button class="btn btn-ghost" style="padding:6px 12px;font-size:12px" onclick="clearQueue()">✕ Huỷ tất cả</button>
+    </div>
+
+    <div id="posts-loading">⏳ Đang tải danh sách bài viết...</div>
+    <div id="posts-list"></div>
+  </div>
+
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<!-- EDIT MODAL -->
+<div class="modal-overlay" id="edit-modal" onclick="closeModalOutside(event,'edit-modal')">
+  <div class="modal-wrap">
+    <div class="modal-box">
+      <h3>✏️ Chỉnh sửa bài viết</h3>
+      <p>Thay đổi sẽ được lưu vào queue — publish tất cả 1 lần bằng nút <strong style="color:var(--amber)">🚀 Publish</strong>.</p>
+      <input type="hidden" id="edit-id"/>
+      <div class="field">
+        <label class="label" for="edit-title">Tiêu đề</label>
+        <input class="input" id="edit-title" type="text"/>
+      </div>
+      <div class="field">
+        <label class="label" for="edit-summary">Tóm tắt</label>
+        <textarea class="input" id="edit-summary" rows="3"></textarea>
+      </div>
+      <div class="field">
+        <label class="label" for="edit-tags">Tags <span style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--text3)">(phân cách bằng dấu phẩy)</span></label>
+        <input class="input" id="edit-tags" type="text" placeholder="bitcoin, ethereum, defi"/>
+      </div>
+      <div class="field">
+        <label class="label" for="edit-content">Nội dung (HTML)</label>
+        <textarea class="input" id="edit-content" rows="8"></textarea>
+        <p class="hint">Hỗ trợ: &lt;p&gt;, &lt;h2&gt;, &lt;ul&gt;, &lt;li&gt;, &lt;strong&gt;</p>
+      </div>
+      <div class="field">
+        <label class="label" for="edit-source">URL Nguồn</label>
+        <input class="input" id="edit-source" type="text" placeholder="https://..."/>
+      </div>
+      <div class="status" id="edit-status"></div>
+      <div class="modal-actions">
+        <button class="btn-run" id="btn-edit-save" onclick="saveEdit()">✅ Lưu vào Queue</button>
+        <button class="btn-cancel" onclick="closeModal('edit-modal')">Hủy</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DELETE MODAL -->
+<div class="modal-overlay" id="delete-modal" onclick="closeModalOutside(event,'delete-modal')">
+  <div class="modal-wrap">
+    <div class="modal-box" style="max-width:400px;text-align:center">
+      <div style="font-size:40px;margin-bottom:16px">🗑️</div>
+      <h3>Xoá bài viết?</h3>
+      <p id="delete-text" style="margin-top:8px">Bài viết sẽ được đưa vào queue xoá và xoá thật khi bạn nhấn 🚀 Publish.</p>
+      <div class="modal-actions">
+        <button class="btn-run" style="background:var(--red);border-color:var(--red)" id="btn-del-confirm" onclick="confirmDelete()">Xoá (vào Queue)</button>
+        <button class="btn-cancel" onclick="closeModal('delete-modal')">Hủy</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- BATCH PUBLISH MODAL -->
+<div class="modal-overlay" id="batch-modal" onclick="closeModalOutside(event,'batch-modal')">
+  <div class="modal-wrap">
+    <div class="modal-box">
+      <h3>🚀 Publish thay đổi</h3>
+      <p id="batch-summary"></p>
+      <div id="batch-changes" style="background:var(--bg3);border:1px solid var(--border);border-radius:9px;padding:12px;margin-bottom:20px;max-height:180px;overflow-y:auto;font-size:12px;line-height:1.8;color:var(--text2);font-family:var(--mono)"></div>
+      <div class="field">
+        <label class="label" for="batch-owner">GitHub Username</label>
+        <input class="input" id="batch-owner" type="text" placeholder="vd: yourusername" autocomplete="off"/>
+      </div>
+      <div class="field">
+        <label class="label" for="batch-repo">Repository</label>
+        <input class="input" id="batch-repo" type="text" placeholder="e.g. xeonbit24" autocomplete="off"/>
+      </div>
+      <div class="field">
+        <label class="label" for="batch-token">GitHub Token <span style="font-weight:400;text-transform:none;letter-spacing:0;color:var(--text3)">(cần quyền Contents: Write)</span></label>
+        <input class="input" id="batch-token" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"/>
+      </div>
+      <div class="status" id="batch-status"></div>
+      <div class="modal-actions">
+        <button class="btn-run" id="btn-batch-run" onclick="runBatch()">🚀 Commit lên GitHub</button>
+        <button class="btn-cancel" onclick="closeModal('batch-modal')">Hủy</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── STATE ────────────────────────────────────────────────────────────────────
+var allPosts = [];
+var queue = { edits: {}, deletes: [] };
+var currentEditId = null;
+var pendingDeleteId = null;
+
+// ── THEME ────────────────────────────────────────────────────────────────────
+var theme = localStorage.getItem('ci_theme') || 'dark';
+applyTheme(theme);
+function applyTheme(t) {
+  theme = t;
+  document.body.setAttribute('data-theme', t === 'light' ? 'light' : '');
+  var btn = document.getElementById('btn-theme');
+  if (btn) btn.textContent = t === 'light' ? '☀️' : '🌙';
+  localStorage.setItem('ci_theme', t);
+}
+function toggleTheme() { applyTheme(theme === 'dark' ? 'light' : 'dark'); }
+
+// ── TOAST ────────────────────────────────────────────────────────────────────
+function showToast(msg) {
+  var t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  setTimeout(function(){ t.classList.remove('show'); }, 2800);
+}
+
+// ── UTILS ────────────────────────────────────────────────────────────────────
+function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function utf8ToBase64(str){
+  var bytes = new TextEncoder().encode(str);
+  var binary = '';
+  bytes.forEach(function(b){ binary += String.fromCharCode(b); });
+  return btoa(binary);
+}
+function setStatus(id, type, msg){
+  var el = document.getElementById(id);
+  el.className = 'status ' + type;
+  el.textContent = msg;
+}
+
+// ── LOAD POSTS ───────────────────────────────────────────────────────────────
+function loadPosts() {
+  document.getElementById('posts-loading').textContent = '⏳ Đang tải...';
+  document.getElementById('posts-list').innerHTML = '';
+  fetch('/posts.json?t=' + Date.now())
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      allPosts = (data.posts || data || []);
+      document.getElementById('posts-loading').textContent = '';
+      renderPostList();
+    })
+    .catch(function(){
+      document.getElementById('posts-loading').textContent = '❌ Không tải được posts.json';
+    });
+}
+
+function renderPostList() {
+  var list = document.getElementById('posts-list');
+  if (!allPosts.length) { list.innerHTML = '<div style="color:var(--text3);font-size:13px;padding:20px 0">Không có bài viết nào.</div>'; return; }
+  list.innerHTML = allPosts.map(function(p) {
+    var isEdited  = queue.edits[p.id];
+    var isDeleted = queue.deletes.indexOf(p.id) !== -1;
+    var badge = isDeleted ? '<span class="deleted-badge">🗑 sẽ xoá</span>'
+              : isEdited  ? '<span class="queue-badge">✏ đã sửa</span>' : '';
+    var date = p.publishedAt ? new Date(p.publishedAt).toLocaleDateString('vi-VN') : '';
+    return '<div class="post-item" style="'+(isDeleted?'opacity:0.4':'')+'">'+
+      '<div class="post-info">'+
+        '<div class="post-title">'+esc(p.title)+badge+'</div>'+
+        '<div class="post-meta">'+date+' · '+(p.tags||[]).slice(0,3).join(', ')+'</div>'+
+      '</div>'+
+      '<div class="post-actions">'+
+        (isDeleted ? '' : '<button class="btn-edit" onclick="openEdit(\''+esc(p.id)+'\')">✏️ Sửa</button>')+
+        '<button class="btn-del" onclick="openDelete(\''+esc(p.id)+'\')">'+(isDeleted?'↩ Khôi phục':'🗑')+' </button>'+
+      '</div>'+
+    '</div>';
+  }).join('');
+}
+
+// ── QUEUE ────────────────────────────────────────────────────────────────────
+function queueCount(){ return Object.keys(queue.edits).length + queue.deletes.length; }
+function updateBatchBar(){
+  var count = queueCount();
+  var bar = document.getElementById('batch-bar');
+  if (count > 0) {
+    bar.classList.remove('hidden');
+    document.getElementById('batch-label').textContent = count + ' thay đổi chưa publish';
+  } else {
+    bar.classList.add('hidden');
+  }
+}
+function clearQueue(){
+  if (!queueCount()) return;
+  if (!confirm('Huỷ ' + queueCount() + ' thay đổi chưa publish?')) return;
+  queue = { edits: {}, deletes: [] };
+  updateBatchBar();
+  renderPostList();
+  showToast('🔄 Đã huỷ toàn bộ thay đổi');
+}
+
+// ── EDIT ─────────────────────────────────────────────────────────────────────
+function openEdit(id) {
+  var post = allPosts.find(function(p){ return p.id === id; });
+  if (!post) return;
+  currentEditId = id;
+  var merged = Object.assign({}, post, queue.edits[id] || {});
+  document.getElementById('edit-id').value = id;
+  document.getElementById('edit-title').value = merged.title || '';
+  document.getElementById('edit-summary').value = merged.summary || '';
+  document.getElementById('edit-tags').value = (merged.tags || []).join(', ');
+  document.getElementById('edit-content').value = merged.content || '';
+  document.getElementById('edit-source').value = merged.sourceUrl || '';
+  document.getElementById('edit-status').className = 'status';
+  document.getElementById('edit-status').textContent = '';
+  document.getElementById('btn-edit-save').disabled = false;
+  document.getElementById('btn-edit-save').textContent = '✅ Lưu vào Queue';
+  openModal('edit-modal');
+  setTimeout(function(){ document.getElementById('edit-title').focus(); }, 100);
+}
+function saveEdit() {
+  var id = currentEditId; if (!id) return;
+  var title = document.getElementById('edit-title').value.trim();
+  if (!title) { showToast('⚠️ Vui lòng nhập tiêu đề!'); return; }
+  var tags = document.getElementById('edit-tags').value.trim();
+  queue.edits[id] = {
+    title: title,
+    summary: document.getElementById('edit-summary').value.trim(),
+    tags: tags ? tags.split(',').map(function(t){ return t.trim(); }).filter(Boolean) : [],
+    content: document.getElementById('edit-content').value.trim(),
+    sourceUrl: document.getElementById('edit-source').value.trim()
+  };
+  var idx = allPosts.findIndex(function(p){ return p.id === id; });
+  if (idx !== -1) allPosts[idx] = Object.assign({}, allPosts[idx], queue.edits[id]);
+  updateBatchBar(); renderPostList();
+  setStatus('edit-status', 'success', '✅ Đã thêm vào queue!');
+  setTimeout(function(){ closeModal('edit-modal'); showToast('📝 Đã queue chỉnh sửa'); }, 900);
+}
+
+// ── DELETE ───────────────────────────────────────────────────────────────────
+function openDelete(id) {
+  var post = allPosts.find(function(p){ return p.id === id; });
+  if (!post) return;
+  var inQueue = queue.deletes.indexOf(id) !== -1;
+  if (inQueue) {
+    // Khôi phục
+    queue.deletes = queue.deletes.filter(function(x){ return x !== id; });
+    updateBatchBar(); renderPostList();
+    showToast('↩ Đã khôi phục bài viết');
+    return;
+  }
+  pendingDeleteId = id;
+  var title = post.title ? '"' + post.title.substring(0, 55) + '"' : 'này';
+  document.getElementById('delete-text').textContent = 'Bài viết ' + title + ' sẽ đưa vào queue xoá.';
+  openModal('delete-modal');
+}
+function confirmDelete() {
+  var id = pendingDeleteId; if (!id) return;
+  delete queue.edits[id];
+  if (queue.deletes.indexOf(id) === -1) queue.deletes.push(id);
+  updateBatchBar(); renderPostList();
+  closeModal('delete-modal');
+  showToast('🗑️ Đã queue xoá — chưa lên GitHub');
+}
+
+// ── BATCH PUBLISH ────────────────────────────────────────────────────────────
+function openBatchModal() {
+  var count = queueCount();
+  document.getElementById('batch-summary').textContent = 'Sắp commit ' + count + ' thay đổi lên GitHub trong 1 lần duy nhất.';
+  var lines = [];
+  Object.keys(queue.edits).forEach(function(id){
+    var p = allPosts.find(function(x){ return x.id === id; });
+    lines.push('✏️ Sửa: ' + (p && p.title ? p.title.substring(0,50) : id));
+  });
+  queue.deletes.forEach(function(id){ lines.push('🗑️ Xoá ID: ' + id); });
+  document.getElementById('batch-changes').innerHTML = lines.map(function(l){ return '<div>'+esc(l)+'</div>'; }).join('') || '<div style="color:var(--text3)">Không có thay đổi.</div>';
+  document.getElementById('batch-owner').value = localStorage.getItem('ci_gh_owner') || '';
+  document.getElementById('batch-repo').value = localStorage.getItem('ci_gh_repo') || '';
+  document.getElementById('batch-token').value = '';
+  document.getElementById('batch-status').className = 'status';
+  document.getElementById('batch-status').textContent = '';
+  document.getElementById('btn-batch-run').disabled = false;
+  document.getElementById('btn-batch-run').textContent = '🚀 Commit lên GitHub';
+  openModal('batch-modal');
+}
+
+function runBatch() {
+  var owner = document.getElementById('batch-owner').value.trim();
+  var repo  = document.getElementById('batch-repo').value.trim();
+  var token = document.getElementById('batch-token').value.trim();
+  if (!owner||!repo||!token){ setStatus('batch-status','error','❌ Vui lòng điền đầy đủ thông tin.'); return; }
+  if (!queueCount()){ setStatus('batch-status','error','❌ Không có thay đổi nào.'); return; }
+  localStorage.setItem('ci_gh_owner', owner);
+  localStorage.setItem('ci_gh_repo', repo);
+  var btn = document.getElementById('btn-batch-run');
+  btn.disabled = true; btn.textContent = '⏳ Đang xử lý...';
+  setStatus('batch-status', 'loading', '🔄 Đang tải posts.json từ GitHub...');
+  var apiBase = 'https://api.github.com/repos/' + owner + '/' + repo;
+  var headers = { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' };
+  fetch(apiBase + '/contents/docs/posts.json', { headers: headers })
+    .then(function(r){ if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function(fileData) {
+      var sha = fileData.sha;
+      var decoded = new TextDecoder('utf-8').decode(Uint8Array.from(atob(fileData.content.replace(/\n/g,'')), function(c){ return c.charCodeAt(0); }));
+      var jsonObj = JSON.parse(decoded);
+      setStatus('batch-status', 'loading', '🔄 Đang áp dụng ' + queueCount() + ' thay đổi...');
+      jsonObj.posts = (jsonObj.posts || []).map(function(p){
+        return queue.edits[p.id] ? Object.assign({}, p, queue.edits[p.id]) : p;
+      }).filter(function(p){ return queue.deletes.indexOf(p.id) === -1; });
+      var msg = 'chore: batch update — ' + Object.keys(queue.edits).length + ' sửa, ' + queue.deletes.length + ' xoá';
+      setStatus('batch-status', 'loading', '🔄 Đang commit lên GitHub...');
+      return fetch(apiBase + '/contents/docs/posts.json', {
+        method: 'PUT',
+        headers: Object.assign({ 'Content-Type': 'application/json' }, headers),
+        body: JSON.stringify({ message: msg, content: utf8ToBase64(JSON.stringify(jsonObj, null, 2)), sha: sha, branch: 'main' })
+      });
+    })
+    .then(function(r){ if (!r.ok) return r.json().then(function(e){ throw new Error(e.message||'HTTP '+r.status); }); return r.json(); })
+    .then(function(){
+      var count = queueCount();
+      queue = { edits: {}, deletes: [] };
+      updateBatchBar();
+      setStatus('batch-status', 'success', '✅ Đã commit thành công ' + count + ' thay đổi!');
+      btn.textContent = '✓ Đã xong';
+      setTimeout(function(){ closeModal('batch-modal'); showToast('✅ Đã publish ' + count + ' thay đổi!'); loadPosts(); }, 2000);
+    })
+    .catch(function(err){
+      var msg = err.message || String(err);
+      if (msg.indexOf('401')!==-1||msg.indexOf('Bad credentials')!==-1) setStatus('batch-status','error','❌ Token không hợp lệ.');
+      else if (msg.indexOf('403')!==-1) setStatus('batch-status','error','❌ Token thiếu quyền Contents: Write.');
+      else if (msg.indexOf('404')!==-1) setStatus('batch-status','error','❌ Không tìm thấy repo hoặc file.');
+      else setStatus('batch-status','error','❌ Lỗi: ' + msg);
+      btn.disabled = false; btn.textContent = '🚀 Commit lên GitHub';
+    });
+}
+
+// ── TRIGGER WORKFLOW ─────────────────────────────────────────────────────────
+function triggerWorkflow() {
+  var owner = document.getElementById('gh-owner').value.trim();
+  var repo  = document.getElementById('gh-repo').value.trim();
+  var token = document.getElementById('gh-token').value.trim();
+  if (!owner||!repo||!token){ setStatus('trigger-status','error','❌ Vui lòng điền đầy đủ thông tin.'); return; }
+  localStorage.setItem('ci_gh_owner', owner);
+  localStorage.setItem('ci_gh_repo', repo);
+  var btn = document.getElementById('trigger-btn');
+  btn.disabled = true; btn.textContent = '⏳ Đang gửi...';
+  setStatus('trigger-status', 'loading', '🔄 Đang gọi GitHub Actions API...');
+  fetch('https://api.github.com/repos/'+owner+'/'+repo+'/actions/workflows/generate.yml/dispatches', {
+    method: 'POST',
+    headers: { 'Authorization': 'Bearer '+token, 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json', 'X-GitHub-Api-Version': '2022-11-28' },
+    body: JSON.stringify({ ref: 'main' })
+  }).then(function(res){
+    if (res.status === 204) {
+      setStatus('trigger-status', 'success', '✅ Đã kích hoạt!\n\nGitHub Actions đang chạy (~2 phút).\nSau khi xong nhấn "↺ Tải lại" để thấy bài mới.');
+      document.getElementById('trigger-progress').textContent = '👉 Theo dõi: github.com/'+owner+'/'+repo+'/actions';
+      btn.textContent = '✓ Đã gửi';
+    } else {
+      return res.json().catch(function(){ return {}; }).then(function(err){
+        var msg = (err&&err.message) ? err.message : 'HTTP ' + res.status;
+        if (res.status===401) setStatus('trigger-status','error','❌ Token không hợp lệ hoặc hết hạn.');
+        else if (res.status===404) setStatus('trigger-status','error','❌ Không tìm thấy repo hoặc file generate.yml.');
+        else if (res.status===403) setStatus('trigger-status','error','❌ Token thiếu quyền Actions: Read and write.');
+        else setStatus('trigger-status','error','❌ Lỗi: ' + msg);
+        btn.textContent = '🚀 Chạy ngay'; btn.disabled = false;
+      });
+    }
+  }).catch(function(e){
+    setStatus('trigger-status', 'error', '❌ Lỗi kết nối: ' + e.message);
+    btn.textContent = '🚀 Chạy ngay'; btn.disabled = false;
+  });
+}
+
+// ── MODAL ────────────────────────────────────────────────────────────────────
+function openModal(id) { document.getElementById(id).classList.add('open'); document.body.style.overflow = 'hidden'; }
+function closeModal(id) { document.getElementById(id).classList.remove('open'); document.body.style.overflow = ''; }
+function closeModalOutside(e, id) { if (e.target === document.getElementById(id)) closeModal(id); }
+document.addEventListener('keydown', function(e){ if (e.key === 'Escape') { closeModal('edit-modal'); closeModal('delete-modal'); closeModal('batch-modal'); } });
+
+// ── INIT ─────────────────────────────────────────────────────────────────────
+(function(){
+  var savedOwner = localStorage.getItem('ci_gh_owner');
+  var savedRepo  = localStorage.getItem('ci_gh_repo');
+  if (savedOwner) { document.getElementById('gh-owner').value = savedOwner; document.getElementById('batch-owner').value = savedOwner; }
+  if (savedRepo)  { document.getElementById('gh-repo').value = savedRepo;   document.getElementById('batch-repo').value = savedRepo; }
+  loadPosts();
+})();
+</script>
+</body>
+</html>
