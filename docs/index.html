@@ -187,6 +187,7 @@
     .card-thumb::after { content:''; position:absolute; inset:0; background: linear-gradient(to top, rgba(6,8,15,0.75) 0%, transparent 55%); pointer-events:none; }
     .card-thumb-tags { position: absolute; bottom: 10px; left: 12px; display: flex; flex-wrap: wrap; gap: 5px; z-index: 2; }
     .card-tag { font-size: 10px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #000; background: var(--amber); padding: 3px 8px; border-radius: 4px; font-family: var(--mono); }
+    .wg-badge { font-size: 9px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: #fff; background: #7c3aed; padding: 3px 7px; border-radius: 4px; font-family: var(--mono); white-space: nowrap; }
     .card-tag.secondary { background: var(--bg4); color: var(--text2); border: 1px solid var(--border); }
  
     /* Card actions */
@@ -911,8 +912,11 @@ var FALLBACK_IMAGES = {
  
 function getImageForPost(post) {
   if (post.image) {
-    if (typeof post.image === 'object' && post.image.url) return post.image.url;
-    if (typeof post.image === 'string') return post.image;
+    var url = null;
+    if (typeof post.image === 'object' && post.image.url) url = post.image.url;
+    if (typeof post.image === 'string') url = post.image;
+    // Bỏ qua ảnh Cointelegraph — thường bị block hotlink
+    if (url && !url.includes('cointelegraph.com')) return url;
   }
   var tags = (post.tags || []).map(function(t){return t.toLowerCase();});
   for (var key in FALLBACK_IMAGES) {
@@ -935,25 +939,15 @@ var visiblePosts   = [];      // the currently-filtered list (all tags or one ta
  
 // ── INIT ───────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
-  // Render fallback ngay lập tức rồi fetch live
+  // Critical path: render UI scaffolding + load posts immediately
   renderPriceCards();
   renderTicker();
   renderHeroStats();
- 
-  // Fetch giá thực từ Binance (không giới hạn, không cần API key)
-  fetchLivePrices();
-  // Fetch global market cap + BTC dominance từ CoinGecko (5 phút/lần)
-  fetchGlobalData();
- 
-  // Binance: refresh mỗi 30 giây | CoinGecko global: 5 phút
-  priceRefreshInterval = setInterval(fetchLivePrices, 30000);
-  setInterval(fetchGlobalData, 300000);
- 
+
+  // Load posts (uses localStorage cache for instant render, then fetches fresh)
   loadPosts().then(function() {
-  var hash = decodeURIComponent(window.location.hash.replace('#', ''));
-  if (!hash) return;
- 
-  console.log('[DeepLink] hash =', hash);
+    var hash = decodeURIComponent(window.location.hash.replace('#', ''));
+    if (!hash) return;
   if (allPosts.length > 0) {
     console.log('[DeepLink] Sample post[0]:', JSON.stringify({ id: allPosts[0].id, slug: allPosts[0].slug, title: allPosts[0].title }));
   }
@@ -989,22 +983,104 @@ document.addEventListener('DOMContentLoaded', function() {
     if (repoEl)  repoEl.value  = parts[1] || '';
   }
 });
+
+  // Defer non-critical fetches until browser is idle (improves LCP / TTI)
+  var _idle = window.requestIdleCallback || function(fn){ setTimeout(fn, 200); };
+  _idle(function() {
+    // Fetch live prices from Binance
+    fetchLivePrices();
+    // Fetch global market cap + BTC dominance from CoinGecko (5 min interval)
+    fetchGlobalData();
+    // Refresh intervals
+    priceRefreshInterval = setInterval(fetchLivePrices, 30000);
+    setInterval(fetchGlobalData, 300000);
+  });
 });
  
 // ── LOAD POSTS ─────────────────────────────────────────────────────────────
+// ── PERFORMANCE HELPERS ────────────────────────────────────────────────────
+
+// Debounce — prevents rapid repeated calls (e.g. resize, search)
+function debounce(fn, ms) {
+  var timer;
+  return function() {
+    var args = arguments, ctx = this;
+    clearTimeout(timer);
+    timer = setTimeout(function(){ fn.apply(ctx, args); }, ms);
+  };
+}
+
+// IntersectionObserver for auto load-more (replaces scroll listener)
+var _loadMoreObserver = null;
+function _setupLoadMoreObserver() {
+  _disconnectLoadMoreObserver();
+  var sentinel = document.getElementById('load-more-wrap');
+  if (!sentinel || visiblePosts.length <= currentPage * POSTS_PER_PAGE) return;
+  if (!('IntersectionObserver' in window)) return; // fallback: manual button
+  _loadMoreObserver = new IntersectionObserver(function(entries) {
+    if (entries[0].isIntersecting) loadMorePosts();
+  }, { rootMargin: '200px' });
+  _loadMoreObserver.observe(sentinel);
+}
+function _disconnectLoadMoreObserver() {
+  if (_loadMoreObserver) { _loadMoreObserver.disconnect(); _loadMoreObserver = null; }
+}
+
+// ── POSTS LOADING ──────────────────────────────────────────────────────────
+var _POSTS_CACHE_KEY = 'xb24_posts_v1';
+var _POSTS_CACHE_TS  = 'xb24_posts_ts_v1';
+var _POSTS_CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+
+function _sortPosts(posts) {
+  // WatcherGuru first, then by date desc
+  return posts.slice().sort(function(a, b) {
+    var aWG = (a.sourceTitle || '').toLowerCase().includes('watcher') ? 0 : 1;
+    var bWG = (b.sourceTitle || '').toLowerCase().includes('watcher') ? 0 : 1;
+    if (aWG !== bWG) return aWG - bWG;
+    return new Date(b.publishedAt) - new Date(a.publishedAt);
+  });
+}
+
 function loadPosts() {
-  return fetch('./posts.json?t=' + Date.now()) //thêm return
-    .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
-    .then(function(data){
+  // 1. Try localStorage cache for instant render
+  try {
+    var cached = localStorage.getItem(_POSTS_CACHE_KEY);
+    var ts     = parseInt(localStorage.getItem(_POSTS_CACHE_TS) || '0', 10);
+    var now    = Date.now();
+    if (cached && (now - ts) < _POSTS_CACHE_TTL) {
+      var cachedPosts = JSON.parse(cached);
+      if (cachedPosts && cachedPosts.length) {
+        allPosts = _sortPosts(applyOverrides(cachedPosts));
+        renderPosts(allPosts);
+        renderTagFilters();
+      }
+    }
+  } catch(e) { /* ignore */ }
+
+  // 2. Always fetch fresh (cache-busted)
+  return fetch('./posts.json?t=' + Date.now(), { cache: 'no-store' })
+    .then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function(data) {
       var raw = data.posts || [];
-      allPosts = applyOverrides(raw);
+      // Save to cache
+      try {
+        localStorage.setItem(_POSTS_CACHE_KEY, JSON.stringify(raw));
+        localStorage.setItem(_POSTS_CACHE_TS,  Date.now().toString());
+      } catch(e) { /* storage full — ignore */ }
+      allPosts = _sortPosts(applyOverrides(raw));
       renderPosts(allPosts);
       renderTagFilters();
     })
-    .catch(function(e){
+    .catch(function(e) {
       console.error('Lỗi tải posts:', e);
+      // If we already rendered from cache, stay silent
+      if (allPosts.length > 0) return;
+      // Otherwise show error
       document.getElementById('posts-grid').innerHTML =
-        '<div class="empty-state"><div class="empty-icon">⚠️</div><h3>'+t('load_error_title')+'</h3><p>'+t('load_error_desc')+'</p></div>';
+        '<div class="empty-state"><div class="empty-icon">⚠️</div><h3>' + t('load_error_title') + '</h3><p>' + t('load_error_desc') + '</p><button class="btn-amber" style="margin-top:16px" onclick="loadPosts()">↺ Thử lại</button></div>';
     });
 }
  
@@ -1018,7 +1094,7 @@ function renderPosts(posts) {
   currentPage  = 1;
   var grid     = document.getElementById('posts-grid');
   var countEl  = document.getElementById('post-count');
- 
+
   if (!posts.length) {
     grid.innerHTML =
       '<div class="empty-state"><div class="empty-icon">₿</div>' +
@@ -1026,13 +1102,21 @@ function renderPosts(posts) {
       '<p>'+t('empty_desc')+'</p></div>';
     countEl.textContent = '';
     document.getElementById('load-more-wrap').style.display = 'none';
+    _disconnectLoadMoreObserver();
     return;
   }
- 
+
   var page = posts.slice(0, POSTS_PER_PAGE);
   countEl.textContent = posts.length + ' ' + t('post_count_unit');
-  grid.innerHTML = page.map(cardHTML).join('');
+  // Use DocumentFragment for single reflow
+  var frag = document.createDocumentFragment();
+  var tmp  = document.createElement('div');
+  tmp.innerHTML = page.map(cardHTML).join('');
+  while (tmp.firstChild) frag.appendChild(tmp.firstChild);
+  grid.innerHTML = '';
+  grid.appendChild(frag);
   _updateLoadMoreBtn();
+  _setupLoadMoreObserver();
 }
  
 /** Appends the next page of cards without touching existing ones. */
@@ -1040,11 +1124,15 @@ function loadMorePosts() {
   currentPage++;
   var start = (currentPage - 1) * POSTS_PER_PAGE;
   var page  = visiblePosts.slice(start, start + POSTS_PER_PAGE);
+  if (!page.length) return;
   var grid  = document.getElementById('posts-grid');
-  var frag  = document.createElement('div');
-  frag.innerHTML = page.map(cardHTML).join('');
-  while (frag.firstChild) grid.appendChild(frag.firstChild);
+  var frag  = document.createDocumentFragment();
+  var tmp   = document.createElement('div');
+  tmp.innerHTML = page.map(cardHTML).join('');
+  while (tmp.firstChild) frag.appendChild(tmp.firstChild);
+  grid.appendChild(frag);
   _updateLoadMoreBtn();
+  _setupLoadMoreObserver(); // re-observe if more pages remain
 }
  
 function _updateLoadMoreBtn() {
@@ -1069,11 +1157,14 @@ function cardHTML(post) {
   var imgSrc = getImageForPost(post);
   var imgAlt = getAltForPost(post);
  
+  var isWG = (post.sourceTitle || '').toLowerCase().includes('watcher');
+  var wgBadge = isWG ? '<span class="wg-badge">⚡ WatcherGuru</span>' : '';
+
   return '<article class="post-card" role="listitem" onclick="openPost(\''+escAttr(post.id)+'\')" aria-label="'+escAttr(post.title)+'">' +
     '<div class="card-thumb">' +
-    '<img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" loading="lazy" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'">' +
+    '<img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" loading="lazy" decoding="async" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'">' +
     '<div class="card-thumb-fallback" style="display:none"><span class="fallback-icon">₿</span></div>' +
-    '<div class="card-thumb-tags">'+tags+'</div>' +
+    '<div class="card-thumb-tags">'+tags+wgBadge+'</div>' +
     '<div class="card-actions">' +
     '<button class="card-action-btn btn-edit-card" title="Chỉnh sửa" onclick="event.stopPropagation();openEdit(\''+escAttr(post.id)+'\')">✏️</button>' +
     '<button class="card-action-btn btn-delete-card" title="Xoá" onclick="event.stopPropagation();openDelete(\''+escAttr(post.id)+'\')">🗑️</button>' +
