@@ -1,25 +1,29 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
- 
+
   <!-- ═══ SEO: Primary Meta Tags ═══ -->
+
   <title>Xeonbit24 – Crypto & Blockchain News, Analysis by AI Daily</title>
   <meta name="title" content="Xeonbit24 – Crypto & Blockchain News, Analysis by AI Daily"/>
   <meta name="description" content="Xeonbit24 aggregates crypto & blockchain news from trusted global sources — AI-powered analysis and insights delivered daily."/>
   <meta name="keywords" content="xeonbit, xeonbit24, bitcoin, ethereum, crypto, blockchain, defi, altcoin, btc, eth, crypto blockchain news discussion, xeonbit project, xeonbit official"/>
   <meta name="robots" content="index, follow"/>
   <meta name="language" content="English"/>
- 
+
   <!-- ═══ SEO: Open Graph ═══ -->
+
   <meta property="og:type" content="website"/>
   <meta property="og:title" content="Xeonbit24 – Crypto & Blockchain News, Analysis by AI Daily"/>
   <meta property="og:description" content="Bitcoin, Ethereum, Altcoin & blockchain news aggregated from trusted sources — AI-analyzed and published daily by Xeonbit24."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Xeonbit24"/>
- 
+
   <!-- ═══ Schema.org ═══ -->
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -31,11 +35,12 @@
     "sameAs": ["https://t.me/xeonbitchannel"]
   }
   </script>
- 
+
   <!-- Fonts -->
+
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Barlow:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet"/>
- 
+
   <style>
     :root {
       --bg:       #06080f;
@@ -341,10 +346,12 @@
       .price-inner { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
+
 </head>
 <body>
- 
+
 <!-- TICKER -->
+
 <div class="ticker-wrap" id="ticker-wrap">
   <div class="ticker-label">🔴 LIVE</div>
   <div class="ticker-scroll">
@@ -354,8 +361,9 @@
   </div>
   <div class="ticker-fade"></div>
 </div>
- 
+
 <!-- HEADER -->
+
 <header>
   <div class="header-inner">
     <a class="logo" href="/" aria-label="Xeonbit24 - Home">
@@ -375,15 +383,16 @@
       <a class="btn-icon" href="https://t.me/xeonbitchannel" target="_blank" rel="noopener noreferrer" title="Telegram Xeonbit24" aria-label="Join Xeonbit on Telegram" style="text-decoration:none;">
         <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.244-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
       </a>
-      <button class="btn-lang" id="btn-lang" onclick="toggleLang()" title="Switch language">EN</button>
+      <button class="btn-lang" id="btn-lang" onclick="toggleLang()" title="Switch language">VI</button>
       <button class="btn-icon" id="btn-theme" onclick="toggleTheme()" title="Toggle theme">🌙</button>
      <!-- <button class="btn-ghost" onclick="openAdmin()" aria-label="Đăng bài mới" id="nav-post-btn">⚡ <span data-i18n="nav_post">Đăng bài mới</span></button>-->
       <button class="btn-amber" onclick="loadPosts()" aria-label="Reload" id="nav-reload-btn">↺ <span data-i18n="nav_reload">Reload</span></button>
     </nav>
   </div>
 </header>
- 
+
 <!-- HERO -->
+
 <section class="hero" aria-label="Introduction">
   <div class="hero-grid"></div>
   <div class="hero-glow"></div>
@@ -423,8 +432,9 @@
     </div>
   </div>
 </section>
- 
+
 <!-- YOUTUBE PLAYLIST -->
+
 <section class="yt-section" aria-label="Featured Videos" style="background:var(--bg);border-bottom:1px solid var(--border);padding:32px 24px 36px;">
   <div style="max-width:900px;margin:0 auto;">
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;justify-content:center;">
@@ -454,6 +464,7 @@
 </section>
 
 <!-- PRICE CARDS -->
+
 <section class="price-section" aria-label="Live Crypto Prices">
   <div class="price-status-bar">
     <div class="price-status-dot" id="price-status-dot"></div>
@@ -464,8 +475,9 @@
     <!-- populated by CoinGecko API -->
   </div>
 </section>
- 
+
 <!-- MAIN CONTENT -->
+
 <main class="container" id="main-content">
   <div class="toolbar" role="toolbar" aria-label="Filter posts">
     <div class="toolbar-left" id="tag-filters">
@@ -476,7 +488,7 @@
       <button class="btn-ghost" id="btn-admin-mode" onclick="toggleAdminMode()" style="display:none">✏️ Quản trị</button>
     </div>
   </div>
- 
+
   <div id="posts-grid" role="list" aria-label="Danh sách bài viết">
     <div class="loading-state" aria-live="polite">⏳ đang tải bài viết...</div>
   </div>
@@ -484,15 +496,17 @@
     <button id="btn-load-more" onclick="loadMorePosts()">Xem thêm bài viết ↓</button>
   </div>
 </main>
- 
+
 <!-- POST MODAL -->
+
 <div class="modal-overlay" id="post-modal" onclick="closePostModal(event)" role="dialog" aria-modal="true">
   <div class="modal-wrap">
     <div class="modal" id="modal-content"></div>
   </div>
 </div>
- 
+
 <!-- ADMIN PANEL -->
+
 <!--<div class="admin-overlay" id="admin-overlay" onclick="closeAdminOutside(event)" role="dialog" aria-modal="true">
   <div class="admin-wrap">
     <div class="admin-box" id="admin-box">
@@ -520,19 +534,22 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- SHARE TOAST -->
+
 <div class="toast" id="share-toast" role="status" aria-live="polite">✅ Đã sao chép liên kết!</div>
- 
+
 <!-- ADMIN MODE BAR -->
+
 <!--<div class="admin-mode-bar" id="admin-mode-bar">
   <span>✏️ Chế độ quản trị</span>
   <span id="batch-badge" style="display:none">0 thay đổi</span>
   <button class="btn-exit-admin" id="btn-batch-publish" onclick="openBatchPublish()" style="display:none">🚀 Publish thay đổi</button>
   <button class="btn-exit-admin" onclick="exitAdminMode()">Thoát</button>
 </div>-->
- 
+
 <!-- BATCH PUBLISH MODAL -->
+
 <!--<div class="admin-overlay" id="batch-overlay" onclick="closeBatchOutside(event)" role="dialog" aria-modal="true">
   <div class="admin-wrap">
     <div class="admin-box" id="batch-box" style="max-width:500px">
@@ -562,8 +579,9 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- EDIT POST MODAL -->
+
 <!--<div class="edit-overlay" id="edit-overlay" onclick="closeEditOutside(event)" role="dialog" aria-modal="true">
   <div class="edit-wrap">
     <div class="edit-box">
@@ -599,8 +617,9 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- DELETE CONFIRM MODAL -->
+
 <!--<div class="delete-overlay" id="delete-overlay" role="dialog" aria-modal="true">
   <div class="delete-box">
     <div class="delete-icon">🗑️</div>
@@ -614,8 +633,9 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- FOOTER -->
+
 <footer>
   <div class="footer-inner">
     <nav class="footer-links">
@@ -627,7 +647,7 @@
     <p class="footer-source" data-i18n="footer_disclaimer">⚠️ Content is for informational purposes only, not financial advice.</p>
   </div>
 </footer>
- 
+
 <script>
 // ── COINGECKO LIVE PRICE CONFIG ─────────────────────────────────────────────
 var COIN_LIST = [
@@ -1501,7 +1521,7 @@ function runBatchPublish(){
     });
 }
 </script>
- 
+
 <script>
 // ═══════════════════════════════════════════════════════
 // THEME & LANGUAGE SYSTEM
@@ -1509,32 +1529,32 @@ function runBatchPublish(){
  
 var TRANSLATIONS = {
   vi: {
-    badge:            'AI · Updated Daily',
-    hero_h1:          'Crypto & Blockchain News<br>by <em>Xeonbit24</em>',
-    hero_sub:         'Bitcoin, Ethereum, Altcoin and DeFi news — aggregated from top global sources, AI-analyzed and updated daily by Xeonbit24.',
-    total_mcap:       'Total Market Cap',
-    loading_price:    'Loading prices...',
-    refresh_btn:      '↺ Refresh',
-    refresh_title:    'Refresh prices now',
-    all_tags:         'All',
-    nav_post:         'New Post',
-    nav_reload:       'Reload',
-    footer_desc:      'Xeonbit24 · Crypto & Blockchain News · AI-Analyzed Daily',
-    footer_disclaimer:'⚠️ Content is for informational purposes only, not financial advice.',
-    post_count_unit:  'posts',
-    min_read:         'min',
-    min_read_label:   'min read',
-    share_btn:        '🔗 Share',
-    close_btn:        '✕ Close',
-    source_fallback:  'News Aggregation',
-    empty_title:      'No posts yet',
-    empty_desc:       'Click <strong>⚡ New Post</strong> to aggregate the latest crypto news,<br>or wait for GitHub Actions to run automatically.',
-    load_error_title: 'Failed to load posts',
-    load_error_desc:  'Please try again later.',
-    price_ok:         'Live · updated ',
-    price_error:      'Connection lost — data may be outdated',
-    loading_content:  'Loading...',
-    date_locale:      'en-US',
+    badge:            'AI · Cập nhật mỗi ngày',
+    hero_h1:          'Phân tích <em>crypto</em><br>từ AI chuyên sâu',
+    hero_sub:         'Tổng hợp tin tức Bitcoin, Ethereum, Altcoin và DeFi từ nhiều nguồn uy tín toàn cầu — AI phân tích, đánh giá và cập nhật hàng ngày bởi Xeonbit24.',
+    total_mcap:       'Tổng vốn hoá',
+    loading_price:    'Đang tải giá...',
+    refresh_btn:      '↺ Làm mới',
+    refresh_title:    'Cập nhật giá ngay',
+    all_tags:         'Tất cả',
+    nav_post:         'Đăng bài mới',
+    nav_reload:       'Tải lại',
+    footer_desc:      'Xeonbit24 · Tin tức Crypto & Blockchain · AI Phân tích Hàng ngày',
+    footer_disclaimer:'⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.',
+    post_count_unit:  'bài viết',
+    min_read:         'phút',
+    min_read_label:   'phút đọc',
+    share_btn:        '🔗 Chia sẻ',
+    close_btn:        '✕ Đóng',
+    source_fallback:  'Tổng hợp tin tức',
+    empty_title:      'Chưa có bài viết',
+    empty_desc:       'Nhấn <strong>⚡ Đăng bài mới</strong> để tổng hợp tin tức crypto mới nhất,<br>hoặc chờ GitHub Actions chạy tự động.',
+    load_error_title: 'Không thể tải bài viết',
+    load_error_desc:  'Vui lòng thử lại sau.',
+    price_ok:         'Trực tiếp · cập nhật lúc ',
+    price_error:      'Mất kết nối — dữ liệu có thể đã cũ',
+    loading_content:  'Đang tải...',
+    date_locale:      'vi-VN',
     card_date_opts:   {year:'numeric',month:'short',day:'numeric'},
     modal_date_opts:  {year:'numeric',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'},
   },
@@ -1570,7 +1590,10 @@ var TRANSLATIONS = {
   }
 };
  
-var currentLang  = localStorage.getItem('ci_lang')  || 'en';
+var _savedLang = localStorage.getItem('ci_lang');
+var _browserLang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+var _isBrowserVI = _browserLang === 'vi' || _browserLang.startsWith('vi-');
+var currentLang  = _savedLang || (_isBrowserVI ? 'vi' : 'en');
 var currentTheme = localStorage.getItem('ci_theme') || 'dark';
  
 function t(key) { return (TRANSLATIONS[currentLang] || TRANSLATIONS['vi'])[key] || key; }
@@ -1591,7 +1614,7 @@ function applyLang(lang) {
   currentLang = lang;
   document.documentElement.setAttribute('lang', lang === 'vi' ? 'vi' : 'en');
   var btn = document.getElementById('btn-lang');
-  if (btn) btn.textContent = lang === 'vi' ? 'EN' : 'VI';
+  if (btn) btn.textContent = lang === 'vi' ? 'EN' : 'VI'; // shows the language you can switch TO
   localStorage.setItem('ci_lang', lang);
   // Update all static data-i18n elements (non-innerHTML ones)
   document.querySelectorAll('[data-i18n]').forEach(function(el) {
@@ -1622,7 +1645,6 @@ document.addEventListener('DOMContentLoaded', function() {
   applyLang(currentLang);
 });
 </script>
- 
+
 </body>
 </html>
- 
