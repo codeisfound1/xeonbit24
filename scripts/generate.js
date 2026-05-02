@@ -721,9 +721,17 @@ async function main() {
     catch (e) { console.warn("  ⚠️  Skipping:", e.message); enriched.push(article); }
   }
 
-  // ─ Bước 4: Chọn ảnh đại diện (bài đầu tiên có ảnh) ─
-  const representativeArticle = enriched.find(a => a.imageUrl) || enriched[0];
-  console.log("\n🖼️   Cover image:", representativeArticle.imageUrl || "(none)");
+  // ─ Bước 4: Chọn ảnh đại diện ─
+  // Ưu tiên ảnh không phải Cointelegraph (bị block hotlink)
+  const representativeArticle =
+    enriched.find(a => a.imageUrl && !a.imageUrl.includes("cointelegraph.com")) ||
+    enriched.find(a => a.imageUrl) ||
+    enriched[0];
+  const coverImageUrl = representativeArticle.imageUrl &&
+    !representativeArticle.imageUrl.includes("cointelegraph.com")
+      ? representativeArticle.imageUrl
+      : null;
+  console.log("\n🖼️   Cover image:", coverImageUrl || "(none — Cointelegraph skipped or no image)");
 
   // ─ Bước 5: Groq tổng hợp ─
   const generated = await generateRoundupWithGroq(enriched);
@@ -733,10 +741,17 @@ async function main() {
   const tags = (generated.tags && generated.tags.length) ? generated.tags : ["bitcoin", "crypto news", "market", "blockchain"];
 
   let imageObj = null;
-  if (representativeArticle.imageUrl) {
-    const altText    = (generated.title || "Top tin crypto").slice(0, 120);
-    const cloudResult = await uploadToCloudinary(representativeArticle.imageUrl, slug, altText, tags);
-    imageObj = cloudResult || { url: representativeArticle.imageUrl, rawUrl: representativeArticle.imageUrl, alt: altText };
+  if (coverImageUrl) {
+    const altText     = (generated.title || "Top tin crypto").slice(0, 120);
+    const cloudResult = await uploadToCloudinary(coverImageUrl, slug, altText, tags);
+    // Nếu Cloudinary thành công → dùng Cloudinary URL
+    // Nếu thất bại → chỉ dùng URL gốc nếu KHÔNG phải Cointelegraph
+    if (cloudResult) {
+      imageObj = cloudResult;
+    } else {
+      console.warn("⚠️  Cloudinary failed — using original URL (non-Cointelegraph)");
+      imageObj = { url: coverImageUrl, rawUrl: coverImageUrl, alt: altText };
+    }
   }
 
   // Thêm danh sách nguồn vào cuối bài (không dùng link để tối ưu SEO)
