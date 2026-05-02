@@ -14,10 +14,11 @@ const crypto = require("crypto");
 
 // Public RSS feeds — no API key required, not blocked by robots
 const RSS_SOURCES = [
-  { name: "CoinDesk",       url: "https://www.coindesk.com/arc/outboundfeeds/rss/",  weight: 3 },
-  { name: "Cointelegraph",  url: "https://cointelegraph.com/rss",                    weight: 3 },
-  { name: "Decrypt",        url: "https://decrypt.co/feed",                           weight: 2 },
-  { name: "The Block",      url: "https://www.theblock.co/rss.xml",                  weight: 2 },
+  { name: "WatcherGuru",   url: "https://watcher.guru/news/feed",                       weight: 5 },
+  { name: "CoinDesk",      url: "https://www.coindesk.com/arc/outboundfeeds/rss/",       weight: 3 },
+  { name: "Cointelegraph", url: "https://cointelegraph.com/rss",                         weight: 2 },
+  { name: "Decrypt",       url: "https://decrypt.co/feed",                               weight: 2 },
+  { name: "The Block",     url: "https://www.theblock.co/rss.xml",                       weight: 2 },
 ];
 
 const TOP_N = 10;  // Số tin tổng hợp mỗi lần chạy
@@ -381,8 +382,20 @@ async function fetchTopNewsFromRss() {
     return true;
   });
 
-  // Sắp xếp mới nhất trước
-  unique.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  // Bỏ qua ảnh từ Cointelegraph (thường bị block hotlink)
+  unique.forEach(a => {
+    if (a.imageUrl && a.imageUrl.includes("cointelegraph.com")) {
+      a.imageUrl = null;
+    }
+  });
+
+  // Ưu tiên WatcherGuru lên đầu, sau đó mới nhất trước
+  unique.sort((a, b) => {
+    const aIsWG = (a.sourceName || "").toLowerCase().includes("watcher") ? 0 : 1;
+    const bIsWG = (b.sourceName || "").toLowerCase().includes("watcher") ? 0 : 1;
+    if (aIsWG !== bIsWG) return aIsWG - bIsWG;
+    return new Date(b.publishedAt) - new Date(a.publishedAt);
+  });
 
   const result = unique.slice(0, TOP_N);
   const sourceCount = RSS_SOURCES.length + (tgMessages.length > 0 ? 1 : 0);
@@ -412,7 +425,11 @@ async function enrichArticle(article) {
     }
 
     if (!article.imageUrl) {
-      article.imageUrl = extractImage(html, article.url);
+      const img = extractImage(html, article.url);
+      // Bỏ qua ảnh Cointelegraph (thường bị block hotlink)
+      if (img && !img.includes("cointelegraph.com")) {
+        article.imageUrl = img;
+      }
     }
 
     // Content snippet cho AI
