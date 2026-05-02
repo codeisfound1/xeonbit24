@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1777764667078",
+      "title": "Crypto Roundup May 2, 2026 at 06:31 AM (ICT): Regulatory Shifts and Market Analysis",
+      "summary": "The crypto market is witnessing significant regulatory developments, with BlackRock opposing the OCC's tokenized reserve cap idea and Brazil's central bank banning stablecoin and crypto settlement in cross-border payments. Meanwhile, Bitcoin's April price surge is attributed to speculative perpetual futures demand, and the crypto industry is backing the CLARITY Act yield compromise.",
+      "content": "<p>The crypto market is experiencing a wave of regulatory updates and market analysis. In this roundup, we will cover the top 10 latest crypto news articles, providing an in-depth analysis of each story and its impact on the market.</p><h2>1. BlackRock Opposes OCC's Tokenized Reserve Cap Idea</h2><p>BlackRock, the world's largest asset manager, has urged the OCC to drop the tokenized reserve cap idea and expand eligible assets in the GENIUS Act comment letter. This move is seen as a positive development for the crypto industry, as it would allow for more flexibility in tokenized reserve assets.</p><h2>2. Bitcoin's April Price Surge Attributed to Speculative Demand</h2><p>CryptoQuant has stated that Bitcoin's April price surge was driven by speculative perpetual futures demand, while spot demand remained weak. This raises concerns about the sustainability of the price increase and the potential for a correction.</p><h2>3. Iranian Crypto Exchange Nobitex Tied to Sanctioned State Entities</h2><p>Reuters has found that Nobitex, a leading Iranian crypto exchange, was founded by sons of an elite political family tied to supreme leaders. The exchange has been involved in hundreds of millions of dollars in transactions tied to sanctioned Iranian state entities since 2018.</p><h2>4. AI Image Generators: OpenAI GPT Image 2 vs Google Nano Banana 2</h2><p>Decrypt has compared the performance of OpenAI GPT Image 2 and Google Nano Banana 2, two state-of-the-art AI image generators. While both models have their strengths and weaknesses, the review highlights the potential of AI image generation in various applications.</p><h2>5. Oscars Ban AI Performances and Screenplays From Eligibility</h2><p>The Oscars have introduced new rules requiring human actors and writers for eligibility, effectively banning AI performances and screenplays. This move reflects the growing concern about the impact of AI on the entertainment industry.</p><h2>6. Brazil's Central Bank Bans Stablecoin and Crypto Settlement in Cross-Border Payments</h2><p>Brazil's central bank has banned stablecoin and crypto settlement in cross-border payments, closing the back-end payment rail for cross-border flows. However, individual crypto investors can still buy and hold assets.</p><h2>7. Crypto Industry Backs CLARITY Act Yield Compromise</h2><p>The crypto industry is backing the CLARITY Act yield compromise, which necessitates firms to restructure reward programs from a \n<h2>Sources</h2>\n<ol>\n<li>[1] BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter — <em>The Block</em></li>\n<li>[2] CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk — <em>The Block</em></li>\n<li>[3] Leading Iranian crypto exchange Nobitex was founded by sons of elite political family tied to supreme leaders: Reuters — <em>The Block</em></li>\n<li>[4] OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best? — <em>Decrypt</em></li>\n<li>[5] Oscars Ban AI Performances and Screenplays From Eligibility — <em>Decrypt</em></li>\n<li>[6] Brazil's central bank bans stablecoin and crypto settlement in cross-border payments — <em>CoinDesk</em></li>\n<li>[7] Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup — <em>CoinDesk</em></li>\n<li>[8] Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork — <em>CoinDesk</em></li>\n<li>[9] Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup — <em>The Block</em></li>\n<li>[10] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "regulation",
+        "crypto news",
+        "stablecoin",
+        "market analysis",
+        "ethereum"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777764666/xeonbit24/posts/crypto-roundup-may-2-2026-at-0631-am-ict-regulatory-shifts-and-market-analysis.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777764666/xeonbit24/posts/crypto-roundup-may-2-2026-at-0631-am-ict-regulatory-shifts-and-market-analysis.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-may-2-2026-at-0631-am-ict-regulatory-shifts-and-market-analysis",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup May 2, 2026 at 06:31 AM (ICT): Regulatory Shifts and Market Analysis"
+      },
+      "sourceUrl": "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Decrypt / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter",
+          "url": "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk",
+          "url": "https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Leading Iranian crypto exchange Nobitex was founded by sons of elite political family tied to supreme leaders: Reuters",
+          "url": "https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
+          "url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Oscars Ban AI Performances and Screenplays From Eligibility",
+          "url": "https://decrypt.co/366405/oscars-ban-ai-performances-screenplays-eligibility",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+          "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
+          "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
+          "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup",
+          "url": "https://www.theblock.co/post/399780/coinbase-says-deal-reached-on-clarity-act-stablecoin-yield-clearing-path-to-long-stalled-senate-markup?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-05-02T23:31:07.078Z",
+      "slug": "crypto-roundup-may-2-2026-at-0631-am-ict-regulatory-shifts-and-market-analysis"
+    },
+    {
       "id": "1777734650427",
       "title": "Crypto Roundup May 2, 2026 at 10:10 PM (ICT): Bitcoin Surges Past $78,000 as Regulatory Clarity Improves",
       "summary": "Bitcoin's price has surged past $78,000 following the Senate's clearance of the Clarity Act yield hurdle, while the Ethereum Foundation sells another 10,000 ETH, and a $292M crypto hack exposes DeFi's weak spots. Regulatory clarity and improving market structure are driving the crypto market forward, with prediction markets evolving into a $240 billion industry,",
@@ -611,7 +692,16 @@
     "https://cointelegraph.com/news/a16z-sides-with-cftc-against-states-seeking-to-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
     "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
-    "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news"
+    "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news",
+    "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
+    "https://decrypt.co/366405/oscars-ban-ai-performances-screenplays-eligibility",
+    "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+    "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
+    "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+    "https://www.theblock.co/post/399780/coinbase-says-deal-reached-on-clarity-act-stablecoin-yield-clearing-path-to-long-stalled-senate-markup?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -623,6 +713,7 @@
     "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images|https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images",
     "https://cointelegraph.com/news/riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/a16z-sides-with-cftc-against-states-seeking-to-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026"
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/a16z-sides-with-cftc-against-states-seeking-to-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+    "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&amp;utm_medium=rss"
   ]
 }
