@@ -337,11 +337,43 @@
     .footer-source { margin-top: 10px; font-size: 11px; color: var(--text3); opacity: 0.6; }
     .footer-source a { color: var(--amber); text-decoration: none; }
  
+    /* ── CARD AUDIO BUTTON ───────────────────── */
+    .card-audio-btn { position: absolute; bottom: 10px; right: 10px; z-index: 3; width: 32px; height: 32px; border-radius: 50%; background: rgba(0,0,0,0.62); border: 1.5px solid rgba(255,255,255,0.22); color: #fff; font-size: 13px; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.18s; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); }
+    .card-audio-btn:hover { background: var(--amber); border-color: var(--amber); color: #000; transform: scale(1.1); }
+    .card-audio-btn.playing { background: var(--amber); border-color: var(--amber); color: #000; animation: audioGlow 1.4s ease-in-out infinite; }
+    @keyframes audioGlow { 0%,100%{box-shadow:0 0 0 0 rgba(245,158,11,0.55);} 50%{box-shadow:0 0 0 8px rgba(245,158,11,0);} }
+
+    /* ── MODAL TOP-RIGHT ACTION BAR ──────────── */
+    .modal-top-actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; padding: 14px 36px 0; }
+    .mta-btn { height: 34px; padding: 0 13px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg3); color: var(--text2); font-size: 12px; font-family: var(--sans); font-weight: 500; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; transition: all 0.18s; white-space: nowrap; }
+    .mta-btn:hover { border-color: var(--border2); color: var(--text); }
+    .mta-audio { }
+    .mta-audio.playing { background: rgba(245,158,11,0.15); border-color: var(--border2); color: var(--amber); animation: audioGlow 1.4s ease-in-out infinite; }
+    .mta-translate.active { background: rgba(245,158,11,0.12); border-color: var(--border2); color: var(--amber); }
+    .mta-close:hover { background: rgba(239,68,68,0.1); border-color: rgba(239,68,68,0.4); color: var(--red2); }
+
+    /* ── MODAL AUDIO PLAYER BAR ──────────────── */
+    .modal-audio-bar { margin: 14px 36px 0; background: var(--bg3); border: 1px solid var(--border); border-radius: 12px; padding: 12px 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .audio-play-btn { width: 36px; height: 36px; border-radius: 50%; background: var(--amber); border: none; color: #000; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: all 0.18s; }
+    .audio-play-btn:hover { background: var(--amber2); transform: scale(1.08); }
+    .audio-play-btn.playing { animation: audioGlow 1.4s ease-in-out infinite; }
+    .audio-progress-wrap { flex: 1; min-width: 120px; display: flex; flex-direction: column; gap: 4px; }
+    .audio-progress { width: 100%; height: 4px; background: var(--bg5); border-radius: 2px; cursor: pointer; appearance: none; -webkit-appearance: none; outline: none; accent-color: var(--amber); }
+    .audio-progress::-webkit-slider-thumb { width: 14px; height: 14px; border-radius: 50%; background: var(--amber); cursor: pointer; -webkit-appearance: none; }
+    .audio-time { font-family: var(--mono); font-size: 10px; color: var(--text3); display: flex; justify-content: space-between; }
+    .audio-speed-group { display: flex; align-items: center; gap: 4px; flex-shrink: 0; flex-wrap: wrap; }
+    .audio-speed-label { font-family: var(--mono); font-size: 10px; color: var(--text3); margin-right: 2px; letter-spacing: .04em; }
+    .audio-speed-btn { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 3px 7px; border-radius: 5px; font-family: var(--mono); font-size: 11px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+    .audio-speed-btn:hover { border-color: var(--border2); color: var(--amber); }
+    .audio-speed-btn.active { background: rgba(245,158,11,0.15); border-color: var(--border2); color: var(--amber); }
+
     @media (max-width: 640px) {
       .hero { padding: 44px 20px 52px; }
       .hero-stats { gap: 24px; }
       #posts-grid { grid-template-columns: 1fr; }
       .modal-body, .modal-hero, .modal-footer { padding-left: 20px; padding-right: 20px; }
+      .modal-top-actions { padding-left: 20px; padding-right: 20px; }
+      .modal-audio-bar { margin-left: 20px; margin-right: 20px; }
       .modal-image { height: 200px; }
       .price-inner { grid-template-columns: repeat(2, 1fr); }
     }
@@ -439,7 +471,7 @@
     </div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:14px;border:1px solid var(--border);box-shadow:0 8px 40px rgba(0,0,0,0.4);">
       <iframe
-        src="https://www.youtube.com/embed/videoseries?list=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&autoplay=1&loop=1&mute=1&playlist=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&rel=0&modestbranding=1&controls=1"
+        src="https://www.youtube.com/embed/videoseries?list=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&autoplay=1&loop=1&mute=0&playlist=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&rel=0&modestbranding=1&controls=1"
         title="Xeonbit24 - Crypto & Blockchain News Playlist"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1044,7 +1076,9 @@ function cardHTML(post) {
     '<div class="card-actions">' +
     '<button class="card-action-btn btn-edit-card" title="Chỉnh sửa" onclick="event.stopPropagation();openEdit(\''+escAttr(post.id)+'\')">✏️</button>' +
     '<button class="card-action-btn btn-delete-card" title="Xoá" onclick="event.stopPropagation();openDelete(\''+escAttr(post.id)+'\')">🗑️</button>' +
-    '</div></div>' +
+    '</div>' +
+    '<button class="card-audio-btn" id="card-audio-'+escAttr(post.id)+'" title="Listen" onclick="event.stopPropagation();toggleCardAudio(\''+escAttr(post.id)+'\',this)">▶</button>' +
+    '</div>' +
     '<div class="card-body">' +
     '<h2 class="card-title">'+esc(post.title)+'</h2>' +
     '<p class="card-summary">'+esc(post.summary||'')+'</p>' +
@@ -1092,6 +1126,27 @@ function openPost(id) {
     '<div class="modal-tags">'+tags+'</div>' +
     '<h1 class="modal-title">'+esc(post.title)+'</h1>' +
     '<p class="modal-meta">'+date+' · ~'+(post.readTime||5)+' '+t('min_read_label')+'</p>' +
+    '</div>' +
+    '<div class="modal-top-actions">' +
+    '<button class="mta-btn mta-audio" id="mta-audio-btn" onclick="toggleModalAudio(\''+escAttr(post.id)+'\')">▶ Listen</button>' +
+    '<button class="mta-btn mta-translate" id="mta-translate-btn" onclick="toggleTranslate(\''+escAttr(post.id)+'\')">🌐 VI</button>' +
+    '<button class="mta-btn mta-share" onclick="sharePost(\''+escAttr(post.id)+'\')">🔗 Share</button>' +
+    '<button class="mta-btn mta-close" onclick="closePostModal()">✕ Close</button>' +
+    '</div>' +
+    '<div class="modal-audio-bar" id="modal-audio-bar">' +
+    '<button class="audio-play-btn" id="modal-audio-play-btn" onclick="toggleModalAudio(\''+escAttr(post.id)+'\')" title="Play / Pause">▶</button>' +
+    '<div class="audio-progress-wrap">' +
+    '<input type="range" class="audio-progress" id="modal-audio-progress" min="0" max="100" value="0" oninput="seekModalAudio(this.value)">' +
+    '<div class="audio-time"><span id="modal-audio-cur">0:00</span><span id="modal-audio-dur">–:––</span></div>' +
+    '</div>' +
+    '<div class="audio-speed-group">' +
+    '<span class="audio-speed-label">Speed</span>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(0.8,this)">0.8×</button>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(1,this)">1×</button>' +
+    '<button class="audio-speed-btn active" onclick="setAudioSpeed(1.25,this)">1.25×</button>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(1.5,this)">1.5×</button>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(2,this)">2×</button>' +
+    '</div>' +
     '</div>' +
     '<div class="modal-body">' +
     '<p class="modal-summary">'+esc(post.summary||'')+'</p>' +
@@ -1245,6 +1300,214 @@ function showToast(msg) {
   setTimeout(function(){ toastEl.classList.remove('show'); }, 2500);
 }
  
+// ── TEXT-TO-SPEECH AUDIO SYSTEM ────────────────────────────────────────────
+var _tts = {
+  synth: window.speechSynthesis || null,
+  utterance: null,
+  speaking: false,
+  paused: false,
+  postId: null,
+  speed: 1.25,
+  chunks: [],
+  chunkIndex: 0,
+  spokenChars: 0,
+  totalChars: 0,
+  progressInterval: null
+};
+
+function _stripHtml(html) {
+  var d = document.createElement('div');
+  d.innerHTML = html || '';
+  return (d.innerText || d.textContent || '').replace(/\s+/g,' ').trim();
+}
+
+function _buildTTSText(postId) {
+  var post = allPosts.find(function(p){ return String(p.id)===String(postId); });
+  if (!post) return '';
+  var parts = [];
+  if (post.title)   parts.push(post.title + '.');
+  if (post.summary) parts.push(_stripHtml(post.summary));
+  if (post.content) parts.push(_stripHtml(post.content));
+  return parts.join(' ');
+}
+
+function _chunkText(text, size) {
+  size = size || 200;
+  var sentences = text.match(/[^.!?。]+[.!?。]*/g) || [text];
+  var chunks = [], cur = '';
+  sentences.forEach(function(s) {
+    if ((cur+s).length > size && cur.length > 0) { chunks.push(cur.trim()); cur = ''; }
+    cur += s;
+  });
+  if (cur.trim()) chunks.push(cur.trim());
+  return chunks.length ? chunks : [text];
+}
+
+function _fmtTime(sec) {
+  var s = Math.floor(sec), m = Math.floor(s/60);
+  return m + ':' + ('0'+(s%60)).slice(-2);
+}
+
+function _stopTTS(clearCard) {
+  if (_tts.synth) _tts.synth.cancel();
+  clearInterval(_tts.progressInterval);
+  _tts.speaking = false; _tts.paused = false;
+  _tts.chunks = []; _tts.chunkIndex = 0; _tts.spokenChars = 0;
+  // Reset modal audio bar
+  var btn = document.getElementById('modal-audio-play-btn');
+  if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+  var prog = document.getElementById('modal-audio-progress');
+  if (prog) prog.value = 0;
+  var cur = document.getElementById('modal-audio-cur');
+  if (cur) cur.textContent = '0:00';
+  // Reset top-action audio btn
+  var mtaBtn = document.getElementById('mta-audio-btn');
+  if (mtaBtn) { mtaBtn.textContent = '▶ Listen'; mtaBtn.classList.remove('playing'); }
+  // Reset card btn
+  if (clearCard && _tts.postId) {
+    var cardBtn = document.getElementById('card-audio-'+_tts.postId);
+    if (cardBtn) { cardBtn.textContent = '▶'; cardBtn.classList.remove('playing'); }
+  }
+  _tts.postId = null;
+}
+
+function _updateProgress() {
+  if (!_tts.speaking || _tts.paused) return;
+  var total = _tts.totalChars || 1;
+  var pct = Math.min(100, Math.round((_tts.spokenChars / total) * 100));
+  var prog = document.getElementById('modal-audio-progress');
+  if (prog) prog.value = pct;
+  var cps = 14 * (_tts.speed || 1.25);
+  var elapsed = _tts.spokenChars / cps;
+  var remaining = Math.max(0, (total - _tts.spokenChars) / cps);
+  var curEl = document.getElementById('modal-audio-cur');
+  var durEl = document.getElementById('modal-audio-dur');
+  if (curEl) curEl.textContent = _fmtTime(elapsed);
+  if (durEl) durEl.textContent = _fmtTime(elapsed + remaining);
+}
+
+function _playChunks(chunks, index) {
+  if (index >= chunks.length) { _stopTTS(true); return; }
+  var u = new SpeechSynthesisUtterance(chunks[index]);
+  u.lang = (typeof currentLang !== 'undefined' && currentLang === 'vi') ? 'vi-VN' : 'en-US';
+  u.rate = _tts.speed;
+  _tts.utterance = u;
+  u.onend = function() {
+    _tts.spokenChars += chunks[index].length;
+    _tts.chunkIndex = index + 1;
+    _playChunks(chunks, index + 1);
+  };
+  u.onerror = function() { _stopTTS(true); };
+  _tts.synth.speak(u);
+}
+
+function _startTTS(postId) {
+  if (!_tts.synth) { showToast('❌ Browser does not support TTS'); return; }
+  _stopTTS(true);
+  var text = _buildTTSText(postId);
+  if (!text) return;
+  _tts.postId = postId;
+  _tts.chunks = _chunkText(text);
+  _tts.totalChars = text.length;
+  _tts.spokenChars = 0; _tts.chunkIndex = 0;
+  _tts.speaking = true; _tts.paused = false;
+  var durEl = document.getElementById('modal-audio-dur');
+  if (durEl) durEl.textContent = _fmtTime(text.length / (14 * _tts.speed));
+  _playChunks(_tts.chunks, 0);
+  _tts.progressInterval = setInterval(_updateProgress, 500);
+}
+
+// Card audio button
+function toggleCardAudio(postId, btnEl) {
+  if (_tts.speaking && _tts.postId === postId) {
+    _stopTTS(true); return;
+  }
+  _stopTTS(true);
+  btnEl.textContent = '⏸'; btnEl.classList.add('playing');
+  _startTTS(postId);
+}
+
+// Modal audio bar + top-action button (shared)
+function toggleModalAudio(postId) {
+  if (!_tts.synth) { showToast('❌ Browser does not support Text-to-Speech'); return; }
+  var barBtn = document.getElementById('modal-audio-play-btn');
+  var mtaBtn = document.getElementById('mta-audio-btn');
+
+  if (_tts.speaking && _tts.postId === postId) {
+    if (_tts.paused) {
+      _tts.synth.resume(); _tts.paused = false;
+      if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
+      if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+    } else {
+      _tts.synth.pause(); _tts.paused = true;
+      if (barBtn) { barBtn.textContent = '▶'; barBtn.classList.remove('playing'); }
+      if (mtaBtn) { mtaBtn.textContent = '▶ Listen'; mtaBtn.classList.remove('playing'); }
+    }
+    return;
+  }
+
+  // Stop any card btn that may be active
+  document.querySelectorAll('.card-audio-btn').forEach(function(b){ b.textContent='▶'; b.classList.remove('playing'); });
+
+  if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
+  if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+  _startTTS(postId);
+}
+
+function seekModalAudio(pct) {
+  if (!_tts.chunks.length) return;
+  var target = Math.max(0, Math.min(_tts.chunks.length-1, Math.floor(_tts.chunks.length*(pct/100))));
+  if (_tts.synth) _tts.synth.cancel();
+  clearInterval(_tts.progressInterval);
+  _tts.chunkIndex = target;
+  _tts.spokenChars = _tts.chunks.slice(0,target).reduce(function(a,c){return a+c.length;},0);
+  _tts.paused = false;
+  _playChunks(_tts.chunks, target);
+  _tts.progressInterval = setInterval(_updateProgress, 500);
+  var barBtn = document.getElementById('modal-audio-play-btn');
+  var mtaBtn = document.getElementById('mta-audio-btn');
+  if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
+  if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+}
+
+function setAudioSpeed(speed, btnEl) {
+  _tts.speed = speed;
+  document.querySelectorAll('.audio-speed-btn').forEach(function(b){ b.classList.remove('active'); });
+  if (btnEl) btnEl.classList.add('active');
+  if (_tts.speaking && _tts.postId) {
+    var ci = _tts.chunkIndex, sc = _tts.spokenChars, pid = _tts.postId;
+    if (_tts.synth) _tts.synth.cancel();
+    clearInterval(_tts.progressInterval);
+    _tts.speaking = true; _tts.paused = false; _tts.spokenChars = sc;
+    _playChunks(_tts.chunks, ci);
+    _tts.progressInterval = setInterval(_updateProgress, 500);
+  }
+}
+
+// Sync translate top-action button with footer btn
+var _origToggleTranslate = toggleTranslate;
+toggleTranslate = function(id) {
+  _origToggleTranslate(id);
+  // mirror state after a tick (footer btn updates synchronously inside)
+  setTimeout(function() {
+    var footerBtn = document.getElementById('btn-translate');
+    var mtaBtn    = document.getElementById('mta-translate-btn');
+    if (footerBtn && mtaBtn) {
+      mtaBtn.textContent = footerBtn.textContent;
+      if (footerBtn.classList.contains('active')) mtaBtn.classList.add('active');
+      else mtaBtn.classList.remove('active');
+      mtaBtn.disabled = footerBtn.disabled;
+    }
+  }, 50);
+};
+
+// Stop TTS when modal closes
+var _origClosePostModal = closePostModal;
+closePostModal = function(e) {
+  _stopTTS(true);
+  _origClosePostModal(e);
+};
+
 // ── ADMIN PANEL ────────────────────────────────────────────────────────────
 function openAdmin() {
   document.getElementById('admin-status').className = 'admin-status';
