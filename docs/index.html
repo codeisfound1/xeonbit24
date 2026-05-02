@@ -471,7 +471,7 @@
     </div>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:14px;border:1px solid var(--border);box-shadow:0 8px 40px rgba(0,0,0,0.4);">
       <iframe
-        src="https://www.youtube.com/embed/videoseries?list=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&autoplay=1&loop=1&mute=0&playlist=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&rel=0&modestbranding=1&controls=1"
+        src="https://www.youtube.com/embed/videoseries?list=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&autoplay=1&loop=1&mute=1&playlist=PLKfhqWP2rL8IQeGY8bRICXEQ2LF4YXxKI&rel=0&modestbranding=1&controls=1"
         title="Xeonbit24 - Crypto & Blockchain News Playlist"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -1301,19 +1301,27 @@ function showToast(msg) {
 }
  
 // ── TEXT-TO-SPEECH AUDIO SYSTEM ────────────────────────────────────────────
+// Uses chunked utterances to work around Chrome's 15-second TTS bug.
+// Each chunk is spoken sequentially; a keepalive ping every 10s prevents
+// Chrome from silently cancelling the queue.
+
 var _tts = {
-  synth: window.speechSynthesis || null,
-  utterance: null,
+  synth: null,
   speaking: false,
   paused: false,
   postId: null,
   speed: 1.25,
   chunks: [],
   chunkIndex: 0,
-  spokenChars: 0,
+  charOffset: 0,      // chars spoken so far
   totalChars: 0,
-  progressInterval: null
+  progressInterval: null,
+  keepaliveTimer: null
 };
+
+function _getSynth() {
+  return window.speechSynthesis || null;
+}
 
 function _stripHtml(html) {
   var d = document.createElement('div');
@@ -1331,12 +1339,13 @@ function _buildTTSText(postId) {
   return parts.join(' ');
 }
 
-function _chunkText(text, size) {
-  size = size || 200;
-  var sentences = text.match(/[^.!?。]+[.!?。]*/g) || [text];
+// Split into ~150-char sentence-aware chunks (Chrome limit workaround)
+function _chunkText(text) {
+  var size = 150;
+  var sentences = text.match(/[^.!?\n]+[.!?\n]*/g) || [text];
   var chunks = [], cur = '';
   sentences.forEach(function(s) {
-    if ((cur+s).length > size && cur.length > 0) { chunks.push(cur.trim()); cur = ''; }
+    if ((cur + s).length > size && cur.length > 0) { chunks.push(cur.trim()); cur = ''; }
     cur += s;
   });
   if (cur.trim()) chunks.push(cur.trim());
@@ -1344,29 +1353,39 @@ function _chunkText(text, size) {
 }
 
 function _fmtTime(sec) {
-  var s = Math.floor(sec), m = Math.floor(s/60);
-  return m + ':' + ('0'+(s%60)).slice(-2);
+  var s = Math.floor(sec), m = Math.floor(s / 60);
+  return m + ':' + ('0' + (s % 60)).slice(-2);
+}
+
+function _setModalBtnsPlaying(playing) {
+  var barBtn = document.getElementById('modal-audio-play-btn');
+  var mtaBtn = document.getElementById('mta-audio-btn');
+  if (playing) {
+    if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
+    if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+  } else {
+    if (barBtn) { barBtn.textContent = '▶'; barBtn.classList.remove('playing'); }
+    if (mtaBtn) { mtaBtn.textContent = '▶ Listen'; mtaBtn.classList.remove('playing'); }
+  }
 }
 
 function _stopTTS(clearCard) {
-  if (_tts.synth) _tts.synth.cancel();
+  var synth = _getSynth();
+  if (synth) synth.cancel();
   clearInterval(_tts.progressInterval);
+  clearInterval(_tts.keepaliveTimer);
   _tts.speaking = false; _tts.paused = false;
-  _tts.chunks = []; _tts.chunkIndex = 0; _tts.spokenChars = 0;
-  // Reset modal audio bar
-  var btn = document.getElementById('modal-audio-play-btn');
-  if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+  _tts.chunks = []; _tts.chunkIndex = 0; _tts.charOffset = 0;
+
+  _setModalBtnsPlaying(false);
   var prog = document.getElementById('modal-audio-progress');
   if (prog) prog.value = 0;
   var cur = document.getElementById('modal-audio-cur');
   if (cur) cur.textContent = '0:00';
-  // Reset top-action audio btn
-  var mtaBtn = document.getElementById('mta-audio-btn');
-  if (mtaBtn) { mtaBtn.textContent = '▶ Listen'; mtaBtn.classList.remove('playing'); }
-  // Reset card btn
+
   if (clearCard && _tts.postId) {
-    var cardBtn = document.getElementById('card-audio-'+_tts.postId);
-    if (cardBtn) { cardBtn.textContent = '▶'; cardBtn.classList.remove('playing'); }
+    var cb = document.getElementById('card-audio-' + _tts.postId);
+    if (cb) { cb.textContent = '▶'; cb.classList.remove('playing'); }
   }
   _tts.postId = null;
 }
@@ -1374,50 +1393,79 @@ function _stopTTS(clearCard) {
 function _updateProgress() {
   if (!_tts.speaking || _tts.paused) return;
   var total = _tts.totalChars || 1;
-  var pct = Math.min(100, Math.round((_tts.spokenChars / total) * 100));
+  var pct = Math.min(100, Math.round((_tts.charOffset / total) * 100));
   var prog = document.getElementById('modal-audio-progress');
   if (prog) prog.value = pct;
   var cps = 14 * (_tts.speed || 1.25);
-  var elapsed = _tts.spokenChars / cps;
-  var remaining = Math.max(0, (total - _tts.spokenChars) / cps);
+  var elapsed = _tts.charOffset / cps;
+  var remaining = Math.max(0, (total - _tts.charOffset) / cps);
   var curEl = document.getElementById('modal-audio-cur');
   var durEl = document.getElementById('modal-audio-dur');
   if (curEl) curEl.textContent = _fmtTime(elapsed);
   if (durEl) durEl.textContent = _fmtTime(elapsed + remaining);
 }
 
-function _playChunks(chunks, index) {
-  if (index >= chunks.length) { _stopTTS(true); return; }
-  var u = new SpeechSynthesisUtterance(chunks[index]);
+function _speakChunk(index) {
+  var synth = _getSynth();
+  if (!synth || index >= _tts.chunks.length) {
+    if (index >= _tts.chunks.length) _stopTTS(true);
+    return;
+  }
+  var u = new SpeechSynthesisUtterance(_tts.chunks[index]);
   u.lang = (typeof currentLang !== 'undefined' && currentLang === 'vi') ? 'vi-VN' : 'en-US';
   u.rate = _tts.speed;
-  _tts.utterance = u;
-  u.onend = function() {
-    _tts.spokenChars += chunks[index].length;
-    _tts.chunkIndex = index + 1;
-    _playChunks(chunks, index + 1);
+
+  u.onstart = function() {
+    _tts.speaking = true;
+    _setModalBtnsPlaying(true);
   };
-  u.onerror = function() { _stopTTS(true); };
-  _tts.synth.speak(u);
+  u.onend = function() {
+    if (!_tts.speaking) return; // was stopped externally
+    _tts.charOffset += _tts.chunks[index].length;
+    _tts.chunkIndex = index + 1;
+    _speakChunk(index + 1);
+  };
+  u.onerror = function(e) {
+    // 'interrupted' fires when we cancel intentionally — ignore
+    if (e.error === 'interrupted' || e.error === 'canceled') return;
+    _stopTTS(true);
+  };
+
+  synth.speak(u);
 }
 
 function _startTTS(postId) {
-  if (!_tts.synth) { showToast('❌ Browser does not support TTS'); return; }
-  _stopTTS(true);
+  var synth = _getSynth();
+  if (!synth) { showToast('❌ Browser does not support Text-to-Speech'); return; }
+
+  // Cancel anything already queued
+  synth.cancel();
+  clearInterval(_tts.progressInterval);
+  clearInterval(_tts.keepaliveTimer);
+
   var text = _buildTTSText(postId);
-  if (!text) return;
+  if (!text) { showToast('❌ No content to read'); return; }
+
   _tts.postId = postId;
   _tts.chunks = _chunkText(text);
   _tts.totalChars = text.length;
-  _tts.spokenChars = 0; _tts.chunkIndex = 0;
+  _tts.charOffset = 0; _tts.chunkIndex = 0;
   _tts.speaking = true; _tts.paused = false;
+
   var durEl = document.getElementById('modal-audio-dur');
   if (durEl) durEl.textContent = _fmtTime(text.length / (14 * _tts.speed));
-  _playChunks(_tts.chunks, 0);
-  _tts.progressInterval = setInterval(_updateProgress, 500);
+
+  // Chrome bug: speechSynthesis stops after ~15s unless we ping it
+  _tts.keepaliveTimer = setInterval(function() {
+    var s = _getSynth();
+    if (s && _tts.speaking && !_tts.paused) { s.pause(); s.resume(); }
+  }, 10000);
+
+  _tts.progressInterval = setInterval(_updateProgress, 400);
+  _speakChunk(0);
 }
 
-// Card audio button
+// ── CARD AUDIO BUTTON ──────────────────────────────────────────────────────
 function toggleCardAudio(postId, btnEl) {
   if (_tts.speaking && _tts.postId === postId) {
     _stopTTS(true); return;
@@ -1427,68 +1475,63 @@ function toggleCardAudio(postId, btnEl) {
   _startTTS(postId);
 }
 
-// Modal audio bar + top-action button (shared)
+// ── MODAL BUTTONS (bar + top-right) ───────────────────────────────────────
 function toggleModalAudio(postId) {
-  if (!_tts.synth) { showToast('❌ Browser does not support Text-to-Speech'); return; }
-  var barBtn = document.getElementById('modal-audio-play-btn');
-  var mtaBtn = document.getElementById('mta-audio-btn');
+  var synth = _getSynth();
+  if (!synth) { showToast('❌ Browser does not support Text-to-Speech'); return; }
 
   if (_tts.speaking && _tts.postId === postId) {
     if (_tts.paused) {
-      _tts.synth.resume(); _tts.paused = false;
-      if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
-      if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+      synth.resume(); _tts.paused = false;
+      _setModalBtnsPlaying(true);
     } else {
-      _tts.synth.pause(); _tts.paused = true;
-      if (barBtn) { barBtn.textContent = '▶'; barBtn.classList.remove('playing'); }
-      if (mtaBtn) { mtaBtn.textContent = '▶ Listen'; mtaBtn.classList.remove('playing'); }
+      synth.pause(); _tts.paused = true;
+      _setModalBtnsPlaying(false);
     }
     return;
   }
 
-  // Stop any card btn that may be active
+  // Stop any active card btn
   document.querySelectorAll('.card-audio-btn').forEach(function(b){ b.textContent='▶'; b.classList.remove('playing'); });
-
-  if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
-  if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+  _setModalBtnsPlaying(true);
   _startTTS(postId);
 }
 
 function seekModalAudio(pct) {
-  if (!_tts.chunks.length) return;
-  var target = Math.max(0, Math.min(_tts.chunks.length-1, Math.floor(_tts.chunks.length*(pct/100))));
-  if (_tts.synth) _tts.synth.cancel();
-  clearInterval(_tts.progressInterval);
+  if (!_tts.chunks.length || !_tts.postId) return;
+  var target = Math.max(0, Math.min(_tts.chunks.length - 1, Math.floor(_tts.chunks.length * (pct / 100))));
+  var synth = _getSynth();
+  if (synth) synth.cancel();
+  clearInterval(_tts.keepaliveTimer);
   _tts.chunkIndex = target;
-  _tts.spokenChars = _tts.chunks.slice(0,target).reduce(function(a,c){return a+c.length;},0);
-  _tts.paused = false;
-  _playChunks(_tts.chunks, target);
-  _tts.progressInterval = setInterval(_updateProgress, 500);
-  var barBtn = document.getElementById('modal-audio-play-btn');
-  var mtaBtn = document.getElementById('mta-audio-btn');
-  if (barBtn) { barBtn.textContent = '⏸'; barBtn.classList.add('playing'); }
-  if (mtaBtn) { mtaBtn.textContent = '⏸ Playing'; mtaBtn.classList.add('playing'); }
+  _tts.charOffset = _tts.chunks.slice(0, target).reduce(function(a,c){ return a + c.length; }, 0);
+  _tts.paused = false; _tts.speaking = true;
+  _setModalBtnsPlaying(true);
+  _tts.keepaliveTimer = setInterval(function() {
+    var s = _getSynth();
+    if (s && _tts.speaking && !_tts.paused) { s.pause(); s.resume(); }
+  }, 10000);
+  _speakChunk(target);
 }
 
 function setAudioSpeed(speed, btnEl) {
   _tts.speed = speed;
   document.querySelectorAll('.audio-speed-btn').forEach(function(b){ b.classList.remove('active'); });
   if (btnEl) btnEl.classList.add('active');
+  // Restart current chunk at new speed
   if (_tts.speaking && _tts.postId) {
-    var ci = _tts.chunkIndex, sc = _tts.spokenChars, pid = _tts.postId;
-    if (_tts.synth) _tts.synth.cancel();
-    clearInterval(_tts.progressInterval);
-    _tts.speaking = true; _tts.paused = false; _tts.spokenChars = sc;
-    _playChunks(_tts.chunks, ci);
-    _tts.progressInterval = setInterval(_updateProgress, 500);
+    var synth = _getSynth();
+    if (synth) synth.cancel();
+    _tts.paused = false;
+    _setModalBtnsPlaying(true);
+    _speakChunk(_tts.chunkIndex);
   }
 }
 
-// Sync translate top-action button with footer btn
+// ── SYNC TRANSLATE TOP-ACTION BTN WITH FOOTER BTN ─────────────────────────
 var _origToggleTranslate = toggleTranslate;
 toggleTranslate = function(id) {
   _origToggleTranslate(id);
-  // mirror state after a tick (footer btn updates synchronously inside)
   setTimeout(function() {
     var footerBtn = document.getElementById('btn-translate');
     var mtaBtn    = document.getElementById('mta-translate-btn');
@@ -1501,7 +1544,7 @@ toggleTranslate = function(id) {
   }, 50);
 };
 
-// Stop TTS when modal closes
+// ── STOP TTS ON MODAL CLOSE ───────────────────────────────────────────────
 var _origClosePostModal = closePostModal;
 closePostModal = function(e) {
   _stopTTS(true);
