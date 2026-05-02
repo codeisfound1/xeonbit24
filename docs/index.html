@@ -1106,7 +1106,7 @@ function openPost(id) {
     '<div class="modal-footer">' +
     '<span class="source-link">📰 '+esc(post.sourceTitle||t('source_fallback'))+'</span>' +
     '<div class="modal-footer-actions">' +
-    '<button class="btn-translate" id="btn-translate" onclick="toggleTranslate(\''+escAttr(post.id)+'\')">🌐 EN</button>' +
+    '<button class="btn-translate" id="btn-translate" onclick="toggleTranslate(\''+escAttr(post.id)+'\')">🌐 VI</button>' +
     '<button class="btn-share" onclick="sharePost(\''+escAttr(post.id)+'\')">'+t('share_btn')+'</button>' +
     '<button class="btn-close" onclick="closePostModal()">'+t('close_btn')+'</button>' +
     '</div></div>';
@@ -1143,7 +1143,7 @@ function toggleTranslate(id) {
     if (titleEl)   titleEl.textContent = post.title;
     if (summaryEl) summaryEl.textContent = post.summary || '';
     if (contentEl) contentEl.innerHTML  = post.content || '';
-    if (btn) { btn.textContent = '🌐 EN'; btn.classList.remove('active'); }
+    if (btn) { btn.textContent = '🌐 VI'; btn.classList.remove('active'); }
     _translateActive = false;
     _translatePostId = null;
     return;
@@ -1154,7 +1154,7 @@ function toggleTranslate(id) {
  
   // Google Translate unofficial API - dịch từng đoạn riêng lẻ
   function gtrans(text) {
-    var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=vi&tl=en&dt=t&q=' + encodeURIComponent(text);
+    var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&q=' + encodeURIComponent(text);
     return fetch(url)
       .then(function(r){ return r.json(); })
       .then(function(data){
@@ -1212,7 +1212,7 @@ function toggleTranslate(id) {
         contentEl.innerHTML = html || '<p>' + esc(tSummary) + '</p>';
       }
  
-      if (btn) { btn.textContent = '🇻🇳 VI'; btn.classList.add('active'); btn.disabled = false; }
+      if (btn) { btn.textContent = '↩ EN'; btn.classList.add('active'); btn.disabled = false; }
       _translateActive = true;
       _translatePostId = id;
       return;
@@ -1614,7 +1614,7 @@ function applyLang(lang) {
   currentLang = lang;
   document.documentElement.setAttribute('lang', lang === 'vi' ? 'vi' : 'en');
   var btn = document.getElementById('btn-lang');
-  if (btn) btn.textContent = lang === 'vi' ? 'EN' : 'VI'; // shows the language you can switch TO
+  if (btn) btn.textContent = lang === 'vi' ? 'EN' : 'VI';
   localStorage.setItem('ci_lang', lang);
   // Update all static data-i18n elements (non-innerHTML ones)
   document.querySelectorAll('[data-i18n]').forEach(function(el) {
