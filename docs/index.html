@@ -915,8 +915,12 @@ function getImageForPost(post) {
     var url = null;
     if (typeof post.image === 'object' && post.image.url) url = post.image.url;
     if (typeof post.image === 'string') url = post.image;
-    // Bỏ qua ảnh Cointelegraph — thường bị block hotlink
-    if (url && !url.includes('cointelegraph.com')) return url;
+    if (url) {
+      // Bỏ qua ảnh Cointelegraph — thường bị block hotlink
+      if (url.includes('cointelegraph.com')) url = null;
+      // Ưu tiên Cloudinary URL (đã được optimize f_auto,q_auto)
+      else return url;
+    }
   }
   var tags = (post.tags || []).map(function(t){return t.toLowerCase();});
   for (var key in FALLBACK_IMAGES) {
