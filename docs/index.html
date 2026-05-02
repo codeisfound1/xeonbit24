@@ -366,6 +366,7 @@
     .audio-speed-btn { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 3px 7px; border-radius: 5px; font-family: var(--mono); font-size: 11px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
     .audio-speed-btn:hover { border-color: var(--border2); color: var(--amber); }
     .audio-speed-btn.active { background: rgba(245,158,11,0.15); border-color: var(--border2); color: var(--amber); }
+    .audio-voice-select { background: var(--bg4); border: 1px solid var(--border); color: var(--text2); padding: 3px 8px; border-radius: 5px; font-family: var(--mono); font-size: 11px; cursor: pointer; max-width: 160px; flex-shrink: 0; }
 
     @media (max-width: 640px) {
       .hero { padding: 44px 20px 52px; }
@@ -1147,6 +1148,7 @@ function openPost(id) {
     '<button class="audio-speed-btn" onclick="setAudioSpeed(1.5,this)">1.5×</button>' +
     '<button class="audio-speed-btn" onclick="setAudioSpeed(2,this)">2×</button>' +
     '</div>' +
+    '<select class="audio-voice-select" id="audio-voice-select" onchange="setAudioVoice(this)" title="Choose voice"></select>' +
     '</div>' +
     '<div class="modal-body">' +
     '<p class="modal-summary">'+esc(post.summary||'')+'</p>' +
@@ -1162,6 +1164,8 @@ function openPost(id) {
  
   document.getElementById('post-modal').classList.add('open');
   document.body.style.overflow = 'hidden';
+  // Populate voice picker (runs after DOM update)
+  setTimeout(_initVoiceSelect, 50);
 }
  
 function closePostModal(e) {
@@ -1411,9 +1415,12 @@ function _speakChunk(index) {
     if (index >= _tts.chunks.length) _stopTTS(true);
     return;
   }
+  var lang = (typeof currentLang !== 'undefined' && currentLang === 'vi') ? 'vi-VN' : 'en-US';
   var u = new SpeechSynthesisUtterance(_tts.chunks[index]);
-  u.lang = (typeof currentLang !== 'undefined' && currentLang === 'vi') ? 'vi-VN' : 'en-US';
+  u.lang = lang;
   u.rate = _tts.speed;
+  var bestVoice = _manualVoice || _pickBestVoice(lang);
+  if (bestVoice) u.voice = bestVoice;
 
   u.onstart = function() {
     _tts.speaking = true;
@@ -1434,11 +1441,102 @@ function _speakChunk(index) {
   synth.speak(u);
 }
 
-function _startTTS(postId) {
+// ── SMART VOICE PICKER ────────────────────────────────────────────────────
+function _pickBestVoice(lang) {
+  var synth = _getSynth();
+  if (!synth) return null;
+  var voices = synth.getVoices();
+  if (!voices.length) return null;
+  var isVI = lang === 'vi-VN';
+  function score(v) {
+    var n = (v.name || '').toLowerCase();
+    var l = (v.lang || '').toLowerCase();
+    var s = 0;
+    if (isVI) { if (l.startsWith('vi')) s += 100; }
+    else { if (l === 'en-us') s += 50; else if (l.startsWith('en')) s += 30; }
+    if (n.includes('studio'))   s += 90;
+    if (n.includes('neural2'))  s += 85;
+    if (n.includes('neural'))   s += 80;
+    if (n.includes('wavenet'))  s += 75;
+    if (n.includes('natural'))  s += 70;
+    if (n.includes('premium'))  s += 60;
+    if (n.includes('aria'))     s += 58;
+    if (n.includes('jenny'))    s += 56;
+    if (n.includes('enhanced')) s += 50;
+    if (n.includes('guy'))      s += 46;
+    if (n.includes('samantha')) s += 42;
+    if (n.includes('daniel'))   s += 40;
+    if (n.includes('google'))   s += 35;
+    if (n.includes('microsoft'))s += 30;
+    if (n.includes('espeak'))   s -= 60;
+    if (n.includes('festival')) s -= 60;
+    return s;
+  }
+  var best = null, bestScore = -999;
+  voices.forEach(function(v) { var sc = score(v); if (sc > bestScore) { bestScore = sc; best = v; } });
+  return best;
+}
+
+// Populate the voice <select> with available voices, pre-selecting the best
+var _manualVoice = null; // user override
+
+function _populateVoiceSelect() {
+  var sel = document.getElementById('audio-voice-select');
+  if (!sel) return;
+  var synth = _getSynth();
+  if (!synth) return;
+  var voices = synth.getVoices();
+  if (!voices.length) return;
+  var lang = (typeof currentLang !== 'undefined' && currentLang === 'vi') ? 'vi-VN' : 'en-US';
+  var bestVoice = _manualVoice || _pickBestVoice(lang);
+
+  // Filter to relevant voices: lang-matched first, then all
+  var relevant = voices.filter(function(v) {
+    var l = (v.lang||'').toLowerCase();
+    return lang === 'vi-VN' ? l.startsWith('vi') : l.startsWith('en');
+  });
+  if (!relevant.length) relevant = voices;
+
+  sel.innerHTML = '';
+  relevant.forEach(function(v) {
+    var opt = document.createElement('option');
+    opt.value = v.name;
+    // Clean up label: "Google US English" → "Google US English ★" if neural
+    var label = v.name.replace(/^Microsoft\s+/i,'MS ').replace(/\s+(Online.*|Natural.*)/i,' ✦');
+    var n = v.name.toLowerCase();
+    if (n.includes('neural') || n.includes('natural') || n.includes('wavenet') || n.includes('studio')) label += ' ✦';
+    opt.textContent = label;
+    if (bestVoice && v.name === bestVoice.name) opt.selected = true;
+    sel.appendChild(opt);
+  });
+}
+
+function setAudioVoice(sel) {
+  var synth = _getSynth();
+  if (!synth) return;
+  var voices = synth.getVoices();
+  _manualVoice = voices.find(function(v){ return v.name === sel.value; }) || null;
+  // Restart chunk at new voice if playing
+  if (_tts.speaking && _tts.postId) {
+    synth.cancel();
+    _tts.paused = false;
+    _setModalBtnsPlaying(true);
+    _speakChunk(_tts.chunkIndex);
+  }
+}
+
+// Re-populate when modal opens and voices are ready
+function _initVoiceSelect() {
+  var synth = _getSynth();
+  if (!synth) return;
+  if (synth.getVoices().length) { _populateVoiceSelect(); }
+  else { synth.onvoiceschanged = function() { _populateVoiceSelect(); }; }
+}
+
+
   var synth = _getSynth();
   if (!synth) { showToast('❌ Browser does not support Text-to-Speech'); return; }
 
-  // Cancel anything already queued
   synth.cancel();
   clearInterval(_tts.progressInterval);
   clearInterval(_tts.keepaliveTimer);
@@ -1455,14 +1553,17 @@ function _startTTS(postId) {
   var durEl = document.getElementById('modal-audio-dur');
   if (durEl) durEl.textContent = _fmtTime(text.length / (14 * _tts.speed));
 
-  // Chrome bug: speechSynthesis stops after ~15s unless we ping it
   _tts.keepaliveTimer = setInterval(function() {
     var s = _getSynth();
     if (s && _tts.speaking && !_tts.paused) { s.pause(); s.resume(); }
   }, 10000);
 
   _tts.progressInterval = setInterval(_updateProgress, 400);
-  _speakChunk(0);
+
+  // Voices may not be loaded yet on first call
+  var voices = synth.getVoices();
+  if (voices.length) { _speakChunk(0); }
+  else { synth.onvoiceschanged = function() { synth.onvoiceschanged = null; _speakChunk(0); }; }
 }
 
 // ── CARD AUDIO BUTTON ──────────────────────────────────────────────────────
