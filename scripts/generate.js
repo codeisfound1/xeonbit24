@@ -14,10 +14,11 @@ const crypto = require("crypto");
 
 // Public RSS feeds — no API key required, not blocked by robots
 const RSS_SOURCES = [
-  { name: "CoinDesk",       url: "https://www.coindesk.com/arc/outboundfeeds/rss/",  weight: 3 },
-  { name: "Cointelegraph",  url: "https://cointelegraph.com/rss",                    weight: 3 },
-  { name: "Decrypt",        url: "https://decrypt.co/feed",                           weight: 2 },
-  { name: "The Block",      url: "https://www.theblock.co/rss.xml",                  weight: 2 },
+  { name: "WatcherGuru",   url: "https://watcher.guru/news/feed",                       weight: 5 },
+  { name: "CoinDesk",      url: "https://www.coindesk.com/arc/outboundfeeds/rss/",       weight: 3 },
+  { name: "Cointelegraph", url: "https://cointelegraph.com/rss",                         weight: 2 },
+  { name: "Decrypt",       url: "https://decrypt.co/feed",                               weight: 2 },
+  { name: "The Block",     url: "https://www.theblock.co/rss.xml",                       weight: 2 },
 ];
 
 const TOP_N = 10;  // Số tin tổng hợp mỗi lần chạy
@@ -381,8 +382,20 @@ async function fetchTopNewsFromRss() {
     return true;
   });
 
-  // Sắp xếp mới nhất trước
-  unique.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  // Bỏ qua ảnh từ Cointelegraph (thường bị block hotlink)
+  unique.forEach(a => {
+    if (a.imageUrl && a.imageUrl.includes("cointelegraph.com")) {
+      a.imageUrl = null;
+    }
+  });
+
+  // Ưu tiên WatcherGuru lên đầu, sau đó mới nhất trước
+  unique.sort((a, b) => {
+    const aIsWG = (a.sourceName || "").toLowerCase().includes("watcher") ? 0 : 1;
+    const bIsWG = (b.sourceName || "").toLowerCase().includes("watcher") ? 0 : 1;
+    if (aIsWG !== bIsWG) return aIsWG - bIsWG;
+    return new Date(b.publishedAt) - new Date(a.publishedAt);
+  });
 
   const result = unique.slice(0, TOP_N);
   const sourceCount = RSS_SOURCES.length + (tgMessages.length > 0 ? 1 : 0);
@@ -412,7 +425,11 @@ async function enrichArticle(article) {
     }
 
     if (!article.imageUrl) {
-      article.imageUrl = extractImage(html, article.url);
+      const img = extractImage(html, article.url);
+      // Bỏ qua ảnh Cointelegraph (thường bị block hotlink)
+      if (img && !img.includes("cointelegraph.com")) {
+        article.imageUrl = img;
+      }
     }
 
     // Content snippet cho AI
@@ -704,9 +721,17 @@ async function main() {
     catch (e) { console.warn("  ⚠️  Skipping:", e.message); enriched.push(article); }
   }
 
-  // ─ Bước 4: Chọn ảnh đại diện (bài đầu tiên có ảnh) ─
-  const representativeArticle = enriched.find(a => a.imageUrl) || enriched[0];
-  console.log("\n🖼️   Cover image:", representativeArticle.imageUrl || "(none)");
+  // ─ Bước 4: Chọn ảnh đại diện ─
+  // Ưu tiên ảnh không phải Cointelegraph (bị block hotlink)
+  const representativeArticle =
+    enriched.find(a => a.imageUrl && !a.imageUrl.includes("cointelegraph.com")) ||
+    enriched.find(a => a.imageUrl) ||
+    enriched[0];
+  const coverImageUrl = representativeArticle.imageUrl &&
+    !representativeArticle.imageUrl.includes("cointelegraph.com")
+      ? representativeArticle.imageUrl
+      : null;
+  console.log("\n🖼️   Cover image:", coverImageUrl || "(none — Cointelegraph skipped or no image)");
 
   // ─ Bước 5: Groq tổng hợp ─
   const generated = await generateRoundupWithGroq(enriched);
@@ -716,10 +741,17 @@ async function main() {
   const tags = (generated.tags && generated.tags.length) ? generated.tags : ["bitcoin", "crypto news", "market", "blockchain"];
 
   let imageObj = null;
-  if (representativeArticle.imageUrl) {
-    const altText    = (generated.title || "Top tin crypto").slice(0, 120);
-    const cloudResult = await uploadToCloudinary(representativeArticle.imageUrl, slug, altText, tags);
-    imageObj = cloudResult || { url: representativeArticle.imageUrl, rawUrl: representativeArticle.imageUrl, alt: altText };
+  if (coverImageUrl) {
+    const altText     = (generated.title || "Top tin crypto").slice(0, 120);
+    const cloudResult = await uploadToCloudinary(coverImageUrl, slug, altText, tags);
+    // Nếu Cloudinary thành công → dùng Cloudinary URL
+    // Nếu thất bại → chỉ dùng URL gốc nếu KHÔNG phải Cointelegraph
+    if (cloudResult) {
+      imageObj = cloudResult;
+    } else {
+      console.warn("⚠️  Cloudinary failed — using original URL (non-Cointelegraph)");
+      imageObj = { url: coverImageUrl, rawUrl: coverImageUrl, alt: altText };
+    }
   }
 
   // Thêm danh sách nguồn vào cuối bài (không dùng link để tối ưu SEO)
