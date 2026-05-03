@@ -1628,7 +1628,7 @@ function _initVoiceSelect() {
   else { synth.onvoiceschanged = function() { _populateVoiceSelect(); }; }
 }
 
-
+function _startTTS(postId) {
   var synth = _getSynth();
   if (!synth) { showToast('❌ Browser does not support Text-to-Speech'); return; }
 
