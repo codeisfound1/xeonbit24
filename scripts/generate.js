@@ -14,7 +14,7 @@ const crypto = require("crypto");
 
 // Public RSS feeds — no API key required, not blocked by robots
 const RSS_SOURCES = [
-  { name: "WatcherGuru",   url: "https://watcher.guru/news/feed",                       weight: 5 },
+  //{ name: "WatcherGuru",   url: "https://watcher.guru/news/feed",                       weight: 5 },
   { name: "CoinDesk",      url: "https://www.coindesk.com/arc/outboundfeeds/rss/",       weight: 3 },
   { name: "Cointelegraph", url: "https://cointelegraph.com/rss",                         weight: 2 },
   { name: "Decrypt",       url: "https://decrypt.co/feed",                               weight: 2 },
@@ -43,8 +43,8 @@ const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID   = process.env.TELEGRAM_CHAT_ID;
 
 // Telegram — đọc kênh public @WatcherGuru qua RSS (không cần MTProto/session)
-const WATCHER_GURU_CHANNEL = "WatcherGuru";
-const WATCHER_GURU_LIMIT   = 3; // Số tin mới nhất cần lấy
+const WATCHER_GURU_CHANNEL = process.env.WATCHER_GURU_CHANNEL; //"WatcherGuru";
+const WATCHER_GURU_LIMIT   = process.env.WATCHER_GURU_LIMIT;//3; // Số tin mới nhất cần lấy
 
 if (!GROQ_KEY) {
   console.error("❌ Missing GROQ_API_KEY");
