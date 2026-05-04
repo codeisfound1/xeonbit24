@@ -1217,7 +1217,7 @@ function openPost(id) {
   document.title = esc(post.title) + ' – Xeonbit24';
  
   document.getElementById('modal-content').innerHTML =
-    '<div class="modal-image"><img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" onerror="this.parentElement.style.background=\'var(--bg4)\'"></div>' +
+    '<div class="modal-image"><img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" loading="lazy" decoding="async" onerror="this.parentElement.style.background=\'var(--bg4)\'"></div>' +
     '<div class="modal-hero">' +
     '<div class="modal-tags">'+tags+'</div>' +
     '<h1 class="modal-title">'+esc(post.title)+'</h1>' +
