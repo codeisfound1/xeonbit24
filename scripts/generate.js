@@ -11,8 +11,8 @@ const path   = require("path");
 const crypto = require("crypto");
 
 // ─── CONFIG ────────────────────────────────────────────────────────────────
-
 // Public RSS feeds — no API key required, not blocked by robots
+const RSS_SOURCES = [
   { name: "CoinDesk",      url: "https://www.coindesk.com/arc/outboundfeeds/rss/",       weight: 3 },
   { name: "Cointelegraph", url: "https://cointelegraph.com/rss",                         weight: 2 },
   { name: "Decrypt",       url: "https://decrypt.co/feed",                               weight: 2 },
