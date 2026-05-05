@@ -12,6 +12,7 @@
   <meta name="description" content="Xeonbit24 aggregates crypto & blockchain news from trusted global sources — AI-powered analysis and insights delivered daily."/>
   <meta name="keywords" content="xeonbit, xeonbit24, bitcoin, ethereum, crypto, blockchain, defi, altcoin, btc, eth, crypto blockchain news discussion, xeonbit project, xeonbit official"/>
   <meta name="robots" content="index, follow"/>
+  <link rel="canonical" href="https://xeonbit24.com/"/>
   <meta name="language" content="English"/>
 
   <!-- ═══ SEO: Open Graph ═══ -->
@@ -39,7 +40,8 @@
   <!-- Fonts -->
 
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Barlow:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Barlow:wght@600;700;800&display=swap" rel="stylesheet"/>
 
   <style>
     :root {
@@ -91,6 +93,7 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body { font-family: var(--sans); background: var(--bg); color: var(--text); min-height: 100vh; font-size: 15px; line-height: 1.7; overflow-x: hidden; }
+    .post-card { content-visibility: auto; contain-intrinsic-size: 0 420px; }
  
     /* ── TICKER ───────────────────────────────── */
     .ticker-wrap { background: var(--bg2); border-bottom: 1px solid var(--border); overflow: hidden; height: 38px; display: flex; align-items: center; position: relative; z-index: 50; }
@@ -800,7 +803,11 @@ function fmtMcap(n) {
 }
  
 // ── RENDER PRICE CARDS ────────────────────────────────────────────────────
+var _lastPriceHash = '';
 function renderPriceCards() {
+  var newHash = CRYPTO_DATA.map(function(c){ return c.sym+c.price+c.change; }).join('|');
+  if (newHash === _lastPriceHash) return;
+  _lastPriceHash = newHash;
   var html = CRYPTO_DATA.map(function(c) {
     var cls   = c.up ? 'up' : 'dn';
     var arrow = c.up ? '▲' : '▼';
@@ -940,6 +947,7 @@ var allPosts = [];
 var POSTS_PER_PAGE = 12;
 var currentPage    = 1;       // how many pages worth have been rendered
 var visiblePosts   = [];      // the currently-filtered list (all tags or one tag)
+var _postsHash     = '';      // fingerprint to skip redundant re-renders
  
 // ── INIT ───────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
@@ -998,6 +1006,16 @@ document.addEventListener('DOMContentLoaded', function() {
     // Refresh intervals
     priceRefreshInterval = setInterval(fetchLivePrices, 30000);
     setInterval(fetchGlobalData, 300000);
+    // Pause price polling when tab is hidden to save resources
+    document.addEventListener('visibilitychange', function() {
+      if (document.hidden) {
+        clearInterval(priceRefreshInterval);
+        priceRefreshInterval = null;
+      } else if (!priceRefreshInterval) {
+        fetchLivePrices();
+        priceRefreshInterval = setInterval(fetchLivePrices, 30000);
+      }
+    });
   });
 });
  
@@ -1036,13 +1054,12 @@ var _POSTS_CACHE_TS  = 'xb24_posts_ts_v1';
 var _POSTS_CACHE_TTL = 5 * 60 * 1000; // 5 minutes
 
 function _sortPosts(posts) {
-  // WatcherGuru first, then by date desc
-  return posts.slice().sort(function(a, b) {
-    var aWG = (a.sourceTitle || '').toLowerCase().includes('watcher') ? 0 : 1;
-    var bWG = (b.sourceTitle || '').toLowerCase().includes('watcher') ? 0 : 1;
-    if (aWG !== bWG) return aWG - bWG;
-    return new Date(b.publishedAt) - new Date(a.publishedAt);
+  // Parse dates once, sort by date desc (latest first)
+  var withTs = posts.map(function(p) {
+    return { p: p, ts: p.publishedAt ? new Date(p.publishedAt).getTime() : 0 };
   });
+  withTs.sort(function(a, b) { return b.ts - a.ts; });
+  return withTs.map(function(x) { return x.p; });
 }
 
 function loadPosts() {
@@ -1061,14 +1078,18 @@ function loadPosts() {
     }
   } catch(e) { /* ignore */ }
 
-  // 2. Always fetch fresh (cache-busted)
-  return fetch('./posts.json?t=' + Date.now(), { cache: 'no-store' })
+  // 2. Fetch fresh — let CDN/browser cache handle revalidation (no cache-bust)
+  return fetch('./posts.json', { cache: 'no-cache' })
     .then(function(r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
       return r.json();
     })
     .then(function(data) {
       var raw = data.posts || [];
+      // Skip re-render if content fingerprint unchanged
+      var newHash = raw.length + '|' + (raw[0] && raw[0].id || '');
+      if (_postsHash === newHash && allPosts.length > 0) return;
+      _postsHash = newHash;
       // Save to cache
       try {
         localStorage.setItem(_POSTS_CACHE_KEY, JSON.stringify(raw));
@@ -1153,12 +1174,40 @@ function _updateLoadMoreBtn() {
   }
 }
  
+// ── CACHED FORMATTERS ──────────────────────────────────────────────────────
+var _cardDateFmt = null;
+var _modalDateFmt = null;
+function _getCardDateFmt() {
+  if (!_cardDateFmt || _cardDateFmt._lang !== currentLang) {
+    var opts = t('card_date_opts');
+    _cardDateFmt = new Intl.DateTimeFormat(t('date_locale'), opts);
+    _cardDateFmt._lang = currentLang;
+  }
+  return _cardDateFmt;
+}
+function _getModalDateFmt() {
+  if (!_modalDateFmt || _modalDateFmt._lang !== currentLang) {
+    var opts = t('modal_date_opts');
+    _modalDateFmt = new Intl.DateTimeFormat(t('date_locale'), opts);
+    _modalDateFmt._lang = currentLang;
+  }
+  return _modalDateFmt;
+}
+
+// Memoize image URL lookups
+var _imgCache = {};
+function _getImageCached(post) {
+  var key = post.id;
+  if (!_imgCache[key]) _imgCache[key] = getImageForPost(post);
+  return _imgCache[key];
+}
+
 function cardHTML(post) {
-  var date = new Date(post.publishedAt).toLocaleDateString(t('date_locale'), t('card_date_opts'));
+  var date = _getCardDateFmt().format(new Date(post.publishedAt));
   var tags = (post.tags||[]).slice(0,2).map(function(t,i){
     return '<span class="card-tag'+(i>0?' secondary':'')+'">' + esc(t) + '</span>';
   }).join('');
-  var imgSrc = getImageForPost(post);
+  var imgSrc = _getImageCached(post);
   var imgAlt = getAltForPost(post);
  
   var isWG = (post.sourceTitle || '').toLowerCase().includes('watcher');
@@ -1183,9 +1232,13 @@ function cardHTML(post) {
 }
  
 // ── TAG FILTER ─────────────────────────────────────────────────────────────
+var _lastTagsHash = '';
 function renderTagFilters() {
   var tags = new Set();
   allPosts.forEach(function(p){ (p.tags||[]).forEach(function(t){tags.add(t);}); });
+  var tagHash = Array.from(tags).sort().join('|');
+  if (tagHash === _lastTagsHash) return; // nothing changed
+  _lastTagsHash = tagHash;
   var container = document.getElementById('tag-filters');
   container.querySelectorAll('[data-tag]:not([data-tag="all"])').forEach(function(b){b.remove();});
   var allBtn = container.querySelector('[data-tag="all"]');
@@ -1199,6 +1252,7 @@ function renderTagFilters() {
 }
  
 function filterByTag(tag, btn) {
+  if (currentFilter === tag) return; // no-op if already active
   currentFilter = tag;
   document.querySelectorAll('.tag-filter').forEach(function(b){b.classList.remove('active');});
   btn.classList.add('active');
@@ -1210,14 +1264,14 @@ function filterByTag(tag, btn) {
 function openPost(id) {
   var post = allPosts.find(function(p){return String(p.id)===String(id);});
   if (!post) return;
-  var date = new Date(post.publishedAt).toLocaleDateString(t('date_locale'), t('modal_date_opts'));
+  var date = _getModalDateFmt().format(new Date(post.publishedAt));
   var tags = (post.tags||[]).map(function(t,i){return '<span class="modal-tag'+(i>0?' sec':'')+'">'+esc(t)+'</span>';}).join('');
   var imgSrc = getImageForPost(post);
   var imgAlt = getAltForPost(post);
   document.title = esc(post.title) + ' – Xeonbit24';
  
   document.getElementById('modal-content').innerHTML =
-    '<div class="modal-image"><img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" loading="lazy" decoding="async" onerror="this.parentElement.style.background=\'var(--bg4)\'"></div>' +
+    '<div class="modal-image"><img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" onerror="this.parentElement.style.background=\'var(--bg4)\'"></div>' +
     '<div class="modal-hero">' +
     '<div class="modal-tags">'+tags+'</div>' +
     '<h1 class="modal-title">'+esc(post.title)+'</h1>' +
@@ -1913,7 +1967,7 @@ function saveEditedPost(){
   var tags=tagsRaw?tagsRaw.split(',').map(function(t){return t.trim();}).filter(Boolean):[];
   queueEdit(id,{title:title,summary:summary,tags:tags,content:content,sourceUrl:sourceUrl});
   var idx=allPosts.findIndex(function(p){return p.id===id;});
-  if(idx!==-1) allPosts[idx]=Object.assign({},allPosts[idx],{title:title,summary:summary,tags:tags,content:content,sourceUrl:sourceUrl});
+  if(idx!==-1) { allPosts[idx]=Object.assign({},allPosts[idx],{title:title,summary:summary,tags:tags,content:content,sourceUrl:sourceUrl}); delete _imgCache[id]; }
   renderPosts(allPosts); renderTagFilters();
   setEditStatus('success','✅ Đã thêm vào queue!');
   setTimeout(function(){closeEdit();showToast('📝 Đã queue chỉnh sửa — chưa lên GitHub');},900);
@@ -2122,9 +2176,14 @@ function applyLang(lang) {
   document.querySelectorAll('[data-i18n-title]').forEach(function(el) {
     el.title = t(el.getAttribute('data-i18n-title'));
   });
-  // Re-render dynamic content
-  if (typeof renderPosts === 'function' && typeof allPosts !== 'undefined') renderPosts(currentFilter === 'all' ? allPosts : allPosts.filter(function(p){return(p.tags||[]).includes(currentFilter);}));
-  if (typeof setPriceStatus === 'function') setPriceStatus(lastPriceStatus || 'ok');
+  // Invalidate caches that depend on locale
+  _cardDateFmt = null;
+  _modalDateFmt = null;
+  // Re-render dynamic content (deferred to avoid blocking paint)
+  requestAnimationFrame(function() {
+    if (typeof renderPosts === 'function' && typeof allPosts !== 'undefined') renderPosts(currentFilter === 'all' ? allPosts : allPosts.filter(function(p){return(p.tags||[]).includes(currentFilter);}));
+    if (typeof setPriceStatus === 'function') setPriceStatus(lastPriceStatus || 'ok');
+  });
 }
  
 function toggleLang() {
