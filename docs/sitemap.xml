@@ -2,9 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-5-2026-at-1036-am-ict-bitcoin-surges-amid-regulatory-clarity</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777952201/xeonbit24/posts/crypto-roundup-may-5-2026-at-1036-am-ict-bitcoin-surges-amid-regulatory-clarity.jpg</image:loc>
+      <image:title>Crypto Roundup May 5, 2026 at 10:36 AM (ICT): Bitcoin Surges Amid Regulatory Clarity</image:title>
+      <image:caption>Crypto Roundup May 5, 2026 at 10:36 AM (ICT): Bitcoin Surges Amid Regulatory Clarity</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-4-2026-at-0818-pm-ict-bitcoin-stalls-near-80000-krakens-paren</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777900702/xeonbit24/posts/crypto-roundup-may-4-2026-at-0818-pm-ict-bitcoin-stalls-near-80000-krakens-paren.jpg</image:loc>
+      <image:title>Crypto Roundup May 4, 2026 at 08:18 PM (ICT): Bitcoin Stalls Near $80,000, Kraken's Parent Company Closes $550 Million Deal</image:title>
+      <image:caption>Crypto Roundup May 4, 2026 at 08:18 PM (ICT): Bitcoin Stalls Near $80,000, Kraken's Parent Company Closes $550 Million D</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-4-2026-at-1055-am-ict-bitcoin-purchases-paused-and-regulatory</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777866946/xeonbit24/posts/crypto-roundup-may-4-2026-at-1055-am-ict-bitcoin-purchases-paused-and-regulatory.jpg</image:loc>
+      <image:title>Crypto Roundup May 4, 2026 at 10:55 AM (ICT): Bitcoin Purchases Paused and Regulatory Developments</image:title>
+      <image:caption>Crypto Roundup May 4, 2026 at 10:55 AM (ICT): Bitcoin Purchases Paused and Regulatory Developments</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-may-4-2026-at-0726-am-ict-bitcoin-price-nears-79k-regulatory-acti</loc>
