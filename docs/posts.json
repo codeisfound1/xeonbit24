@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1778645025458",
+      "title": "Crypto Roundup May 13, 2026 at 11:03 AM (ICT): Recovery and Innovation",
+      "summary": "The crypto market sees a mix of recovery and innovation with Kelp DAO and Aave resuming rsETH operations after a major exploit, while JPMorgan files to launch a tokenized money market fund on Ethereum. Meanwhile, Bermuda transitions key financial services to the Stellar blockchain, and the first-ever Hyperliquid ETF launches with a solid first day of trading.",
+      "content": "<p>The cryptocurrency market is witnessing a significant blend of recovery efforts and innovative developments. This roundup covers the top 10 news articles from May 13, 2026, highlighting key events and trends that are shaping the crypto landscape.</p><h2>1. Kelp DAO and Aave Resume rsETH Operations</h2><p>Kelp DAO and Aave are resuming rsETH operations after the $292 million exploit in April, suspected to be the work of North Korea's Lazarus Group. This move indicates a step towards recovery and reinforces the importance of security measures in DeFi platforms.</p><h2>2. JPMorgan to Launch Tokenized Money Market Fund</h2><p>JPMorgan has filed to launch a tokenized money market fund on Ethereum, marking a significant move by a traditional banking giant into the crypto space. This development underscores the growing interest of institutional players in tokenization and decentralized finance.</p><h2>3. Bermuda Transitions to Stellar Blockchain</h2><p>Bermuda is transitioning its key financial services to the Stellar blockchain, a move that reflects the increasing adoption of blockchain technology by governments and financial institutions. This transition is expected to enhance efficiency, security, and transparency in financial transactions.</p><h2>4. Hackers Insert Malware into Mistral AI Software</h2><p>A recent cybersecurity incident involved hackers inserting malware into a Mistral AI software download. This highlights the ongoing risks of cyberattacks in the tech and crypto sectors, emphasizing the need for robust security protocols.</p><h2>5. First-Ever Hyperliquid ETF Launches</h2><p>The first-ever Hyperliquid ETF has launched, offering investors exposure to the HYPE token without directly owning the cryptocurrency. This innovation expands the range of investment products available in the crypto market, catering to diverse investor preferences.</p><h2>6. JPMorgan Files for Tokenized Money Market Fund on Ethereum</h2><p>JPMorgan's filing for a tokenized money market fund on Ethereum follows a similar move by Morgan Stanley, indicating a competitive landscape among traditional financial institutions entering the crypto space. This trend suggests a growing recognition of the potential of blockchain and tokenization in financial services.</p><h2>7. Bitcoin Wallet Firm Exodus Expands Payments Push</h2><p>Exodus, a publicly traded Bitcoin wallet firm, is expanding its focus beyond wallet services to the full crypto payments stack. This strategic move reflects the evolving nature of crypto companies, adapting to market demands and exploring new revenue streams.</p><h2>8. JPMorgan Enters Tokenization Race</h2><p>JPMorgan's entry into the tokenization space, with its filing for a new tokenized fund, heats up the competition among Wall Street institutions. This race towards tokenization signifies a broader acceptance of digital assets and blockchain technology in traditional finance.</p><h2>9. Senate Confirms Kevin Warsh as Federal Reserve Governor</h2><p>The US Senate has confirmed Kevin Warsh as a Federal Reserve governor, a decision that may have implications for the central bank's stance on cryptocurrency and financial regulation. The confirmation process and the expected chair vote reflect the complex interplay between political and financial sectors.</p><h2>10. Benchmark Reiterates Buy Rating on Coinbase Stock</h2><p>Despite lackluster Q1 earnings, Benchmark has reiterated its Buy rating on Coinbase stock, raising the price target to $270. This analyst sentiment suggests optimism about Coinbase's potential for growth and recovery in the crypto market.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a phase of recovery and innovation, with various players making significant moves. The transition of financial services to blockchain, the launch of new investment products, and the entry of traditional institutions into the crypto space are all indicative of a maturing market. However, cybersecurity risks and regulatory developments continue to be crucial factors influencing market dynamics.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the recovery efforts post-exploits, the innovative launches and expansions by crypto and traditional financial players, and the growing trend of tokenization and blockchain adoption. As the crypto market continues to evolve, it's essential for investors and enthusiasts to stay informed about these developments and their potential impacts on the market.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses — <em>The Block</em></li>\n<li>[2] JPMorgan to launch tokenized money market fund for stablecoin issuers — <em>Cointelegraph</em></li>\n<li>[3] Bermuda to transition ‘key’ financial services to Stellar blockchain — <em>Cointelegraph</em></li>\n<li>[4] Hackers Insert Malware Into Mistral AI Software Download — <em>Decrypt</em></li>\n<li>[5] First-ever Hyperliquid ETF launches, posts ‘very solid’ first day of trading: analyst — <em>The Block</em></li>\n<li>[6] JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum — <em>Decrypt</em></li>\n<li>[7] Bitcoin Wallet Firm Exodus Expands Payments Push, Sells $87 Million in BTC — <em>Decrypt</em></li>\n<li>[8] JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up — <em>CoinDesk</em></li>\n<li>[9] Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected — <em>Cointelegraph</em></li>\n<li>[10] Benchmark joins others in reiterating Buy rating on Coinbase stock despite lackluster Q1 earnings — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "crypto news",
+        "jpmorgan",
+        "stellar",
+        "tokenization"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1778645025/xeonbit24/posts/crypto-roundup-may-13-2026-at-1103-am-ict-recovery-and-innovation.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1778645025/xeonbit24/posts/crypto-roundup-may-13-2026-at-1103-am-ict-recovery-and-innovation.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-may-13-2026-at-1103-am-ict-recovery-and-innovation",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup May 13, 2026 at 11:03 AM (ICT): Recovery and Innovation"
+      },
+      "sourceUrl": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
+          "url": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+          "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bermuda to transition ‘key’ financial services to Stellar blockchain",
+          "url": "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hackers Insert Malware Into Mistral AI Software Download",
+          "url": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
+          "source": "Decrypt"
+        },
+        {
+          "title": "First-ever Hyperliquid ETF launches, posts ‘very solid’ first day of trading: analyst",
+          "url": "https://www.theblock.co/post/401047/first-ever-hyperliquid-etf-launches-posts-very-solid-first-day-of-trading-analyst?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum",
+          "url": "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin Wallet Firm Exodus Expands Payments Push, Sells $87 Million in BTC",
+          "url": "https://decrypt.co/367663/bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-million-btc",
+          "source": "Decrypt"
+        },
+        {
+          "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
+          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Benchmark joins others in reiterating Buy rating on Coinbase stock despite lackluster Q1 earnings",
+          "url": "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-05-13T04:03:45.459Z",
+      "slug": "crypto-roundup-may-13-2026-at-1103-am-ict-recovery-and-innovation"
+    },
+    {
       "id": "1778593680059",
       "title": "Crypto Roundup May 12, 2026 at 08:47 PM (ICT): EBay Rejects GameStop Bid, Kraken Partners with Franklin Templeton, and North Korean Hackers Steal $2.1B",
       "summary": "Ebays rejection of GameStops $56 billion bid puts bitcoin exposure back in focus, while Kraken partners with Franklin Templeton to develop on-chain investment products. Meanwhile, North Korean crypto hackers stole $2.1 billion in 2025, and labor unions oppose a pending Senate crypto bill. The crypto market is experiencing a surge in adoption, with Istanbul Blockchain Week returning in June 2026.",
@@ -2830,7 +2911,17 @@
     "https://cointelegraph.com/press-releases/istanbul-blockchain-week-returns-in-june-2026-amid-surging-crypto-adoption-in-trkiye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
     "https://www.theblock.co/post/400906/bernstein-reiterates-67-figure-target-after-q1-loan-volumes-double-sees-72-upside-from-tokenization-thesis?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss"
+    "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
+    "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
+    "https://www.theblock.co/post/401047/first-ever-hyperliquid-etf-launches-posts-very-solid-first-day-of-trading-analyst?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
+    "https://decrypt.co/367663/bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-million-btc",
+    "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+    "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -2867,6 +2958,7 @@
     "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc|https://www.theblock.co/post/400663/bitcoin-briefly-tops-82000-sui-jumps-25?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/400659/bitcoin-whale-moves-41-million?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/400850/ark-invest-buys-circle-shares-stock-jumps?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
-    "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus|https://www.coindesk.com/business/2026/05/12/kraken-parent-franklin-templeton-to-develop-onchain-investment-products|https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security"
+    "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus|https://www.coindesk.com/business/2026/05/12/kraken-parent-franklin-templeton-to-develop-onchain-investment-products|https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
+    "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
