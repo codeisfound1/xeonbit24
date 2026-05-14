@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-14-2026-at-1102-am-ict-bitcoin-rally-cut-short-regulatory-dev</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1778731351/xeonbit24/posts/crypto-roundup-may-14-2026-at-1102-am-ict-bitcoin-rally-cut-short-regulatory-dev.jpg</image:loc>
+      <image:title>Crypto Roundup May 14, 2026 at 11:02 AM (ICT): Bitcoin Rally Cut Short, Regulatory Developments, and Market Growth</image:title>
+      <image:caption>Crypto Roundup May 14, 2026 at 11:02 AM (ICT): Bitcoin Rally Cut Short, Regulatory Developments, and Market Growth</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-may-13-2026-at-0901-pm-ict-bitcoin-price-dips-and-market-trends</loc>
