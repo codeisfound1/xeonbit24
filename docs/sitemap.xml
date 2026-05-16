@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-16-2026-at-1049-am-ict-regulatory-clarity-and-market-volatili</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1778903381/xeonbit24/posts/crypto-roundup-may-16-2026-at-1049-am-ict-regulatory-clarity-and-market-volatili.jpg</image:loc>
+      <image:title>Crypto Roundup May 16, 2026 at 10:49 AM (ICT): Regulatory Clarity and Market Volatility</image:title>
+      <image:caption>Crypto Roundup May 16, 2026 at 10:49 AM (ICT): Regulatory Clarity and Market Volatility</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-may-15-2026-at-0823-pm-ict-regulatory-clarity-and-market-volatili</loc>
