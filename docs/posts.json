@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1779078004795",
+      "title": "Crypto Roundup May 18, 2026 at 11:20 AM (ICT): Bitcoin Slides and Regulatory Focus",
+      "summary": "Bitcoin's price has dropped below $77,000 due to oil shock and Treasury yields, while regulatory focus is increasing with developments like KuCoin Australia's 'Evolution' and Grayscale's amended BNB ETF filing. The crypto market is also seeing exploits, such as the Verus-Ethereum bridge drain, and new technologies like Arc, a stablecoin blockchain from USDC issuer Circle.",
+      "content": "<p>The cryptocurrency market is experiencing a mix of price fluctuations, regulatory developments, and technological advancements. In this roundup, we will cover the top 10 latest crypto news articles, highlighting common trends and connections between events.</p><h2>1. Bitcoin Slides Under $77,000</h2><p>According to CoinDesk, Bitcoin's price has dropped below $77,000 due to oil shock and Treasury yields hitting risk assets. Despite this, long-term holders are still holding tight, and exchange balances remain near six-year lows. However, underwater short-term holders leave BTC vulnerable to macro shocks.</p><h2>2. Bitcoin Drops Below $77,000 on Trump’s Iran Threat</h2><p>The Block reports that Bitcoin's price drop is also attributed to Trump's Iran threat, renewing inflation fears. Analysts are concerned that high oil prices could fuel inflation, leading to a potential interest rate hike by the Fed.</p><h2>3. Pre-IPO Perps: Crypto’s Next Big Market?</h2><p>The Block discusses the concept of pre-IPO perpetual futures, which had their proof of concept moment with the Cerebras market on TradeXYZ. This new market could potentially bring more investors into the crypto space.</p><h2>4. Verus-Ethereum Bridge Exploit</h2><p>The Block reports that the Verus-Ethereum bridge has been drained for 103.6 tBTC, 1,625 ETH, and 147,000 USDC. This exploit highlights the importance of security in the crypto space.</p><h2>5. Grayscale and VanEck Amend US Spot BNB ETF Filings</h2><p>Cointelegraph reports that Grayscale and VanEck have amended their US spot BNB ETF filings, stepping closer to a potential launch. This development shows the increasing regulatory focus in the crypto market.</p><h2>6. KuCoin Australia’s ‘Evolution’</h2><p>Decrypt reports on KuCoin Australia's 'Evolution', which showcases the exchange's regulatory focus and Mastercard launch. The KuCard rollout enables users to make seamless payments to Mastercard merchants using USDC.</p><h2>7. Crypto Today: Daily Trends and Events</h2><p>Cointelegraph provides an overview of the latest crypto news, including daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3, and crypto regulation.</p><h2>8. Figure's Q1 Results Show Uniqueness of Blockchain Marketplaces</h2><p>Cointelegraph reports that Figure Technology Solutions' Q1 results demonstrate the uniqueness of blockchain marketplaces. Bernstein analysts see this as a proof of concept for the potential of blockchain-based lending platforms.</p><h2>9. Alleged Forsage Co-Founder Extradited</h2><p>The Block reports that the alleged co-founder of Forsage has been extradited from Thailand and pleads not guilty in a $340 million Ponzi case. This development highlights the importance of regulatory oversight in the crypto space.</p><h2>10. What Is Arc?</h2><p>Decrypt explains the concept of Arc, a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance. This new technology has the potential to bring more stability and security to the crypto market.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a mix of price fluctuations, regulatory developments, and technological advancements. While Bitcoin's price drop is a concern, the increasing regulatory focus and new technologies like Arc and pre-IPO perps show a positive trend for the market. As the market continues to evolve, it is essential to stay informed about the latest developments and trends.</p><h2>Key Takeaways</h2><p>In conclusion, the crypto market is experiencing a mix of price fluctuations, regulatory developments, and technological advancements. The key takeaways from this roundup are: Bitcoin's price drop is attributed to oil shock and Treasury yields, regulatory focus is increasing with developments like KuCoin Australia's 'Evolution' and Grayscale's amended BNB ETF filing, and new technologies like Arc and pre-IPO perps are emerging. As the market continues to evolve, it is essential to stay informed about the latest developments and trends.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets — <em>CoinDesk</em></li>\n<li>[2] Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts — <em>The Block</em></li>\n<li>[3] The Funding: As SpaceX’s listing nears, are pre-IPO perps crypto’s next big market? — <em>The Block</em></li>\n<li>[4] Ongoing exploit drains $11.6 million from Verus-Ethereum bridge: Blockaid — <em>The Block</em></li>\n<li>[5] Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch — <em>Cointelegraph</em></li>\n<li>[6] KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch — <em>Decrypt</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces — <em>Cointelegraph</em></li>\n<li>[9] Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case — <em>The Block</em></li>\n<li>[10] What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "stablecoin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1779078004/xeonbit24/posts/crypto-roundup-may-18-2026-at-1120-am-ict-bitcoin-slides-and-regulatory-focus.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1779078004/xeonbit24/posts/crypto-roundup-may-18-2026-at-1120-am-ict-bitcoin-slides-and-regulatory-focus.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-may-18-2026-at-1120-am-ict-bitcoin-slides-and-regulatory-focus",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup May 18, 2026 at 11:20 AM (ICT): Bitcoin Slides and Regulatory Focus"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin slides under $77,000 as oil shock and Treasury yields hit risk assets",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin drops below $77,000 on Trump’s Iran threat, renewed inflation fears: analysts",
+          "url": "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "The Funding: As SpaceX’s listing nears, are pre-IPO perps crypto’s next big market?",
+          "url": "https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ongoing exploit drains $11.6 million from Verus-Ethereum bridge: Blockaid",
+          "url": "https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",
+          "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch",
+          "url": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces",
+          "url": "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case",
+          "url": "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+          "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-05-18T04:20:04.795Z",
+      "slug": "crypto-roundup-may-18-2026-at-1120-am-ict-bitcoin-slides-and-regulatory-focus"
+    },
+    {
       "id": "1779022302793",
       "title": "Crypto Roundup May 17, 2026 at 07:51 PM (ICT): Institutional Demand and Regulatory Clarity",
       "summary": "The crypto market is seeing increased institutional demand with Japan's largest brokerages planning to launch crypto investment trusts, while regulatory clarity is on the horizon with the US CLARITY Act advancing in the Senate. Meanwhile, Bitcoin's price has slid below $79K due to macro fears, but fixed-income outflows could trigger a medium-term rebound. Italy's largest bank has more than doubled its crypto holdings to $235M in Q1 2026, making first-time moves into Ethereum and XRP.",
@@ -3729,7 +3810,16 @@
     "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
-    "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets",
+    "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
+    "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -3776,6 +3866,7 @@
     "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown|https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress|https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private|https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts|https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private|https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts|https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets|https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss"
   ]
 }
