@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1779115822527",
+      "title": "Crypto Roundup May 18, 2026 at 09:50 PM (ICT): Market Shifts and Innovations",
+      "summary": "The crypto market experiences a downturn as Bitcoin slips below $77,000, while Hyperliquid's HYPE token jumps ahead of high-profile tech IPOs and Vitalik Buterin discusses AI's potential to enhance crypto security. Standard Chartered acquires Zodia Custody's crypto business, and Deploi launches direct issuance infrastructure for private credit on Polygon.",
+      "content": "<p>The crypto market has witnessed significant developments over the past 24 hours, with a mix of positive and negative news. Despite the overall downturn, certain tokens and projects have shown resilience and innovation, highlighting the dynamic nature of the crypto space.</p><h2>1. Hyperliquid Defies Market Downturn</h2><p>Hyperliquid's HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs, including SpaceX, Anthropic, and OpenAI. This surge in interest could be a sign of growing confidence in the potential of these companies and the broader tech industry.</p><h2>2. Bitcoin Slips Below $77,000</h2><p>Bitcoin has given up all of its May gains, slipping below $77,000. Despite a $2 billion purchase by Strategy, the crypto market's overall sentiment remains bearish. This decline could be attributed to various factors, including profit-taking and market uncertainty.</p><h2>3. Vitalik Buterin on AI and Crypto Security</h2><p>Vitalik Buterin, co-founder of Ethereum, has expressed his views on the potential of AI to enhance crypto security. According to Buterin, AI-assisted \n<h2>Sources</h2>\n<ol>\n<li>[1] Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom — <em>Decrypt</em></li>\n<li>[2] Live markets: Bitcoin gives up all of May's gains, slipping below $77,000 — <em>CoinDesk</em></li>\n<li>[3] Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure — <em>CoinDesk</em></li>\n<li>[4] Standard Chartered to absorb Zodia Custody’s crypto business into its own operations: Bloomberg — <em>The Block</em></li>\n<li>[5] HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto — <em>The Block</em></li>\n<li>[6] Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD — <em>Cointelegraph</em></li>\n<li>[7] Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC — <em>Cointelegraph</em></li>\n<li>[8] Iran Pushes $10B Bitcoin Insurance Plan for Strait of Hormuz: Report — <em>Decrypt</em></li>\n<li>[9] Kraken parent Payward's Q1 revenue climbs despite crypto market slump — <em>CoinDesk</em></li>\n<li>[10] XRP slips 2% as profit-taking knocks token back below $1.40 — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "crypto news",
+        "market trends",
+        "innovation",
+        "investment"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1779115822/xeonbit24/posts/crypto-roundup-may-18-2026-at-0950-pm-ict-market-shifts-and-innovations.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1779115822/xeonbit24/posts/crypto-roundup-may-18-2026-at-0950-pm-ict-market-shifts-and-innovations.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-may-18-2026-at-0950-pm-ict-market-shifts-and-innovations",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup May 18, 2026 at 09:50 PM (ICT): Market Shifts and Innovations"
+      },
+      "sourceUrl": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
+      "sourceTitle": "Decrypt / CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom",
+          "url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Live markets: Bitcoin gives up all of May's gains, slipping below $77,000",
+          "url": "https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
+          "url": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody’s crypto business into its own operations: Bloomberg",
+          "url": "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto",
+          "url": "https://www.theblock.co/post/401656/hive-stock-rallies-40-unveiling-320mw-ai-gigafactory-project-toronto?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Iran Pushes $10B Bitcoin Insurance Plan for Strait of Hormuz: Report",
+          "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kraken parent Payward's Q1 revenue climbs despite crypto market slump",
+          "url": "https://www.coindesk.com/business/2026/05/18/kraken-parent-payward-s-q1-revenue-climbs-despite-crypto-market-slump",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP slips 2% as profit-taking knocks token back below $1.40",
+          "url": "https://www.coindesk.com/markets/2026/05/18/xrp-slips-2-as-profit-taking-knocks-token-back-below-usd1-40",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-05-18T14:50:22.527Z",
+      "slug": "crypto-roundup-may-18-2026-at-0950-pm-ict-market-shifts-and-innovations"
+    },
+    {
       "id": "1779078004795",
       "title": "Crypto Roundup May 18, 2026 at 11:20 AM (ICT): Bitcoin Slides and Regulatory Focus",
       "summary": "Bitcoin's price has dropped below $77,000 due to oil shock and Treasury yields, while regulatory focus is increasing with developments like KuCoin Australia's 'Evolution' and Grayscale's amended BNB ETF filing. The crypto market is also seeing exploits, such as the Verus-Ethereum bridge drain, and new technologies like Arc, a stablecoin blockchain from USDC issuer Circle.",
@@ -3819,7 +3900,17 @@
     "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
     "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle"
+    "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+    "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
+    "https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000",
+    "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
+    "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/401656/hive-stock-rallies-40-unveiling-320mw-ai-gigafactory-project-toronto?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report",
+    "https://www.coindesk.com/business/2026/05/18/kraken-parent-payward-s-q1-revenue-climbs-despite-crypto-market-slump",
+    "https://www.coindesk.com/markets/2026/05/18/xrp-slips-2-as-profit-taking-knocks-token-back-below-usd1-40"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -3867,6 +3958,7 @@
     "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress|https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private|https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts|https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets|https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets|https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom|https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000|https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure"
   ]
 }
