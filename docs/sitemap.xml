@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-23-2026-at-1057-am-ict-ethereum-and-bitcoin-lead-the-charge</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1779508663/xeonbit24/posts/crypto-roundup-may-23-2026-at-1057-am-ict-ethereum-and-bitcoin-lead-the-charge.jpg</image:loc>
+      <image:title>Crypto Roundup May 23, 2026 at 10:57 AM (ICT): Ethereum and Bitcoin Lead the Charge</image:title>
+      <image:caption>Crypto Roundup May 23, 2026 at 10:57 AM (ICT): Ethereum and Bitcoin Lead the Charge</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-may-22-2026-at-0910-pm-ict-binance-disputes-wsj-report-market-see</loc>
