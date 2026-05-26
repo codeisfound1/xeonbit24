@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-may-26-2026-at-1115-am-ict-bitcoin-stalls-near-76500-as-market-aw</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1779768937/xeonbit24/posts/crypto-roundup-may-26-2026-at-1115-am-ict-bitcoin-stalls-near-76500-as-market-aw.jpg</image:loc>
+      <image:title>Crypto Roundup May 26, 2026 at 11:15 AM (ICT): Bitcoin Stalls Near $76,500 as Market Awaits Macro Developments</image:title>
+      <image:caption>Crypto Roundup May 26, 2026 at 11:15 AM (ICT): Bitcoin Stalls Near $76,500 as Market Awaits Macro Developments</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-may-25-2026-at-0929-pm-ict-bitcoin-price-swings-and-regulatory-sc</loc>
