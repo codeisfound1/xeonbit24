@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1780633631863",
+      "title": "Crypto Roundup June 5, 2026 at 11:27 AM (ICT): Zcash Vulnerability and Market Shifts",
+      "summary": "A security researcher found a vulnerability in Zcash allowing for unlimited counterfeit minting, causing ZEC to drop 31%, while a JPMorgan and Citi-backed consortium plans to launch a tokenized deposit network in 2027, and professional investors dumped 52K BTC worth of ETFs in Q1,",
+      "content": "<p>The cryptocurrency market is experiencing significant shifts and developments, with a major vulnerability discovered in Zcash and large-scale investments being made in tokenized deposit networks. In this roundup, we will cover the top 10 latest crypto news articles, analyzing each story and its impact on the market.</p><h2>1. Zcash Vulnerability Allows for Unlimited Counterfeit Minting</h2><p>A security researcher found a vulnerability in Zcash that would allow for unlimited counterfeit minting, causing the price of ZEC to drop 31%. However, the vulnerability was fixed within days, and findings suggest that actual exploitation of the bug is unlikely.</p><h2>2. JPMorgan and Citi-Backed Consortium to Launch Tokenized Deposit Network</h2><p>A consortium backed by JPMorgan and Citi plans to launch a tokenized deposit network in early 2027, enabling tokenized deposits to move instantly and support around-the-clock settlement. This initiative has the potential to revolutionize the way deposits are made and could have a significant impact on the cryptocurrency market.</p><h2>3. Comptroller Says Only Democrats Pressuring Over Crypto Trust Charter</h2><p>US Comptroller of the Currency Jonathan Gould stated that he only feels pressure from Democrats over the crypto trust charter, highlighting the ongoing debate over the regulation of cryptocurrencies. This statement comes as the cryptocurrency market continues to evolve and grow, with many calling for clearer regulations.</p><h2>4. AI Already Developing AI, Says Anthropic</h2><p>Anthropic, a leading AI research company, stated that AI is already developing AI, with machines writing most of the code and running increasingly complex research tasks. This development has significant implications for the future of technology and the potential applications of AI in the cryptocurrency market.</p><h2>5. Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill</h2><p>A Republican lawmaker plans to add language to the House congressional stock ban bill to cover prediction markets like Polymarket and Kalshi. This move highlights the growing recognition of the importance of regulating prediction markets and their potential impact on the cryptocurrency market.</p><h2>6. Bitcoin Price Collapses After Strategy’s Debt Buyback News</h2><p>The price of Bitcoin collapsed after Strategy faced tighter liquidity conditions and paused its BTC buying, raising concerns about a potential Terra Luna-style doom loop. However, it is essential to note that the situation is being closely monitored, and the market is awaiting further developments.</p><h2>7. Russia Targets British 17-Year-Old for Alleging Digital Assets Were Skirting Sanctions</h2><p>Russia has targeted a British 17-year-old for alleging that digital assets were being used to skirt sanctions, highlighting the ongoing debate over the use of cryptocurrencies in evading sanctions. This incident raises concerns about the potential risks and consequences of using cryptocurrencies for illicit activities.</p><h2>8. White House Crypto Adviser Defends Clarity Act</h2><p>The White House's top cryptocurrency adviser, Patrick Witt, defended the Clarity Act, calling it a \n<h2>Sources</h2>\n<ol>\n<li>[1] Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31% — <em>The Block</em></li>\n<li>[2] JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ — <em>The Block</em></li>\n<li>[3] Comptroller says only Democrats pressuring over crypto trust charter — <em>Cointelegraph</em></li>\n<li>[4] AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down — <em>Decrypt</em></li>\n<li>[5] Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill — <em>Decrypt</em></li>\n<li>[6] Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next? — <em>Cointelegraph</em></li>\n<li>[7] Russia targets British 17-year-old for alleging digital assets were skirting sanctions — <em>Cointelegraph</em></li>\n<li>[8] White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill — <em>The Block</em></li>\n<li>[9] 'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis — <em>Decrypt</em></li>\n<li>[10] Professional investors dumped 52K BTC worth of ETFs in Q1, filings show — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "zcash",
+        "market",
+        "crypto news",
+        "defi"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1780633631/xeonbit24/posts/crypto-roundup-june-5-2026-at-1127-am-ict-zcash-vulnerability-and-market-shifts.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1780633631/xeonbit24/posts/crypto-roundup-june-5-2026-at-1127-am-ict-zcash-vulnerability-and-market-shifts.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-5-2026-at-1127-am-ict-zcash-vulnerability-and-market-shifts",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 5, 2026 at 11:27 AM (ICT): Zcash Vulnerability and Market Shifts"
+      },
+      "sourceUrl": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+          "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+          "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Comptroller says only Democrats pressuring over crypto trust charter",
+          "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
+          "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
+          "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
+          "url": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill",
+          "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
+          "url": "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-06-05T04:27:11.863Z",
+      "slug": "crypto-roundup-june-5-2026-at-1127-am-ict-zcash-vulnerability-and-market-shifts"
+    },
+    {
       "id": "1780583372698",
       "title": "Crypto Roundup June 4, 2026 at 09:29 PM (ICT): Bitcoin Slides 14% as Crypto Market Faces Multiple Challenges",
       "summary": "The crypto market is facing significant challenges, with Bitcoin sliding 14% in one week and Ethereum layer 2s struggling to find their purpose. Meanwhile, innovative projects such as Travala's agentic AI travel protocol and Visa's privacy-enabled SBC stablecoin settlement are emerging. The market is also seeing increased institutional involvement, with Goldman Sachs' tokenized real estate fund project and Apex Group's participation.",
@@ -6309,16 +6390,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/crypto-pacs-spending-candidates-five-states-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss",
-    "https://www.theblock.co/post/400489/coinbase-loses-nearly-400-million-ceo-seeks-to-reduce-dependence-spot-crypto-trading?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations",
-    "https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss",
-    "https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
-    "https://cointelegraph.com/markets/four-signs-show-ethereum-eth-price-rally-exhausted-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/05/08/coinbase-disruption-tied-to-aws-outage-draws-criticism-amid-staff-layoffs-and-q1-losses",
-    "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
     "https://www.theblock.co/post/400552/bernstein-says-coinbases-everything-exchange-strategy-is-gaining-traction-despite-weak-first-quarter-results-sees-71-upside?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/bitcoin-eyes-80k-reclaim-traders-say-these-btc-price-support-levels-must-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6808,7 +6879,17 @@
     "https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/04/ripple-linked-xrp-sinks-7-to-four-month-lows",
     "https://www.coindesk.com/coindesk-indices/2026/06/04/coindesk-20-performance-update-bitcoin-cash-bch-up-1-5-is-only-gainer",
-    "https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go"
+    "https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go",
+    "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+    "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+    "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
+    "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -6891,6 +6972,7 @@
     "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records|https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance|https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403600/polymarket-upholds-no-outcome-strategy-bitcoin-sale-market?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403594/bitmine-preferred-stock-offering?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions|https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss"
+    "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions|https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
