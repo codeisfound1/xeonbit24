@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1780718994986",
+      "title": "Crypto Roundup June 6, 2026 at 11:09 AM (ICT): Market Turmoil and Regulatory Discussions",
+      "summary": "The crypto market is experiencing a significant downturn, with Bitcoin falling below $60,000 and Ethereum dropping to a 13-month low. Regulatory discussions are also underway, with a focus on crypto taxation and the potential implications for the industry. Meanwhile, technological advancements continue to shape the market, with the emergence of AI-powered booking protocols and concerns over privacy and security.",
+      "content": "<p>The cryptocurrency market is currently experiencing a period of significant volatility, with major coins such as Bitcoin and Ethereum facing substantial price drops. This downturn has led to a surge in social activity and discussions around the potential causes and implications of the market's current state.</p><h2>1. Cardano's Social Activity Surges Amidst Price Drop</h2><p>According to a recent report by CoinDesk, Cardano's social activity has increased significantly as the price of ADA has fallen to a four-year low. This surge in social activity is likely due to the concerns and discussions surrounding the coin's price drop, as well as the warnings from Charles Hoskinson regarding a potential \n<h2>Sources</h2>\n<ol>\n<li>[1] Cardano social activity surges as ADA falls under 20 cents to four-year lows — <em>CoinDesk</em></li>\n<li>[2] ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next? — <em>Cointelegraph</em></li>\n<li>[3] Travala lets AI agents book hotels with USDC on Base — <em>Cointelegraph</em></li>\n<li>[4] Crypto tax proposals weighed ahead of Tuesday House hearing — <em>Cointelegraph</em></li>\n<li>[5] Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say — <em>Decrypt</em></li>\n<li>[6] Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions — <em>The Block</em></li>\n<li>[7] Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K — <em>Decrypt</em></li>\n<li>[8] Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? — <em>Cointelegraph</em></li>\n<li>[9] Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion — <em>CoinDesk</em></li>\n<li>[10] Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "taxation"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1780718994/xeonbit24/posts/crypto-roundup-june-6-2026-at-1109-am-ict-market-turmoil-and-regulatory-discussi.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1780718994/xeonbit24/posts/crypto-roundup-june-6-2026-at-1109-am-ict-market-turmoil-and-regulatory-discussi.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-6-2026-at-1109-am-ict-market-turmoil-and-regulatory-discussi",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 6, 2026 at 11:09 AM (ICT): Market Turmoil and Regulatory Discussions"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
+          "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
+          "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Travala lets AI agents book hotels with USDC on Base",
+          "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
+          "url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
+          "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+          "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
+          "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
+          "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+          "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
+          "url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-06-06T04:09:54.986Z",
+      "slug": "crypto-roundup-june-6-2026-at-1109-am-ict-market-turmoil-and-regulatory-discussi"
+    },
+    {
       "id": "1780669210051",
       "title": "Crypto Roundup June 5, 2026 at 09:20 PM (ICT): Zcash Exploit and Market Volatility",
       "summary": "The cryptocurrency market is experiencing significant volatility due to a major exploit found in the Zcash protocol, as well as a strong US job growth report that may lead to Fed rate hikes. Bitcoin's price has dropped 2.8% as the CoinDesk 20 index declines, while Zcash's price has crashed, leading to record-high bearish bets. The overall market outlook is uncertain, with potential headwinds from regulatory scrutiny and interest rate hikes.",
@@ -6471,16 +6552,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/400616/duke-law-lecturer-trump-connected-world-liberty-financial-issued-security?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
-    "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-    "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/400642/arbitrums-71-million-in-eth-cleared-for-aave-transfer-as-north-korea-terrorism-creditors-retain-legal-claim?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk?utm_source=rss&amp;utm_medium=rss",
@@ -6970,7 +7041,17 @@
     "https://cointelegraph.com/news/house-gop-summer-vote-ban-lawmakers-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/jpmorgan-citi-bank-of-america-launch-tokenized-deposit-system-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/how-low-can-bitcoin-price-go-if-60k-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/how-low-can-bitcoin-price-go-if-60k-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
+    "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+    "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
+    "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
+    "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -7055,6 +7136,7 @@
     "https://www.theblock.co/post/403600/polymarket-upholds-no-outcome-strategy-bitcoin-sale-market?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403594/bitmine-preferred-stock-offering?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions|https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines|https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny"
+    "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines|https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+    "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows|https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
