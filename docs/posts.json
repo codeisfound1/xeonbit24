@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1781102828877",
+      "title": "Crypto Roundup June 10, 2026 at 09:47 PM (ICT): Bitcoin and Ethereum Rebound Amidst High Inflation",
+      "summary": "Bitcoin and Ethereum have resumed their rebound as inflation hits a 3-year high, with Bitcoin selling at $61,978 and Ethereum at $1,644. Meanwhile, regulatory developments and company updates are shaping the crypto market, including a proposed rule for prediction markets and a ban on 'predatory' Bitcoin ATMs in Delaware. The market is also seeing significant movements in stocks and commodities, with Pyth unveiling continuous pricing indexes for US stocks and commodities,",
+      "content": "<p>The crypto market is experiencing a significant rebound, with Bitcoin and Ethereum leading the charge. As inflation hits a 3-year high, investors are turning to cryptocurrencies as a hedge against economic uncertainty. In this roundup, we'll delve into the top 10 crypto news stories of the day, covering regulatory developments, company updates, and market trends.</p><h2>1. Bitcoin and Ethereum Resume Rebound as Inflation Hits 3-Year High</h2><p>According to Decrypt, Bitcoin and Ethereum have resumed their rebound as inflation hits a 3-year high. The reading likely supports restrictive monetary policy, which could lead to increased demand for cryptocurrencies. Bitcoin is currently selling at $61,978, while Ethereum is at $1,644.</p><h2>2. Paradigm and Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule</h2><p>Decrypt reports that Paradigm and Hyperliquid Policy Center are pushing back on the GENIUS Act stablecoin AML rule. The groups argue that issuers, DeFi apps, and validators need clearer limits on who is responsible once stablecoins change hands.</p><h2>3. Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt</h2><p>Decrypt also reports that Fold shares have jumped 162% after the Bitcoin fintech sold $45 million in BTC and wiped out its debt. The company's stock surge is a significant development in the crypto market, highlighting the potential for companies to benefit from cryptocurrency holdings.</p><h2>4. Pyth Unveils Continuous Pricing Indexes for US Stocks and Commodities</h2><p>Cointelegraph reports that Pyth has unveiled continuous pricing indexes for US stocks and commodities. The new indexes, which provide continuous pricing for US stocks, gold, and oil outside market hours, are being adopted by major companies such as Coinbase, Kraken, and dYdX.</p><h2>5. Prediction Markets Get First US Rule Proposal as CFTC Pursues Contract Reviews</h2><p>CoinDesk reports that the Commodity Futures Trading Commission (CFTC) has opened a proposed rule for public comment that sets an approach to determine contracts in the \n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High — <em>Decrypt</em></li>\n<li>[2] Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule — <em>Decrypt</em></li>\n<li>[3] Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt — <em>Decrypt</em></li>\n<li>[4] Pyth unveils continuous pricing indexes for US stocks and commodities — <em>Cointelegraph</em></li>\n<li>[5] Prediction markets get first U.S. rule proposal as CFTC pursues contract reviews — <em>CoinDesk</em></li>\n<li>[6] Michael Saylor gets into public debate over claims that Strategy's latest share sale was dilutive — <em>CoinDesk</em></li>\n<li>[7] Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs — <em>Decrypt</em></li>\n<li>[8] Benchmark says Securitize ‘poised to be a positive outlier,’ sets $16 target as NYSE listing nears — <em>The Block</em></li>\n<li>[9] CFTC unveils sweeping rule proposal for fast-growing prediction markets — <em>The Block</em></li>\n<li>[10] Ripple launches toolkit for agentic payments on XRPL — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "inflation",
+        "crypto news"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781102828/xeonbit24/posts/crypto-roundup-june-10-2026-at-0947-pm-ict-bitcoin-and-ethereum-rebound-amidst-h.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781102828/xeonbit24/posts/crypto-roundup-june-10-2026-at-0947-pm-ict-bitcoin-and-ethereum-rebound-amidst-h.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-10-2026-at-0947-pm-ict-bitcoin-and-ethereum-rebound-amidst-h",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 10, 2026 at 09:47 PM (ICT): Bitcoin and Ethereum Rebound Amidst High Inflation"
+      },
+      "sourceUrl": "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
+      "sourceTitle": "Decrypt / Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High",
+          "url": "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule",
+          "url": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt",
+          "url": "https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Pyth unveils continuous pricing indexes for US stocks and commodities",
+          "url": "https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Prediction markets get first U.S. rule proposal as CFTC pursues contract reviews",
+          "url": "https://www.coindesk.com/policy/2026/06/10/prediction-markets-get-first-u-s-rule-proposal-as-cftc-proposes-contract-reviews",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Michael Saylor gets into public debate over claims that Strategy's latest share sale was dilutive",
+          "url": "https://www.coindesk.com/markets/2026/06/10/michael-saylor-in-x-back-and-forth-over-claims-strategy-s-latest-share-sale-was-dilutive",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs",
+          "url": "https://decrypt.co/370638/delaware-advances-bill-to-ban-predatory-bitcoin-atms",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Benchmark says Securitize ‘poised to be a positive outlier,’ sets $16 target as NYSE listing nears",
+          "url": "https://www.theblock.co/post/404255/benchmark-securitize-positive-outlier-sets-16-target-nyse-listing-nears?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CFTC unveils sweeping rule proposal for fast-growing prediction markets",
+          "url": "https://www.theblock.co/post/404258/cftc-unveils-sweeping-rule-proposal-fast-growing-prediction-markets?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ripple launches toolkit for agentic payments on XRPL",
+          "url": "https://www.theblock.co/post/404243/ripple-launches-toolkit-for-agentic-payments-on-xrpl?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-06-10T14:47:08.877Z",
+      "slug": "crypto-roundup-june-10-2026-at-0947-pm-ict-bitcoin-and-ethereum-rebound-amidst-h"
+    },
+    {
       "id": "1781065475448",
       "title": "Crypto Roundup June 10, 2026 at 11:24 AM (ICT): Regulatory Scrutiny and Market Volatility",
       "summary": "The crypto market is facing increased regulatory scrutiny, with a focus on insider trading and market integrity, while Ethereum's price is under pressure, potentially dropping to $1,000 if key support levels break. Meanwhile, crypto tax bills are being debated in the US House, with lawmakers posing concerns and seeking bipartisan support. The European Commission has also ordered Meta to open WhatsApp to rival AI chatbots, citing regulatory overreach.",
@@ -7200,16 +7279,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/367784/crypto-friendly-kevin-warsh-confirmed-fed-chair-replace-jerome-powell",
-    "https://decrypt.co/367831/bank-of-england-softens-overly-conservative-stablecoin-plans-amid-industry-pressure",
-    "https://www.theblock.co/post/401262/gsr-legal-chief-puts-clarity-act-passage-below-50-per-cent-odds?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories",
-    "https://www.coindesk.com/business/2026/05/06/turnkey-raises-usd12-5-million-in-round-backed-by-circle-ventures-and-sequoia-capital",
-    "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
-    "https://www.coindesk.com/business/2026/05/14/blackrock-janus-henderson-tokenized-funds-get-instant-redemptions-with-new-usd1-billion-facility",
-    "https://cointelegraph.com/news/tethers-t3-crime-unit-frozen-450m-in-suspected-illicit-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms",
     "https://cointelegraph.com/markets/analysts-these-bitcoin-price-levels-ahead-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/13/coinbase-backs-hyperliquid-stablecoin-push-as-defi-trading-volumes-climb",
     "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&amp;utm_medium=rss",
@@ -7699,7 +7768,17 @@
     "https://decrypt.co/370580/eu-orders-meta-open-whatsapp-rival-ai-chatbots",
     "https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum",
     "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
-    "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
+    "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
+    "https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt",
+    "https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/06/10/prediction-markets-get-first-u-s-rule-proposal-as-cftc-proposes-contract-reviews",
+    "https://www.coindesk.com/markets/2026/06/10/michael-saylor-in-x-back-and-forth-over-claims-strategy-s-latest-share-sale-was-dilutive",
+    "https://decrypt.co/370638/delaware-advances-bill-to-ban-predatory-bitcoin-atms",
+    "https://www.theblock.co/post/404255/benchmark-securitize-positive-outlier-sets-16-target-nyse-listing-nears?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/404258/cftc-unveils-sweeping-rule-proposal-fast-growing-prediction-markets?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/404243/ripple-launches-toolkit-for-agentic-payments-on-xrpl?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -7793,6 +7872,7 @@
     "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum|https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/humanity-h-token-tanks-85-following-30m-private-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/openai-confidentially-files-to-go-public-in-the-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404053/humanity-protocol-exploit?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/business/2026/06/09/a16z-paradigm-lead-usd175-million-bet-to-move-global-credit-markets-onchain|https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/06/09/coindesk-20-performance-update-aave-drops-2-6-as-all-constituents-trade-lower",
-    "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high|https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule|https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt"
   ]
 }
