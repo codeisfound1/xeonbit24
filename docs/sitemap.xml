@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-june-12-2026-at-1149-am-ict-sec-proposal-and-bitcoins-next-fronti</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781239776/xeonbit24/posts/crypto-roundup-june-12-2026-at-1149-am-ict-sec-proposal-and-bitcoins-next-fronti.jpg</image:loc>
+      <image:title>Crypto Roundup June 12, 2026 at 11:49 AM (ICT): SEC Proposal and Bitcoin's Next Frontier</image:title>
+      <image:caption>Crypto Roundup June 12, 2026 at 11:49 AM (ICT): SEC Proposal and Bitcoin's Next Frontier</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-june-11-2026-at-1029-pm-ict-regulatory-scrutiny-and-institutional</loc>
