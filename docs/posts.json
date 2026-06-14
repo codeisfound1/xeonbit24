@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1781412946250",
+      "title": "Crypto Roundup June 14, 2026 at 11:55 AM (ICT): US Government Orders Anthropic to Pull AI Models, Bitcoin Rises Above $64,000",
+      "summary": "The US government has ordered Anthropic to pull its Claude Fable and Mythos AI models, while Bitcoin has risen above $64,000 following positive geopolitical developments. Meanwhile, the crypto market is seeing increased adoption, with Wall Street moving deeper into Ethereum and stablecoins becoming a major player. However, security concerns remain, with Coinbase flagging exchange cold wallets as vulnerable to quantum attacks",
+      "content": "<p>The past 24 hours have seen significant developments in the crypto market, with the US government ordering Anthropic to pull its Claude Fable and Mythos AI models. This move has sparked a debate about the use of AI in the crypto space, with some arguing that it poses a significant risk to the industry. Meanwhile, Bitcoin has risen above $64,000, supported by positive geopolitical developments and strong ETF inflows.</p><h2>1. US Government Orders Anthropic to Pull AI Models</h2><p>The US government has ordered Anthropic to pull its Claude Fable and Mythos AI models, citing concerns about their potential use in malicious activities. This move has sparked a debate about the use of AI in the crypto space, with some arguing that it poses a significant risk to the industry. Anthropic has pushed back against the order, arguing that the vulnerability cited is already widespread across the industry.</p><h2>2. Bitcoin Rises Above $64,000</h2><p>Bitcoin has risen above $64,000, supported by positive geopolitical developments and strong ETF inflows. The move comes after Pakistan's prime minister announced that a peace deal with Iran is near, sparking optimism about the future of the region. Meanwhile, the crypto market is seeing increased adoption, with Wall Street moving deeper into Ethereum and stablecoins becoming a major player.</p><h2>3. Venice and Morpheus Tokens Climb</h2><p>The tokens of Venice and Morpheus have climbed in value, following the US ban on Anthropic's Fable 5 AI model. The ban has sparked a debate about the use of AI in the crypto space, with some arguing that it poses a significant risk to the industry. Venice founder Erik Voorhees and the official Morpheus account have seized on the shutdown, casting it as proof of the use case for \n<h2>Sources</h2>\n<ol>\n<li>[1] Amazon warning triggered US crackdown on Anthropic AI models: Reports — <em>Cointelegraph</em></li>\n<li>[2] Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch — <em>The Block</em></li>\n<li>[3] US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models — <em>Decrypt</em></li>\n<li>[4] Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse — <em>The Block</em></li>\n<li>[5] Crypto’s next billion-dollar hacker may move at superhuman speed — <em>CoinDesk</em></li>\n<li>[6] Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve — <em>CoinDesk</em></li>\n<li>[7] Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash. — <em>CoinDesk</em></li>\n<li>[8] Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near — <em>CoinDesk</em></li>\n<li>[9] Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams — <em>Decrypt</em></li>\n<li>[10] Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "anthropic",
+        "stablecoins",
+        "crypto news",
+        "market analysis"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781412945/xeonbit24/posts/crypto-roundup-june-14-2026-at-1155-am-ict-us-government-orders-anthropic-to-pul.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781412945/xeonbit24/posts/crypto-roundup-june-14-2026-at-1155-am-ict-us-government-orders-anthropic-to-pul.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-14-2026-at-1155-am-ict-us-government-orders-anthropic-to-pul",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 14, 2026 at 11:55 AM (ICT): US Government Orders Anthropic to Pull AI Models, Bitcoin Rises Above $6"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+          "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch",
+          "url": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+          "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
+          "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+          "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
+          "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+          "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
+          "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+          "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
+          "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-14T04:55:46.250Z",
+      "slug": "crypto-roundup-june-14-2026-at-1155-am-ict-us-government-orders-anthropic-to-pul"
+    },
+    {
       "id": "1781356800070",
       "title": "Crypto Roundup June 13, 2026 at 08:19 PM (ICT): Bitcoin Steadies Above $63,000 Amid Market Volatility",
       "summary": "The crypto market experienced a tumultuous week with Bitcoin steadying above $63,000, while SpaceX's historic IPO debut sparked interest in tokenized shares. Meanwhile, top cryptographers debated Bitcoin's quantum question, and Morpho's $175 million raise highlighted growing investor bets on on-chain credit infrastructure. As the market navigates these developments, investors are weighing the implications for the future of cryptocurrency and blockchain technology.",
@@ -7765,16 +7846,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
-    "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-    "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
-    "https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000",
-    "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
-    "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/401656/hive-stock-rallies-40-unveiling-320mw-ai-gigafactory-project-toronto?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report",
@@ -8264,7 +8335,17 @@
     "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
     "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
     "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-    "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one"
+    "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
+    "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+    "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+    "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
+    "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
+    "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
+    "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+    "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -8365,6 +8446,7 @@
     "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges|https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before|https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin|https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations|https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo"
+    "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin|https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations|https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
+    "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models"
   ]
 }
