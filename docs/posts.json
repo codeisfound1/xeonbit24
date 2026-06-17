@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1781672301234",
+      "title": "Crypto Roundup June 17, 2026 at 11:58 AM (ICT): Regulatory Scrutiny and Market Volatility",
+      "summary": "The crypto market is experiencing significant volatility, with regulatory scrutiny in the US and heavy selling pressure on XRP, while Uniswap and altcoins surge ahead of the Fed meeting. Bitcoin briefly rallied above $67,000 following a US-Iran peace deal, but traders remain skeptical. Regulatory developments, including a potential ban on sports prediction markets and a crypto transaction tax in Illinois, are also making headlines.",
+      "content": "<p>The crypto market is witnessing a mix of regulatory scrutiny, market volatility, and surprising surges. This roundup will delve into the top 10 news articles, covering regulatory developments, market trends, and key player movements.</p><h2>1. Illinois Governor Approves Crypto Transaction Tax</h2><p>The Illinois governor has approved a crypto transaction tax, despite industry pushback. This move has sparked concerns among crypto advocates, with a16z general counsel Miles Jennings noting that there is no comparable state financial transaction tax on stocks, bonds, or derivatives in the country.</p><h2>2. XRP Gives Back Breakout Gains</h2><p>XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk. This volatility highlights the ongoing uncertainty in the crypto market.</p><h2>3. Uniswap Jumps 22% and Altcoins Surge</h2><p>Uniswap surged after Standard Chartered set a $100 long-term target, and HYPE and Solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first time.</p><h2>4. US Gaming Industry Groups Urge Senate to Ban Sports Prediction Markets</h2><p>US gaming groups have called on Congress to ban sports and casino-style prediction markets in a crypto market structure bill. This development highlights the ongoing regulatory scrutiny in the US.</p><h2>5. Hyperliquid Open Interest Surges 32% in a Week</h2><p>Hyperliquid's open interest has surged 32% in a week, with explosive TradFi perpetual growth making a push toward $80 increasingly realistic. Despite mixed HYPE derivatives market signals, this growth is a notable trend.</p><h2>6. Trump-Backed World Liberty Financial Nears OCC Approval</h2><p>World Liberty Financial is nearing OCC approval for a federal trust charter, which would allow the company to issue and redeem its USD1 stablecoin under a single federal regulator.</p><h2>7. Senators Urge Treasury to Ensure State Authority in GENIUS Application</h2><p>A bipartisan group of US senators has urged the Treasury to preserve and promote state participation in the application of stablecoin laws. This development highlights the ongoing regulatory debate in the US.</p><h2>8. Alibaba Builds Qwen-Robot Operating System for Robot Economy</h2><p>Alibaba is building Qwen-Robot, an operating system for the robot economy, doubling down on its embodied AI bet. This move highlights the growing interest in AI and robotics in the tech industry.</p><h2>9. Bitcoin Tops $67K Following US-Iran Peace Deal</h2><p>Bitcoin briefly rallied above $67,000 following a US-Iran peace deal, but traders remain skeptical. Despite this rally, Bitcoin derivatives data highlight traders' uncertainty.</p><h2>10. Strategy's Dividend-Paying Crypto Stock Crashes to Near-Historic Lows</h2><p>Strategy's bitcoin-backed preferred stock remains well below par value due to concerns over dividend coverage and stronger competition from Strive's SATA.</p><h2>Market Outlook</h2><p>The crypto market is experiencing significant volatility, with regulatory scrutiny and market trends influencing prices. The surge in Uniswap and altcoins, combined with the rally in Bitcoin, highlights the ongoing uncertainty in the market.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the regulatory scrutiny in the US, the surge in Uniswap and altcoins, and the ongoing volatility in the crypto market. As the market continues to evolve, it is essential to stay informed about the latest developments and trends.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Illinois governor approves crypto transaction tax despite industry uproar — <em>Cointelegraph</em></li>\n<li>[2] XRP gives back breakout gains, slipping below $1.23 on heavy selling — <em>CoinDesk</em></li>\n<li>[3] Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed — <em>CoinDesk</em></li>\n<li>[4] US gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report — <em>The Block</em></li>\n<li>[5] Hyperliquid open interest surges 32% in a week: Is $80 HYPE next? — <em>Cointelegraph</em></li>\n<li>[6] Trump-backed World Liberty Financial nears OCC approval for federal trust charter: report — <em>The Block</em></li>\n<li>[7] Senators urge Treasury ensure state authority in GENIUS application — <em>Cointelegraph</em></li>\n<li>[8] Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy — <em>Decrypt</em></li>\n<li>[9] Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap? — <em>Cointelegraph</em></li>\n<li>[10] Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "altcoins"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781672300/xeonbit24/posts/crypto-roundup-june-17-2026-at-1158-am-ict-regulatory-scrutiny-and-market-volati.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781672300/xeonbit24/posts/crypto-roundup-june-17-2026-at-1158-am-ict-regulatory-scrutiny-and-market-volati.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-17-2026-at-1158-am-ict-regulatory-scrutiny-and-market-volati",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 17, 2026 at 11:58 AM (ICT): Regulatory Scrutiny and Market Volatility"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Illinois governor approves crypto transaction tax despite industry uproar",
+          "url": "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
+          "url": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
+          "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report",
+          "url": "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hyperliquid open interest surges 32% in a week: Is $80 HYPE next?",
+          "url": "https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump-backed World Liberty Financial nears OCC approval for federal trust charter: report",
+          "url": "https://www.theblock.co/post/405022/world-liberty-financial-nears-occ-approval?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Senators urge Treasury ensure state authority in GENIUS application",
+          "url": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
+          "url": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+          "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here is why Strategy's dividend-paying crypto stock is crashing to near-historic lows",
+          "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-17T04:58:21.234Z",
+      "slug": "crypto-roundup-june-17-2026-at-1158-am-ict-regulatory-scrutiny-and-market-volati"
+    },
+    {
       "id": "1781626710103",
       "title": "Crypto Roundup June 16, 2026 at 11:18 PM (ICT): Tokenized Stocks and Regulatory Updates Dominate the Scene",
       "summary": "Coinbase is launching tokenized US stocks, while Ripple invests in Flutterwave to push its stablecoin and XRP Ledger into African payments. Regulatory updates from Binance, SEC, and CFTC also make headlines, shaping the future of the crypto market.",
@@ -8251,16 +8332,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/coindesk-indices/2026/05/20/coindesk-20-performance-update-uniswap-uni-up-3-7-leads-index-higher",
-    "https://cointelegraph.com/markets/this-bitcoin-price-model-targets-conservative-255k-by-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/402125/sec-reviewing-prediction-market-etfs?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/402114/fed-input-master-account?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge",
-    "https://decrypt.co/368477/shai-hulud-what-know-malware-spreading-software-pipelines",
-    "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
-    "https://cointelegraph.com/markets/bitcoin-coinbase-premium-slidse-to-six-week-lows-but-there-is-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
     "https://decrypt.co/368573/spacex-ipo-filing-elon-musk-ai-space-infrastructure-giant",
     "https://www.theblock.co/post/402197/nhl-cftc-team-up-with-memorandum-of-understanding-as-sports-based-prediction-markets-balloon?utm_source=rss&amp;utm_medium=rss",
@@ -8750,7 +8821,17 @@
     "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
     "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
     "https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund"
+    "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
+    "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling",
+    "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
+    "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405022/world-liberty-financial-nears-occ-approval?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
+    "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -8857,6 +8938,7 @@
     "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone|https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
     "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally|https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25|https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing|https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa|https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa|https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling|https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed"
   ]
 }
