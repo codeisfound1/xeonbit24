@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1781793624769",
+      "title": "Crypto Roundup June 18, 2026 at 09:40 PM (ICT): AI, Regulation, and Market Fluctuations",
+      "summary": "The crypto market saw significant developments with the potential of AI-powered onboarding, increased regulatory scrutiny, and market fluctuations driven by economic indicators. Stablecoin issuers are now required to maintain customer identification programs, and Kraken has integrated Solana DEX trading into its core app. Bitcoin's price slid to $64k after a hawkish FOMC meeting,",
+      "content": "<p>The cryptocurrency market is evolving rapidly, with technological advancements, regulatory changes, and market dynamics influencing its trajectory. This roundup covers the top 10 news articles from June 18, 2026, highlighting key trends and connections between these events.</p><h2>1. ChatGPT as Crypto’s New Onboarding Gateway</h2><p>ChatGPT could become the new front door to crypto, making Bitcoin and wallets easier to use while introducing new trust risks. This development underscores the growing role of AI in cryptocurrency adoption and the need for robust security measures to protect users.</p><h2>2. Federal Reserve Rolls Out Stablecoin Regulation</h2><p>The Federal Reserve has proposed a rule requiring stablecoin issuers to maintain customer identification programs to combat illicit finance. This move reflects increased regulatory scrutiny of the crypto sector, aiming to enhance transparency and security.</p><h2>3. Kraken Integrates Solana DEX Trading</h3><p>Kraken has integrated Solana DEX trading into its core app, giving customers access to thousands of tokens across the Solana ecosystem. This expansion highlights the growing importance of decentralized exchanges and the diversification of trading options in the crypto market.</p><h2>4. Algorand’s Quantum Resistance Roadmap</h2><p>Algorand has unveiled a roadmap to achieve quantum resistance by 2028, recognizing the potential threats posed by quantum computing to current cryptographic systems. This proactive approach demonstrates the crypto industry’s commitment to long-term security and adaptability.</p><h2>5. Ledn Adds Tether Gold as Loan Collateral</h2><p>Ledn has expanded its lending model by adding Tether Gold as loan collateral, following the growth of tokenized commodities. This move reflects the increasing diversification of lending options and the blurring of lines between traditional and digital assets.</p><h2>6. Tether’s XAUT Gold Token on Ledn Lending Platform</h2><p>Tether’s XAUT gold token has been added to the Ledn lending platform, allowing users to borrow against their gold holdings. This integration further expands the use cases for tokenized commodities and enhances the liquidity of digital assets.</p><h2>7. Bitcoin Miner HIVE’s $220 Million AI GPU Deal</h2><p>HIVE, a Bitcoin miner, has finalized a $220 million deal for AI GPUs, expecting $70 million in annual revenue. This significant investment in AI technology highlights the growing intersection of cryptocurrency mining and artificial intelligence.</p><h2>8. Daily Crypto Trends and Events</h2><p>A summary of the day’s events in crypto, including price movements, regulatory updates, and technological advancements, provides a snapshot of the market’s dynamic nature and the need for continuous monitoring.</p><h2>9. Crypto Sinks After Hawkish FOMC</h2><p>The crypto market reacted to a hawkish FOMC meeting, with Bitcoin’s price sliding to $64k as rate hike odds increased. This response underscores the cryptocurrency market’s sensitivity to traditional economic indicators and monetary policy decisions.</p><h2>10. CoinDesk 20 Performance Update</h2><p>The CoinDesk 20 index saw a decline, led by drops in Internet Computer (ICP) and Sui (SUI), while Stellar (XLM) jumped 10%. This volatility reflects the diverse performance of cryptocurrencies and the importance of tracking market indices for insight into overall market trends.</p><h2>Market Outlook</h2><p>The crypto market is navigating a complex landscape of technological innovation, regulatory oversight, and economic uncertainty. As AI, blockchain, and traditional finance continue to intersect, the market is likely to experience significant fluctuations and opportunities for growth.</p><h2>Key Takeaways</h2><p>The key takeaways from these developments include the increasing role of AI in crypto adoption, the tightening regulatory environment, the expansion of trading and lending options, and the market’s responsiveness to economic indicators. As the crypto market continues to evolve, staying informed about these trends and connections will be crucial for investors, users, and regulators alike.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] What happens when ChatGPT becomes the front door to crypto — <em>Cointelegraph</em></li>\n<li>[2] Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program — <em>The Block</em></li>\n<li>[3] Kraken integrates Solana DEX trading into core app, with support for additional networks planned — <em>The Block</em></li>\n<li>[4] Algorand unveils roadmap to achieve quantum resistance by 2028 — <em>CoinDesk</em></li>\n<li>[5] Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model — <em>Cointelegraph</em></li>\n<li>[6] Tether’s XAUT gold token added to Ledn lending platform — <em>The Block</em></li>\n<li>[7] Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue — <em>The Block</em></li>\n<li>[8] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[9] Morning Minute: Crypto Sinks After Hawkish FOMC — <em>Decrypt</em></li>\n<li>[10] CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "crypto news",
+        "market",
+        "regulation",
+        "AI",
+        "stablecoins"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781793624/xeonbit24/posts/crypto-roundup-june-18-2026-at-0940-pm-ict-ai-regulation-and-market-fluctuations.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781793624/xeonbit24/posts/crypto-roundup-june-18-2026-at-0940-pm-ict-ai-regulation-and-market-fluctuations.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-18-2026-at-0940-pm-ict-ai-regulation-and-market-fluctuations",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 18, 2026 at 09:40 PM (ICT): AI, Regulation, and Market Fluctuations"
+      },
+      "sourceUrl": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+      "sourceTitle": "Cointelegraph / The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "What happens when ChatGPT becomes the front door to crypto",
+          "url": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program",
+          "url": "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+          "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
+          "url": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
+          "url": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Tether’s XAUT gold token added to Ledn lending platform",
+          "url": "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue",
+          "url": "https://www.theblock.co/post/405234/bitcoin-miner-hive-220-million-ai-gpu-deal-bell-expects-70-million-annual-revenue?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morning Minute: Crypto Sinks After Hawkish FOMC",
+          "url": "https://decrypt.co/371517/morning-minute-crypto-sinks-after-hawkish-fomc",
+          "source": "Decrypt"
+        },
+        {
+          "title": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-18T14:40:24.769Z",
+      "slug": "crypto-roundup-june-18-2026-at-0940-pm-ict-ai-regulation-and-market-fluctuations"
+    },
+    {
       "id": "1781758133029",
       "title": "Crypto Roundup June 18, 2026 at 11:48 AM (ICT): Slower Bull Run Ahead",
       "summary": "The crypto market is expecting a slower and less volatile bull run, with investors shifting towards more tangible assets like stablecoins and tokenized securities. CME Group plans to sue the CFTC over the approval of perpetual futures, while Ark Invest buys $18 million worth of Coinbase shares. France is phasing out non-quantum encryption due to growing security concerns,",
@@ -8494,16 +8575,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization",
-    "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips",
-    "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
-    "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
-    "https://decrypt.co/368742/morning-minute-mark-cuban-sells-his-bitcoin",
-    "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
-    "https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
     "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
     "https://cointelegraph.com/markets/xrp-adds-4300-new-wallets-in-24-hours-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8993,7 +9064,17 @@
     "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
     "https://decrypt.co/371474/spacex-surge-worth-billions-ftx-will-creditors-benefit",
     "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team",
-    "https://www.theblock.co/post/405160/strategys-strc-preferred-stock-closes-day-89?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/405160/strategys-strc-preferred-stock-closes-day-89?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+    "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/405234/bitcoin-miner-hive-220-million-ai-gpu-deal-bell-expects-70-million-annual-revenue?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://decrypt.co/371517/morning-minute-crypto-sinks-after-hawkish-fomc",
+    "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -9103,6 +9184,7 @@
     "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa|https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling|https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
     "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
-    "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says|https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval|https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says|https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval|https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss"
   ]
 }
