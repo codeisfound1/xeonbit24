@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1782049416934",
+      "title": "Crypto Roundup June 21, 2026 at 08:43 PM (ICT): Bitcoin Price Holds Near $64,000 Amid Global Events",
+      "summary": "The crypto market saw significant events, including Bitcoin holding near $64,000, a Japanese corporate pension fund planning a 1% crypto allocation, and notable exploits affecting Ethereum's biggest 'sandwich' bot and Secret Network's Axelar bridge. Meanwhile, Dash eyes the Philippines for crypto payments and Bitcoin ETFs shed a record $6.4B in 30 days. The market is experiencing a mix of positive and negative trends, with global events and regulatory developments influencing prices.",
+      "content": "<p>The past 24 hours have been eventful for the crypto market, with a range of news stories impacting prices and investor sentiment. From Bitcoin's price movements to significant exploits and new developments in the world of crypto payments and regulations, there's been no shortage of interesting stories.</p><h2>1. Bitcoin Holds Near $64,000 Amid US-Iran Ceasefire Talks</h2><p>Bitcoin has been holding near $64,000 as renewed threats to the Strait of Hormuz cloud US-Iran ceasefire talks. This development has contributed to a sense of uncertainty in the market, with investors watching closely to see how events unfold. Despite this, Bitcoin has managed to recover somewhat after Friday's sell-off, demonstrating the resilience of the cryptocurrency in the face of geopolitical tensions.</p><h2>2. Japanese Corporate Pension Fund Plans 1% Crypto Allocation</h2><p>In a significant move, a Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto. This decision reflects growing institutional interest in cryptocurrency and could potentially pave the way for more mainstream adoption. The allocation, although relatively small, marks an important step in the integration of crypto into traditional financial instruments.</p><h2>3. Ethereum's Biggest 'Sandwich' Bot Drained of $7.5 Million</h2><p>Ethereum's biggest 'sandwich' bot, Jaredfromsubway.eth, was exploited for $7.5 million in an ironic attack. The bot, responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025, was tricked into approving fake trading routes, leading to the significant loss. This exploit highlights the risks and complexities associated with DeFi and the importance of robust security measures.</p><h2>4. Dash Eyes Philippines for Crypto Payments</h2><p>Dash is assessing the Philippines as a potential market for crypto payments, taking advantage of the country's efforts to promote easier business registration. However, industry participants note that compliant market entry can still take years, emphasizing the need for patience and strategic planning in expanding into new markets.</p><h2>5. Bitcoin ETFs Shed Record $6.4B in 30 Days</h2><p>US-listed spot Bitcoin exchange-traded funds (ETFs) have seen their biggest 30-day net outflow since launching in 2024, with a record $6.4 billion withdrawn. This significant outflow comes as Bitcoin fell 17% over the past month, reflecting investor caution and the ongoing 'crypto winter' chill.</p><h2>6. Secret Network’s Axelar Bridge Drained for $4.67 Million</h2><p>A notable exploit affected Secret Network's Axelar bridge, with $4.67 million drained in an infinite-mint exploit that went unnoticed for seven days. About $770,000 of the stolen funds still sits in the attacker's Axelar wallet, with Axelar declining the request to freeze it. This incident underscores the vulnerabilities in certain blockchain bridges and the need for enhanced security protocols.</p><h2>7. AI 'Amplification Spiral' May Cause Delusions Among Users</h2><p>New research suggests that chatbot behaviors, including personalization, mirroring, and excessive agreement, can reinforce delusions among users. This 'amplification spiral' has implications for how we interact with AI and the potential psychological impacts of such interactions, particularly in the context of crypto and financial decision-making.</p><h2>8. Bitcoin Price Down Over 40% Since STRC Launched</h2><p>STRC’s slide below par has sparked debate over whether Michael Saylor’s BTC flywheel is still effective. With Bitcoin down over 40% since STRC launched, critics have been emboldened, and Strategy’s Bitcoin buys have slowed. This development raises questions about the long-term viability of certain investment strategies in the crypto market.</p><h2>9. Notorious ‘Sandwich Attack’ Bot Exploited for $7.5M</h2><p>The exploit of Jaredfromsubway.eth, notorious for its 'sandwich attacks,' for $7.5 million highlights the risks of DeFi and the importance of security. The bot's activities had previously accounted for a significant portion of Ethereum's sandwich attacks, making this exploit particularly noteworthy.</p><h2>10. Summary of Crypto Events</h2><p>A summary of the day's events in crypto, including trends, price movements, and regulatory updates, provides a comprehensive overview of the market's activity. This summary is crucial for investors and enthusiasts alike, offering insights into the dynamic and ever-changing world of cryptocurrency.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a period of significant volatility and change, influenced by a mix of geopolitical events, regulatory developments, and technological advancements. As Bitcoin holds near $64,000 and institutional interest in crypto grows, the market is poised for further evolution. However, exploits and security breaches serve as reminders of the risks involved and the need for vigilance.</p><h2>Key Takeaways</h2><p>The key takeaways from the past 24 hours include the resilience of Bitcoin in the face of geopolitical uncertainty, the growing institutional interest in crypto as evidenced by the Japanese corporate pension fund's allocation, and the importance of security in DeFi as highlighted by the exploits affecting Ethereum's biggest 'sandwich' bot and Secret Network's Axelar bridge. Additionally, the significant outflow from Bitcoin ETFs and the assessment of the Philippines for crypto payments by Dash underscore the dynamic nature of the crypto market.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests — <em>Decrypt</em></li>\n<li>[2] Dash eyes Philippines as market for crypto payments — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin price is down over 40% since STRC launched: Is Strategy &apos;fine&apos;? — <em>Cointelegraph</em></li>\n<li>[4] Japanese corporate pension fund plans 1% crypto allocation: Nikkei — <em>Cointelegraph</em></li>\n<li>[5] Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit — <em>CoinDesk</em></li>\n<li>[6] Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks — <em>CoinDesk</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill — <em>Cointelegraph</em></li>\n<li>[9] Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M — <em>Cointelegraph</em></li>\n<li>[10] Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "dash",
+        "etf"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782049416/xeonbit24/posts/crypto-roundup-june-21-2026-at-0843-pm-ict-bitcoin-price-holds-near-64000-amid-g.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1782049416/xeonbit24/posts/crypto-roundup-june-21-2026-at-0843-pm-ict-bitcoin-price-holds-near-64000-amid-g.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-21-2026-at-0843-pm-ict-bitcoin-price-holds-near-64000-amid-g",
+        "width": 2560,
+        "height": 1440,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 21, 2026 at 08:43 PM (ICT): Bitcoin Price Holds Near $64,000 Amid Global Events"
+      },
+      "sourceUrl": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+      "sourceTitle": "Decrypt / Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+          "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Dash eyes Philippines as market for crypto payments",
+          "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy &apos;fine&apos;?",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+          "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+          "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+          "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
+          "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
+          "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+          "url": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-06-21T13:43:36.934Z",
+      "slug": "crypto-roundup-june-21-2026-at-0843-pm-ict-bitcoin-price-holds-near-64000-amid-g"
+    },
+    {
       "id": "1782018290708",
       "title": "Crypto Roundup June 21, 2026 at 12:04 PM (ICT): Bitcoin ETFs Shed Record $6.4B, Crypto Security Advances with AI",
       "summary": "The crypto market saw significant outflows from Bitcoin ETFs, with a record $6.4 billion shed in 30 days, while AI-powered security tools are becoming increasingly important for the industry. Meanwhile, various exploits and hacks have resulted in significant losses, including the exploitation of Jaredfromsubway.eth for $7.5 million and the draining of Secret Network's Axelar bridge for $4.67 million.",
@@ -8980,12 +9061,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/402487/we-dont-know-who-deployed-this-squid-distances-itself-from-3-2-million-third-party-module-exploit?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/features/paper-losses-and-scrapped-etfs-what-trump-medias-2650-btc-transfer-really-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/press-releases/cyannova-capital-announces-global-launch-at-its-first-strategic-reception-in-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/satoshi-era-bitcoin-miner-moves-203m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/402481/indonesia-blocks-polymarket?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/05/25/pce-jobless-claims-and-housing-data-test-fed-cut-hopes-crypto-week-ahead",
     "https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/indonesia-blocks-polymarket-bets-presidents-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/features/crypto-lobby-spending-on-republicans-far-outpaces-democratic-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -9479,7 +9554,13 @@
     "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
     "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
-    "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price"
+    "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+    "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+    "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+    "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -9595,6 +9676,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown|https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study|https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
   ]
 }
