@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1782105325105",
+      "title": "Crypto Roundup June 22, 2026 at 12:15 PM (ICT): Exploits, Fraud, and AI Advancements",
+      "summary": "The crypto market faces challenges with exploits and fraud, including the Ethereum Layer 2 Taiko halt and a fake 'Zksync.jp' token scam, while AI advancements show promise with Inception Labs' Mercury 2 AI beating Google's DiffusionGemma. Bitcoin holds near $64,000 as US-Iran talks progress, but crypto stays soft, with a notable exception in AI-related developments.",
+      "content": "<p>The past 24 hours have seen significant events in the crypto space, ranging from exploits and fraud to advancements in artificial intelligence (AI). This roundup will delve into the top 10 latest crypto news articles, covering exploits, regulatory disputes, AI breakthroughs, and market trends.</p><h2>1. Ethereum Layer 2 Taiko Halts Block Production Following Exploit</h2><p>Ethereum Layer 2 solution Taiko has halted block production after discovering an exploit. According to onchain security firm Blockaid, the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation. This incident underscores the importance of robust security measures in blockchain infrastructure, especially in scaling solutions like Layer 2 protocols.</p><h2>2. Bitcoin Holds Near $64,000 as US-Iran Talks Progress</h2><p>Bitcoin has been holding near the $64,000 mark as talks between the US and Iran progress towards a peace deal. Despite the positive news, which has seen Asian stocks and tech climb, crypto has not participated in the rally, with bitcoin down 2% on the week. This disconnect highlights the complex and sometimes counterintuitive nature of crypto market dynamics.</p><h2>3. Altura Winds Down Stablecoin Vault Amid High Withdrawal Requests</h2><p>Altura has announced the wind-down of its stablecoin vault due to an unprecedented level of withdrawal requests. The company's CEO cited market speculation as a contributing factor, likely referencing contagion fears linked to the depegging of Main Street's msUSD. This event reflects the ongoing challenges in the stablecoin market, where maintaining pegs and managing liquidity remains a significant concern.</p><h2>4. Polymarket Paid Creators to Stage Fake Winning Bets</h2><p>A report by the Wall Street Journal has revealed that Polymarket paid creators to stage fake winning bets on dummy sites. The Journal's review of over 1,100 videos found that none of the roughly $1.9 million in bets shown in influencer-produced hype videos were real. This scandal highlights issues of transparency and authenticity in crypto marketing and promotion.</p><h2>5. Fentanyl-Linked Chinese Network Tied to Crypto Fraud</h2><p>A Chinese network linked to fentanyl distribution has been tied to a crypto fraud scheme involving a fake 'Zksync.jp' token. The scam, which resulted in losses of over $1 million, demonstrates the dark side of crypto's global reach and the need for vigilance against fraudulent activities.</p><h2>6. CME Group Sues CFTC Over Perps Swaps Approval</h2><p>CME Group has sued the Commodity Futures Trading Commission (CFTC) over the approval of Kalshi's first U.S. perpetual futures product. The lawsuit alleges that the CFTC was wrong in its approval process, raising questions about the regulatory framework for perpetual swaps in the US.</p><h2>7. Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma</h2><p>In a significant development in AI, Inception Labs' Mercury 2 AI has beaten Google's DiffusionGemma in a comparison of their capabilities. Both models use parallel denoising, but Mercury 2 AI achieves this without losing intelligence, showcasing the rapid advancements in AI technology and its potential applications in crypto and beyond.</p><h2>8. Notorious MEV Bot Drained for $7.5 Million</h2><p>A notorious MEV (Maximal Extractable Value) bot, known as 'jaredfromsubway,' has been drained of roughly $7.5 million in a counter-MEV honeypot exploit. The incident highlights the cat-and-mouse game between MEV bots and their countermeasures, as well as the significant financial stakes involved.</p><h2>9. AI 'Amplification Spiral' May Cause Delusions Among Users</h2><p>A study has suggested that an 'amplification spiral' in AI interactions may cause delusions among users. The research points to chatbot behaviors such as personalization, mirroring, and excessive agreement as factors that reinforce delusions. This finding has implications for the responsible development and use of AI in various applications, including crypto.</p><h2>10. Ethereum's Biggest 'Sandwich' Bot Drained of $7.5 Million</h2><p>In a related incident, Ethereum's biggest 'sandwich' bot, also linked to 'jaredfromsubway.eth,' has been drained of $7.5 million in an ironic exploit. The attacker tricked the bot into approving fake trading routes, then used those approvals to drain WETH, USDC, and USDT, showcasing the vulnerabilities in even the most sophisticated crypto trading bots.</p><h2>Market Outlook</h2><p>The current market outlook is mixed, with bitcoin holding steady but the broader crypto market experiencing a downturn. The exploits, fraud, and regulatory disputes are likely contributing to the negative sentiment, while AI advancements offer a glimmer of hope for future growth and innovation.</p><h2>Key Takeaways</h2><p>Key takeaways from the past 24 hours include the importance of security in blockchain infrastructure, the complex dynamics of the crypto market, the need for transparency and authenticity in crypto promotion, and the rapid advancements in AI technology. As the crypto space continues to evolve, addressing these challenges and leveraging technological advancements will be crucial for its long-term success.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds — <em>The Block</em></li>\n<li>[2] Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally — <em>CoinDesk</em></li>\n<li>[3] Altura winds down stablecoin vault after ‘unprecedented level’ of withdrawal requests — <em>The Block</em></li>\n<li>[4] Polymarket paid creators to stage fake winning bets on dummy sites: WSJ — <em>The Block</em></li>\n<li>[5] Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei — <em>The Block</em></li>\n<li>[6] Are perps swaps? A quick look at that CME suit: State of Crypto — <em>CoinDesk</em></li>\n<li>[7] Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game — <em>Decrypt</em></li>\n<li>[8] Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot — <em>The Block</em></li>\n<li>[9] AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests — <em>Decrypt</em></li>\n<li>[10] Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "crypto news",
+        "AI",
+        "exploits",
+        "fraud"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782105324/xeonbit24/posts/crypto-roundup-june-22-2026-at-1215-pm-ict-exploits-fraud-and-ai-advancements.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1782105324/xeonbit24/posts/crypto-roundup-june-22-2026-at-1215-pm-ict-exploits-fraud-and-ai-advancements.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-22-2026-at-1215-pm-ict-exploits-fraud-and-ai-advancements",
+        "width": 800,
+        "height": 450,
+        "format": "png",
+        "alt": "Crypto Roundup June 22, 2026 at 12:15 PM (ICT): Exploits, Fraud, and AI Advancements"
+      },
+      "sourceUrl": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
+          "url": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin holds near $64,000 as US-Iran talks progress but crypto sits out the rally",
+          "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Altura winds down stablecoin vault after ‘unprecedented level’ of withdrawal requests",
+          "url": "https://www.theblock.co/post/405477/altura-winds-down-stablecoin-vault?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
+          "url": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei",
+          "url": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+          "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+          "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+          "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+          "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-22T05:15:25.105Z",
+      "slug": "crypto-roundup-june-22-2026-at-1215-pm-ict-exploits-fraud-and-ai-advancements"
+    },
+    {
       "id": "1782049416934",
       "title": "Crypto Roundup June 21, 2026 at 08:43 PM (ICT): Bitcoin Price Holds Near $64,000 Amid Global Events",
       "summary": "The crypto market saw significant events, including Bitcoin holding near $64,000, a Japanese corporate pension fund planning a 1% crypto allocation, and notable exploits affecting Ethereum's biggest 'sandwich' bot and Secret Network's Axelar bridge. Meanwhile, Dash eyes the Philippines for crypto payments and Bitcoin ETFs shed a record $6.4B in 30 days. The market is experiencing a mix of positive and negative trends, with global events and regulatory developments influencing prices.",
@@ -9061,14 +9142,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/indonesia-blocks-polymarket-bets-presidents-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/features/crypto-lobby-spending-on-republicans-far-outpaces-democratic-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see",
-    "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/402500/nathan-allman-ondo-finance?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/bitcoin-holds-77k-as-stocks-rally-global-tensions-cool-are-btc-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoin-retests-77k-despite-mounting-btc-supply-is-80k-possible-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -9560,7 +9633,15 @@
     "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-    "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks"
+    "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+    "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally",
+    "https://www.theblock.co/post/405477/altura-winds-down-stablecoin-vault?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+    "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+    "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -9677,6 +9758,7 @@
     "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown|https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study|https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
+    "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study|https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/06/22/bitcoin-holds-near-usd64-000-as-us-iran-talks-progress-but-crypto-sits-out-the-rally|https://www.theblock.co/post/405477/altura-winds-down-stablecoin-vault?utm_source=rss&amp;utm_medium=rss"
   ]
 }
