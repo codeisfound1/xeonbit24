@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-june-24-2026-at-1113-am-ict-cea-industries-ends-proxy-fight-and-c</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782274423/xeonbit24/posts/crypto-roundup-june-24-2026-at-1113-am-ict-cea-industries-ends-proxy-fight-and-c.jpg</image:loc>
+      <image:title>Crypto Roundup June 24, 2026 at 11:13 AM (ICT): CEA Industries Ends Proxy Fight and Crypto PAC Secures Victory</image:title>
+      <image:caption>Crypto Roundup June 24, 2026 at 11:13 AM (ICT): CEA Industries Ends Proxy Fight and Crypto PAC Secures Victory</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-june-23-2026-at-0918-pm-ict-sec-delays-tokenizing-stocks-ethereum</loc>
