@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1782827442425",
+      "title": "Crypto Roundup June 30, 2026 at 08:50 PM (ICT): AI Marketplaces and Institutional Investments Dominate the Scene",
+      "summary": "OKX launches an AI marketplace for autonomous agent economies, while institutional investors continue to show interest in tokenized securities and Bitcoin. The crypto market is also seeing advancements in blockchain infrastructure and quantum readiness.",
+      "content": "<p>The crypto market is experiencing a surge in innovative developments and institutional investments. This roundup will cover the top 10 latest news articles, highlighting the most important trends and connections between events.</p><h2>1. OKX Launches AI Marketplace for Autonomous Agent Economy</h2><p>OKX has launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents. This development has the potential to revolutionize the way we think about work and commerce in the digital age.</p><h2>2. Tokenized Securities Need Competition, Not Gatekeepers</h2><p>A recent opinion piece by Patrick McHenry, vice chairman at a financial institution, argues that tokenized securities need competition, not gatekeepers. This highlights the importance of allowing the market to decide what works best for tokenized securities, rather than relying on regulatory bodies to pick winners.</p><h2>3. Strategy's New Plan Divides Industry Observers</h2><p>Strategy's new Bitcoin capital framework has drawn both support and criticism from industry observers. While some see it as a positive development, others question the long-term demand risk. This divide highlights the complexity and uncertainty of the crypto market.</p><h2>4. Nasdaq Expands Distribution of Market Data into Blockchain Infrastructure</h2><p>Nasdaq is expanding its distribution of market data into blockchain infrastructure, offering its TotalView data feed through Pyth's marketplace. This move demonstrates the growing intersection of traditional finance and blockchain technology.</p><h2>5. Theo Becomes First Crypto-Native Investor in Fidelity Tokenized Fund</h2><p>Theo, an onchain capital markets platform, has allocated $20 million to Fidelity International's tokenized liquidity fund. This investment marks a significant milestone in the growth of tokenized securities and institutional investment in the crypto space.</p><h2>6. Record Bitcoin Holder Supply Revealing Early Bottom</h2><p>According to Swan's Cory Klippsten, the record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early. This analysis highlights the importance of monitoring Bitcoin holder supply as a potential indicator of market trends.</p><h2>7. TD Cowen Slashes Strategy Target to $260</h2><p>TD Cowen has cut its Strategy price target to $260 from $400, citing a lower Bitcoin forecast. Despite this, the firm calls Strategy's new capital framework \n<h2>Sources</h2>\n<ol>\n<li>[1] OKX launches AI marketplace for autonomous agent economy — <em>Cointelegraph</em></li>\n<li>[2] Tokenized securities need competition, not gatekeepers — <em>CoinDesk</em></li>\n<li>[3] Strategy's new plan divides industry observers even as MSTR, STRC climb — <em>Cointelegraph</em></li>\n<li>[4] Nasdaq expands distribution of its market data into blockchain infrastructure — <em>CoinDesk</em></li>\n<li>[5] Theo becomes first crypto-native investor in Fidelity tokenized fund — <em>Cointelegraph</em></li>\n<li>[6] Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom — <em>Cointelegraph</em></li>\n<li>[7] TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’ — <em>The Block</em></li>\n<li>[8] StarkWare unveils Starknet quantum roadmap, says industry has no excuse — <em>Cointelegraph</em></li>\n<li>[9] StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date — <em>The Block</em></li>\n<li>[10] Spiko links EU regulated T-bill funds to Coinbase stablecoin rails — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "AI",
+        "blockchain"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782827441/xeonbit24/posts/crypto-roundup-june-30-2026-at-0850-pm-ict-ai-marketplaces-and-institutional-inv.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1782827441/xeonbit24/posts/crypto-roundup-june-30-2026-at-0850-pm-ict-ai-marketplaces-and-institutional-inv.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-june-30-2026-at-0850-pm-ict-ai-marketplaces-and-institutional-inv",
+        "width": 2570,
+        "height": 1446,
+        "format": "jpg",
+        "alt": "Crypto Roundup June 30, 2026 at 08:50 PM (ICT): AI Marketplaces and Institutional Investments Dominate the Scene"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "OKX launches AI marketplace for autonomous agent economy",
+          "url": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Tokenized securities need competition, not gatekeepers",
+          "url": "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
+          "url": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Nasdaq expands distribution of its market data into blockchain infrastructure",
+          "url": "https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+          "url": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
+          "url": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "TD Cowen slashes Strategy target to $260 on bitcoin outlook, calls new capital framework ‘constructive’",
+          "url": "https://www.theblock.co/post/406710/td-cowen-slashes-strategy-target-to-260-on-bitcoin-outlook-calls-new-capital-framework-constructive?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
+          "url": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date",
+          "url": "https://www.theblock.co/post/406677/starkware-unveils-starknet-post-quantum-roadmap-calling-it-cryptos-strongest-to-date?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
+          "url": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-06-30T13:50:42.425Z",
+      "slug": "crypto-roundup-june-30-2026-at-0850-pm-ict-ai-marketplaces-and-institutional-inv"
+    },
+    {
       "id": "1782792896805",
       "title": "Crypto Roundup June 30, 2026 at 11:14 AM (ICT): Institutional Investments and Regulatory Clarity",
       "summary": "Institutional investors are increasingly entering the crypto market, with Bitmine lifting its Ether holdings and sovereign funds seeing Bitcoin's discount as an entry point. Meanwhile, regulatory bodies are providing clarity on crypto rules, with the UK setting a final deadline for crypto firms to gain authorization and the SEC winning a judgment in a crypto fraud case.",
@@ -10438,16 +10519,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/403352/strive-adds-2500-btc-treasury-saylor-strategy-sells?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/369716/andrew-yang-noble-acquires-crypto-fueled-helium-mobile-service",
-    "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records",
-    "https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance",
-    "https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
-    "https://cointelegraph.com/news/cardano-protocol-taptools-winds-down-after-five-execs-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-slide-to-usd67-000-is-accelerating-a-shift-into-digital-dollars",
-    "https://decrypt.co/369772/cardsmiths-america250-trading-cards-real-bitcoin-dogecoin",
-    "https://cointelegraph.com/news/lords-warn-bank-of-england-not-to-regulate-gbp-stablecoins-into-irrelevance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
     "https://www.coindesk.com/policy/2026/06/02/uk-house-of-lords-committee-calls-on-bank-of-england-to-reconsider-proposed-stablecoin-restrictions",
     "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10937,7 +11008,17 @@
     "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
     "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
+    "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure",
+    "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/406710/td-cowen-slashes-strategy-target-to-260-on-bitcoin-outlook-calls-new-capital-framework-constructive?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/406677/starkware-unveils-starknet-post-quantum-roadmap-calling-it-cryptos-strongest-to-date?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -11071,6 +11152,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372248/future-cyberpunk-imagined-here|https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
     "https://www.coindesk.com/markets/2026/06/29/usd4-billion-gone-spot-bitcoin-etfs-are-on-track-for-their-worst-month-on-record|https://cointelegraph.com/news/dubai-crypto-market-50-licensed-firms-vara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/pioneering-zk-rollup-loopring-announces-dex-closure-citing-no-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments|https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys|https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
-    "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers|https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
