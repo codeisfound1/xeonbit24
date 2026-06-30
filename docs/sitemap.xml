@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-06-29</lastmod>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-june-30-2026-at-1114-am-ict-institutional-investments-and-regulat</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782792896/xeonbit24/posts/crypto-roundup-june-30-2026-at-1114-am-ict-institutional-investments-and-regulat.jpg</image:loc>
+      <image:title>Crypto Roundup June 30, 2026 at 11:14 AM (ICT): Institutional Investments and Regulatory Clarity</image:title>
+      <image:caption>Crypto Roundup June 30, 2026 at 11:14 AM (ICT): Institutional Investments and Regulatory Clarity</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-june-29-2026-at-1024-pm-ict-institutional-adoption-and-regulatory</loc>
