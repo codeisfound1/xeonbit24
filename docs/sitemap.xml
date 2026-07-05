@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-july-5-2026-at-1109-am-ict-bitcoin-surges-ethereum-upgrades-and-q</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783224548/xeonbit24/posts/crypto-roundup-july-5-2026-at-1109-am-ict-bitcoin-surges-ethereum-upgrades-and-q.jpg</image:loc>
+      <image:title>Crypto Roundup July 5, 2026 at 11:09 AM (ICT): Bitcoin Surges, Ethereum Upgrades, and Quantum Threats</image:title>
+      <image:caption>Crypto Roundup July 5, 2026 at 11:09 AM (ICT): Bitcoin Surges, Ethereum Upgrades, and Quantum Threats</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-july-4-2026-at-0755-pm-ict-bitcoin-and-altcoins-show-signs-of-lif</loc>
