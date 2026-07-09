@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-july-9-2026-at-1059-am-ict-paradigm-raises-12b-bitcoin-tumbles-to</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783569600/xeonbit24/posts/crypto-roundup-july-9-2026-at-1059-am-ict-paradigm-raises-12b-bitcoin-tumbles-to.jpg</image:loc>
+      <image:title>Crypto Roundup July 9, 2026 at 10:59 AM (ICT): Paradigm Raises $1.2B, Bitcoin Tumbles to $60K</image:title>
+      <image:caption>Crypto Roundup July 9, 2026 at 10:59 AM (ICT): Paradigm Raises $1.2B, Bitcoin Tumbles to $60K</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-july-8-2026-at-0824-pm-ict-kazakhstan-accelerates-crypto-adoption</loc>
