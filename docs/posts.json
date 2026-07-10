@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1783656011011",
+      "title": "Crypto Roundup July 10, 2026 at 11:00 AM (ICT): Bitcoin Surges and DeFi Outperforms",
+      "summary": "Bitcoin has surged to nearly $64,000, while DeFi tokens have outperformed Bitcoin, and institutions are buying the bitcoin bear market dip despite regulatory delays and AI-related security concerns",
+      "content": "<p>The cryptocurrency market has seen significant developments over the past week, with Bitcoin surging to nearly $64,000 and DeFi tokens outperforming Bitcoin. Despite regulatory delays and AI-related security concerns, institutions are buying the bitcoin bear market dip. In this roundup, we will analyze the top 10 latest crypto news articles and provide an overview of the current market outlook.</p><h2>1. Bitcoin Price Surge</h2><p>According to CoinDesk, Bitcoin has surged to nearly $64,000, driven by a chip rally and yen strength. This surge comes despite a week of significant global events, including an oil shock, a bond selloff, and two rounds of U.S. strikes on Iran. Bitcoin's price increase is a testament to its growing resilience and attractiveness to investors.</p><h2>2. DeFi Outperformance</h2><p>Cointelegraph reports that DeFi tokens have outperformed Bitcoin, with Bitwise noting that DeFi usually swings much harder than Bitcoin. This outperformance is unusual and suggests that DeFi is quietly re-rating, with investors becoming more confident in the sector's potential.</p><h2>3. Injective npm Package Hack</h2><p>Cointelegraph also reports that hackers have tried to backdoor the Injective npm package to steal wallet keys. This incident highlights the importance of security in the cryptocurrency space and the need for developers to be vigilant in protecting their applications and users.</p><h2>4. New Hampshire Bitcoin Bond Effort</h2><p>According to CoinDesk, New Hampshire's executive council has rejected a trailblazing state-government bitcoin bond effort. This rejection is a setback for the adoption of Bitcoin in mainstream finance, but it is not a significant blow to the overall cryptocurrency market.</p><h2>5. Bitwise on Bitcoin's Floor</h2><p>The Block reports that Bitwise says Bitcoin's floor is rising, despite AI boom and regulatory delays. This suggests that institutions are buying the bitcoin bear market dip, and many larger investors are still awaiting regulatory clarity before entering the market.</p><h2>6. AI Agents and Botnets</h2><p>Decrypt warns that AI agents could be turned into botnets through hallucinations, which could have significant security implications for the cryptocurrency space. This highlights the need for developers to be aware of the potential risks associated with AI and to take steps to mitigate them.</p><h2>7. Coinbase Chief Legal Officer Transition</h2><p>Cointelegraph and The Block report that Coinbase's chief legal officer is transitioning to an advisory role. This change is not expected to have a significant impact on the cryptocurrency market, but it may lead to changes in Coinbase's legal and compliance strategies.</p><h2>8. Avalanche Treasury Firm AVAX One</h2><p>Decrypt reports that AVAX One, an Avalanche treasury firm, has reclaimed Nasdaq compliance after a reverse stock split. This is a positive development for the Avalanche ecosystem and suggests that the firm is committed to maintaining high standards of transparency and compliance.</p><h2>9. Grayscale's CFO Exit</h2><p>CoinDesk reports that Grayscale's CFO has exited the company after 7 years. This change is not expected to have a significant impact on the cryptocurrency market, but it may lead to changes in Grayscale's financial and operational strategies.</p><h2>10. Overall Market Outlook</h2><p>Despite regulatory delays and AI-related security concerns, the cryptocurrency market is showing signs of resilience and growth. Bitcoin's surge to nearly $64,000 and DeFi's outperformance suggest that investors are becoming more confident in the sector's potential. However, it is essential to remain vigilant and aware of the potential risks associated with the market.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup are: Bitcoin's price surge is a testament to its growing resilience and attractiveness to investors; DeFi is quietly re-rating, with investors becoming more confident in the sector's potential; security is a critical concern in the cryptocurrency space, and developers must be vigilant in protecting their applications and users; and institutions are buying the bitcoin bear market dip, despite regulatory delays.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains — <em>CoinDesk</em></li>\n<li>[2] Hackers tried to backdoor Injective npm package to steal wallet keys — <em>Cointelegraph</em></li>\n<li>[3] DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise — <em>Cointelegraph</em></li>\n<li>[4] New Hampshire snuffs out trailblazing state-government bitcoin bond effort — <em>CoinDesk</em></li>\n<li>[5] Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays — <em>The Block</em></li>\n<li>[6] AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn — <em>Decrypt</em></li>\n<li>[7] Coinbase chief legal officer to transition to advisory role on July 31 — <em>Cointelegraph</em></li>\n<li>[8] Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role — <em>The Block</em></li>\n<li>[9] Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split — <em>Decrypt</em></li>\n<li>[10] Grayscale's CFO exits after 7 years with crypto asset manager — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "market",
+        "crypto news",
+        "ethereum",
+        "security"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783656010/xeonbit24/posts/crypto-roundup-july-10-2026-at-1100-am-ict-bitcoin-surges-and-defi-outperforms.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1783656010/xeonbit24/posts/crypto-roundup-july-10-2026-at-1100-am-ict-bitcoin-surges-and-defi-outperforms.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-10-2026-at-1100-am-ict-bitcoin-surges-and-defi-outperforms",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 10, 2026 at 11:00 AM (ICT): Bitcoin Surges and DeFi Outperforms"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hackers tried to backdoor Injective npm package to steal wallet keys",
+          "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+          "url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+          "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
+          "url": "https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn",
+          "url": "https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase chief legal officer to transition to advisory role on July 31",
+          "url": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
+          "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split",
+          "url": "https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
+          "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-10T04:00:11.011Z",
+      "slug": "crypto-roundup-july-10-2026-at-1100-am-ict-bitcoin-surges-and-defi-outperforms"
+    },
+    {
       "id": "1783607099802",
       "title": "Crypto Roundup July 9, 2026 at 09:24 PM (ICT): Regulatory Shifts and Market Resilience",
       "summary": "Hong Kong's SFC orders crypto platforms to phase out OTP logins, while PayPal expands its stablecoin presence on Polygon. Meanwhile, bitcoin holder capitulation signals a potential late-stage bear market, and Aave rolls out yield-bearing vaults for fintech investors.",
@@ -11977,16 +12058,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
-    "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower",
-    "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/370891/metaplanet-acquires-japanese-securities-firm-for-13m-to-launch-bitcoin-yield-products",
-    "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -12476,7 +12547,17 @@
     "https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram",
     "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
     "https://www.theblock.co/post/407707/crypto-hack-losses-fall-below-1-billion-in-h1-2026-even-as-attack-volume-hits-record-immunefi?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
+    "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+    "https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
+    "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
+    "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -12629,6 +12710,7 @@
     "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy|https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
     "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains|https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
