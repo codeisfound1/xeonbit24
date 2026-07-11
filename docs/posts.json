@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1783740426235",
+      "title": "Crypto Roundup July 11, 2026 at 10:27 AM (ICT): Bitcoin Price Predictions and Regulatory Updates",
+      "summary": "Bitcoin analysts predict a potential price surge to $300,000-$500,000 by 2029, while regulatory updates and legal proceedings continue to shape the crypto landscape. The DOJ's decision to dismiss charges against an alleged crypto fraudster and Senate Democrats' call for hearings on Trump's crypto ties are making headlines. Meanwhile, companies like Kraken and Meta are innovating with AI-powered trading agents and agentic commerce,",
+      "content": "<p>The crypto market is abuzz with predictions, regulatory updates, and innovations. In this roundup, we'll delve into the top 10 news articles, covering Bitcoin price predictions, legal proceedings, and company developments.</p><h2>1. Bitcoin Price Predictions: $300,000-$500,000 by 2029?</h2><p>Analysts are predicting a potential price surge for Bitcoin, with some estimating it could reach $300,000-$500,000 by 2029. However, key data suggests that the era of moonshots may be over, and the math behind these predictions is being questioned.</p><h2>2. DOJ Dismisses Charges Against Alleged Crypto Fraudster</h2><p>The DOJ has moved to dismiss charges against Matthew Goettsche, an alleged crypto fraudster involved in the $722 million BitClub scheme. This decision has sparked controversy, with some arguing that it sets a bad precedent for future crypto-related cases.</p><h2>3. Apple Sues OpenAI Over Trade Secrets</h2><p>Apple is suing OpenAI, alleging that former employees stole trade secrets, including confidential designs, supplier information, and engineering files. This case highlights the importance of protecting intellectual property in the tech industry.</p><h2>4. Meta's Chief Data Officer on Agentic Commerce</h2><p>Meta's Chief Data Officer, Alex Schultz, believes that agentic commerce is the next tier of business. He emphasizes the need for stablecoins and the challenges of getting the rest of the world to adopt them.</p><h2>5. Kraken to Overhaul App with AI Investing Assistant</h2><p>Kraken is redesigning its app to include an AI-powered trading agent that recommends trades and tailors investing tools to users' financial goals. This move marks Kraken's expansion into broader financial services.</p><h2>6. Senate Democrats Call for Hearings on Trump's Crypto Ties</h2><p>Senate Democrats are demanding hearings into President Trump's crypto ties, citing concerns that his policies may be influenced by crypto funding from UAE-linked entities. This development highlights the growing scrutiny of crypto's role in politics.</p><h2>7. Democrats Call for Senate Hearings on Trump's Crypto Profits</h2><p>Top Democrats are calling for inquiries into President Trump's massive crypto profits, which exceeded $1.2 billion last year. This move is part of a broader effort to increase transparency and regulation in the crypto industry.</p><h2>8. Crypto Market Update</h2><p>The crypto market is experiencing a mix of trends and events, from Bitcoin price fluctuations to regulatory updates and company innovations. Staying informed is crucial for navigating this complex landscape.</p><h2>9. DOJ to Drop Charges Against BitClub Crypto Ponzi Scheme Accused</h2><p>The DOJ is dropping charges against a man accused of involvement in the $722 million BitClub crypto Ponzi scheme. This decision has sparked debate about the effectiveness of crypto regulation and law enforcement.</p><h2>10. Clarity Act Update</h2><p>The Clarity Act is set to be revisited by Congress, with potential implications for the crypto industry. As the regulatory landscape continues to evolve, companies and investors must stay adapt to the changing environment.</p><h2>Market Outlook</h2><p>The crypto market is poised for continued growth and innovation, driven by advances in technology, increasing adoption, and regulatory clarity. However, challenges such as security, scalability, and regulatory uncertainty remain. As the industry matures, it's likely that we'll see more emphasis on mainstream adoption, institutional investment, and decentralized finance (DeFi) applications.</p><h2>Key Takeaways</h2><p>In conclusion, the crypto market is experiencing a period of significant growth, innovation, and regulatory scrutiny. Key takeaways include: the potential for Bitcoin price surges, the importance of regulatory clarity, the rise of AI-powered trading agents, and the need for increased transparency and security in the industry. As the landscape continues to evolve, it's essential to stay informed and adapt to the changing environment.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no — <em>CoinDesk</em></li>\n<li>[2] DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report — <em>Cointelegraph</em></li>\n<li>[3] Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets — <em>Decrypt</em></li>\n<li>[4] Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" — <em>CoinDesk</em></li>\n<li>[5] Kraken to overhaul app with AI investing assistant — <em>Cointelegraph</em></li>\n<li>[6] Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions — <em>Cointelegraph</em></li>\n<li>[7] Democrats Call for Senate Hearings on Trump's Massive Crypto Profits — <em>Decrypt</em></li>\n<li>[8] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[9] DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg — <em>The Block</em></li>\n<li>[10] Here’s what’s next for the Clarity Act as Congress returns to Washington — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "crypto news",
+        "regulation",
+        "market trends"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783740425/xeonbit24/posts/crypto-roundup-july-11-2026-at-1027-am-ict-bitcoin-price-predictions-and-regulat.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1783740425/xeonbit24/posts/crypto-roundup-july-11-2026-at-1027-am-ict-bitcoin-price-predictions-and-regulat.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-11-2026-at-1027-am-ict-bitcoin-price-predictions-and-regulat",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 11, 2026 at 10:27 AM (ICT): Bitcoin Price Predictions and Regulatory Updates"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+          "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
+          "url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken to overhaul app with AI investing assistant",
+          "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
+          "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
+          "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
+          "url": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what’s next for the Clarity Act as Congress returns to Washington",
+          "url": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-07-11T03:27:06.235Z",
+      "slug": "crypto-roundup-july-11-2026-at-1027-am-ict-bitcoin-price-predictions-and-regulat"
+    },
+    {
       "id": "1783691512582",
       "title": "Crypto Roundup July 10, 2026 at 08:51 PM (ICT): Regulatory Clarity and Market Expansion",
       "summary": "The crypto market is seeing significant developments with the CLARITY Act advancing, Binance's EU withdrawal trends, and Circle securing a US national trust bank charter. These events signal a shift towards greater regulatory clarity and market expansion. The industry is also witnessing increased adoption and investment in crypto assets, with Japan's 'invest locally' plan likely to spur demand for assets like bitcoin and gold.",
@@ -12139,15 +12218,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
-    "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-    "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
-    "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
-    "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-    "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-    "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
-    "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
     "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&amp;utm_medium=rss",
@@ -12638,7 +12708,16 @@
     "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
     "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
-    "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+    "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+    "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+    "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
+    "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -12793,6 +12872,7 @@
     "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains|https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss"
+    "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no|https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"
   ]
 }
