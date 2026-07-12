@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1783827513101",
+      "title": "Crypto Roundup July 12, 2026 at 10:38 AM (ICT): Market Shifts and Exploits",
+      "summary": "The crypto market is experiencing significant shifts with Bitcoin and Ethereum ETFs seeing inflows, while lending protocol Bonzo Lend was hit with a $9 million oracle exploit, and the UK shows seriousness about crypto regulation. Empery Digital's decision to sell its Bitcoin treasury to fund an AI data center project also made headlines.",
+      "content": "<p>The cryptocurrency market is witnessing a mix of positive and negative developments. On one hand, Bitcoin and Ethereum ETFs have snapped their eight-week outflow streaks with a combined inflow of $282 million, indicating a potential resurgence of investor interest. On the other hand, the lending protocol Bonzo Lend on the Hedera network was exploited for $9 million due to a verification flaw in a third-party oracle contract, highlighting the ongoing risks associated with DeFi platforms.</p><h2>1. Empery Digital Sells Bitcoin Treasury</h2><p>Empery Digital's decision to sell its Bitcoin treasury to fund an AI data center project has led to a rise in the company's shares. This move comes after a major shareholder demanded the firm ditch its Bitcoin treasury strategy and force the resignation of its CEO and board. The sale indicates a shift in the company's focus towards AI and away from Bitcoin.</p><h2>2. Bonzo Lend Exploit</h2><p>The Bonzo Lend exploit resulted in a loss of approximately $9.05 million and led to a 77% decrease in the value locked in the protocol. The attacker manipulated a price update in a Supra oracle contract, which was accepted by a verifier, allowing for the exploit. A second wallet borrowed roughly $1 million but claimed to be a white hat hacker and promised to return the funds.</p><h2>3. Crypto IPO Market Stalls</h2><p>The crypto IPO market is experiencing a stall due to funding constraints and investor caution. According to Christian Lopez of Cohen & Company Capital Markets, regulation is not the primary cause of the delay, but rather the rotation of capital towards AI and macro uncertainty. This shift in investor interest could impact the growth of crypto companies seeking to go public.</p><h2>4. Robinhood Chain</h2><p>Robinhood Chain, an Ethereum layer-2 network built with Arbitrum technology, is designed for tokenized assets, crypto apps, and on-chain financial products. This development could enhance the adoption of tokenized stocks and other financial instruments on the blockchain.</p><h2>5. Bitcoin and Ether ETFs</h2><p>After eight weeks of outflows, Bitcoin and Ether ETFs have seen a combined inflow of $282 million. Although this rebound only recovers about 3% of the previous outflows, it indicates a potential increase in investor confidence in these assets.</p><h2>6. UK Crypto Regulation</h2><p>The UK has taken significant steps towards regulating the crypto industry, suggesting a more serious approach to the market. According to Wirex CEO Chet Shah, these regulatory moves could pave the way for greater adoption and growth of crypto in the UK.</p><h2>7. Bitcoin Market Analysis</h2><p>Real Vision chief crypto analyst Jamie Coutts believes that Bitcoin is nearing the late stages of the bear market. He predicts that Bitcoin could reach $250,000 over the next couple of years but is cautious about calling for $1 million by 2030.</p><h2>8. Ethereum Price Movement</h2><p>Ethereum has climbed 3% due to the tokenization boom, but its price remains vulnerable to a retest of $1,700 due to weak on-chain and derivatives data. The bulls will need to push the price past $1,800 to confirm a stronger uptrend.</p><h2>9. Nano Banana 2 Lite vs. Nano Banana 2</h2><p>Google's Nano Banana 2 Lite and Nano Banana 2 are compared in terms of their capabilities and value. While the Nano Banana 2 Lite is a capable tool, it has its limitations, particularly when compared to the more advanced Nano Banana 2.</p><h2>10. Market Trends</h2><p>The crypto market is experiencing a mix of trends, including the growth of tokenization, the exploitation of DeFi protocols, and the shift in investor interest towards AI. The UK's regulatory moves and the inflows into Bitcoin and Ether ETFs are positive signs for the market.</p><h2>Market Outlook</h2><p>The overall market outlook is cautiously optimistic, with potential for growth in tokenization and institutional investment. However, the risks associated with DeFi exploits and regulatory uncertainty remain. As the market continues to evolve, it is essential to monitor these trends and developments closely.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the importance of regulatory clarity, the growth potential of tokenization, and the need for caution when investing in DeFi protocols. As the crypto market continues to mature, it is crucial to stay informed about the latest developments and trends.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project — <em>Cointelegraph</em></li>\n<li>[2] Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update — <em>The Block</em></li>\n<li>[3] Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera — <em>CoinDesk</em></li>\n<li>[4] Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs — <em>CoinDesk</em></li>\n<li>[5] What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks — <em>Decrypt</em></li>\n<li>[6] Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow — <em>The Block</em></li>\n<li>[7] The UK has finally shown it’s serious about crypto — <em>CoinDesk</em></li>\n<li>[8] Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision — <em>Cointelegraph</em></li>\n<li>[9] Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade — <em>Decrypt</em></li>\n<li>[10] Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800? — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "crypto news",
+        "market",
+        "bonzo lend",
+        "uk regulation"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783827512/xeonbit24/posts/crypto-roundup-july-12-2026-at-1038-am-ict-market-shifts-and-exploits.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1783827512/xeonbit24/posts/crypto-roundup-july-12-2026-at-1038-am-ict-market-shifts-and-exploits.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-12-2026-at-1038-am-ict-market-shifts-and-exploits",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 12, 2026 at 10:38 AM (ICT): Market Shifts and Exploits"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project",
+          "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+          "url": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+          "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+          "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+          "url": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "The UK has finally shown it’s serious about crypto",
+          "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+          "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
+          "url": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+          "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-07-12T03:38:33.101Z",
+      "slug": "crypto-roundup-july-12-2026-at-1038-am-ict-market-shifts-and-exploits"
+    },
+    {
       "id": "1783774054983",
       "title": "Crypto Roundup July 11, 2026 at 07:47 PM (ICT): Bitcoin and Ethereum Lead the News",
       "summary": "Bitcoin treasury company Empery Digital sold half of its BTC stack, while an AI-found Ethereum bug could take validators offline. The crypto market is experiencing a mix of positive and negative trends, with Bitcoin price gains and potential regulatory changes.",
@@ -12299,16 +12380,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
-    "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
-    "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
-    "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
-    "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone",
-    "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
     "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
     "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters?utm_source=rss&amp;utm_medium=rss",
@@ -12798,7 +12869,17 @@
     "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+    "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
+    "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -12955,6 +13036,7 @@
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains|https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no|https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
-    "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack|https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it|https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack|https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it|https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
   ]
 }
