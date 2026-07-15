@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784120682621",
+      "title": "Crypto Roundup July 15, 2026 at 08:04 PM (ICT): Market Shifts and Regulatory Updates",
+      "summary": "The crypto market experienced a rally due to cool CPI data, while regulatory updates in Japan and the UK aim to improve crypto asset classification and combat fraud. Meanwhile, major players like Binance and BlackRock are making strategic moves in the market.",
+      "content": "<p>The crypto market has seen significant developments in the past 24 hours, with a rally in crypto prices due to cool CPI data and various regulatory updates. In this roundup, we will cover the top 10 latest crypto news articles and provide an analysis of the current market outlook.</p><h2>1. Binance: The Super App</h2><p>Binance is building a financial operating system, transitioning from a trading venue to a comprehensive financial platform. This move is expected to increase its competitiveness in the market and provide a wider range of services to its users.</p><h2>2. Crypto Rally Cools</h2><p>The crypto market experienced a rally due to cool CPI data, but the rally has cooled as investors digest the inflation data and oil clouds the outlook. This volatility is a reminder of the unpredictability of the crypto market.</p><h2>3. Circle Suspends Tether-Backed Fund</h2><p>Circle suspended a Tether-backed fund over market manipulation concerns, highlighting the need for regulatory oversight in the crypto market. This incident also raises questions about the stability of stablecoins and their potential impact on the market.</p><h2>4. UK Fraud Review</h2><p>A UK fraud review has called for judge training on crypto laundering and AI scams, recognizing the increasing threat of crypto-related crimes. This move is expected to improve the UK's regulatory framework and provide better protection for investors.</p><h2>5. BlackRock's Crypto Assets Fall</h2><p>BlackRock's crypto assets have fallen 39% despite $15 billion in net inflows, highlighting the impact of market volatility on crypto investments. This decline also raises questions about the long-term sustainability of crypto investments.</p><h2>6. Noxa Launchpad Gives Away Revenue</h2><p>The Noxa launchpad, which fueled the Robinhood Chain's memecoin boom, has given away all its revenue, leaving the memecoin economy in freefall. This incident highlights the risks associated with launchpads and the importance of regulatory oversight.</p><h2>7. Japan Reclassifies Crypto</h2><p>Japan has reclassified crypto as a financial asset, paving the way for tax cuts and improved regulatory framework. This move is expected to increase investor confidence and promote the growth of the crypto market in Japan.</p><h2>8. Strategy Feels Secure</h2><p>The CEO of Strategy has expressed confidence in the company's position, stating that the strategy feels secure until bitcoin reaches $8,000-$10,000. This statement highlights the importance of bitcoin's price in determining the overall market outlook.</p><h2>9. Bitcoin Rally Cools</h2><p>The bitcoin rally has cooled as investors digest inflation data and oil clouds the outlook. This volatility is a reminder of the unpredictability of the crypto market and the need for investors to remain cautious.</p><h2>10. EthSystems Spins Out</h2><p>The team behind Ethereum's institutional privacy push has spun out a for-profit firm, EthSystems, highlighting the growing demand for institutional privacy solutions in the crypto market. This move is expected to promote the adoption of Ethereum among institutional investors.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a period of high volatility, with regulatory updates and market developments contributing to the uncertainty. However, the reclassification of crypto as a financial asset in Japan and the growth of institutional privacy solutions are positive signs for the market. As the market continues to evolve, it is essential for investors to remain cautious and adapt to the changing landscape.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup are the importance of regulatory oversight, the growth of institutional privacy solutions, and the need for investors to remain cautious in the face of market volatility. As the crypto market continues to evolve, it is essential to stay informed and adapt to the changing landscape.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App — <em>The Block</em></li>\n<li>[2] Morning Minute: Crypto Rips on Cool CPI — <em>Decrypt</em></li>\n<li>[3] Circle suspended Tether-backed fund over market manipulation concerns, arbitration filings show — <em>The Block</em></li>\n<li>[4] UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams — <em>Decrypt</em></li>\n<li>[5] BlackRock's crypto assets fall 39% despite $15 billion of net inflows — <em>CoinDesk</em></li>\n<li>[6] The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue — <em>CoinDesk</em></li>\n<li>[7] Japan reclassifies crypto as a financial asset, paves way for tax cuts — <em>CoinDesk</em></li>\n<li>[8] Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO — <em>CoinDesk</em></li>\n<li>[9] Bitcoin rally cools as investors digest inflation data, oil clouds outlook — <em>CoinDesk</em></li>\n<li>[10] Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "binance"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784120682/xeonbit24/posts/crypto-roundup-july-15-2026-at-0804-pm-ict-market-shifts-and-regulatory-updates.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784120682/xeonbit24/posts/crypto-roundup-july-15-2026-at-0804-pm-ict-market-shifts-and-regulatory-updates.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-15-2026-at-0804-pm-ict-market-shifts-and-regulatory-updates",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 15, 2026 at 08:04 PM (ICT): Market Shifts and Regulatory Updates"
+      },
+      "sourceUrl": "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App",
+          "url": "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: Crypto Rips on Cool CPI",
+          "url": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Circle suspended Tether-backed fund over market manipulation concerns, arbitration filings show",
+          "url": "https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
+          "url": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
+          "source": "Decrypt"
+        },
+        {
+          "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
+          "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue",
+          "url": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
+          "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO",
+          "url": "https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rally cools as investors digest inflation data, oil clouds outlook",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
+          "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-07-15T13:04:42.621Z",
+      "slug": "crypto-roundup-july-15-2026-at-0804-pm-ict-market-shifts-and-regulatory-updates"
+    },
+    {
       "id": "1784085319340",
       "title": "Crypto Roundup July 15, 2026 at 10:15 AM (ICT): Institutional Investment and Regulatory Developments",
       "summary": "Asset managers are increasingly investing in crypto through regulated products, while regulatory developments and institutional investments are shaping the market. Ethereum staking and AI integration are also gaining traction, with companies like Bitmine and Coinbase making significant strides. Meanwhile, the US Senate is set to vote on the CLARITY Act, which could have significant implications for the crypto market",
@@ -12866,16 +12947,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
-    "https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey",
-    "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
-    "https://decrypt.co/371474/spacex-surge-worth-billions-ftx-will-creditors-benefit",
-    "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team",
-    "https://www.theblock.co/post/405160/strategys-strc-preferred-stock-closes-day-89?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
     "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
@@ -13365,7 +13436,17 @@
     "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
     "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire"
+    "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
+    "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
+    "https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
+    "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
+    "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
+    "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+    "https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo",
+    "https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook",
+    "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -13529,6 +13610,7 @@
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report|https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
-    "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi|https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&amp;utm_medium=rss"
   ]
 }
