@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784465175356",
+      "title": "Crypto Roundup July 19, 2026 at 07:46 PM (ICT): Regulatory Actions and Technological Advancements",
+      "summary": "The crypto market is witnessing significant regulatory actions, including South Korea's sanctions process against Dunamu and the US missing the deadline for stablecoin rules, alongside technological advancements such as Bitcoin's quantum problem recovery tool and Zcash's new node for Visa-scale privacy,",
+      "content": "<p>The cryptocurrency market is experiencing a surge in regulatory activities and technological innovations. This comprehensive roundup will delve into the top 10 latest news articles, covering regulatory actions, technological advancements, and market trends.</p><h2>1. South Korean Regulator Begins Sanctions Process Against Dunamu</h2><p>The South Korean regulator has initiated sanctions against Dunamu, the operator of the Upbit cryptocurrency exchange, following a hacking incident. This move highlights the increasing regulatory scrutiny in the crypto space, particularly in regards to user protection and hacking incidents.</p><h2>2. Bitcoin's Quantum Problem Gets a Recovery Tool</h2><p>A recovery tool has been developed to address Bitcoin's quantum problem, which allows a wallet's own key-derivation path to stand in as ownership after quantum computers can forge its signatures. This innovation is crucial for the long-term security and viability of the Bitcoin network.</p><h2>3. Electronic Transactions Association CEO Expects More Partnerships with Bitcoin Startups</h2><p>The Electronic Transactions Association (ETA) CEO, Jason Oxman, anticipates increased partnerships between ETA members and Bitcoin startups, recognizing the disruptive potential of Bitcoin and its applications in the financial industry.</p><h2>4. Zcash's New Node Targets Visa-Scale Privacy</h2><p>Zcash has introduced a new node, Zakura, which aims to achieve Visa-scale privacy at 50,000 transactions per second. This development is significant for the Zcash network, as it seeks to expand its capabilities and provide a more scalable and private payment solution.</p><h2>5. US Regulators Miss Deadline for Stablecoin Rules</h2><p>The US regulators have missed the one-year deadline for finalizing stablecoin rules, as mandated by the GENIUS Act. This delay may lead to a compressed implementation window, affecting both regulators and stablecoin issuers.</p><h2>6. France Orders ISPs to Block Polymarket</h2><p>France has ordered internet service providers to block access to Polymarket, citing concerns over addictive mechanics and a lack of self-exclusion tools. This move demonstrates the increasing regulatory focus on consumer protection and the potential risks associated with certain crypto platforms.</p><h2>7. Bitcoin Japan Raises Funds to Buy Bitcoin</h2><p>Bitcoin Japan, a company that currently holds no bitcoin, is planning to raise $60 million to purchase bitcoin. This move is notable, as it highlights the growing interest in bitcoin and the potential for institutional investment in the cryptocurrency space.</p><h2>8. Crypto Executives Say Digital Native Generations May Not Need Bank Accounts</h2><p>Crypto executives believe that digital native generations may rely less on traditional bank accounts, instead opting for crypto-based solutions. This shift in consumer behavior could have significant implications for the financial industry and the adoption of cryptocurrencies.</p><h2>9. DOG Mode Explains Bitcoin's Next Governance Fight</h2><p>The DOG Mode client has sparked a philosophical debate over censorship, free markets, and governance on the Bitcoin network. This discussion is crucial for the development of the Bitcoin ecosystem and the balance between decentralization and regulation.</p><h2>10. Trump Targets Brazil's Payments System as Dollar Stablecoins Gain Traction</h2><p>The Trump administration is targeting Brazil's payments system, while dollar stablecoins are quietly gaining traction in the country. This development highlights the complexities of international trade and the role of cryptocurrencies in shaping the global financial landscape.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a mix of regulatory challenges and technological advancements. As regulators continue to shape the industry, companies are innovating and adapting to the evolving landscape. The increasing focus on consumer protection, scalability, and security will likely drive the market forward, with a potential shift towards more decentralized and crypto-based solutions.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the growing regulatory scrutiny, the importance of technological innovations, and the shifting consumer behavior in the crypto space. As the market continues to evolve, it is essential to stay informed about the latest developments and their potential impact on the industry.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] South Korean regulator begins sanctions process against Dunamu: Report — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins — <em>CoinDesk</em></li>\n<li>[3] Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups — <em>Cointelegraph</em></li>\n<li>[4] Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second — <em>CoinDesk</em></li>\n<li>[5] US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules — <em>The Block</em></li>\n<li>[6] France orders country's internet service providers to block Polymarket — <em>CoinDesk</em></li>\n<li>[7] Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some — <em>The Block</em></li>\n<li>[8] Crypto executives say digital native generations may never need a bank account — <em>CoinDesk</em></li>\n<li>[9] DOG Mode explains Bitcoin's next governance fight — <em>CoinDesk</em></li>\n<li>[10] Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "zcash",
+        "regulation",
+        "stablecoins",
+        "crypto news",
+        "market trends"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784465174/xeonbit24/posts/crypto-roundup-july-19-2026-at-0746-pm-ict-regulatory-actions-and-technological-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784465174/xeonbit24/posts/crypto-roundup-july-19-2026-at-0746-pm-ict-regulatory-actions-and-technological-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-19-2026-at-0746-pm-ict-regulatory-actions-and-technological-",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 19, 2026 at 07:46 PM (ICT): Regulatory Actions and Technological Advancements"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+          "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+          "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+          "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+          "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
+          "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "France orders country's internet service providers to block Polymarket",
+          "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
+          "url": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto executives say digital native generations may never need a bank account",
+          "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "DOG Mode explains Bitcoin's next governance fight",
+          "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+          "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-19T12:46:15.356Z",
+      "slug": "crypto-roundup-july-19-2026-at-0746-pm-ict-regulatory-actions-and-technological-"
+    },
+    {
       "id": "1784432079246",
       "title": "Crypto Roundup July 19, 2026 at 10:34 AM (ICT): Regulatory Delays and Market Movements",
       "summary": "US regulators have missed the deadline for final stablecoin rules, while France has ordered the blockage of Polymarket, and Bitcoin Japan is planning a $60 million raise to buy bitcoin. Meanwhile, crypto executives believe digital-native generations may not need bank accounts, and massive bitcoin call spreads are targeting $72,000 by month-end.",
@@ -13511,10 +13592,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
-    "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
-    "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
     "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
@@ -14010,7 +14087,11 @@
     "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
     "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
     "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-    "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+    "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -14182,6 +14263,7 @@
     "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket|https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket|https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin|https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
