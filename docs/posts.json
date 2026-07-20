@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784519357278",
+      "title": "Crypto Roundup July 20, 2026 at 10:49 AM (ICT): Stablecoins and Security Concerns Dominate the Headlines",
+      "summary": "A Japanese logistics firm adopts the JPYC stablecoin to combat labor shortages, while Allbridge Core pauses its protocol after a $1.65 million flash loan exploit, highlighting the growing importance of stablecoins and the need for robust security measures in the crypto space",
+      "content": "<p>The crypto market is abuzz with the latest developments, ranging from the adoption of stablecoins in traditional industries to significant security breaches. This roundup delves into the top 10 news articles, covering the intersection of technology, finance, and regulation.</p><h2>1. Japanese Logistics Firm Adopts JPYC Stablecoin</h2><p>A Japanese logistics company is turning to the JPYC stablecoin to pay its drivers, aiming to attract more contractors by offering faster payments. This move underscores the potential of stablecoins in streamlining financial transactions and improving the efficiency of traditional industries.</p><h2>2. Allbridge Core Exploit: A $1.65 Million Flash Loan Attack</h2><p>Allbridge Core has paused its protocol following a $1.65 million exploit, where an attacker used a flash loan to manipulate the stablecoin exchange rate. This incident highlights the vulnerabilities in cross-chain bridges and the need for enhanced security protocols.</p><h2>3. Stablecoins vs. Traditional Banking</h2><p>The comparison between stablecoins and traditional banking reveals the advantages of digital assets in terms of speed, accessibility, and cost-effectiveness. Stablecoins, pegged to a reference asset like the US dollar, offer a more efficient alternative to traditional banking systems.</p><h2>4. Allbridge Pauses Cross-Chain Bridge After Exploit</h2><p>The Allbridge exploit has led to the pause of its cross-chain bridge, emphasizing the importance of security audits and the implementation of robust measures to prevent such incidents in the future.</p><h2>5. Japanese Logistics Company to Use JPYC Stablecoin for Payments</h2><p>The planned rollout of the JPYC stablecoin for payments to thousands of transportation contractors in Japan demonstrates the growing acceptance of digital currencies in mainstream industries.</p><h2>6. South Korea Probes Crypto Manipulation Cases</h6><p>South Korea has investigated 40 cases of crypto manipulation over the past two years, indicating a crackdown on illicit activities in the crypto space and the need for stricter regulations.</p><h2>7. US Crypto Regulatory Clarity and Bitcoin's Price Target</h2><p>The potential passage of the CLARITY Act in the US could bring much-needed regulatory clarity to the crypto market, while Bitcoin's price target of $80K has been predicted by some analysts, influenced by market trends and investor sentiment.</p><h2>8. Saylor Urges Bitcoin to Reject BIP-110</h2><p>MicroStrategy's Michael Saylor has expressed his opposition to BIP-110, a proposed soft fork for Bitcoin, citing concerns over its potential impact on the network's security and scalability.</p><h2>9. Upbit Parent Dunamu Faces Sanction Process</h2><p>Upbit's parent company, Dunamu, is facing a sanction process nearly eight months after a $30 million hack, highlighting the consequences of security breaches and the importance of robust measures to protect user assets.</p><h2>10. The GENIUS Act Turns 1: State of Crypto</h2><p>The GENIUS Act, which became a law a year ago, focuses on stablecoins and aims to provide regulatory clarity for the crypto industry. Its anniversary marks a significant milestone in the evolution of crypto regulations.</p><h2>Market Outlook</h2><p>The crypto market is witnessing a surge in the adoption of stablecoins, with traditional industries recognizing their potential for efficient financial transactions. However, security concerns and regulatory clarity remain crucial factors influencing the market's trajectory.</p><h2>Key Takeaways</h2><p>The recent developments in the crypto space underscore the importance of stablecoins, security, and regulatory clarity. As the market continues to evolve, it is essential for industry players to prioritize robust security measures, comply with regulatory requirements, and innovate to meet the growing demand for digital assets.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report — <em>The Block</em></li>\n<li>[2] Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts — <em>The Block</em></li>\n<li>[3] Stablecoins vs Traditional Banking — <em>The Block</em></li>\n<li>[4] Allbridge pauses cross-chain bridge after $1.65M exploit — <em>Cointelegraph</em></li>\n<li>[5] Japanese logistics company eyes JPYC stablecoin to pay drivers — <em>Cointelegraph</em></li>\n<li>[6] South Korea probed 40 cases of crypto manipulation over 2 years — <em>Cointelegraph</em></li>\n<li>[7] Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19 — <em>Cointelegraph</em></li>\n<li>[8] Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches — <em>The Block</em></li>\n<li>[9] Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report — <em>The Block</em></li>\n<li>[10] The GENIUS Act turns 1: State of Crypto — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "crypto news",
+        "security",
+        "market"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784519356/xeonbit24/posts/crypto-roundup-july-20-2026-at-1049-am-ict-stablecoins-and-security-concerns-dom.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784519356/xeonbit24/posts/crypto-roundup-july-20-2026-at-1049-am-ict-stablecoins-and-security-concerns-dom.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-20-2026-at-1049-am-ict-stablecoins-and-security-concerns-dom",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 20, 2026 at 10:49 AM (ICT): Stablecoins and Security Concerns Dominate the Headlines"
+      },
+      "sourceUrl": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
+          "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Stablecoins vs Traditional Banking",
+          "url": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
+          "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Japanese logistics company eyes JPYC stablecoin to pay drivers",
+          "url": "https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korea probed 40 cases of crypto manipulation over 2 years",
+          "url": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
+          "url": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
+          "url": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+          "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "The GENIUS Act turns 1: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-20T03:49:17.278Z",
+      "slug": "crypto-roundup-july-20-2026-at-1049-am-ict-stablecoins-and-security-concerns-dom"
+    },
+    {
       "id": "1784465175356",
       "title": "Crypto Roundup July 19, 2026 at 07:46 PM (ICT): Regulatory Actions and Technological Advancements",
       "summary": "The crypto market is witnessing significant regulatory actions, including South Korea's sanctions process against Dunamu and the US missing the deadline for stablecoin rules, alongside technological advancements such as Bitcoin's quantum problem recovery tool and Zcash's new node for Visa-scale privacy,",
@@ -13592,16 +13673,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-    "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
-    "https://decrypt.co/371766/tom-lee-bitmine-92-million-ethereum-supply",
-    "https://decrypt.co/371759/morning-minute-bitcoin-at-65000-as-iran-deal-wobbles",
-    "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/405602/bitcoin-treasury-strives-shares-jump-as-companys-holdings-near-20000-btc?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-    "https://decrypt.co/371763/strategy-pads-cash-reserves-to-1-4b-after-strcs-stumble",
-    "https://www.theblock.co/post/405730/ark-invest-buys-spacex-shares?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
@@ -14091,7 +14162,17 @@
     "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
     "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
+    "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+    "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -14264,6 +14345,7 @@
     "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket|https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin|https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin|https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&amp;utm_medium=rss"
   ]
 }
