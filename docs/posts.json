@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784639434642",
+      "title": "Crypto Roundup July 21, 2026 at 08:10 PM (ICT): Regulatory Shifts and Market Developments",
+      "summary": "The crypto market is witnessing significant regulatory shifts with Russia passing a law to regulate its crypto market, while the proposed merger between Tether-backed firms has been scrapped. Additionally, new platforms and protocols are emerging, such as Jito's self-custodial trading platform and Morpho's fixed-rate lending protocol.",
+      "content": "<p>The past 24 hours have seen a flurry of activity in the crypto market, with regulatory developments, new platform launches, and significant updates from major players. This roundup will delve into the top 10 news articles, covering regulatory shifts, market developments, and the emergence of new technologies.</p><h2>1. Jito Rolls Out Self-Custodial Trading Platform for Solana Tokens and RWAs</h2><p>Jito Labs has launched JTX, a self-custodial Solana trading platform that allows for spot trading of tokens and tokenized real-world assets (RWAs). This development is significant as it provides users with greater control over their assets and expands the Solana ecosystem.</p><h2>2. Morpho Launches Fixed-Rate Lending Protocol on Base</h2><p>Morpho has introduced Midnight, a fixed-rate, fixed-term lending protocol on Base, which complements its existing variable-rate lending protocol. This move is expected to expand on-chain credit markets and provide more options for lenders and borrowers.</p><h2>3. Morpho's Fixed-Rate Lending Protocol to Enhance On-Chain Credit Markets</h2><p>Building on the previous announcement, Morpho's Midnight protocol is designed to provide fixed rates and defined maturities, offering a more predictable and stable lending experience. This development has the potential to increase the adoption of on-chain credit markets.</p><h2>4. Jack Mallers Steps Down as XXI Capital CEO Amidst Tether Merger Fallout</h2><p>Jack Mallers has stepped down as CEO of XXI Capital, following the abandonment of the proposed three-way merger between Twenty One Capital, Strike, and Elektron Energy. This development highlights the challenges and uncertainties surrounding mergers and acquisitions in the crypto space.</p><h2>5. Tether-Backed Merger Plan Scrapped</h2><p>The proposed merger between Tether-backed firms has been scrapped, with Strike set to remain a standalone company. This outcome underscores the complexities and risks associated with consolidation in the crypto industry.</p><h2>6. Galaxy Commits $5 Million to Prepare Bitcoin for Quantum Threat</h2><p>Galaxy has committed up to $5 million to prepare Bitcoin for the potential quantum threat, which could compromise the security of the network. This initiative acknowledges the growing concern about the impact of quantum computing on cryptographic systems.</p><h2>7. MiCA-Licensed Crypto Firms May Struggle to Sustain Compliance Costs</h2><p>Gate Europe's CEO, Giovanni Cunti, has warned that some MiCA-licensed crypto firms may struggle to sustain compliance costs as Europe enters its new regulatory era. This highlights the challenges faced by companies adapting to evolving regulatory requirements.</p><h2>8. The Clarity Act Gains Momentum</h2><p>The odds of the Clarity Act passing in 2026 have increased to 42%, following a surprising new development from the White House. This legislation aims to provide clarity on the regulatory environment for cryptocurrencies in the United States.</p><h2>9. Russian Parliament Passes Law Regulating Crypto Market</h2><p>Russia's parliament has passed a law regulating the crypto market, creating a framework for crypto market participants. This development is expected to provide greater clarity and stability for companies operating in the Russian crypto space.</p><h2>10. Robinhood Chain Tops $430 Million in TVL</h2><p>Robinhood Chain has reached $431 million in total value locked (TVL) and 250,000+ daily users in under three weeks. However, memecoins account for 80% of its $9 billion DEX volume, according to FalconX.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a period of significant regulatory shift, with governments and institutions taking steps to provide clarity and stability. The emergence of new platforms and protocols, such as Jito's self-custodial trading platform and Morpho's fixed-rate lending protocol, is expected to drive growth and adoption. However, the industry must also address the potential quantum threat and navigate the complexities of evolving regulatory requirements.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the importance of regulatory clarity, the growth of on-chain credit markets, and the need for companies to adapt to evolving regulatory requirements. Additionally, the emergence of new technologies and platforms is expected to drive innovation and adoption in the crypto space.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs — <em>The Block</em></li>\n<li>[2] Morpho launches fixed-rate lending protocol on Base — <em>Cointelegraph</em></li>\n<li>[3] Morpho launches fixed-rate lending protocol Midnight on Base to expand onchain credit markets — <em>The Block</em></li>\n<li>[4] Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls — <em>CoinDesk</em></li>\n<li>[5] Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg — <em>Cointelegraph</em></li>\n<li>[6] Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat — <em>Decrypt</em></li>\n<li>[7] More MiCA-licensed crypto firms could exit EU market: Gate Europe CEO — <em>Cointelegraph</em></li>\n<li>[8] Morning Minute: The Clarity Act Has New Life — <em>Decrypt</em></li>\n<li>[9] Russian parliament passes law regulating crypto market — <em>Cointelegraph</em></li>\n<li>[10] Robinhood Chain tops $430 million in TVL, FalconX sees RWAs as the key differentiator — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "defi"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784639433/xeonbit24/posts/crypto-roundup-july-21-2026-at-0810-pm-ict-regulatory-shifts-and-market-developm.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784639433/xeonbit24/posts/crypto-roundup-july-21-2026-at-0810-pm-ict-regulatory-shifts-and-market-developm.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-21-2026-at-0810-pm-ict-regulatory-shifts-and-market-developm",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 21, 2026 at 08:10 PM (ICT): Regulatory Shifts and Market Developments"
+      },
+      "sourceUrl": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs",
+          "url": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morpho launches fixed-rate lending protocol on Base",
+          "url": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morpho launches fixed-rate lending protocol Midnight on Base to expand onchain credit markets",
+          "url": "https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
+          "url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg",
+          "url": "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
+          "url": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
+          "source": "Decrypt"
+        },
+        {
+          "title": "More MiCA-licensed crypto firms could exit EU market: Gate Europe CEO",
+          "url": "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morning Minute: The Clarity Act Has New Life",
+          "url": "https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Russian parliament passes law regulating crypto market",
+          "url": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Robinhood Chain tops $430 million in TVL, FalconX sees RWAs as the key differentiator",
+          "url": "https://www.theblock.co/post/409049/robinhood-chain-tops-430-million-in-tvl-falconx-sees-rwas-as-the-key-differentiator?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-07-21T13:10:34.642Z",
+      "slug": "crypto-roundup-july-21-2026-at-0810-pm-ict-regulatory-shifts-and-market-developm"
+    },
+    {
       "id": "1784604514495",
       "title": "Crypto Roundup July 21, 2026 at 10:28 AM (ICT): Regulatory Scrutiny and Market Resilience",
       "summary": "The crypto market faces regulatory challenges as Binance and OKX users in Vietnam are fined, while the US Senate inches closer to voting on the CLARITY Act. Despite this, Bitcoin defies the recent tech stocks sell-off, potentially eyeing a $70K rally. Meanwhile, Grayscale files for a Worldcoin ETF, and Tether Gold is recognized as an accepted spot commodity in Abu Dhabi's financial center.",
@@ -13835,16 +13916,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
-    "https://cointelegraph.com/news/cftc-sues-kentucky-after-states-prediction-market-lawsuits?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.theblock.co/post/405915/anti-cbdc-housing-bill-passes-congress?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
-    "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
-    "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
-    "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
     "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
     "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
@@ -14334,7 +14405,17 @@
     "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
+    "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
+    "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life",
+    "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/409049/robinhood-chain-tops-430-million-in-tvl-falconx-sees-rwas-as-the-key-differentiator?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -14510,6 +14591,7 @@
     "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin|https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-    "https://cointelegraph.com/magazine/binance-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/magazine/binance-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&amp;utm_medium=rss"
   ]
 }
