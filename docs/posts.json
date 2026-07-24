@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784898791850",
+      "title": "Crypto Roundup July 24, 2026 at 08:13 PM (ICT): Institutional Influx and Regulatory Actions Shape the Market",
+      "summary": "The crypto market is experiencing significant changes with the influx of institutional investors, regulatory actions, and the shutdown of certain protocols. Brazilian farmers are utilizing tokenized dairy cows to secure loans, while the EU imposes sanctions on Russian crypto networks. Regulatory bodies are taking action against exchanges and protocols for alleged false disclosures and insider trading.",
+      "content": "<p>The crypto market is undergoing a significant transformation, driven by the increasing participation of institutional investors and stringent regulatory actions. This shift is evident in the recent news articles, which highlight the growing importance of compliance and the emergence of innovative use cases for blockchain technology.</p><h2>1. Tokenized Dairy Cows: A New Era for Agricultural Financing</h2><p>Brazilian farmers are utilizing tokenized dairy cows to secure loans, bypassing traditional bank lending limits. This innovative approach allows local agricultural businesses to access thousands of dollars in funding, backed by the value of their livestock. The use of smart collars to monitor herd health in real-time prevents fraud and ensures the integrity of the tokenized assets.</p><h2>2. Regulatory Actions: Thailand SEC Files Complaint Against Bitkub</h2><p>The Thailand SEC has filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack. This incident highlights the importance of regulatory compliance and the need for exchanges to maintain transparency in their operations.</p><h2>3. BitMEX Co-Founders Face Fraud Claims</h2><p>Arthur Hayes, Samuel Reed, and Benjamin Delo, the co-founders of BitMEX, are facing a proposed class action alleging insider trading and deliberate server freezes. This development underscores the need for exchanges to prioritize fairness and transparency in their trading practices.</p><h2>4. Bitcoin's Quantum Defense Fund</h2><p>A new $15 million Quantum Defense Fund has been established to protect Bitcoin from potential quantum computing threats. This initiative demonstrates the growing recognition of the importance of security in the crypto space and the need for proactive measures to safeguard against emerging risks.</p><h2>5. India Orders GitHub to Take Down Jack Dorsey's Bitchat</h2><p>The Indian government has ordered GitHub to remove Jack Dorsey's Bitchat, citing the messaging app's use during protest internet shutdowns. This incident highlights the complex relationship between governments, technology, and free speech.</p><h2>6. Odos Protocol to Shut Down</h2><p>Odos Protocol has announced its shutdown, giving users until July 30 to withdraw their assets. The reasons behind this decision are unclear, but it may be related to the increasing regulatory pressures and the need for protocols to adapt to changing market conditions.</p><h2>7. EU Sanctions Russian Crypto Networks</h2><p>The EU has imposed a 21st sanctions package targeting a $120 billion crypto network, aiming to restrict Russian access to crypto services. This move demonstrates the growing use of crypto sanctions as a tool for geopolitical leverage.</p><h2>8. B2C2 Held Sale Talks with Potential Buyers</h2><p>Crypto market maker B2C2 has held sale talks with multiple potential buyers, attracting takeover interest from several suitors. However, valuation has been a sticking point, reflecting the challenges of determining the value of crypto companies in a rapidly evolving market.</p><h2>9. RWAs Become Hyperliquid's Largest Trading Category</h2><p>Tokenized RWA trading has become Hyperliquid's largest trading category, accounting for over half of the decentralized exchange's weekly trading volume. This development highlights the growing importance of tokenized assets and the increasing demand for real-world assets in the crypto space.</p><h2>10. Institutional Influx Kills the Memecoin Craze</h2><p>The influx of institutional investors has led to a decline in the popularity of memecoins, such as DOGE and SHIB. This shift reflects the changing nature of the crypto market, as institutional investors tend to favor more established and stable assets.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a significant shift, driven by the increasing participation of institutional investors and regulatory actions. As the market continues to evolve, it is likely that we will see a greater emphasis on compliance, security, and the development of innovative use cases for blockchain technology.</p><h2>Key Takeaways</h2><p>The key takeaways from the recent news articles are: the growing importance of regulatory compliance, the emergence of innovative use cases for blockchain technology, and the increasing participation of institutional investors in the crypto market. As the market continues to evolve, it is essential to stay informed about the latest developments and trends shaping the crypto space.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits — <em>CoinDesk</em></li>\n<li>[2] Thailand SEC files complaint against Bitkub over alleged false disclosures — <em>Cointelegraph</em></li>\n<li>[3] Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down — <em>The Block</em></li>\n<li>[4] Morning Minute: Bitcoin's New $15M Quantum Defense Fund — <em>Decrypt</em></li>\n<li>[5] India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests — <em>Decrypt</em></li>\n<li>[6] Odos Protocol to shut down, gives users until July 30 to withdraw assets — <em>Cointelegraph</em></li>\n<li>[7] EU hits Russia with massive 21st sanctions package targeting $120B crypto network — <em>CoinDesk</em></li>\n<li>[8] Crypto market maker B2C2 held sale talks with multiple potential buyers — <em>CoinDesk</em></li>\n<li>[9] RWAs become Hyperliquid’s largest trading category — <em>Cointelegraph</em></li>\n<li>[10] Crypto's institutional influx has killed the memecoin craze — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "institutional investors"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784898791/xeonbit24/posts/crypto-roundup-july-24-2026-at-0813-pm-ict-institutional-influx-and-regulatory-a.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784898791/xeonbit24/posts/crypto-roundup-july-24-2026-at-0813-pm-ict-institutional-influx-and-regulatory-a.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-24-2026-at-0813-pm-ict-institutional-influx-and-regulatory-a",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 24, 2026 at 08:13 PM (ICT): Institutional Influx and Regulatory Actions Shape the Market"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+          "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
+          "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down",
+          "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: Bitcoin's New $15M Quantum Defense Fund",
+          "url": "https://decrypt.co/374222/morning-minute-bitcoins-new-15m-quantum-defense-fund",
+          "source": "Decrypt"
+        },
+        {
+          "title": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
+          "url": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
+          "url": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+          "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
+          "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "RWAs become Hyperliquid’s largest trading category",
+          "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto's institutional influx has killed the memecoin craze",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-24T13:13:11.851Z",
+      "slug": "crypto-roundup-july-24-2026-at-0813-pm-ict-institutional-influx-and-regulatory-a"
+    },
+    {
       "id": "1784863715463",
       "title": "Crypto Roundup July 24, 2026 at 10:28 AM (ICT): Bitcoin Slides Below $65K Amid Global Tensions",
       "summary": "Bitcoin's price has dipped below $65,000 as global tensions rise, while the crypto market awaits the outcome of the Clarity Act and major exchanges like BitMEX and Coinbase announce significant updates to their services. The Clarity Act, aimed at providing regulatory clarity for the crypto industry, is expected to miss its window before Congress' summer break. Meanwhile, BitMEX has delisted 65 trading pairs and derivatives in July, and Coinbase has introduced AI trading tools and the ability for businesses to accept USDC payments from AI agents.",
@@ -14321,16 +14402,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
-    "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
-    "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-    "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
-    "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-    "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-    "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
     "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
@@ -14820,7 +14891,17 @@
     "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
     "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
-    "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale"
+    "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale",
+    "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+    "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374222/morning-minute-bitcoins-new-15m-quantum-defense-fund",
+    "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
+    "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+    "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+    "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -15002,6 +15083,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs|https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system|https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits|https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss"
   ]
 }
