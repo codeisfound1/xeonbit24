@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785124152599",
+      "title": "Crypto Roundup July 27, 2026 at 10:49 AM (ICT): Exploits, Bankruptcies, and Regulatory Warnings",
+      "summary": "The crypto market faces a series of challenges, including a $450,000 exploit on Garden Finance, Storj's bankruptcy, and regulatory warnings from the CFTC. Meanwhile, Michael Saylor teases a potential new bitcoin buy, and the Clarity Act's chances of passing dim. The market is also seeing increased adoption of blockchain technology in corporate finance, with POSCO International and LG CNS tokenizing commercial invoices.",
+      "content": "<p>The past 24 hours have seen a flurry of activity in the crypto market, with a mix of positive and negative news. On the negative side, Garden Finance has disabled its app after a $450,000 exploit, while Storj has filed for bankruptcy. The CFTC has also issued a warning to prediction markets, telling them to stop issuing overly broad self-certifications.</p><h2>1. Garden Finance Exploit</h2><p>Garden Finance has disabled its app after an attacker compromised an independent solver's off-chain database and inserted fraudulent swap records. The exploit resulted in a loss of $450,000, but Garden Finance has stated that no user funds or smart contracts were affected.</p><h2>2. Storj Bankruptcy</h2><p>Decentralized storage provider Storj has filed for Chapter 11 bankruptcy. Despite this, the company's network will continue to operate, and Storj is exploring a court-approved ownership mechanism for STORJ holders.</p><h2>3. CFTC Warning</h2><p>The CFTC has issued a warning to prediction markets, telling them to stop issuing overly broad self-certifications. This is the second time this year that the regulator has issued such a warning, highlighting the need for more transparency and accountability in the industry.</p><h2>4. POSCO International and LG CNS Tokenization</h2><p>POSCO International and LG CNS are tapping into the Injective network to tokenize live commercial invoices. This move is a sign that blockchain technology is moving deeper into corporate finance, with more companies exploring its potential uses.</p><h2>5. WEMIX Contract Breach</h2><p>WEMIX has suspended several services after an attacker compromised a WEMIX$-linked contract and moved $724,000. The company has stated that it is investigating the incident and that customer funds are not affected.</p><h2>6. Triple-A Hot Wallet Losses</h2><p>Triple-A has reported losses of $11.8 million due to hot wallet losses. The company has stated that customer funds are not affected, but it has not fully addressed the incident publicly.</p><h2>7. Michael Saylor Tease</h2><p>Michael Saylor has teased a potential new bitcoin buy, stating that he is looking at 'another color'. This comes after four straight weeks without a Strategy bitcoin buy, and it will be interesting to see if Saylor follows through on his statement.</p><h2>8. Clarity Act Update</h2><p>The Clarity Act's chances of passing are dimming, with only two weeks left for the Senate to take action. Despite support from major players like Goldman Sachs and Fidelity, the Act's progress has been slow, and it remains to be seen if it will be passed.</p><h2>9. State of Crypto</h2><p>The state of crypto is currently uncertain, with regulatory warnings and bankruptcies making headlines. However, there are also positive developments, such as the increased adoption of blockchain technology in corporate finance.</p><h2>10. BitMEX Closure</h2><p>BitMEX is set to close as the crypto market consolidates into five big players. This move is a sign that the industry is maturing, with smaller players being pushed out by larger, more established companies.</p><h2>Market Outlook</h2><p>The crypto market is currently facing a series of challenges, from exploits and bankruptcies to regulatory warnings. However, there are also positive developments, such as the increased adoption of blockchain technology in corporate finance. As the market continues to evolve, it will be interesting to see how these challenges and opportunities play out.</p><h2>Key Takeaways</h2><p>The key takeaways from the past 24 hours are that the crypto market is facing a series of challenges, but there are also positive developments. The increased adoption of blockchain technology in corporate finance is a sign that the industry is maturing, and it will be interesting to see how this trend continues. Meanwhile, regulatory warnings and bankruptcies highlight the need for more transparency and accountability in the industry.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Garden Finance disables app as Blockaid reports $450,000 exploit — <em>Cointelegraph</em></li>\n<li>[2] Storj files for bankruptcy, explores equity path for tokenholders — <em>Cointelegraph</em></li>\n<li>[3] CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26 — <em>Cointelegraph</em></li>\n<li>[4] South Korea trading giant puts receivables onchain in tokenization test with LG CNS — <em>CoinDesk</em></li>\n<li>[5] WEMIX says attacker moved about $724,000 after contract breach — <em>Cointelegraph</em></li>\n<li>[6] Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report — <em>The Block</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy — <em>The Block</em></li>\n<li>[9] 2 weeks left for Clarity: State of Crypto — <em>CoinDesk</em></li>\n<li>[10] CFTC issues second warning to prediction markets on cookie-cutter self-certifications — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "blockchain"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785124152/xeonbit24/posts/crypto-roundup-july-27-2026-at-1049-am-ict-exploits-bankruptcies-and-regulatory-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785124152/xeonbit24/posts/crypto-roundup-july-27-2026-at-1049-am-ict-exploits-bankruptcies-and-regulatory-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-27-2026-at-1049-am-ict-exploits-bankruptcies-and-regulatory-",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 27, 2026 at 10:49 AM (ICT): Exploits, Bankruptcies, and Regulatory Warnings"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+          "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Storj files for bankruptcy, explores equity path for tokenholders",
+          "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
+          "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
+          "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "WEMIX says attacker moved about $724,000 after contract breach",
+          "url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
+          "url": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy",
+          "url": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "2 weeks left for Clarity: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
+          "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-07-27T03:49:12.599Z",
+      "slug": "crypto-roundup-july-27-2026-at-1049-am-ict-exploits-bankruptcies-and-regulatory-"
+    },
+    {
       "id": "1785070360258",
       "title": "Crypto Roundup July 26, 2026 at 07:52 PM (ICT): Regulatory Shifts and Market Movements",
       "summary": "The crypto market is experiencing significant shifts with regulatory updates in Europe, the shutdown of BitMart exchange, and mysterious rallies like Shiba Inu's 36% surge. Meanwhile, security measures are being heightened with Binance's monthly 'red teaming' and the EU's addition of HTX to its Russia sanctions list. These events signal a complex interplay between regulation, security, and market volatility.",
@@ -14726,15 +14807,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
-    "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
-    "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
-    "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
-    "https://www.coindesk.com/tech/2026/06/29/emb-3-pm-utc-ripple-wants-institutions-to-borrow-against-tokenized-assets-on-xrpl",
-    "https://cointelegraph.com/learn/claude-mythos-defi-hacks-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
-    "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/06/29/strategy-opens-the-door-to-selling-bitcoin-under-new-capital-plan-here-s-what-it-means",
     "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -15225,7 +15297,16 @@
     "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
     "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
     "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
+    "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+    "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+    "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+    "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -15412,6 +15493,7 @@
     "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest|https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave"
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+    "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
