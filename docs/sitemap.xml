@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-july-29-2026-at-1021-am-ict-tether-zcash-and-visa-make-headlines</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785295300/xeonbit24/posts/crypto-roundup-july-29-2026-at-1021-am-ict-tether-zcash-and-visa-make-headlines.jpg</image:loc>
+      <image:title>Crypto Roundup July 29, 2026 at 10:21 AM (ICT): Tether, Zcash, and Visa Make Headlines</image:title>
+      <image:caption>Crypto Roundup July 29, 2026 at 10:21 AM (ICT): Tether, Zcash, and Visa Make Headlines</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-july-28-2026-at-0825-pm-ict-regulatory-shifts-and-market-movement</loc>

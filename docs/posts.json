@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785295301275",
+      "title": "Crypto Roundup July 29, 2026 at 10:21 AM (ICT): Tether, Zcash, and Visa Make Headlines",
+      "summary": "Tether signs a tokenization deal with the Nairobi Securities Exchange, Zcash researchers publish a proof to rule out undetectable counterfeiting bugs, and Visa outlines its stablecoin strategy. Meanwhile, the global crypto market is watching the US Fed's potential rate hike and its impact on bitcoin. European financial institutions launch a cooperative blockchain network, and Myanmar passes a crypto scam bill with severe penalties.",
+      "content": "<p>The crypto market is abuzz with significant developments, from Tether's tokenization deal to Visa's stablecoin strategy. In this roundup, we'll delve into the top 10 news articles, covering tokenization, blockchain security, regulatory updates, and market trends.</p><h2>1. Tether Signs Tokenization Deal with Nairobi Securities Exchange</h2><p>Tether, the issuer of the USDT stablecoin, has signed a tokenization deal with the Nairobi Securities Exchange. The agreement covers tokenized securities, blockchain-based market infrastructure, and the potential use of USDT as a settlement layer. This partnership is expected to boost the adoption of blockchain technology in Africa and provide a new avenue for investors to access the African market.</p><h2>2. Zcash Researchers Publish Proof to Rule Out Undetectable Counterfeiting Bugs</h2><p>Zcash researchers have published a proof to rule out undetectable counterfeiting bugs in Ironwood, a privacy-focused blockchain protocol. The proof, which consists of over 2,700 machine-checked theorems, demonstrates the security of Ironwood against counterfeiting attacks. This development is significant for the Zcash community, as it enhances the trust and reliability of the protocol.</p><h2>3. European Financial Institutions Launch Cooperative Blockchain Network</h2><p>A group of 10 European financial institutions, including ABN AMRO, DekaBank, and Natixis CIB, have launched a cooperative blockchain network called RL1. The network aims to provide a secure and efficient platform for cross-border transactions and settlements. This initiative highlights the growing interest in blockchain technology among traditional financial institutions.</p><h2>4. Coinbase Seeks Clearer Rules in Canada</h2><p>Coinbase, a leading cryptocurrency exchange, is seeking clearer rules in Canada to expand its operations. The company's new CEO, Eric Richmond, emphasized the need for permanent rules rather than temporary exemptions to operate in the Canadian market. Coinbase aims to offer a range of services, including derivatives, tokenized assets, and decentralized finance (DeFi) products.</p><h2>5. Myanmar Passes Crypto Scam Bill with Severe Penalties</h2><p>The Myanmar parliament has passed a crypto scam bill that imposes severe penalties, including prison terms of up to life, for crypto scams and operating scam centers. The bill aims to protect investors and prevent fraudulent activities in the crypto space. This development highlights the growing concern among governments about crypto scams and the need for regulatory oversight.</p><h2>6. Markets React to US-Iran Ceasefire</h2><p>The odds of a lasting ceasefire between the US and Iran have dropped by 10% on Polymarket, indicating market skepticism about the durability of the peace agreement. Traders on Myriad believe that peace talks won't happen until next month. The crypto market is watching the situation closely, as geopolitical tensions can impact global markets and investor sentiment.</p><h2>7. Apple Overtakes Nvidia</h2><p>Apple has surpassed Nvidia in market value, with some analysts attributing this to Apple's cautious approach to AI spending. However, this development may also indicate that Apple is avoiding expensive bills and focusing on its core business. The tech industry is closely watching the competition between Apple and Nvidia, as it may impact the adoption of AI and blockchain technologies.</p><h2>8. Visa Outlines Stablecoin Strategy</h2><p>Visa has outlined its stablecoin strategy during its Q3 earnings call, highlighting investments in the stablecoin stack, including OpenUSD, tokenized deposits, and AI-powered commerce. Visa's move into the stablecoin space is significant, as it may provide a new avenue for mainstream adoption of cryptocurrencies.</p><h2>9. Claude Mythos Cracks Post-Quantum Cryptography</h2><p>Anthropic's locked model, Claude Mythos, has cracked a post-quantum cryptography scheme that was previously thought to be secure. This development highlights the risks and challenges associated with post-quantum cryptography and the need for continued research and development in this area.</p><h2>10. Fed Rate Hike and Bitcoin</h2><p>Traders are divided on whether the US Fed will hike rates, but analysts believe that crypto may be less exposed to the rate hike than AI-driven tech stocks. A dovish Fed could be good for bitcoin, as it may lead to increased investor appetite for riskier assets. However, the crypto market is closely watching the Fed's decision, as it may impact global market trends and investor sentiment.</p><h2>Market Outlook</h2><p>The crypto market is experiencing a mix of positive and negative developments, from Tether's tokenization deal to the US-Iran ceasefire. The launch of the RL1 cooperative blockchain network and Visa's stablecoin strategy are significant positives, while the Myanmar crypto scam bill and the potential Fed rate hike are negatives. Overall, the market is watching the US Fed's decision and the geopolitical situation closely, as these factors may impact global market trends and investor sentiment.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup are: Tether's tokenization deal with the Nairobi Securities Exchange, Zcash's proof to rule out undetectable counterfeiting bugs, and Visa's stablecoin strategy. Additionally, the launch of the RL1 cooperative blockchain network and the Myanmar crypto scam bill are significant developments. The crypto market is closely watching the US Fed's decision and the geopolitical situation, as these factors may impact global market trends and investor sentiment.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Tether signs tokenization deal with Nairobi Securities Exchange — <em>Cointelegraph</em></li>\n<li>[2] Zcash says Ironwood proof rules out undetectable counterfeiting bugs — <em>Cointelegraph</em></li>\n<li>[3] European financial institutions launch RL1 cooperative blockchain network — <em>Cointelegraph</em></li>\n<li>[4] Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first — <em>CoinDesk</em></li>\n<li>[5] Myanmar parliament passes crypto scam bill with penalties up to life — <em>Cointelegraph</em></li>\n<li>[6] Markets Don’t Buy the US Ceasefire Against Iran Will Last — <em>Decrypt</em></li>\n<li>[7] Apple Overtakes Nvidia—Which Will Be Bigger by End of July? — <em>Decrypt</em></li>\n<li>[8] Visa outlines stablecoin strategy during Q3 earnings call — <em>Cointelegraph</em></li>\n<li>[9] Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break — <em>Decrypt</em></li>\n<li>[10] 'Anything remotely dovish' from Fed could be good for bitcoin, says analyst — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "tether",
+        "zcash"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785295300/xeonbit24/posts/crypto-roundup-july-29-2026-at-1021-am-ict-tether-zcash-and-visa-make-headlines.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785295300/xeonbit24/posts/crypto-roundup-july-29-2026-at-1021-am-ict-tether-zcash-and-visa-make-headlines.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-july-29-2026-at-1021-am-ict-tether-zcash-and-visa-make-headlines",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup July 29, 2026 at 10:21 AM (ICT): Tether, Zcash, and Visa Make Headlines"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
+          "url": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
+          "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "European financial institutions launch RL1 cooperative blockchain network",
+          "url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+          "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
+          "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
+          "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+          "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Visa outlines stablecoin strategy during Q3 earnings call",
+          "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
+          "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+          "source": "Decrypt"
+        },
+        {
+          "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+          "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-29T03:21:41.275Z",
+      "slug": "crypto-roundup-july-29-2026-at-1021-am-ict-tether-zcash-and-visa-make-headlines"
+    },
+    {
       "id": "1785245128749",
       "title": "Crypto Roundup July 28, 2026 at 08:25 PM (ICT): Regulatory Shifts and Market Movements",
       "summary": "The crypto market is witnessing significant regulatory shifts, with Russia's central bank drafting rules for organized crypto trading, while the Bank of Japan's meeting is being closely watched for its potential impact on the yen and crypto markets. Meanwhile, Ethereum and Solana are leading in crypto hack losses, and Binance is facing criticism for making it difficult to fight crypto crime.",
@@ -15050,16 +15131,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
-    "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open",
-    "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
-    "https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says",
-    "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
-    "https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up",
-    "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
-    "https://www.theblock.co/post/406888/bullish-on-morpho-standard-chartered-sees-token-at-60-by-2030-outperforming-bitcoin-ether?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -15549,7 +15620,17 @@
     "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
     "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
-    "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live"
+    "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
+    "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+    "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
+    "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
+    "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+    "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -15740,6 +15821,7 @@
     "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third|https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
