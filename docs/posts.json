@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785588628354",
+      "title": "Crypto Roundup August 1, 2026 at 07:50 PM (ICT): Bitcoin Losses and Regulatory Updates",
+      "summary": "The cryptocurrency market has seen significant developments, including a major security breach affecting Coldcard wallets, resulting in estimated losses of $70 million, and regulatory updates such as Russia's expansion of its crypto mining ban to Moscow until 2032. Bitcoin has held its monthly gain despite facing potential challenges in August, with analysts cautioning about 'choppy' market conditions ahead. The market is also watching the recovery of Bitcoin ETFs, which ended July in the green despite late-month selling, and the XRP Ledger upgrade that brings back features once pulled due to critical bugs.",
+      "content": "<p>The past week has been marked by significant events in the cryptocurrency space, ranging from security breaches to regulatory updates and market trends. This roundup will cover the top 10 news articles, providing an in-depth analysis of each and their implications for the crypto market.</p><h2>1. Russia Expands Crypto Mining Ban to Moscow</h2><p>Russia has expanded its cryptocurrency mining ban to include Moscow and parts of the Kursk Region until 2032, citing concerns over power supply. This move is part of a broader trend of governments regulating or restricting cryptocurrency mining due to environmental and energy consumption concerns.</p><h2>2. Coldcard Bitcoin Loss Estimate Rises to $70M</h2><p>A recent security breach affecting Coldcard wallets has resulted in estimated losses of $70 million. According to Galaxy Research, the breach was due to weak seed generation, allowing an attacker to recreate private keys offline and sweep over 1,000 BTC from nearly 1,200 wallets. This incident highlights the importance of robust security measures in cryptocurrency storage solutions.</p><h2>3. Binance Founder CZ Calls for Wallet Diversification</h2><p>In response to the Coldcard security breach, Binance founder Changpeng Zhao (CZ) has called for wallet diversification, emphasizing that even hardware wallets can have bugs. CZ suggests spreading funds across multiple wallets to minimize risk, a strategy that underscores the need for a layered approach to cryptocurrency security.</p><h2>4. Bitcoin ETFs End July in the Green</h2><p>Despite late-month selling, Bitcoin ETFs ended July in the green, attracting $172.4 million in inflows. However, they remain $5.3 billion negative year to date following heavy withdrawals in May and June. This trend indicates a cautious approach by investors, possibly due to market volatility and regulatory uncertainties.</p><h2>5. XRP Ledger Upgrade Brings Back Features</h2><p>The XRP Ledger is set to receive an upgrade, bringing back features that were previously pulled due to critical bugs. The xrpld 3.3.0 release, expected next week, includes five proposed amendments, showcasing the ongoing development and refinement of the XRP ecosystem.</p><h2>6. Analysis of the Coldcard Security Breach</h2><p>The Coldcard security breach is a stark reminder of the vulnerabilities in cryptocurrency storage solutions. The breach, which did not directly involve the devices themselves but rather exploited weak seed generation, underscores the importance of robust security practices, including the use of strong, unique seeds and diversification of assets.</p><h2>7. Bitcoin Holds Monthly Gain, Faces 'Choppy' August</h2><p>Bitcoin has managed to hold its monthly gain despite a barrage of negative news, with analysts suggesting that 'forced-selling' has been exhausted. However, the market remains cautious, with rate hike fears and jobs data looming, potentially leading to 'choppy' conditions in August.</p><h2>8. Google Yanks AI Image Tool Over Deepfake Fears</h2><p>Google has removed its AI image tool, Nano Banana, just a day after its launch, due to concerns over deepfakes. The tool allowed users to generate fake satellite scenes from text prompts, raising alarms about the potential for misuse in verifying breaking news and atrocities.</p><h2>9. Former Rep. George Santos Agrees to Pay $35,000 in CFTC Settlement</h2><p>Former U.S. Rep. George Santos has agreed to pay $35,000 in a settlement with the CFTC over trades made on Kalshi about the State of the Union. This settlement highlights the regulatory scrutiny of cryptocurrency and related financial instruments.</p><h2>10. Bitcoin Losses Linked to Coldcard Vulnerability Grow</h2><p>The estimated losses due to the Coldcard vulnerability have grown to $70 million, according to Galaxy Research, affecting nearly 1,200 addresses. This incident is a significant reminder of the risks associated with cryptocurrency storage and the need for robust security measures.</p><h2>Market Outlook</h2><p>The cryptocurrency market is poised for a potentially volatile August, with Bitcoin facing challenges such as rate hike fears and the aftermath of significant security breaches. Despite these challenges, the resilience of Bitcoin and the ongoing development of ecosystems like XRP suggest a dynamic and evolving market. Regulatory updates, such as Russia's crypto mining ban expansion, will continue to shape the market, emphasizing the need for investors to stay informed and adapt to changing conditions.</p><h2>Key Takeaways</h2><p>The key takeaways from the past week include the importance of security in cryptocurrency storage, the potential for regulatory changes to impact the market, and the resilience of major cryptocurrencies like Bitcoin. As the market moves forward, it's crucial for investors to diversify their assets, stay abreast of regulatory developments, and prioritize robust security practices to navigate the evolving cryptocurrency landscape.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Russia expands crypto mining ban to Moscow through 2032 — <em>Cointelegraph</em></li>\n<li>[2] Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis — <em>Cointelegraph</em></li>\n<li>[3] Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit — <em>CoinDesk</em></li>\n<li>[4] Bitcoin ETFs end July in the green despite late-month selling — <em>Cointelegraph</em></li>\n<li>[5] XRP Ledger upgrade brings back features once pulled over critical bugs — <em>CoinDesk</em></li>\n<li>[6] How bitcoin cold wallets lost $70 million in an attack that never touched the devices — <em>CoinDesk</em></li>\n<li>[7] Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say — <em>CoinDesk</em></li>\n<li>[8] Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears — <em>Decrypt</em></li>\n<li>[9] Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet — <em>The Block</em></li>\n<li>[10] Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "crypto news",
+        "market",
+        "regulation",
+        "security",
+        "ethereum"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785588627/xeonbit24/posts/crypto-roundup-august-1-2026-at-0750-pm-ict-bitcoin-losses-and-regulatory-update.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785588627/xeonbit24/posts/crypto-roundup-august-1-2026-at-0750-pm-ict-bitcoin-losses-and-regulatory-update.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-1-2026-at-0750-pm-ict-bitcoin-losses-and-regulatory-update",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 1, 2026 at 07:50 PM (ICT): Bitcoin Losses and Regulatory Updates"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Russia expands crypto mining ban to Moscow through 2032",
+          "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+          "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+          "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin ETFs end July in the green despite late-month selling",
+          "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+          "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+          "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+          "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
+          "url": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
+          "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-01T12:50:28.354Z",
+      "slug": "crypto-roundup-august-1-2026-at-0750-pm-ict-bitcoin-losses-and-regulatory-update"
+    },
+    {
       "id": "1785555421879",
       "title": "Crypto Roundup August 1, 2026 at 10:36 AM (ICT): Bitcoin Holds Gain, Tether Posts $1.5 Billion Profit",
       "summary": "Bitcoin holds onto its monthly gain despite facing a potentially choppy August, while Tether posts a significant operating profit in Q2. Meanwhile, various events across the crypto space, including a Coldcard vulnerability, Google's AI image tool removal, and regulatory actions, highlight the complexities of the market. The overall outlook remains cautious, with traders and investors eyeing rate hike fears, jobs data, and the growth of crypto beyond trading.",
@@ -15617,12 +15698,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-    "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-    "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
-    "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
     "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
     "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
     "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -16116,7 +16191,13 @@
     "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
     "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
+    "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+    "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+    "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+    "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -16314,6 +16395,7 @@
     "https://www.theblock.co/post/410148/hyperscale-data-sells-100-bitcoin-to-fund-michigan-ai-data-center-build?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410140/bernstein-says-core-scientifics-amd-partnership-could-generate-14b-over-15-years?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
     "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery|https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410273/td-cowen-cuts-sharplink-price-target-to-13-on-lower-2026-ether-outlook?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say|https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears|https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say|https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears|https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit"
   ]
 }
