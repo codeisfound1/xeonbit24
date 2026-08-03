@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785766212933",
+      "title": "Crypto Roundup August 3, 2026 at 09:10 PM (ICT): Market Volatility and Institutional Adoption",
+      "summary": "The crypto market experienced significant volatility due to regulatory uncertainties and institutional adoption, with Circle's stock sliding after a Morgan Stanley downgrade and BlackRock expanding its tokenized cash offerings. Meanwhile, Tom Lee's Bitmine added to its ether treasury, and the Coldcard Bitcoin hack neared $114 million in potential losses.",
+      "content": "<p>The crypto market has been experiencing a mix of volatility and institutional adoption, with various events shaping the industry's trajectory. This roundup will cover the top 10 news articles, providing an in-depth analysis of each event and its implications for the market.</p><h2>1. Circle's Stock Slides After Morgan Stanley Downgrade</h2><p>Circle's stock slid after Morgan Stanley downgraded the company, citing concerns over tokenized money market funds, Open USD, and slower USDC growth. This downgrade highlights the challenges stablecoin issuers face in maintaining growth and navigating regulatory uncertainties.</p><h2>2. Bernstein Sees Another Leg Lower for Crypto Markets if Clarity Act Stalls</h2><p>Bernstein warned that failure to pass the Clarity Act this year could send crypto markets lower, but expects U.S. regulators to accelerate rulemaking. This prediction underscores the importance of regulatory clarity for the crypto industry's growth and stability.</p><h2>3. Tom Lee Says Ether Outperformed Nasdaq 100 in July</h2><p>Tom Lee highlighted ether's outperformance against the Nasdaq 100 in July, with Bitmine adding 10,399 ETH to its treasury. This development demonstrates the growing interest in ether and its potential for growth.</p><h2>4. Fake World Assets and Onchain Gacha Become Crypto's Latest Craze</h2><p>Fake World Assets and onchain gacha have become the latest craze in crypto, with forgotten NFTs being turned into an onchain lottery. However, it remains to be seen whether this trend will be sustainable in the long term.</p><h2>5. Crypto Market Trends and Events</h2><p>A summary of the latest crypto market trends and events, including daily price movements and regulatory updates, provides a comprehensive overview of the industry's current state.</p><h2>6. BlackRock Expands Tokenized Cash with New Blockchain-Based Money Market Offerings</h2><p>BlackRock expanded its tokenized cash offerings with new blockchain-based money market funds, aiming to qualify as eligible reserve assets for U.S. payment stablecoin issuers. This move demonstrates the growing adoption of blockchain technology in traditional finance.</p><h2>7. The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses</h2><p>The Coldcard Bitcoin hack has neared $114 million in potential losses, highlighting the increasing threat of AI-powered attacks on self-custody solutions. This incident underscores the need for enhanced security measures in the crypto industry.</p><h2>8. Eric Trump's American Bitcoin Treasury Tops 8,000 BTC</h2><p>Eric Trump's American Bitcoin treasury has topped 8,000 BTC, with record mining production and revenue growth. This development demonstrates the growing interest in Bitcoin and its potential for institutional adoption.</p><h2>9. Tom Lee's Bitmine Bought More Ether, Added to Stock Buyback</h2><p>Tom Lee's Bitmine bought more ether and added to its stock buyback, signaling strengthening crypto fundamentals. This move demonstrates the growing confidence in ether's potential for growth.</p><h2>10. Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B</h2><p>Strategy sold $105M in Bitcoin, with half the proceeds funding preferred dividends and half going into an $81 million STRC buyback. This move highlights the growing importance of Bitcoin in institutional investment strategies.</p><h2>Market Outlook</h2><p>The crypto market is expected to continue experiencing volatility due to regulatory uncertainties and institutional adoption. However, the growing interest in blockchain technology and the increasing adoption of crypto assets by traditional financial institutions are likely to drive growth and stability in the industry.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the importance of regulatory clarity, the growing adoption of blockchain technology, and the increasing threat of AI-powered attacks on self-custody solutions. As the crypto industry continues to evolve, it is essential to stay informed about the latest developments and trends shaping its trajectory.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Circle slides after Morgan Stanley downgrade, cut in price target — <em>CoinDesk</em></li>\n<li>[2] Bernstein sees another leg lower for crypto markets if Clarity Act stalls — <em>CoinDesk</em></li>\n<li>[3] Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH — <em>The Block</em></li>\n<li>[4] How Fake World Assets and onchain gacha became crypto’s latest craze — <em>Cointelegraph</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] BlackRock expands tokenized cash with new blockchain-based money market offerings — <em>CoinDesk</em></li>\n<li>[7] Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses — <em>Decrypt</em></li>\n<li>[8] Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record — <em>The Block</em></li>\n<li>[9] Tom Lee's Bitmine bought more ether, added to stock buyback last week — <em>CoinDesk</em></li>\n<li>[10] Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "stablecoins",
+        "institutional adoption"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785766212/xeonbit24/posts/crypto-roundup-august-3-2026-at-0910-pm-ict-market-volatility-and-institutional-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785766212/xeonbit24/posts/crypto-roundup-august-3-2026-at-0910-pm-ict-market-volatility-and-institutional-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-3-2026-at-0910-pm-ict-market-volatility-and-institutional-",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 3, 2026 at 09:10 PM (ICT): Market Volatility and Institutional Adoption"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+          "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+          "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
+          "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
+          "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+          "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses",
+          "url": "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record",
+          "url": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
+          "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
+          "url": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-08-03T14:10:12.933Z",
+      "slug": "crypto-roundup-august-3-2026-at-0910-pm-ict-market-volatility-and-institutional-"
+    },
+    {
       "id": "1785728343604",
       "title": "Crypto Roundup August 3, 2026 at 10:38 AM (ICT): Bitcoin Under Pressure Amid Coldcard Exploit and Regulatory Uncertainty",
       "summary": "The crypto market is facing significant challenges as a suspected 4th Coldcard attack wave sweeps 389 Bitcoin, while regulatory uncertainty lingers with the SEC keeping Nasdaq bitcoin options on hold and the Clarity Act stalled. Meanwhile, DeFi platforms are shifting their focus towards institutional clients and unified funding flows.",
@@ -15941,15 +16022,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out",
-    "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai",
-    "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
     "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
     "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
@@ -16440,10 +16512,18 @@
     "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
     "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
     "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-    "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+    "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+    "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+    "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
+    "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
+    "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
     "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging|https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging|https://cointelegraph.com/markets/bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366292/south-korean-court-lifts-bithumbs-six-month-business-suspension|https://www.coindesk.com/markets/2026/05/01/bitcoin-ticks-higher-but-remains-range-bound-as-traders-keep-short-bias",
@@ -16642,6 +16722,7 @@
     "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12|https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss"
+    "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss"
   ]
 }
