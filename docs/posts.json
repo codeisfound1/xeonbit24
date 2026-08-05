@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785936611332",
+      "title": "Crypto Roundup August 5, 2026 at 08:30 PM (ICT): Institutional Investments and Technological Advancements",
+      "summary": "The crypto market saw significant institutional investments and technological advancements, with Noumura's Laser Digital backing ZIGChain and Mastercard testing shared identity checks for stablecoin transfers. The market also witnessed the expansion of Layer 2 solutions and the growth of stablecoin adoption. Meanwhile, Galaxy Digital's shares slipped after its second-quarter results, and an AI agent token once worth $2.4 billion was declared dead by its founder.",
+      "content": "<p>The crypto market has been abuzz with activity, from institutional investments to technological advancements. In this roundup, we will delve into the top 10 news articles that made headlines on August 5, 2026.</p><h2>1. Noumura’s Laser Digital Backs ZIGChain for On-Chain Private Credit Push in UAE</h2><p>Noumura's Laser Digital has invested in ZIGChain, a company that aims to provide on-chain private credit solutions in the UAE. This investment is a significant development in the region, as it highlights the growing interest in blockchain-based financial solutions. The investment amount is reported to be in the high single-digit millions, demonstrating the confidence that institutional investors have in the potential of blockchain technology.</p><h2>2. Mastercard and Borderless Test Shared Identity Checks for Stablecoin Transfers</h2><p>Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers through the payment processing giant’s Crypto Credential framework. This development is crucial in promoting the adoption of stablecoins, as it addresses concerns around identity verification and Anti-Money Laundering (AML) regulations. The use of shared identity checks can help reduce the risk of fraudulent transactions and increase the efficiency of cross-border payments.</p><h2>3. World Chain Becomes First Production L2 to Ship Streaming Block Access Lists via Flashblocks</h2><p>World Chain has become the first production Layer 2 (L2) solution to ship streaming Block Access Lists via Flashblocks. This technological advancement is significant, as it enables faster and more efficient data processing on the blockchain. The activation of this feature on mainnet is scheduled for August 17, ahead of Ethereum's Glamsterdam upgrade.</p><h2>4. Crypto May Have Institutionalized, but It Still Trades Like a Rumor Mill</h2><p>Despite the growing institutional investment in the crypto market, it still exhibits characteristics of a rumor mill. The market is highly sensitive to news and headlines, which can lead to significant price fluctuations. This highlights the importance of understanding the underlying market dynamics and positioning data, rather than simply reacting to news and rumors.</p><h2>5. Galaxy Digital Shares Slip 5% After Second-Quarter Results</h2><p>Galaxy Digital's shares slipped 5% after the company announced its second-quarter results. The company's data-center revenue is expected to generate around $80 million quarterly from Q3, with Phase I of its Helios project already producing revenue. This development is significant, as it demonstrates the growing revenue streams of crypto companies.</p><h2>6. AI Agent Token Once Worth $2.4 Billion Ends with Founder Calling It Dead</h2><p>The founder of Eliza Labs, Shaw Walters, has declared the AI agent token ELIZAOS dead. The token, which was once worth $2.4 billion, has experienced a significant decline in value, with its founder advising holders to sell. This development highlights the risks and uncertainties associated with investing in crypto assets.</p><h2>7. Circle Names BlackRock, DTCC Among Arc Validators as Q2 Revenue Hits $701 Million</h2><p>Circle has named BlackRock, Visa, DTCC, and eight others as Arc validators, as its Q2 revenue hit $701 million. The company's USDC circulation has also reached $73.3 billion, demonstrating the growing adoption of stablecoins. This development is significant, as it highlights the increasing involvement of institutional investors in the crypto market.</p><h2>8. Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI</h2><p>Anthropic's LLM and OpenAI's GPT-5.6 Sol have been reported to have taken \n<h2>Sources</h2>\n<ol>\n<li>[1] Noumura’s Laser Digital backs ZIGChain for onchain private credit push in UAE — <em>CoinDesk</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks — <em>The Block</em></li>\n<li>[4] Crypto may have institutionalized, but it still trades like a rumor mill — <em>CoinDesk</em></li>\n<li>[5] Mastercard, Borderless test shared identity checks for stablecoin transfers — <em>Cointelegraph</em></li>\n<li>[6] Mastercard expands stablecoin push with Crypto Credential pilot — <em>The Block</em></li>\n<li>[7] Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI — <em>Decrypt</em></li>\n<li>[8] Galaxy Digital shares slip 5% after second-quarter results — <em>CoinDesk</em></li>\n<li>[9] AI agent token once worth $2.4 billion ends with founder calling it dead — <em>CoinDesk</em></li>\n<li>[10] Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoin",
+        "crypto news",
+        "layer 2",
+        "institutional investment"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785936610/xeonbit24/posts/crypto-roundup-august-5-2026-at-0830-pm-ict-institutional-investments-and-techno.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785936610/xeonbit24/posts/crypto-roundup-august-5-2026-at-0830-pm-ict-institutional-investments-and-techno.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-5-2026-at-0830-pm-ict-institutional-investments-and-techno",
+        "width": 1651,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 5, 2026 at 08:30 PM (ICT): Institutional Investments and Technological Advancements"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Noumura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
+          "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
+          "url": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
+          "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
+          "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Mastercard expands stablecoin push with Crypto Credential pilot",
+          "url": "https://www.theblock.co/post/410830/mastercard-expands-stablecoin-push-with-crypto-credential-pilot?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+          "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Galaxy Digital shares slip 5% after second-quarter results",
+          "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
+          "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
+          "url": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-05T13:30:11.332Z",
+      "slug": "crypto-roundup-august-5-2026-at-0830-pm-ict-institutional-investments-and-techno"
+    },
+    {
       "id": "1785899903407",
       "title": "Crypto Roundup August 5, 2026 at 10:18 AM (ICT): Regulatory Moves and Security Concerns",
       "summary": "The crypto market is seeing significant developments with regulatory moves, security concerns, and technological advancements. Three Missouri men have been charged over an alleged plot to steal bitcoin, while Ethereum researchers are proposing changes to staking. Additionally, a Bitcoin bridge has shut down due to AI finding bugs too fast, highlighting the importance of security in the crypto space.",
@@ -16263,15 +16344,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
-    "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
-    "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
@@ -16762,10 +16834,18 @@
     "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
     "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
-    "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat"
+    "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+    "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+    "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
+    "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/410830/mastercard-expands-stablecoin-push-with-crypto-credential-pilot?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+    "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
+    "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
+    "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain|https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank|https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026|https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
     "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images|https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images",
@@ -16964,6 +17044,7 @@
     "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported|https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-    "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&amp;utm_medium=rss"
   ]
 }
