@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785899903407",
+      "title": "Crypto Roundup August 5, 2026 at 10:18 AM (ICT): Regulatory Moves and Security Concerns",
+      "summary": "The crypto market is seeing significant developments with regulatory moves, security concerns, and technological advancements. Three Missouri men have been charged over an alleged plot to steal bitcoin, while Ethereum researchers are proposing changes to staking. Additionally, a Bitcoin bridge has shut down due to AI finding bugs too fast, highlighting the importance of security in the crypto space.",
+      "content": "<p>The crypto market is experiencing a wave of significant events, from regulatory moves to security concerns and technological advancements. In this roundup, we will cover the top 10 latest crypto news articles, providing an in-depth analysis of each story and its impact on the market.</p><h2>1. Alleged Bitcoin Theft Plot</h2><p>Three Missouri men have been charged over an alleged plot to steal bitcoin through a home invasion. The individuals have pleaded not guilty to the charge of conspiracy to interfere with commerce by robbery. This incident highlights the importance of security in the crypto space and the need for users to take precautions to protect their assets.</p><h2>2. Clarity Act and Crypto Regulation</h2><p>Bitwise CIO Matt Hougan has stated that crypto will be fine even if the Clarity Act fails to pass this week. The US Congress is entering a month-long recess, giving the Clarity Act a three-day window to advance through the Senate. The Act aims to provide clarity on crypto regulation, which is crucial for the growth and development of the industry.</p><h2>3. Ethereum Staking Proposal</h2><p>Ethereum researchers have proposed a change to the staking mechanism, which would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%. The proposal, known as EIP-8363, aims to prevent centralization and promote a more decentralized network. However, critics argue that this change could backfire and have unintended consequences.</p><h2>4. Bitcoin Bridge Shutdown</h2><p>A non-custodial Bitcoin swap provider, Boltz, has shut down its operations due to AI finding bugs too fast. The company stated that attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely. This incident highlights the importance of security in the crypto space and the need for companies to invest in robust security measures.</p><h2>5. AI and Crypto</h2><p>An AI enthusiast has sparked controversy by bugging his toddler's sleepover and feeding it to an AI model. The incident has raised concerns about the use of AI in crypto and the potential risks associated with it. Meanwhile, OpenAI has released emails and text messages in an effort to fight a trade secret suit, exposing factual errors in Apple's lawsuit.</p><h2>6. Tribal Gaming Regulators and Prediction Markets</h2><p>Tribal gaming regulators and senators are making a renewed push to add a prediction markets provision to the Clarity Act. The move aims to keep sports betting under state jurisdiction, resisting efforts by a federal regulator. This development highlights the complex regulatory landscape of the crypto industry and the need for clear guidelines.</p><h2>7. BlackRock's Ethereum ETF</h2><p>BlackRock's spot Ethereum ETF is set to undergo a 1-for-3 reverse share split in October. The split will consolidate every three ETHA shares into one, increasing the fund's per-share net asset value. This move is expected to have a positive impact on the Ethereum market, as it will increase the fund's visibility and attractiveness to investors.</p><h2>8. Ledger and Coldcard Exploit</h2><p>Ledger has stated that the Coldcard exploit shows that Bitcoin wallet security must adapt to AI. The company's CTO, Charles Guillemet, emphasized the importance of certified hardware randomness and the need for wallet security to evolve in response to AI-powered attacks.</p><h2>9. Jim Cramer and Quantum Threat</h2><p>Jim Cramer has announced that he is selling his Bitcoin due to the quantum threat. The CNBC host interviewed IBM CEO Arvind Krishna, who stated that quantum computers could eventually crack the cryptography protecting Bitcoin. This development highlights the potential risks associated with quantum computing and the need for the crypto industry to develop robust security measures.</p><h2>10. Market Outlook</h2><p>The crypto market is experiencing a period of significant uncertainty, with regulatory moves, security concerns, and technological advancements all having an impact. Despite these challenges, the market remains resilient, with many experts predicting a bright future for crypto. As the industry continues to evolve, it is essential for users to stay informed and adapt to the changing landscape.</p><h2>Key Takeaways</h2><p>In conclusion, the crypto market is experiencing a wave of significant events, from regulatory moves to security concerns and technological advancements. The key takeaways from this roundup are: the importance of security in the crypto space, the need for clear regulation, and the potential risks associated with AI and quantum computing. As the industry continues to evolve, it is essential for users to stay informed and adapt to the changing landscape.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Three Missouri men charged over alleged plot to steal bitcoin through home invasion — <em>The Block</em></li>\n<li>[2] Crypto ‘will be fine’ even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says — <em>The Block</em></li>\n<li>[3] Ethereum researchers want to rein in staking, critics say it could backfire — <em>Cointelegraph</em></li>\n<li>[4] This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast — <em>Decrypt</em></li>\n<li>[5] AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back — <em>Decrypt</em></li>\n<li>[6] Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act — <em>The Block</em></li>\n<li>[7] OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit — <em>Decrypt</em></li>\n<li>[8] BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October — <em>The Block</em></li>\n<li>[9] Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI — <em>Decrypt</em></li>\n<li>[10] Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "security",
+        "crypto news",
+        "market trends"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785899902/xeonbit24/posts/crypto-roundup-august-5-2026-at-1018-am-ict-regulatory-moves-and-security-concer.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785899902/xeonbit24/posts/crypto-roundup-august-5-2026-at-1018-am-ict-regulatory-moves-and-security-concer.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-5-2026-at-1018-am-ict-regulatory-moves-and-security-concer",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 5, 2026 at 10:18 AM (ICT): Regulatory Moves and Security Concerns"
+      },
+      "sourceUrl": "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Three Missouri men charged over alleged plot to steal bitcoin through home invasion",
+          "url": "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto ‘will be fine’ even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says",
+          "url": "https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
+          "url": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+          "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+          "source": "Decrypt"
+        },
+        {
+          "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+          "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
+          "url": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+          "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+          "source": "Decrypt"
+        },
+        {
+          "title": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+          "url": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+          "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
+          "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-08-05T03:18:23.407Z",
+      "slug": "crypto-roundup-august-5-2026-at-1018-am-ict-regulatory-moves-and-security-concer"
+    },
+    {
       "id": "1785850819701",
       "title": "Crypto Roundup August 4, 2026 at 08:40 PM (ICT): Bitcoin Price Predictions and Security Concerns",
       "summary": "The crypto market is experiencing a mix of predictions and security concerns, with Bitcoin's price potentially heading down to $43,500 and a $200K macOS exploit left unreported. Meanwhile, a mystery group is warning people in Washington about the hazards of digital assets, and BitGo's WBTC move pushes the LayerZero-to-Chainlink tally near $15 billion.",
@@ -16182,16 +16263,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
-    "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-    "https://www.coindesk.com/markets/2026/07/08/spacex-s-first-bitcoin-wallet-movements-in-six-months-likely-don-t-signal-sales",
-    "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
-    "https://cointelegraph.com/news/bitcoin-needs-no-savior-lyn-alden-strategy-216-million-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
@@ -16681,10 +16752,19 @@
     "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
     "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues"
+    "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
+    "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+    "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+    "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+    "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+    "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366292/south-korean-court-lifts-bithumbs-six-month-business-suspension|https://www.coindesk.com/markets/2026/05/01/bitcoin-ticks-higher-but-remains-range-bound-as-traders-keep-short-bias",
     "https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain|https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank|https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026|https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
     "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images|https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -16883,6 +16963,7 @@
     "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported|https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads"
+    "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported|https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+    "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
