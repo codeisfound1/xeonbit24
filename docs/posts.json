@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785986491203",
+      "title": "Crypto Roundup August 6, 2026 at 10:21 AM (ICT): Regulatory Shifts and Technological Advancements",
+      "summary": "The crypto market is witnessing significant regulatory shifts with Putin signing a landmark crypto law in Russia, and the US Senate racing to salvage the Clarity Act. Meanwhile, technological advancements continue with Block raising its 2026 outlook and Meta debuting its AI coding agent Muse.",
+      "content": "<p>The cryptocurrency market is experiencing a surge of activity, with regulatory developments and technological advancements taking center stage. In this roundup, we will delve into the top 10 news articles, covering regulatory shifts, technological innovations, and market trends.</p><h2>1. Putin Signs Landmark Crypto Law in Russia</h2><p>Putin has signed a landmark crypto law allowing regulated retail trading in Russia, while banning the use of crypto for domestic payments. This move is expected to boost the Russian crypto market, with investors and traders eagerly awaiting the implementation of the new law.</p><h2>2. US Senate Races to Salvage Clarity Act</h2><p>The US Senate is racing to salvage the Clarity Act, a crypto legislation that aims to provide regulatory clarity for the industry. With a procedural vote up in the air, lawmakers are working to resolve outstanding issues before the August recess.</p><h2>3. Block Raises 2026 Outlook on Strong Quarter</h2><p>Block has raised its 2026 outlook after posting a strong quarter, with Cash App and Square driving better-than-expected results. The company has also expanded its use of AI across software engineering, with AI touching nearly all code.</p><h2>4. Mysten Labs Tech Chief Joins Anthropic to Work on AI Security</h2><p>Mysten Labs’ co-founder Sam Blackshear has joined Anthropic to work on AI security, as AI shifts the balance between attackers and defenders. This move highlights the growing importance of AI security in the crypto space.</p><h2>5. Bitcoin Red Team Reports 5K Findings in Sweeping Security Audit</h2><p>The Bitcoin Red Team has reported 5,000 findings in a sweeping security audit, highlighting the need for improved security measures in the Bitcoin ecosystem. This audit is a significant step towards enhancing the security of the Bitcoin network.</p><h2>6. Binance Sues RedotPay for $470 Million</h2><p>Binance has sued RedotPay for $470 million, alleging that the company diverted users from the crypto exchange. This lawsuit highlights the competitive nature of the crypto exchange market.</p><h2>7. Meta Debuts AI Coding Agent Muse</h2><p>Meta has debuted its AI coding agent Muse, which runs in the terminal, coordinates subagents, and survives crashes. However, the agent lags behind on benchmarks, highlighting the need for further development.</p><h2>8. Senator Warren Questions US AI Chip Policy</h2><p>Senator Warren has questioned the US AI chip policy after Trump's crypto investment, demanding answers about the administration’s treatment of the UAE. This move highlights the growing scrutiny of AI chip policies and their impact on the crypto industry.</p><h2>9. Block’s Bitcoin Gross Profit Falls 31%</h2><p>Block’s bitcoin gross profit has fallen 31% after Cash App fee cuts, despite the company raising its 2026 gross profit forecast. This decline highlights the challenges faced by crypto companies in maintaining profitability.</p><h2>10. Cathie Wood’s Ark Invest Scoops Up $17 Million in Circle and $20 Million in SpaceX Shares</h2><p>Cathie Wood’s Ark Invest has scooped up $17 million in Circle and $20 million in SpaceX shares, following Q2 results. This investment highlights the growing interest in crypto and space-related companies.</p><h2>Market Outlook</h2><p>The crypto market is expected to experience significant growth in the coming months, driven by regulatory clarity and technological advancements. The implementation of the landmark crypto law in Russia and the potential passage of the Clarity Act in the US are expected to boost investor confidence and drive adoption.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup are the growing importance of regulatory clarity, technological innovation, and security in the crypto space. As the market continues to evolve, it is essential for investors and traders to stay informed about the latest developments and trends.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results — <em>The Block</em></li>\n<li>[2] Putin signs landmark crypto law allowing regulated retail trading in Russia — <em>The Block</em></li>\n<li>[3] Block raises 2026 outlook on strong quarter, says AI touches nearly all code — <em>Cointelegraph</em></li>\n<li>[4] Mysten Labs tech chief joins Anthropic to work on AI security — <em>Cointelegraph</em></li>\n<li>[5] Bitcoin Red Team reports 5K findings in sweeping security audit — <em>Cointelegraph</em></li>\n<li>[6] ‘At a standstill:’ Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom — <em>The Block</em></li>\n<li>[7] Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit — <em>CoinDesk</em></li>\n<li>[8] Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex — <em>Decrypt</em></li>\n<li>[9] Senator Warren questions US AI chip policy after Trump crypto investment: Report — <em>Cointelegraph</em></li>\n<li>[10] Block’s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "crypto news",
+        "regulation",
+        "blockchain",
+        "AI",
+        "market"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785986490/xeonbit24/posts/crypto-roundup-august-6-2026-at-1021-am-ict-regulatory-shifts-and-technological-.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785986490/xeonbit24/posts/crypto-roundup-august-6-2026-at-1021-am-ict-regulatory-shifts-and-technological-.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-6-2026-at-1021-am-ict-regulatory-shifts-and-technological-",
+        "width": 800,
+        "height": 450,
+        "format": "png",
+        "alt": "Crypto Roundup August 6, 2026 at 10:21 AM (ICT): Regulatory Shifts and Technological Advancements"
+      },
+      "sourceUrl": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
+          "url": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
+          "url": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
+          "url": "https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
+          "url": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
+          "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "‘At a standstill:’ Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
+          "url": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+          "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+          "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+          "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Block’s bitcoin gross profit falls 31% after Cash App fee cuts as shares reverse initial gains",
+          "url": "https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-06T03:21:31.203Z",
+      "slug": "crypto-roundup-august-6-2026-at-1021-am-ict-regulatory-shifts-and-technological-"
+    },
+    {
       "id": "1785936611332",
       "title": "Crypto Roundup August 5, 2026 at 08:30 PM (ICT): Institutional Investments and Technological Advancements",
       "summary": "The crypto market saw significant institutional investments and technological advancements, with Noumura's Laser Digital backing ZIGChain and Mastercard testing shared identity checks for stablecoin transfers. The market also witnessed the expansion of Layer 2 solutions and the growth of stablecoin adoption. Meanwhile, Galaxy Digital's shares slipped after its second-quarter results, and an AI agent token once worth $2.4 billion was declared dead by its founder.",
@@ -16344,16 +16425,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
-    "https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram",
-    "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
-    "https://www.theblock.co/post/407707/crypto-hack-losses-fall-below-1-billion-in-h1-2026-even-as-attack-volume-hits-record-immunefi?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
     "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -16843,10 +16914,19 @@
     "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
     "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
     "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
-    "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+    "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
+    "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/410923/blocks-bitcoin-gross-profit-falls-31-cash-app-fee-cuts-shares-reverse-initial-gains?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026|https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
     "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images|https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield|https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images",
     "https://cointelegraph.com/news/riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
@@ -17045,6 +17125,7 @@
     "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported|https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
     "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
