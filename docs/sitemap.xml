@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-august-7-2026-at-1008-am-ict-senate-delays-clarity-act-vote-marke</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786072139/xeonbit24/posts/crypto-roundup-august-7-2026-at-1008-am-ict-senate-delays-clarity-act-vote-marke.jpg</image:loc>
+      <image:title>Crypto Roundup August 7, 2026 at 10:08 AM (ICT): Senate Delays Clarity Act Vote, Market Makers Expand Services</image:title>
+      <image:caption>Crypto Roundup August 7, 2026 at 10:08 AM (ICT): Senate Delays Clarity Act Vote, Market Makers Expand Services</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-august-6-2026-at-0829-pm-ict-regulatory-approvals-and-security-co</loc>
