@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1786191665931",
+      "title": "Crypto Roundup August 8, 2026 at 07:21 PM (ICT): US Senate Advances Crypto Clarity Act, Bitcoin Infrastructure Exploited, and Trump Media Ends Crypto Deals",
+      "summary": "The US Senate has initiated the voting process for the Crypto Clarity Act, which could provide regulatory clarity for the crypto industry. Meanwhile, a Bitcoin infrastructure exploit has resulted in the theft of funds from Lightning payment servers, and Trump Media has terminated its crypto-related deals with Crypto.com. These events highlight the ongoing regulatory efforts, security concerns, and shifting priorities in the crypto market.",
+      "content": "<p>The crypto market has witnessed significant developments in the past 24 hours, with the US Senate taking a crucial step towards regulatory clarity, a major security exploit affecting Bitcoin infrastructure, and Trump Media abandoning its crypto ventures. In this roundup, we will delve into each of these events and their implications for the market.</p><h2>1. US Senate Initiates Voting Process for Crypto Clarity Act</h2><p>The US Senate has opened the first stage of voting for the Crypto Clarity Act, which aims to provide regulatory clarity for the crypto industry. This move is a significant step towards establishing a clear framework for cryptocurrencies and could have a positive impact on the market. The bill still needs to overcome the 60-vote hurdle, but the initiation of the voting process is a promising development.</p><h2>2. Bitcoin Infrastructure Exploit Results in Theft of Funds</h2><p>A recent exploit has targeted Bitcoin's Lightning payment servers, resulting in the theft of funds. The attackers stole credentials that can control Lightning wallets and move funds, prompting BTCPay to advise users to update their software or take their servers offline. This incident highlights the ongoing security concerns in the crypto space and the need for robust security measures.</p><h2>3. IMF Suggests Domestic Stablecoins Could Boost Demand for Dollar-Backed Tokens</h2><p>The International Monetary Fund (IMF) has suggested that domestic stablecoins could increase demand for dollar-backed tokens. According to the IMF, users may prefer digital dollars due to their liquidity, network effects, and cross-border acceptance. This development could have significant implications for the stablecoin market and the adoption of cryptocurrencies.</p><h2>4. US Court Allows Bybit to Trace Funds from $1.5B North Korea Hack</h2><p>A US court has granted Bybit's request to trace funds from the $1.5 billion North Korea hack. The exchange will be able to seek account identities, balances, and transaction histories from platforms with US operations. This move is a significant step towards recovering the stolen funds and highlights the importance of international cooperation in combating crypto-related crimes.</p><h2>5. New XRP Ledger Amendments Target $530 Million in Tokenized Wall Street Assets</h2><p>A new proposal for the XRP Ledger aims to enable institutions to encrypt token balances and transfer amounts while providing selective access to issuers, auditors, and regulators. This development could increase the adoption of tokenized assets and provide a more secure and transparent environment for institutional investors.</p><h2>6. Bitcoin Holders Risk Losing Real BTC if They Sell Coins from BIP-110 Fork</h2><p>A developer has warned that Bitcoin holders risk losing real BTC if they sell coins from the BIP-110 fork. The minority chain is expected to appear this weekend, and buyers could replay signed fork-coin sales on the main Bitcoin chain, resulting in the loss of real BTC. This highlights the importance of caution when dealing with forked coins and the need for careful consideration before making any transactions.</p><h2>7. Donald Trump’s Media Company to Terminate Crypto.com Deal</h2><p>Trump Media has announced that it will terminate its deal with Crypto.com, which included the creation of a multibillion-dollar CRO treasury and the integration of prediction markets onto Truth Social. This move marks a significant shift in Trump Media's priorities, as the company refocuses on media and its pending merger with a fusion energy firm.</p><h2>8. Trump Media Pulls Back from Crypto, Scraps Crypto.com's CRO Token Treasury Deal</h2><p>Trump Media's decision to abandon its crypto ventures is a result of the company's shifting priorities. The digital asset treasury boom has lost its steam, and Trump Media is now focusing on media and its pending merger with a fusion energy firm. This development highlights the changing landscape of the crypto market and the need for companies to adapt to evolving trends and priorities.</p><h2>9. Trump Media Abandons Crypto Treasury, Prediction Market Ventures</h2><p>Trump Media's abandonment of its crypto ventures is a significant development, as the company had previously announced plans to create a multibillion-dollar CRO treasury and integrate prediction markets onto Truth Social. The company's new leadership has shifted its focus to media, data licensing, and the planned merger with a fusion energy firm, marking a significant change in priorities.</p><h2>10. Trump Media and Crypto.com End Partnerships as Companies Shift Priorities</h2><p>The termination of the partnership between Trump Media and Crypto.com is a result of the companies' shifting priorities. Trump Media is refocusing on media, while Crypto.com is likely to explore new opportunities in the crypto space. This development highlights the dynamic nature of the crypto market, where companies must adapt to changing trends and priorities to remain competitive.</p><h2>Market Outlook</h2><p>The crypto market is currently experiencing a period of significant change, with regulatory efforts, security concerns, and shifting priorities all playing a role. The US Senate's initiation of the voting process for the Crypto Clarity Act is a positive development, while the Bitcoin infrastructure exploit highlights the need for robust security measures. The termination of Trump Media's crypto deals with Crypto.com marks a significant shift in priorities, and the market will likely continue to evolve in response to changing trends and developments.</p><h2>Key Takeaways</h2><p>The key takeaways from the past 24 hours are: the US Senate has initiated the voting process for the Crypto Clarity Act, a Bitcoin infrastructure exploit has resulted in the theft of funds, and Trump Media has terminated its crypto-related deals with Crypto.com. These developments highlight the ongoing regulatory efforts, security concerns, and shifting priorities in the crypto market. As the market continues to evolve, it is essential to stay informed and adapt to changing trends and developments.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month — <em>CoinDesk</em></li>\n<li>[2] Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers — <em>CoinDesk</em></li>\n<li>[3] Domestic stablecoins could boost demand for dollar-backed tokens: IMF — <em>Cointelegraph</em></li>\n<li>[4] US court backs Bybit’s bid to trace funds from $1.5B North Korea hack — <em>Cointelegraph</em></li>\n<li>[5] New XRP Ledger amendments target $530 million in tokenized Wall Street assets — <em>CoinDesk</em></li>\n<li>[6] Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer — <em>CoinDesk</em></li>\n<li>[7] Donald Trump’s media company to terminate Crypto.com deal — <em>Cointelegraph</em></li>\n<li>[8] Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal — <em>CoinDesk</em></li>\n<li>[9] Trump Media Abandons Crypto Treasury, Prediction Market Ventures — <em>Decrypt</em></li>\n<li>[10] Trump Media and Crypto.com end partnerships as companies shift priorities — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "crypto news",
+        "regulation",
+        "security",
+        "market",
+        "ethereum"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786191665/xeonbit24/posts/crypto-roundup-august-8-2026-at-0721-pm-ict-us-senate-advances-crypto-clarity-ac.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786191665/xeonbit24/posts/crypto-roundup-august-8-2026-at-0721-pm-ict-us-senate-advances-crypto-clarity-ac.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-8-2026-at-0721-pm-ict-us-senate-advances-crypto-clarity-ac",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 8, 2026 at 07:21 PM (ICT): US Senate Advances Crypto Clarity Act, Bitcoin Infrastructure Exploited"
+      },
+      "sourceUrl": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+          "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+          "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+          "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
+          "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+          "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+          "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Donald Trump’s media company to terminate Crypto.com deal",
+          "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+          "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+          "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
+          "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-08T12:21:05.931Z",
+      "slug": "crypto-roundup-august-8-2026-at-0721-pm-ict-us-senate-advances-crypto-clarity-ac"
+    },
+    {
       "id": "1786154742615",
       "title": "Crypto Roundup August 8, 2026 at 09:05 AM (ICT): Trump Media Ends Crypto Deal and US Sanctions Iranian Exchanges",
       "summary": "Trump Media has terminated its deal with Crypto.com, and the US Treasury has sanctioned two Iranian crypto exchanges for laundering millions of dollars, highlighting a shift in the crypto landscape. Meanwhile, Bitcoin and Ethereum face potential challenges with a critical flaw in BTCPay and a proposed change to Ethereum's issuance burn. The crypto market is experiencing a mix of regulatory actions, technological developments, and investment moves that are shaping its future.",
@@ -16747,12 +16828,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-    "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-    "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
-    "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
     "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
@@ -17246,10 +17321,15 @@
     "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
     "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+    "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+    "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&amp;utm_medium=rss",
     "https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target|https://watcher.guru/news/intel-intc-forecast-stock-hits-ath-will-it-cross-100-in-may|https://watcher.guru/news/what-drives-xrp-price-movements-some-data-based-insights",
     "https://watcher.guru/news/w-group-advances-european-expansion-as-white-tech-obtains-mica-authorization|https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target|https://watcher.guru/news/intel-intc-forecast-stock-hits-ath-will-it-cross-100-in-may",
     "https://watcher.guru/news/whats-driving-the-de-dollarization-shift|https://watcher.guru/news/w-group-advances-european-expansion-as-white-tech-obtains-mica-authorization|https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target",
@@ -17448,6 +17528,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000|https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
-    "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market"
+    "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
