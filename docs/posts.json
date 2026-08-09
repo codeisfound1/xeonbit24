@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1786278183439",
+      "title": "Crypto Roundup August 9, 2026 at 07:22 PM (ICT): Bitcoin BIP-110 Fork Stalls, Regulatory Moves, and Security Concerns",
+      "summary": "The proposed Bitcoin BIP-110 fork has stalled due to lack of miner support, while regulatory moves in Brazil and Russia aim to curb crypto fraud and increase oversight. Meanwhile, security concerns are on the rise with the discovery of critical exploits in Bitcoin core projects.",
+      "content": "<p>The cryptocurrency market is witnessing significant developments, from the stalled Bitcoin BIP-110 fork to increased regulatory scrutiny and security concerns. In this roundup, we will delve into the top 10 news articles, exploring their implications and connections.</p><h2>1. BIP-110 Bitcoin Branch Stalls After Two Blocks</h2><p>The proposed BIP-110 fork, aimed at limiting non-financial data on the Bitcoin blockchain, has stalled after mining only two blocks. The lack of miner support, with less than 3% of hashpower signaling for the change, has resulted in a significant gap between the proposed fork and the main Bitcoin network.</p><h2>2. Brazil Targets Crypto Fraud with Up to 24-Hour Transfer Hold</h2><p>Brazil has introduced new regulations to combat crypto fraud, including a 24-hour hold on transactions above $10,000 sent to overseas providers or self-custody wallets. This move aims to increase oversight and prevent illicit activities in the cryptocurrency space.</p><h2>3. BTCPay Restricts Remote Lightning Access After Attackers Steal Funds</h2><p>BTCPay has restricted remote Lightning access after attackers stole funds from several users. The incident highlights the importance of security measures in the cryptocurrency space and the need for users to be vigilant when using online services.</p><h2>4. Controversial Bitcoin Fork BIP-110 Mines Two Blocks, Then Stops</h2><p>The BIP-110 fork, which has sparked controversy in the Bitcoin community, has mined only two blocks before coming to a halt. The lack of support from miners and the significant gap between the fork and the main network have raised questions about the viability of the proposed change.</p><h2>5. Bitcoin’s BIP-110 Supporters Split Onto Minority Chain</h2><p>Supporters of the BIP-110 fork have split onto a minority chain, which is currently struggling to gain traction. The move has sparked debate about the use of Bitcoin's block space and the potential implications of the proposed change.</p><h2>6. Bitcoin’s BIP-110 Enters Mandatory Signaling with Miner Support Below 3%</h2><p>The BIP-110 fork has entered the mandatory signaling phase, despite having less than 3% of miner support. The lack of support has raised concerns about the potential for a hard-fork fallback and the implications for the Bitcoin network.</p><h2>7. Bitcoin Hits Block 961,632 as BIP-110 Soft Fork Attempt Begins</h2><p>Bitcoin has hit block 961,632, marking the beginning of the BIP-110 soft fork attempt. The proposal has sparked controversy, with many influential commentators voicing their opposition to the change.</p><h2>8. Hardware Wallet Sales in Russia More Than Double</h2><p>Hardware wallet sales in Russia have more than doubled, likely due to upcoming regulatory changes. The increased demand for secure storage solutions highlights the growing awareness of cryptocurrency security in the region.</p><h2>9. Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects</h2><p>A volunteer security effort, the Bitcoin Red Team, has discovered critical exploits in Bitcoin core projects using AI-powered tools. The findings highlight the importance of security measures and the need for ongoing vulnerability assessments in the cryptocurrency space.</p><h2>10. Majority Leader Thune Files Cloture on Clarity Act</h2><p>The US Senate is set to vote on the Clarity Act, which aims to provide regulatory clarity for the cryptocurrency space. The move has sparked debate about the potential implications for the industry and the need for clear guidelines on cryptocurrency regulation.</p><h2>Market Outlook</h2><p>The cryptocurrency market is witnessing increased regulatory scrutiny, with Brazil and Russia introducing new measures to combat crypto fraud and increase oversight. The stalled BIP-110 fork has raised questions about the potential implications for the Bitcoin network, while security concerns are on the rise with the discovery of critical exploits in Bitcoin core projects.</p><h2>Key Takeaways</h2><p>The top takeaways from this roundup include the stalled BIP-110 fork, increased regulatory scrutiny, and growing security concerns in the cryptocurrency space. As the market continues to evolve, it is essential to stay informed about the latest developments and their potential implications for the industry.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] BIP-110 Bitcoin branch stalls after two blocks as gap widens — <em>Cointelegraph</em></li>\n<li>[2] Brazil targets crypto fraud with up to 24-hour transfer hold — <em>Cointelegraph</em></li>\n<li>[3] BTCPay restricts remote Lightning access after attackers steal funds — <em>Cointelegraph</em></li>\n<li>[4] Controversial Bitcoin fork BIP-110 mines two blocks, then stops — <em>CoinDesk</em></li>\n<li>[5] Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead — <em>The Block</em></li>\n<li>[6] Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3% — <em>Cointelegraph</em></li>\n<li>[7] Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins — <em>CoinDesk</em></li>\n<li>[8] Hardware wallet sales in Russia more than double as new crypto rules near — <em>CoinDesk</em></li>\n<li>[9] Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects — <em>Decrypt</em></li>\n<li>[10] Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "regulation",
+        "security",
+        "crypto news"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786278182/xeonbit24/posts/crypto-roundup-august-9-2026-at-0722-pm-ict-bitcoin-bip-110-fork-stalls-regulato.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786278182/xeonbit24/posts/crypto-roundup-august-9-2026-at-0722-pm-ict-bitcoin-bip-110-fork-stalls-regulato.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-9-2026-at-0722-pm-ict-bitcoin-bip-110-fork-stalls-regulato",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup August 9, 2026 at 07:22 PM (ICT): Bitcoin BIP-110 Fork Stalls, Regulatory Moves, and Security Concerns"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+          "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+          "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+          "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+          "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+          "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+          "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+          "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+          "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+          "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-09T12:23:03.440Z",
+      "slug": "crypto-roundup-august-9-2026-at-0722-pm-ict-bitcoin-bip-110-fork-stalls-regulato"
+    },
+    {
       "id": "1786241758746",
       "title": "Crypto Roundup August 9, 2026 at 09:15 AM (ICT): Bitcoin's BIP-110 and Global Regulatory Updates",
       "summary": "Bitcoin's proposed BIP-110 soft fork has sparked debate, while global regulatory updates and institutional investment inflows shape the crypto market landscape. The US Senate is set to vote on the Clarity Act in September, and Brazil's central bank has ordered exchanges to delay large crypto transfers abroad. Meanwhile, Bitcoin ETFs have seen significant inflows, indicating renewed institutional interest.",
@@ -16909,10 +16988,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
     "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -17408,10 +17483,13 @@
     "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
     "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"
+    "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+    "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops"
   ],
   "publishedBatchKeys": [
-    "https://watcher.guru/news/w-group-advances-european-expansion-as-white-tech-obtains-mica-authorization|https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target|https://watcher.guru/news/intel-intc-forecast-stock-hits-ath-will-it-cross-100-in-may",
     "https://watcher.guru/news/whats-driving-the-de-dollarization-shift|https://watcher.guru/news/w-group-advances-european-expansion-as-white-tech-obtains-mica-authorization|https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target",
     "https://t.me/WatcherGuru/13476|https://t.me/WatcherGuru/13474|https://t.me/WatcherGuru/13473",
     "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks",
@@ -17610,6 +17688,7 @@
     "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000|https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
     "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support"
+    "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+    "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
