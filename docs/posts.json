@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1786241758746",
+      "title": "Crypto Roundup August 9, 2026 at 09:15 AM (ICT): Bitcoin's BIP-110 and Global Regulatory Updates",
+      "summary": "Bitcoin's proposed BIP-110 soft fork has sparked debate, while global regulatory updates and institutional investment inflows shape the crypto market landscape. The US Senate is set to vote on the Clarity Act in September, and Brazil's central bank has ordered exchanges to delay large crypto transfers abroad. Meanwhile, Bitcoin ETFs have seen significant inflows, indicating renewed institutional interest.",
+      "content": "<p>The crypto market is abuzz with activity, from the contentious Bitcoin Improvement Proposal (BIP) 110 to significant regulatory updates and institutional investment inflows. In this roundup, we'll delve into the top stories shaping the market and explore their implications for the future of cryptocurrency.</p><h2>1. Bitcoin's BIP-110 Soft Fork Attempt Begins</h2><p>Bitcoin's BIP-110, a proposed one-year change that limits non-financial data on the Bitcoin blockchain, has entered mandatory signaling with less than 3% miner support. This development has sparked a heated debate over how Bitcoin's block space should be utilized, with some arguing it's essential for the network's scalability and others claiming it's a threat to the blockchain's decentralized nature.</p><h2>2. BIP-110 Supporters Split Onto Minority Chain</h2><p>As the main Bitcoin network pulls ahead, supporters of BIP-110 have split onto a minority chain, highlighting the divisions within the Bitcoin community. This split underscores the challenges of implementing significant changes to the Bitcoin protocol and the potential for factionalism within the community.</p><h2>3. Bitcoin Hits Block 961,632 as BIP-110 Soft Fork Attempt Begins</h2><p>The deployment of BIP-110 has reached a critical milestone, with Bitcoin hitting block 961,632. Despite the controversy surrounding the proposal, the Bitcoin network continues to operate smoothly, with the price remaining relatively stable.</p><h2>4. Hardware Wallet Sales in Russia More Than Double</h2><p>As new crypto regulations near in Russia, hardware wallet sales have more than doubled, indicating a growing demand for secure storage solutions. This trend suggests that investors are becoming increasingly aware of the importance of protecting their assets in the face of regulatory uncertainty.</p><h2>5. Bitcoin Red Team Discovers Critical Exploits Using AI</h2><p>A volunteer security effort, the Bitcoin Red Team, has successfully identified critical exploits in Bitcoin's core projects using artificial intelligence (AI). This development highlights the potential of AI in enhancing the security of cryptocurrency protocols and protecting against potential vulnerabilities.</p><h2>6. US Senate to Vote on Clarity Act in September</h2><p>The US Senate is set to vote on the Clarity Act, a bill aimed at providing regulatory clarity for the cryptocurrency industry, in September. This vote has significant implications for the future of cryptocurrency regulation in the United States and could potentially pave the way for greater adoption and innovation.</p><h2>7. Daily Crypto Trends and Events</h2><p>A recap of the day's events in the crypto space, including market trends, regulatory updates, and notable news stories. This overview provides a snapshot of the current market landscape and highlights the key themes shaping the industry.</p><h2>8. Senate Keeps Clarity Act Alive with Crypto Bill Vote Set for September</h2><p>The Senate's decision to proceed with the Clarity Act vote in September keeps the bill alive and sets the stage for a potentially pivotal moment in the development of cryptocurrency regulation. The outcome of this vote will be closely watched by industry stakeholders and could have far-reaching consequences for the future of cryptocurrency.</p><h2>9. US Spot Bitcoin ETFs Post Best Week Since April with $1B Inflows</h2><p>US spot Bitcoin ETFs have seen significant inflows, with over $1 billion invested in the past week. This surge in institutional demand indicates renewed interest in Bitcoin and the broader cryptocurrency market, potentially signaling a shift in investor sentiment.</p><h2>10. Brazil's Central Bank Orders Exchanges to Delay Large Crypto Transfers Abroad</h2><p>Brazil's central bank has ordered exchanges to delay large crypto transfers abroad, citing concerns over money laundering and financial stability. This move highlights the ongoing challenges faced by cryptocurrency exchanges in navigating complex regulatory environments and the need for greater clarity and cooperation between regulators and industry stakeholders.</p><h2>Market Outlook</h2><p>The crypto market is poised for significant developments in the coming weeks, with the US Senate vote on the Clarity Act and the potential implementation of BIP-110 set to shape the regulatory landscape. Meanwhile, institutional investment inflows and growing demand for secure storage solutions indicate a maturing market with increasing mainstream appeal.</p><h2>Key Takeaways</h2><p>The key takeaways from this roundup include the contentious nature of Bitcoin's BIP-110 proposal, the significance of regulatory updates in shaping the crypto market, and the growing demand for secure storage solutions and institutional investment in cryptocurrency. As the market continues to evolve, it's essential to stay informed about the latest developments and their potential implications for the future of cryptocurrency.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead — <em>The Block</em></li>\n<li>[2] Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3% — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins — <em>CoinDesk</em></li>\n<li>[4] Hardware wallet sales in Russia more than double as new crypto rules near — <em>CoinDesk</em></li>\n<li>[5] Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects — <em>Decrypt</em></li>\n<li>[6] Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote — <em>The Block</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September — <em>Decrypt</em></li>\n<li>[9] US spot Bitcoin ETFs post best week since April with $1B inflows — <em>Cointelegraph</em></li>\n<li>[10] Brazil's central bank orders exchanges to delay large crypto transfers abroad — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "regulation",
+        "market",
+        "crypto news",
+        "ethereum",
+        "defi"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786241758/xeonbit24/posts/crypto-roundup-august-9-2026-at-0915-am-ict-bitcoins-bip-110-and-global-regulato.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786241758/xeonbit24/posts/crypto-roundup-august-9-2026-at-0915-am-ict-bitcoins-bip-110-and-global-regulato.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-9-2026-at-0915-am-ict-bitcoins-bip-110-and-global-regulato",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 9, 2026 at 09:15 AM (ICT): Bitcoin's BIP-110 and Global Regulatory Updates"
+      },
+      "sourceUrl": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+          "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+          "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+          "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+          "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+          "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+          "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+          "source": "Decrypt"
+        },
+        {
+          "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+          "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+          "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-09T02:15:58.746Z",
+      "slug": "crypto-roundup-august-9-2026-at-0915-am-ict-bitcoins-bip-110-and-global-regulato"
+    },
+    {
       "id": "1786191665931",
       "title": "Crypto Roundup August 8, 2026 at 07:21 PM (ICT): US Senate Advances Crypto Clarity Act, Bitcoin Infrastructure Exploited, and Trump Media Ends Crypto Deals",
       "summary": "The US Senate has initiated the voting process for the Crypto Clarity Act, which could provide regulatory clarity for the crypto industry. Meanwhile, a Bitcoin infrastructure exploit has resulted in the theft of funds from Lightning payment servers, and Trump Media has terminated its crypto-related deals with Crypto.com. These events highlight the ongoing regulatory efforts, security concerns, and shifting priorities in the crypto market.",
@@ -16828,15 +16909,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
-    "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
-    "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
-    "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-    "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -17327,10 +17399,18 @@
     "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-    "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer"
+    "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+    "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+    "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+    "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+    "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+    "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"
   ],
   "publishedBatchKeys": [
-    "https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target|https://watcher.guru/news/intel-intc-forecast-stock-hits-ath-will-it-cross-100-in-may|https://watcher.guru/news/what-drives-xrp-price-movements-some-data-based-insights",
     "https://watcher.guru/news/w-group-advances-european-expansion-as-white-tech-obtains-mica-authorization|https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target|https://watcher.guru/news/intel-intc-forecast-stock-hits-ath-will-it-cross-100-in-may",
     "https://watcher.guru/news/whats-driving-the-de-dollarization-shift|https://watcher.guru/news/w-group-advances-european-expansion-as-white-tech-obtains-mica-authorization|https://watcher.guru/news/google-stock-price-prediction-revised-check-may-2026-target",
     "https://t.me/WatcherGuru/13476|https://t.me/WatcherGuru/13474|https://t.me/WatcherGuru/13473",
@@ -17529,6 +17609,7 @@
     "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000|https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
     "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-    "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support"
   ]
 }
