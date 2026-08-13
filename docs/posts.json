@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1786624810295",
+      "title": "Crypto Roundup August 13, 2026 at 07:40 PM (ICT): Bullish Earnings and Regulatory Developments",
+      "summary": "Bullish reports a significant net loss despite increased subscription revenue, while the SEC plans to announce rules for tokenized stocks and allows Franklin Templeton funds to invest in on-chain money funds. The crypto market remains steady with Bitcoin holding near $64,000.",
+      "content": "<p>The past 24 hours have seen a mix of earnings reports, regulatory developments, and market movements in the crypto space. This roundup will delve into the top stories, analyzing each and providing an overall market outlook.</p><h2>1. Bullish Q2 Earnings</h2><p>Bullish has reported its Q2 earnings, showing a net loss of $280 million. Despite this, the company saw a significant increase in subscription revenue, which helped offset the slowdown in digital asset sales. This trend highlights the diversification of revenue streams in the crypto industry.</p><h2>2. SEC Plans Rules for Tokenized Stocks</h2><p>The SEC is planning to announce rules for tokenized stocks, a development that could be pivotal for the integration of blockchain technology into traditional financial markets. This move could pave the way for more secure, transparent, and efficient stock trading.</p><h2>3. SEC Allows Franklin Templeton Funds to Invest in On-Chain Money Fund</h2><p>In another significant regulatory development, the SEC has given the green light for Franklin Templeton funds to invest in an on-chain money fund. This decision marks a step forward in the adoption of blockchain-based financial instruments by traditional asset managers.</p><h2>4. Twitch and AI Training</h2><p>Twitch has begun using Amazon AI training by default, raising questions about data privacy and the use of user content for training AI models. While not directly related to crypto, this development highlights the growing intersection of technology and user data.</p><h2>5. Strategy and Metaplanet Unrealized Bitcoin Losses</h2><p>Strategy and Metaplanet have highlighted the risks of concentrating investments in a single token, such as Bitcoin. Their unrealized losses underscore the importance of diversification in crypto portfolios.</p><h2>6. Bitcoin Holds Steady</h2><p>Bitcoin has remained steady near $64,000, with the crypto market experiencing low volatility following the recent CPI report. Other cryptocurrencies, such as Monero and Hyperliquid, have outperformed Bitcoin in the short term.</p><h2>7. DeFi and On-Chain Finance</h2><p>Andre Cronje, founder of Flying Tulip, has stated that DeFi no longer exists in its original form, evolving instead into on-chain finance. This shift reflects the maturation of decentralized financial protocols and their integration into the broader financial ecosystem.</p><h2>8. CEO of Crypto Lender Delio Sentenced</h2><p>The CEO of crypto lender Delio has been sentenced to 15 years over a $49 million fraud. This case serves as a reminder of the risks associated with unregulated crypto lending platforms.</p><h2>9. MUFG to Test Blockchain Settlement for Japanese Government Bond Trades</h2><p>MUFG is set to test real-time blockchain settlement for Japanese government bond trades, utilizing the Canton network. This initiative could significantly enhance the efficiency and security of bond trading.</p><h2>10. Binance bStocks Become Second-Largest Tokenized Stock Issuer</h2><p>Binance bStocks has surpassed Kraken’s xStocks to become the second-largest tokenized stock issuer, just two months after its launch. This achievement demonstrates the growing demand for tokenized assets.</p><h2>Market Outlook</h2><p>The crypto market remains in a holding pattern, with low volatility and a steady Bitcoin price. Regulatory developments, such as the SEC’s planned rules for tokenized stocks, are expected to play a significant role in shaping the market’s future. The growth of on-chain finance and the adoption of blockchain technology by traditional financial institutions are also key trends to watch.</p><h2>Key Takeaways</h2><p>The past 24 hours have seen significant developments in the crypto space, from earnings reports to regulatory announcements. As the market continues to evolve, it is essential to stay informed about the latest trends and developments. Key takeaways include the importance of diversification, the growth of on-chain finance, and the increasing adoption of blockchain technology by traditional financial institutions.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown — <em>CoinDesk</em></li>\n<li>[2] Morning Minute: The SEC Plans Rules for Tokenized Stocks — <em>Decrypt</em></li>\n<li>[3] SEC allows Franklin Templeton funds to invest in onchain money fund — <em>Cointelegraph</em></li>\n<li>[4] Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In' — <em>Decrypt</em></li>\n<li>[5] Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token — <em>CoinDesk</em></li>\n<li>[6] Bitcoin holds steady near $64,000 as monero, hyperliquid outperform — <em>CoinDesk</em></li>\n<li>[7] ‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje — <em>Cointelegraph</em></li>\n<li>[8] CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud — <em>Decrypt</em></li>\n<li>[9] MUFG to test real-time blockchain settlement for Japanese government bond trades — <em>CoinDesk</em></li>\n<li>[10] Binance bStocks pass xStocks as second-largest tokenized stock issuer — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "crypto news",
+        "regulation",
+        "market",
+        "ethereum",
+        "defi"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786624809/xeonbit24/posts/crypto-roundup-august-13-2026-at-0740-pm-ict-bullish-earnings-and-regulatory-dev.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786624809/xeonbit24/posts/crypto-roundup-august-13-2026-at-0740-pm-ict-bullish-earnings-and-regulatory-dev.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-13-2026-at-0740-pm-ict-bullish-earnings-and-regulatory-dev",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 13, 2026 at 07:40 PM (ICT): Bullish Earnings and Regulatory Developments"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+      "sourceTitle": "CoinDesk / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+          "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+          "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+          "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
+          "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+          "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+          "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
+          "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
+          "source": "Decrypt"
+        },
+        {
+          "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+          "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
+          "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-08-13T12:40:10.295Z",
+      "slug": "crypto-roundup-august-13-2026-at-0740-pm-ict-bullish-earnings-and-regulatory-dev"
+    },
+    {
       "id": "1786588305575",
       "title": "Crypto Roundup August 13, 2026 at 09:31 AM (ICT): Regulatory Scrutiny and Market Developments",
       "summary": "The crypto market is witnessing increased regulatory scrutiny, with ASX facing a lawsuit over its failed blockchain project and Hawaii banning crypto ATMs. Meanwhile, companies like Securitize and Hyperion are reporting earnings, and Goldman Sachs is acquiring an ETF manager in a $2.25B deal.",
@@ -17555,16 +17636,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/408604/tether-invests-20-million-in-uala-as-the-fintech-firm-reaches-3-2-billion-valuation?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
-    "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-    "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
     "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18054,10 +18125,19 @@
     "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
     "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
-    "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+    "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+    "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
+    "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+    "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+    "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
+    "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+    "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/05/05/nasdaq-firm-scraps-massive-bitcoin-treasury-plan-to-redirect-usd485-million-to-ai|https://www.coindesk.com/markets/2026/05/05/bitcoin-absorbed-usd200-million-profit-taking-at-usd80-000-in-a-bullish-sign-for-btc|https://decrypt.co/366768/bitcoins-81k-rally-comes-amid-66-day-negative-funding-streak-heres-why",
     "https://www.theblock.co/post/400145/strategy-sell-bitcoin-michael-saylor?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
     "https://www.coindesk.com/coindesk-indices/2026/05/06/coindesk-20-performance-update-index-jumps-2-5-continuing-higher|https://www.coindesk.com/business/2026/05/06/opentrade-raises-usd17-million-to-expand-stablecoin-yield-infrastructure|https://www.coindesk.com/markets/2026/05/06/memecoin-trades-carry-rare-seven-leg-parlay-odds-bonk-s-nom-says-at-consensus",
     "https://www.theblock.co/post/400337/california-man-78-months-crypto-theft?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/400332/1inch-trustedvolumes-exploit?utm_source=rss&amp;utm_medium=rss",
@@ -18256,6 +18336,7 @@
     "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row|https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
     "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575|https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny|https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-    "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc"
+    "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+    "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows|https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks|https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
