@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1786931135293",
+      "title": "Crypto Roundup August 17, 2026 at 08:45 AM (ICT): Data Leaks and Regulatory Uncertainty",
+      "summary": "The crypto market is facing significant challenges with data leaks from wallet providers Trezor and SafePal, and regulatory uncertainty as the Clarity Act's odds are at 10% despite a White House meeting, while investors are looking past market-cap rankings and back to fundamentals",
+      "content": "<p>The cryptocurrency market is currently navigating through a complex landscape of data breaches, regulatory uncertainty, and shifting investor perspectives. Over the past week, several key events have unfolded that are crucial for understanding the current state of the crypto market.</p><h2>1. Data Leak: 54,000 Wallet Users at Risk</h2><p>A significant data leak has exposed the personal information of approximately 54,000 wallet users, primarily affecting owners of Trezor and SafePal crypto wallets. This leak has heightened the risk of phishing attempts, with the odds of the Clarity Act advancing at just 10% despite an upcoming White House meeting. The Clarity Act is crucial for providing regulatory clarity in the crypto space, and its stagnation could impact market confidence.</p><h2>2. Prediction Market Novig Sues Wisconsin AG</h2><p>Novig, a prediction market, has sued officials in five states, including Wisconsin, in a spat over sports contracts. This legal battle highlights the regulatory challenges faced by crypto and blockchain-based platforms, especially when dealing with traditional industries like sports.</p><h2>3. The SEC Meeting That Wasn’t</h2><p>A highly anticipated SEC meeting did not yield the expected outcomes, leaving the crypto community in a state of regulatory limbo. The lack of clear guidelines from regulatory bodies is a recurring theme that continues to affect market stability and investor confidence.</p><h2>4. SafePal Data Breach: Nearly 40,000 Customers Affected</h2><p>SafePal, a crypto wallet provider, has disclosed a data breach that exposed the personal information of nearly 40,000 customers. Although the breach did not compromise private keys, seed phrases, or crypto assets, it underscores the security risks associated with crypto services.</p><h2>5. Gemini 3.7 Flash Review</h2><p>A review of Google’s Gemini 3.7 model highlights advancements in AI technology, with the model now capable of producing a playable game. However, it still lacks reasoning capabilities, a crucial aspect for more complex applications, including those in the crypto space.</p><h2>6. Investors Looking Beyond Market-Cap Rankings</h2><p>Crypto investors are increasingly looking past market-cap rankings and focusing on the fundamentals of crypto tokens, such as usage, economics, and value capture. This shift in investor behavior could lead to a more mature and stable market, as investors prioritize substance over speculation.</p><h2>7. Hackers Exploit macOS Screen Sharing Flaw</h2><p>A critical vulnerability in macOS Screen Sharing has been exploited by hackers to install Monero miners. This incident emphasizes the importance of keeping software up to date and highlights the ongoing battle between cybersecurity and malicious actors in the crypto ecosystem.</p><h2>8. SafePal Reveals Data Breach</h2><p>SafePal has revealed a data breach that exposed the order information of nearly 40,000 customers. The breach, while significant, did not compromise sensitive cryptographic information, reinforcing the importance of robust security measures in crypto wallet services.</p><h2>9. California Bill Aims to Ban AI Chatbots for Therapy</h2><p>A California bill is proposing to ban the use of AI chatbots for therapy, citing concerns over their capability to provide adequate mental health support. This move reflects broader societal and regulatory debates about the role and limitations of AI in sensitive areas.</p><h2>10. MiCA’s Cleanup Leads to New Scam Wave</h2><p>The European Union’s MiCA deadline has led to a wave of scams, with fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts. This situation underscores the challenges of regulatory compliance and the need for vigilance in the crypto community.</p><h2>Market Outlook</h2><p>The current crypto market is characterized by a mix of challenges, including data leaks, regulatory uncertainty, and the evolving nature of investor preferences. Despite these challenges, the market is also seeing positive trends, such as investors focusing on fundamentals and advancements in technology. The path forward will likely involve continued efforts to enhance security, achieve regulatory clarity, and promote a deeper understanding of crypto assets and their underlying technologies.</p><h2>Key Takeaways</h2><p>The key takeaways from the current crypto landscape include the importance of robust security measures, the need for regulatory clarity, and the shift in investor behavior towards fundamentals. As the market navigates these challenges and opportunities, it is crucial for participants to stay informed, prioritize security, and adapt to the evolving regulatory and technological environment.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[2] Prediction market Novig sues Wisconsin AG in latest spat over sports contracts — <em>The Block</em></li>\n<li>[3] The SEC meeting that wasn't: State of Crypto — <em>CoinDesk</em></li>\n<li>[4] Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers — <em>The Block</em></li>\n<li>[5] Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore — <em>Decrypt</em></li>\n<li>[6] Crypto investors are looking past market-cap rankings and back to fundamentals — <em>CoinDesk</em></li>\n<li>[7] Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says — <em>The Block</em></li>\n<li>[8] Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info — <em>CoinDesk</em></li>\n<li>[9] People Are Turning to AI for Mental Health, California Wants It Banned — <em>Decrypt</em></li>\n<li>[10] MiCA's cleanup is creating a new scam wave across the European Union — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "regulation",
+        "security"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786931134/xeonbit24/posts/crypto-roundup-august-17-2026-at-0845-am-ict-data-leaks-and-regulatory-uncertain.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786931134/xeonbit24/posts/crypto-roundup-august-17-2026-at-0845-am-ict-data-leaks-and-regulatory-uncertain.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-17-2026-at-0845-am-ict-data-leaks-and-regulatory-uncertain",
+        "width": 2170,
+        "height": 1446,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 17, 2026 at 08:45 AM (ICT): Data Leaks and Regulatory Uncertainty"
+      },
+      "sourceUrl": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
+          "url": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
+          "source": "The Block"
+        },
+        {
+          "title": "The SEC meeting that wasn't: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
+          "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+          "source": "The Block"
+        },
+        {
+          "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+          "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+          "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
+          "url": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+          "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+          "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+          "source": "Decrypt"
+        },
+        {
+          "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+          "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-17T01:45:35.293Z",
+      "slug": "crypto-roundup-august-17-2026-at-0845-am-ict-data-leaks-and-regulatory-uncertain"
+    },
+    {
       "id": "1786882439700",
       "title": "Crypto Roundup August 16, 2026 at 07:13 PM (ICT): Traditional Finance Embraces Digital Assets",
       "summary": "The crypto market is witnessing a significant shift as traditional finance giants partner with digital asset specialists, blurring the lines between traditional and decentralized finance. Ethereum developers are working on the Hegotá upgrade to introduce native privacy for Ethereum applications. Meanwhile, major institutions like Harvard and UBS are increasing their exposure to Bitcoin and other digital assets.",
@@ -18122,16 +18203,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
-    "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-    "https://www.theblock.co/post/408903/bernstein-lifts-robinhood-target-to-160-sees-prediction-markets-revenue-overtaking-crypto?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
     "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18621,10 +18692,19 @@
     "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919",
     "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
     "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-    "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
+    "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+    "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+    "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+    "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+    "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
+    "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+    "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+    "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations|https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss|https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
     "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18823,6 +18903,7 @@
     "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say|https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
     "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns|https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929|https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
-    "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929"
+    "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
+    "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
   ]
 }
