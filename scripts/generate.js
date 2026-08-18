@@ -22,7 +22,14 @@ const RSS_SOURCES = [
 const TOP_N = 10;  // Số tin tổng hợp mỗi lần chạy
 
 const GROQ_URL   = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL = "llama-3.3-70b-versatile";
+const GROQ_MODEL = process.env.GROQ_MODEL || "openai/gpt-oss-120b";
+
+// Tried in order if GROQ_MODEL fails (e.g. "model_not_found" after a Groq
+// deprecation like llama-3.3-70b-versatile). Override via
+// GROQ_FALLBACK_MODELS="model1,model2".
+const GROQ_FALLBACK_MODELS = (process.env.GROQ_FALLBACK_MODELS ||
+  "qwen/qwen3.6-27b,openai/gpt-oss-20b,llama-3.1-8b-instant")
+  .split(",").map(s => s.trim()).filter(Boolean);
 
 const POSTS_FILE   = path.join(__dirname, "../docs/posts.json");
 const SITEMAP_FILE = path.join(__dirname, "../docs/sitemap.xml");
@@ -601,13 +608,34 @@ async function generateRoundupWithGroq(articles) {
     "\"content\":\"<p>Intro...</p><h2>1. [Top Story]</h2><p>Analysis...</p><h2>2. [...]</h2><p>...</p><h2>Market Outlook</h2><p>...</p><h2>Key Takeaways</h2><p>...</p>\"," +
     "\"readTime\":8}";
 
-  const res = await retryWithBackoff(() => postJson(
-    GROQ_URL,
-    { model: GROQ_MODEL, messages: [{ role: "system", content: systemPrompt }, { role: "user", content: userPrompt }], temperature: 0.45, max_tokens: 3500 },
-    { "Authorization": "Bearer " + GROQ_KEY }
-  ), 3, 2000);
+  const modelsToTry = [GROQ_MODEL, ...GROQ_FALLBACK_MODELS.filter(m => m !== GROQ_MODEL)];
 
-  if (res.error) throw new Error("Groq error: " + JSON.stringify(res.error));
+  let res, usedModel;
+  let lastErr = null;
+  for (const model of modelsToTry) {
+    try {
+      res = await retryWithBackoff(() => postJson(
+        GROQ_URL,
+        { model, messages: [{ role: "system", content: systemPrompt }, { role: "user", content: userPrompt }], temperature: 0.45, max_tokens: 3500 },
+        { "Authorization": "Bearer " + GROQ_KEY }
+      ), 3, 2000);
+
+      if (res.error) {
+        console.warn("⚠️   Groq error with model \"" + model + "\":", JSON.stringify(res.error));
+        lastErr = new Error("Groq error: " + JSON.stringify(res.error));
+        continue;
+      }
+
+      usedModel = model;
+      break;
+    } catch (e) {
+      console.warn("⚠️   Groq request failed with model \"" + model + "\":", e.message);
+      lastErr = e;
+    }
+  }
+
+  if (!usedModel) throw lastErr || new Error("Groq: all models failed");
+  if (usedModel !== GROQ_MODEL) console.log("ℹ️   Used fallback model:", usedModel);
 
   const raw  = ((res.choices || [])[0] || {}).message || {};
   const text = (raw.content || "").trim();
