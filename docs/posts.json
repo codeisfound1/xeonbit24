@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787055563619",
+      "title": "Crypto Roundup August 18, 2026 at 07:19 PM (ICT): Ethereum upgrade shakes fee assumptions, Bitcoin steadies at $64k, and regulatory ripples intensify",
+      "summary": "Ethereum’s upcoming upgrade disrupts the long‑standing 21,000‑gas rule, while Bitcoin hovers around $64,000 amid rising yields and oil price pressure. Meanwhile, Citi’s new Bitcoin custody service, a high‑profile Chainalysis lawsuit, and tightening global regulation signal a maturing yet volatile market.",
+      "content": "<p>August 18, 2026 was a busy day for crypto, with technical shifts, institutional moves, and regulatory actions all converging. Ethereum’s next hard fork challenges a core fee heuristic that wallets and dApps have relied on for years. Bitcoin’s price paused at $64,000 as macro‑economic headwinds from higher Treasury yields and oil prices weighed on risk assets. At the same time, major financial institutions and governments are deepening their involvement: Citi is set to launch a Bitcoin custody platform, Chainalysis is suing the U.S. government over a lucrative ICE contract, and South Korea joins a growing list of jurisdictions restricting the prediction‑market platform Polymarket. These events together paint a picture of a market that is both innovating rapidly and facing increasing scrutiny.</p>\n<h2>1. Ethereum’s next upgrade breaks the “21,000 gas” rule wallets rely on</h2>\n<p>The upcoming Ethereum upgrade eliminates the flat‑fee assumption that sending ETH to a brand‑new address costs the same as sending to an existing one. Historically, developers have built wallets and smart contracts around the 21,000‑gas baseline for a simple transfer. The new rule means that first‑time transfers will consume more gas, potentially causing under‑payment errors and failed transactions for software that does not adapt. This shift underscores the network’s move toward more granular fee estimation and could spur a wave of wallet updates and gas‑optimisation tools. Users may see slightly higher costs for onboarding new addresses, but the change also improves fee predictability for complex transactions.</p>\n<h2>2. Bitcoin pauses at $64,000 as rising yields, oil drag equities lower</h2>\n<p>Bitcoin slipped 0.6% to $64,000 after a day of higher Treasury yields and a widening crude‑diesel spread that pressured equity markets. The price action reflects investors’ risk‑off sentiment ahead of the Federal Reserve’s July FOMC minutes and a White House crypto summit scheduled for Wednesday. While Bitcoin remains above the $60k support level, the combination of tighter monetary policy and energy‑price volatility could keep upside momentum limited in the short term. Analysts are watching the 61.8% Fibonacci retracement at $63,200 as a potential bounce point.</p>\n<h2>3. Citi expects to launch Bitcoin custody later this year under its new Custody+ platform</h2>\n<p>Citi announced its Custody+ platform, which will add Bitcoin custody services by year‑end. The offering includes real‑time asset servicing, instant settlement, liquidity tools, and AI‑driven market intelligence. By integrating custodial services with its existing banking infrastructure, Citi aims to attract institutional investors seeking a regulated, on‑ramp solution for Bitcoin exposure. The move signals growing confidence among legacy finance firms in the long‑term viability of crypto assets and could pressure competitors to accelerate their own custody roadmaps.</p>\n<h2>4. Chainalysis sues US government over $94.6 M ICE contract handed to rival TRM Labs</h2>\n<p>Chainalysis filed a bid‑protest lawsuit in the U.S. Court of Federal Claims, challenging Immigration and Customs Enforcement’s (ICE) sole‑source award of a $94.6 million contract to TRM Labs for blockchain forensic tools. The case pits the two industry leaders against each other and raises questions about procurement transparency for government crypto‑tracking initiatives. If Chainalysis prevails, it could set a precedent for competitive bidding on future law‑enforcement contracts, potentially reshaping the market for blockchain analytics services.</p>\n<h2>5. The “crack” in the energy market is wider than ever – Bitcoin might feel it</h2>\n<p>A CoinDesk Daybook piece highlighted a widening crude‑diesel price spread, indicating stress in the global energy market. Bitcoin miners, especially those reliant on fossil‑fuel power, could see higher electricity costs, squeezing margins. While renewable‑powered mining operations are less exposed, the overall increase in energy prices may dampen hash‑rate growth and could translate into short‑term price pressure for BTC, which is sensitive to mining profitability cycles.</p>\n<h2>6. South Korea joins more than 30 jurisdictions restricting Polymarket access</h2>\n<p>South Korean regulators added their name to a coalition of over 30 jurisdictions that have limited access to Polymarket, a crypto‑based prediction‑market platform. Authorities rejected Polymarket’s defense that it merely facilitates peer‑to‑peer betting, arguing the platform effectively runs a gambling operation under crypto guise. This coordinated crackdown reflects a broader global trend of tightening oversight on crypto‑enabled gambling and prediction markets, potentially prompting other platforms to reassess compliance frameworks.</p>\n<h2>7. Curve founder says FATF pressure could make DeFi safer and more decentralized</h2>\n<p>Michael Egorov, founder of Curve Finance, argued that the Financial Action Task Force’s (FATF) heightened scrutiny could push DeFi protocols toward greater decentralization and stronger security measures. By forcing projects to adopt more robust KYC/AML controls and to distribute governance power, FATF pressure may reduce regulatory risk and increase institutional confidence in DeFi. However, the balance between compliance and the permissionless ethos of DeFi remains a delicate one.</p>\n<h2>8. Kraken launches US‑listed stock trading for EEA customers</h2>\n<p>Kraken expanded its European entity to allow eligible EEA users to trade US‑listed equities alongside more than 700 tokenized “xStocks.” This hybrid offering bridges traditional equities and crypto‑native assets, giving retail investors a single gateway to diversified portfolios. The move could attract a new wave of investors seeking exposure to US markets without navigating separate brokerage accounts, and it underscores the blurring lines between crypto exchanges and conventional financial services.</p>\n<h2>9. Cypherpunk Technologies launches Zcash mining fleet with $33 M Winklevoss deal</h2>\n<p>Cypherpunk Technologies announced the launch of a Zcash mining operation with roughly 4.2 GSol/s of Equihash hash power, funded by a $33 million investment from the Winklevoss twins. The fleet, now online in the United States, marks a significant scaling of Zcash’s proof‑of‑work security and could improve network decentralization. The partnership also highlights continued interest from high‑profile investors in privacy‑focused coins despite broader market headwinds.</p>\n<h2>10. ‘The Crypto Program’ promoter deported from Fiji over alleged $165 M Ponzi scheme</h2>\n<p>Fiji authorities deported Edward Zimbardi to the United States to face charges related to an alleged $165 million Ponzi scheme that marketed a “Crypto Program” to thousands of investors. The case adds to a growing list of high‑profile crypto fraud prosecutions and serves as a reminder of the importance of due diligence for retail participants. Regulators worldwide are likely to cite this case when tightening anti‑money‑laundering (AML) and investor‑protection rules.</p>\n<h2>Market Outlook</h2>\n<p>Overall, the market appears to be entering a phase of consolidation driven by three intersecting forces: technical upgrades (Ethereum), macro‑economic pressure (rising yields, energy costs), and regulatory tightening (Polymarket bans, FATF, custody services). Institutional participation is deepening, as evidenced by Citi’s custody launch and Kraken’s stock‑trading expansion, which could provide a stabilising floor for prices. However, the combination of higher energy costs for miners and heightened legal scrutiny may keep volatility elevated in the near term. Traders should monitor Treasury yield movements, FOMC minutes, and any further regulatory announcements, especially those affecting DeFi and privacy coins.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Ethereum’s fee model change will require wallet and dApp updates; users may see higher costs for first‑time address transfers.</li><li>Bitcoin remains near $64 k but is vulnerable to macro‑economic headwinds and energy‑price spikes.</li><li>Institutional infrastructure is strengthening with Citi’s custody service and Kraken’s equity offering, signaling mainstream acceptance.</li><li>Regulatory pressure is intensifying across multiple fronts: government contracts (Chainalysis), gambling‑type platforms (Polymarket), and DeFi compliance (FATF).</li><li>Privacy‑focused mining (Zcash) is receiving fresh capital, while fraud enforcement (Fiji Ponzi case) underscores ongoing investor‑protection challenges.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on — <em>CoinDesk</em></li>\n<li>[2] Citi expects to launch bitcoin custody later this year under its new Custody+ platform — <em>The Block</em></li>\n<li>[3] Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal — <em>The Block</em></li>\n<li>[4] Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs — <em>Decrypt</em></li>\n<li>[5] The 'crack' in the energy market is wider than ever. Bitcoin might feel it. — <em>CoinDesk</em></li>\n<li>[6] South Korea joins more than 30 jurisdictions restricting Polymarket access — <em>CoinDesk</em></li>\n<li>[7] Kraken launches US-listed stock trading for EEA customers — <em>Cointelegraph</em></li>\n<li>[8] ‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme — <em>The Block</em></li>\n<li>[9] Bitcoin pauses at $64,000 as rising yields, oil drag equities lower — <em>CoinDesk</em></li>\n<li>[10] Curve founder says FATF pressure could make DeFi safer and more decentralized — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "custody"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787055563/xeonbit24/posts/crypto-roundup-august-18-2026-at-0719-pm-ict-ethereum-upgrade-shakes-fee-assumpt.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787055563/xeonbit24/posts/crypto-roundup-august-18-2026-at-0719-pm-ict-ethereum-upgrade-shakes-fee-assumpt.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-18-2026-at-0719-pm-ict-ethereum-upgrade-shakes-fee-assumpt",
+        "width": 1555,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 18, 2026 at 07:19 PM (ICT): Ethereum upgrade shakes fee assumptions, Bitcoin steadies at $64k, and"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+      "sourceTitle": "CoinDesk / The Block / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+          "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
+          "url": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090",
+          "source": "The Block"
+        },
+        {
+          "title": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
+          "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
+          "source": "The Block"
+        },
+        {
+          "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+          "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+          "source": "Decrypt"
+        },
+        {
+          "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+          "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken launches US-listed stock trading for EEA customers",
+          "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme",
+          "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+          "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
+          "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-18T12:19:23.619Z",
+      "slug": "crypto-roundup-august-18-2026-at-0719-pm-ict-ethereum-upgrade-shakes-fee-assumpt"
+    },
+    {
       "id": "1787017234994",
       "title": "Crypto Roundup August 18, 2026 at 08:40 AM (ICT): Tokenized Stocks Surge, AI Security Gains Momentum, and Regulatory Headwinds Rise",
       "summary": "Binance’s bStocks become the second‑largest tokenized stock issuer while tokenized equities triple their market share. At the same time, Payward joins Anthropic’s AI‑security project, and U.S. regulators move to tighten stablecoin sales, signaling both innovation and tightening oversight.",
@@ -18365,16 +18446,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
-    "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
-    "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life",
     "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/409049/robinhood-chain-tops-430-million-in-tvl-falconx-sees-rwas-as-the-key-differentiator?utm_source=rss&amp;utm_medium=rss",
@@ -18864,10 +18935,19 @@
     "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
     "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
     "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
-    "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+    "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090",
+    "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
+    "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+    "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+    "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+    "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
+    "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+    "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/11/a-bitcoin-whale-that-went-silent-in-2013-moves-usd40-million-in-btc|https://www.theblock.co/post/400663/bitcoin-briefly-tops-82000-sui-jumps-25?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/400659/bitcoin-whale-moves-41-million?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/400850/ark-invest-buys-circle-shares-stock-jumps?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
@@ -19066,6 +19146,7 @@
     "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
     "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
     "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-    "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998"
+    "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
+    "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on|https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090|https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071"
   ]
 }
