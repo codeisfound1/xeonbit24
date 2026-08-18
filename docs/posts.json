@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787014219850",
+      "title": "Crypto Roundup August 18, 2026 at 07:50 AM (ICT): AI‑driven security, stablecoin regulation, and tokenized equity boom",
+      "summary": "AI‑security collaborations and a looming U.S. stablecoin rulebook dominate the headlines, while tokenized equities and Robinhood Chain’s TVL surge signal growing institutional appetite. Market sentiment remains cautious ahead of the Fed’s September meeting.",
+      "content": "<p>Today's crypto landscape is shaped by three intersecting forces: the rapid infusion of artificial intelligence into security and infrastructure, tightening regulatory scrutiny—especially around stablecoins—and the continued migration of traditional assets onto blockchain platforms. Together, these trends are redefining risk, opportunity, and the competitive set for both legacy finance and emerging DeFi players.</p><h2>1. Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in the US</h2><p>The U.S. Treasury’s draft framework, released on August 15, would require any entity offering stablecoins to U.S. customers to obtain a federal charter, meet capital‑adequacy standards, and submit to regular audits. The rule is slated to take effect in 2027, giving exchanges and fintech firms a narrow window to adapt. While the proposal aims to curb systemic risk and protect consumers, critics argue it could stifle innovation and push stablecoin activity offshore. Market participants are already re‑evaluating product roadmaps, with several platforms signaling a shift toward decentralized, community‑governed stablecoins that may fall outside the new definition.</p><h2>2. OCC Approves Trump Family Crypto Company for Trust Charter</h2><p>The Office of the Comptroller of the Currency (OCC) granted a conditional trust charter to World Liberty Financial, a firm linked to former President Donald Trump. The decision, made amid a bipartisan bill targeting “corruption in banking applications,” underscores the regulator’s willingness to extend traditional banking privileges to crypto‑focused entities—provided they meet stringent compliance standards. The charter enables World Liberty Financial to hold crypto assets on behalf of customers, potentially opening a new pipeline of institutional capital, but also invites heightened political scrutiny.</p><h2>3. Tokenized Equities Triple Market Share as Ondo, Binance and xStocks Dominate</h2><p>According to The Block, tokenized stock market share has surged to 15% of the broader tokenized‑asset universe, up three‑fold since the start of the year, with a total market cap of roughly $2.8 billion. Platforms such as Ondo Finance, Binance’s tokenized‑stock offering, and the newcomer xStocks are leading the charge, leveraging regulated custodians and real‑time settlement to attract both retail and accredited investors. The growth reflects a broader trend of “hybrid finance,” where traditional securities are bridged to DeFi protocols, offering liquidity, fractional ownership, and programmable dividends.</p><h2>4. Robinhood Chain TVL Surges 45% in August as Tokenized RWAs Lose Ground</h2><p>The Block reports that Robinhood Chain’s total value locked (TVL) jumped 45% in August, driven largely by a $640 million stablecoin market cap anchored by USDe. Meanwhile, tokenized real‑world assets (RWAs) such as real‑estate and commodities saw a relative decline, suggesting investors are favoring liquid, low‑volatility instruments amid macro uncertainty. The surge in TVL highlights the platform’s expanding role as a bridge between retail traders and on‑chain finance, especially as it integrates more tokenized equity products.</p><h2>5. Kraken Parent Payward Joins Anthropic’s Project Glasswing for AI Security Push</h2><p>Payward, the parent company of Kraken, has entered Anthropic’s Project Glasswing, gaining access to Claude Mythos, a cutting‑edge AI model designed for cybersecurity. The partnership aims to automate vulnerability detection across Kraken’s exchange infrastructure and to open‑source findings that could benefit the wider crypto ecosystem. By harnessing generative AI for threat hunting, Payward hopes to stay ahead of increasingly sophisticated attacks targeting custodial wallets and DeFi bridges.</p><h2>6. Prediction Markets Give the Fed 74% Odds of Standing Pat in September</h2><p>Decrypt’s analysis of activity on Polymarket, Kalshi, and Myriad shows a 74% probability that the Federal Reserve will keep interest rates unchanged at its September meeting. Traders are pricing in a “no‑surprise” scenario, reflecting confidence that inflation pressures have eased and that the Fed’s recent rate hikes have taken effect. Crypto markets have historically responded positively to rate‑hold expectations, as lower borrowing costs support risk‑on assets.</p><h2>7. OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less</h2><p>OpenAI President Greg Brockman published an essay outlining the company’s strategy to combat malicious AI use: doubling down on AI‑driven defenses. By publicly dissecting a recent hack of Hugging Face and showcasing new automated red‑team tools, OpenAI signals that the next wave of security will be AI‑first. For crypto, this could translate into smarter anomaly detection for blockchain networks, more robust smart‑contract auditing, and faster response to exploit attempts.</p><h2>8. IREN Delivers First of Four AI Cloud Deployments to Microsoft Under $9.7 B Deal</h2><p>IREN, a former Bitcoin mining powerhouse, has shifted its massive energy footprint toward AI cloud services, delivering its first deployment to Microsoft. The company plans to scale from 480 MW in 2026 to 1.2 GW by 2027, repurposing mining‑grade hardware for AI workloads. This pivot illustrates a broader industry trend where high‑energy crypto operations are being re‑engineered for AI compute, potentially easing environmental concerns while opening new revenue streams.</p><h2>9. Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'</h2><p>In a controversial state‑level legal battle, Minnesota alleges that Elon Musk’s xAI tool Grok facilitates the distribution of non‑consensual deep‑fake content, labeling it a “marketplace for digital sexual violence.” While xAI argues the ban infringes on First Amendment rights, the case highlights the regulatory gray area surrounding generative AI content and its misuse. For crypto, the outcome could affect how AI‑driven platforms are hosted on decentralized infrastructure, where content moderation is limited.</p><h2>10. Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws</h2><p>Duplicate coverage of Payward’s entry into Anthropic’s security program reinforces the significance of AI‑enhanced cyber defenses for exchanges. The repeated mention across Decrypt and CoinDesk underscores industry consensus that AI will become a cornerstone of operational resilience.</p><h2>Market Outlook</h2><p>Combining regulatory pressure, AI integration, and the tokenization of traditional assets, the crypto market appears to be entering a phase of “institutional‑grade maturation.” Stablecoin rulemaking will likely compress margins for issuers that cannot meet capital requirements, driving a shift toward decentralized or hybrid models. Meanwhile, the Fed’s expected rate‑hold supports a modest risk‑on bias, but any surprise move could quickly reverse recent gains. AI‑driven security initiatives from Kraken, OpenAI, and Anthropic are poised to lower systemic risk, potentially encouraging more conservative investors to allocate capital to crypto‑linked products. The tokenized equity surge suggests that real‑world asset on‑chain adoption will continue to outpace pure‑play DeFi protocols, especially as regulators provide clearer guidance.</p><h2>Key Takeaways</h2><ul><li>U.S. stablecoin regulation will reshape the supply chain for fiat‑backed tokens, favoring well‑capitalized, chartered entities.</li><li>Institutional interest in tokenized equities is accelerating, with a $2.8 billion market cap and growing retail participation.</li><li>AI is becoming a strategic asset for security and infrastructure, as seen in Payward’s Glasswing partnership and OpenAI’s defensive roadmap.</li><li>Fed rate expectations remain stable, supporting a cautiously bullish sentiment across risk assets.</li><li>Regulatory and political scrutiny of crypto‑related entities (e.g., World Liberty Financial) is intensifying, adding a layer of compliance risk.</li><li>Energy‑intensive mining operations are being repurposed for AI compute, signaling a potential reduction in the environmental criticism of crypto.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws — <em>Decrypt</em></li>\n<li>[2] Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground — <em>The Block</em></li>\n<li>[3] Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence' — <em>Decrypt</em></li>\n<li>[4] Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push — <em>CoinDesk</em></li>\n<li>[5] OCC approves Trump family crypto company for trust charter — <em>Cointelegraph</em></li>\n<li>[6] Prediction Markets Give the Fed 74% Odds of Standing Pat in September — <em>Decrypt</em></li>\n<li>[7] Tokenized equities triple market share as Ondo, Binance and xStocks dominate — <em>The Block</em></li>\n<li>[8] Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US — <em>Decrypt</em></li>\n<li>[9] OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less — <em>Decrypt</em></li>\n<li>[10] IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "stablecoins",
+        "ai",
+        "regulation"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787014219/xeonbit24/posts/crypto-roundup-august-18-2026-at-0750-am-ict-aidriven-security-stablecoin-regula.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787014219/xeonbit24/posts/crypto-roundup-august-18-2026-at-0750-am-ict-aidriven-security-stablecoin-regula.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-18-2026-at-0750-am-ict-aidriven-security-stablecoin-regula",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 18, 2026 at 07:50 AM (ICT): AI‑driven security, stablecoin regulation, and tokenized equity boom"
+      },
+      "sourceUrl": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+      "sourceTitle": "Decrypt / The Block / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+          "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
+          "source": "The Block"
+        },
+        {
+          "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+          "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+          "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OCC approves Trump family crypto company for trust charter",
+          "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+          "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
+          "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
+          "source": "The Block"
+        },
+        {
+          "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+          "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+          "source": "Decrypt"
+        },
+        {
+          "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+          "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+          "source": "Decrypt"
+        },
+        {
+          "title": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
+          "url": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-18T00:50:19.850Z",
+      "slug": "crypto-roundup-august-18-2026-at-0750-am-ict-aidriven-security-stablecoin-regula"
+    },
+    {
       "id": "1786931135293",
       "title": "Crypto Roundup August 17, 2026 at 08:45 AM (ICT): Data Leaks and Regulatory Uncertainty",
       "summary": "The crypto market is facing significant challenges with data leaks from wallet providers Trezor and SafePal, and regulatory uncertainty as the Clarity Act's odds are at 10% despite a White House meeting, while investors are looking past market-cap rankings and back to fundamentals",
@@ -18203,16 +18284,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/zilliqa-zil-deposit-halt-exchange-partner-wallet-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/binance-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18702,10 +18773,19 @@
     "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
     "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
     "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-    "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union"
+    "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+    "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+    "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
+    "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+    "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+    "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/375821/prediction-fed-rate-change-september",
+    "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
+    "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+    "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+    "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18904,6 +18984,7 @@
     "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns|https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929|https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
     "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
-    "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto"
+    "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+    "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence"
   ]
 }
