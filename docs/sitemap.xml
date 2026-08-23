@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-august-23-2026-at-0849-am-ict-etfs-surge-zcash-spikes-and-aidrive</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787449788/xeonbit24/posts/crypto-roundup-august-23-2026-at-0849-am-ict-etfs-surge-zcash-spikes-and-aidrive.jpg</image:loc>
+      <image:title>Crypto Roundup August 23, 2026 at 08:49 AM (ICT): ETFs surge, Zcash spikes, and AI‑driven security concerns dominate</image:title>
+      <image:caption>Crypto Roundup August 23, 2026 at 08:49 AM (ICT): ETFs surge, Zcash spikes, and AI‑driven security concerns dominate</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-august-22-2026-at-0714-pm-ict-bitcoins-squeezeled-rally-zcash-etf</loc>

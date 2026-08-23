@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787449788970",
+      "title": "Crypto Roundup August 23, 2026 at 08:49 AM (ICT): ETFs surge, Zcash spikes, and AI‑driven security concerns dominate",
+      "summary": "ETF inflows hit a six‑month high as Bitcoin and Ether funds attract $2.6 billion, while Zcash reaches an eight‑year peak. Simultaneously, AI‑enabled attacks and regulatory friction shape the market narrative.",
+      "content": "<p>Crypto markets entered the week with a burst of capital into Bitcoin and Ether exchange‑traded funds (ETFs), a rare price rally for both assets, and a wave of AI‑related security headlines. At the same time, infrastructure upgrades on Solana, a partial restart plan for the beleaguered BitMart exchange, and a series of regulatory and exploit alerts underscored the sector’s growing pains. Below we break down the ten most newsworthy stories, connect the dots, and outline what the next few weeks may hold for investors and developers.</p>\n<h2>1. Bitcoin and Ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume</h2>\n<p>According to The Block, weekly trading volume across Bitcoin and Ether ETFs surged to $29 billion – more than three times the prior week – as $2.6 billion of fresh capital poured in. The inflow marks the strongest week since October 2025 and reflects renewed institutional confidence despite both assets remaining down year‑to‑date. The surge was driven by a combination of higher spot prices, the launch of new ETF share classes in Europe, and a wave of “green‑energy” narratives that appealed to ESG‑focused funds. While the price rally was modest (Bitcoin up ~3%, Ether up ~4% over the week), the liquidity boost could lower bid‑ask spreads and make large‑scale entry and exit smoother for institutional players.</p>\n<h2>2. Zcash hits eight‑year high near $850 with futures volume near $10 billion amid Grayscale ETF push</h2>\n<p>Zcash (ZEC) surged to an eight‑year peak, trading around $850. CoinGlass reported almost $10 billion in 24‑hour futures volume and $1.76 billion in open interest, indicating that speculative interest is now dominated by derivatives rather than spot trading. The price lift coincides with Grayscale’s renewed filing for a Zcash ETF, which has reignited speculation that privacy‑focused assets could finally gain mainstream exposure. The move also highlights a broader trend: privacy coins are benefitting from the same ETF‑driven capital flows that have buoyed Bitcoin and Ether, albeit on a smaller scale.</p>\n<h2>3. Solana cuts mainnet slot time to 350 ms in first step toward 200 ms goal</h2>\n<p>Solana announced a reduction of its slot time from 400 ms to 350 ms, a technical tweak aimed at speeding up transaction confirmations. While the change does not directly increase network throughput, it improves user experience by lowering latency, a critical factor for high‑frequency DeFi and gaming applications. The move is part of Solana’s multi‑year roadmap to reach a 200 ms slot time, which would place it among the fastest L1 blockchains. Investors should watch for subsequent upgrades that may affect validator economics and staking yields.</p>\n<h2>4. Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown</h2>\n<p>BitMart, once a mid‑size exchange with a strong presence in Asia, filed for restructuring after a liquidity crunch in early August. The firm hired White & Case to guide a partial restart strategy and plans to release a detailed roadmap by September 9. The proposal includes re‑opening limited trading pairs, returning a portion of user assets to creditors, and seeking new capital from strategic partners. The situation underscores the lingering fallout from the 2024‑25 market correction, where several mid‑tier exchanges struggled to meet heightened regulatory capital standards.</p>\n<h2>5. Web3 gaming network The Sandbox stops Base and BNB chain bridging after exploit</h2>\n<p>The Sandbox halted bridging between its native token SAND and both Base (an Ethereum L2) and BNB Chain after an exploit that threatened a tiny fraction of the token supply (<0.01%). The quick response – disabling the bridges and issuing a user warning – demonstrates growing operational maturity among Web3 gaming projects. However, the incident also reminds developers that cross‑chain bridges remain high‑risk vectors, especially as they scale to accommodate larger user bases.</p>\n<h2>6. AI Has Made Bitcoin Software a Target—This Group Is Fighting Back</h2>\n<p>Decrypt reported that a loosely organized “red‑team” of about 20 developers is now scanning Bitcoin’s codebase for AI‑discoverable vulnerabilities. The group argues that large language models can generate novel attack vectors at a speed far beyond traditional manual audits. Their public‑first approach – publishing findings and mitigation suggestions – aims to harden Bitcoin against a new class of AI‑driven exploits. The effort highlights a broader industry shift: as AI tools become cheaper and more powerful, the security community must adopt proactive, automated testing pipelines.</p>\n<h2>7. Microsoft Fixes ‘Perfect 10’ Exploit That Could Have Let Hackers Run Code Remotely</h2>\n<p>Microsoft patched a critical “Perfect 10” vulnerability in its Entra ID identity platform before a CVE was even issued. The flaw, rated at the highest severity, could have allowed remote code execution across Azure AD‑linked services. While the bug appears not to have been exploited in the wild, the episode serves as a reminder that even legacy cloud identity stacks can harbor severe weaknesses, and that rapid vendor response remains essential for protecting crypto‑related SaaS integrations.</p>\n<h2>8. Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says</h2>\n<p>Fairmint’s CEO warned that the rapid proliferation of tokenized equities could recreate the fragmented, paper‑based chaos of the 1960s, where mismatched clearing and settlement standards led to market instability. The concern is especially relevant as more platforms issue security tokens that trade on both traditional and decentralized exchanges. Harmonising custody, settlement, and regulatory reporting will be crucial to avoid a modern “paper crisis” that could spill over into crypto markets.</p>\n<h2>9. Kalshi off‑limits in multiple states as prediction markets, CFTC team up for battle</h2>\n<p>Kalshi, a regulated U.S. prediction‑market platform, was barred from serving customers in Washington state and faces ongoing litigation with the Commodity Futures Trading Commission (CFTC). The regulator is pushing for stricter rules on binary‑style contracts, arguing they blur the line between gambling and securities. The case illustrates the tightening regulatory environment for innovative financial products that sit at the intersection of DeFi and traditional finance.</p>\n<h2>10. A Third of the Post‑ChatGPT Web Is AI‑Written, Pew Finds</h2>\n<p>Pew Research discovered that roughly 33 % of webpages surveyed contain content generated by AI tools like ChatGPT, with the highest concentration on .com domains. While not a crypto‑specific story, the finding has indirect implications for the industry: AI‑generated whitepapers, marketing copy, and even smart‑contract code could increase the volume of low‑quality or misleading information, making due‑diligence more challenging for investors.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of massive ETF inflows, privacy‑coin rallies, and AI‑driven security concerns paints a mixed picture. On the upside, institutional capital is once again flowing into Bitcoin and Ether, providing a liquidity cushion that could support further price appreciation if macro‑economic conditions stabilize. The Zcash surge suggests that the ETF pipeline may soon extend to niche assets, potentially broadening the market’s risk‑adjusted return profile.</p>\n<p>On the downside, the BitMart restructuring and Kalshi regulatory push signal that the sector’s “wild west” phase is ending. Investors should expect tighter compliance requirements, especially for platforms that bridge traditional securities with tokenized forms. Meanwhile, the rise of AI‑enabled attacks on core protocols like Bitcoin adds a new layer of operational risk that may prompt higher spending on security audits and insurance.</p>\n<p>Overall, we anticipate a near‑term range‑bound market for the major coins, with price movements increasingly driven by fund flows and regulatory headlines rather than pure technical fundamentals. Altcoins with clear use‑case upgrades (e.g., Solana’s latency improvements) could outperform if they can demonstrate tangible user growth.</p>\n<h2>Key Takeaways</h2>\n<ul><li>ETF inflows have revived Bitcoin and Ether liquidity, but price gains remain modest; watch for further fund launches.</li><li>Zcash’s price breakout shows privacy assets can benefit from ETF speculation.</li><li>Infrastructure upgrades (Solana slot reduction) improve user experience but won’t instantly boost throughput.</li><li>Security is becoming AI‑centric; proactive red‑team efforts are essential for legacy protocols.</li><li>Regulatory scrutiny is intensifying for tokenized securities and prediction markets, potentially limiting market access in certain jurisdictions.</li><li>Cross‑chain bridges remain high‑risk; swift containment actions, like The Sandbox’s bridge shutdown, are now best practice.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume — <em>The Block</em></li>\n<li>[2] Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push — <em>The Block</em></li>\n<li>[3] Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely — <em>Decrypt</em></li>\n<li>[4] Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal — <em>The Block</em></li>\n<li>[5] AI Has Made Bitcoin Software a Target—This Group Is Fighting Back — <em>Decrypt</em></li>\n<li>[6] Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown — <em>CoinDesk</em></li>\n<li>[7] Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit — <em>CoinDesk</em></li>\n<li>[8] Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says — <em>CoinDesk</em></li>\n<li>[9] A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds — <em>Decrypt</em></li>\n<li>[10] Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "zcash",
+        "solana",
+        "defi",
+        "crypto"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787449788/xeonbit24/posts/crypto-roundup-august-23-2026-at-0849-am-ict-etfs-surge-zcash-spikes-and-aidrive.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787449788/xeonbit24/posts/crypto-roundup-august-23-2026-at-0849-am-ict-etfs-surge-zcash-spikes-and-aidrive.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-23-2026-at-0849-am-ict-etfs-surge-zcash-spikes-and-aidrive",
+        "width": 1200,
+        "height": 675,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 23, 2026 at 08:49 AM (ICT): ETFs surge, Zcash spikes, and AI‑driven security concerns dominate"
+      },
+      "sourceUrl": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+      "sourceTitle": "The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+          "source": "The Block"
+        },
+        {
+          "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
+          "source": "The Block"
+        },
+        {
+          "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+          "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+          "source": "The Block"
+        },
+        {
+          "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+          "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+          "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+          "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+          "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+          "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+          "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-23T01:49:48.970Z",
+      "slug": "crypto-roundup-august-23-2026-at-0849-am-ict-etfs-surge-zcash-spikes-and-aidrive"
+    },
+    {
       "id": "1787400856436",
       "title": "Crypto Roundup August 22, 2026 at 07:14 PM (ICT): Bitcoin’s squeeze‑led rally, Zcash ETF progress and macro‑driven optimism",
       "summary": "Bitcoin and Ether surged on a historic short‑squeeze amplified by Treasury buy‑back tweaks and a wave of institutional buying, while Grayscale edged closer to launching the first U.S. Zcash spot ETF. Parallel regulatory fights and security upgrades added nuance to an otherwise bullish day.",
@@ -19093,16 +19174,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
-    "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-    "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
     "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
@@ -19592,10 +19663,19 @@
     "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
     "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
     "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-    "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days"
+    "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+    "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+    "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
+    "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+    "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+    "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+    "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+    "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+    "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+    "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401406/trump-coinbase-strategy-mara?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/strive-rallies-5-percent-daily-dividends-clearing-all-debt-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/401493/poland-passes-mica-crypto-bill-zondacrypto-probe-deepens-report?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2|https://www.coindesk.com/markets/2026/05/15/xrp-gives-back-gains-after-senate-crypto-bill-sparks-5-rally",
     "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown|https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress|https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -19794,6 +19874,7 @@
     "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397|https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc|https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs|https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297|https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax|https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517|https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
-    "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories|https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016|https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days"
+    "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories|https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016|https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+    "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531|https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528|https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"
   ]
 }
