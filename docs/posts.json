@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787536029034",
+      "title": "Crypto Roundup August 24, 2026 at 08:47 AM (ICT): Bitcoin rallies, DeFi exploit, and a surge in stable‑coin payments",
+      "summary": "Bitcoin surged 23% on U.S. debt‑policy concerns while a major DeFi lending protocol lost $8.5 M to a governance hack. At the same time, stable‑coin card spending topped $1 B, signaling broader consumer adoption.",
+      "content": "<p>On August 24, 2026 the crypto market displayed a mix of bullish price action, regulatory momentum, and growing real‑world usage. Bitcoin’s 23% rally sparked optimism, yet a $8.5 million exploit at Term Finance reminded investors of lingering security gaps in DeFi. Meanwhile, the SEC’s new “Reg Crypto” proposal, a massive uptick in stable‑coin card spending, and strategic moves by XRP and Tether added layers of complexity. Below we break down each story, draw connections, and outline what the next weeks may hold for traders and long‑term holders.</p>\n<h2>1. Bitcoin’s 23% rally on U.S. debt policy – a new cycle starter?</h2>\n<p>Cointelegraph reports that Bitcoin jumped 23% after analysts linked the surge to growing fears of a U.S. sovereign‑debt crisis, a scenario highlighted by Ray Dalio. The narrative is that fiscal uncertainty drives investors toward “digital gold,” reigniting a macro‑driven bull market. Technical charts show Bitcoin breaking above the 2024‑25 resistance zone at $68,000, with volume confirming strong buying pressure. If the debt ceiling impasse deepens, we could see further upside, but the rally also risks a short‑term correction if the policy debate eases.</p>\n<h2>2. XRP’s 50% weekly gain – Treasury buyback fuels curve‑control hopes</h2>\n<p>CoinDesk notes XRP surged 50% this week, the strongest performance since November 2024. The catalyst is speculation that the U.S. Treasury’s recent dollar‑buyback program could lead to a “curve‑control” mechanism for XRP, similar to past interventions that stabilized the token’s price. Market sentiment is bullish, with on‑chain data showing a spike in large‑holder (whale) accumulation. However, regulatory scrutiny over Ripple’s securities case still looms, making the rally potentially volatile.</p>\n<h2>3. Crypto card spending tops $1 billion – stablecoins go mainstream</h2>\n<p>According to CoinDesk, crypto‑linked debit cards processed over $1 billion in transaction volume this month, a three‑fold increase YoY. USDC and USDT together fund more than 70% of that spend, covering groceries, rides, and subscription services. The data suggests stablecoins are moving from speculative assets to everyday payment rails, bolstering their utility case and attracting institutional interest in liquidity provision.</p>\n<h2>4. SEC’s Reg Crypto proposal – the first comprehensive U.S. framework</h2>\n<p>CoinDesk outlines the SEC’s new “Reg Crypto” proposal, now open for a 60‑day public comment period. The draft aims to clarify registration requirements for exchanges, custodians, and token issuers, while introducing a tiered approach based on market cap and user base. Early reactions from industry groups are mixed: some welcome the clarity, while others warn that overly burdensome compliance could stifle innovation, especially for smaller DeFi projects.</p>\n<h2>5. Term Finance loses $8.5 M to governance exploit</h2>\n<p>The Block details a governance‑level hack at Term Finance, a DeFi lending protocol that lost an estimated $8.5 million. Attackers manipulated delayed vault proposals and bypassed the liquidity‑provider veto mechanism. The incident underscores the risk of complex on‑chain governance models that rely on time‑delayed actions, and it may prompt a wave of audits and redesigns across similar protocols.</p>\n<h2>6. Tether’s $120 M Uruguay mining project collapses</h2>\n<p>Reuters, via The Block, reports that Tether’s Uruguay‑based Bitcoin mining operation was forced offline after the national utility (UTE) cut power following a missed contract signing. The $120 million venture, intended to secure renewable‑energy mining capacity, now faces legal and financial setbacks. The episode highlights the geopolitical and contractual challenges of scaling mining infrastructure in emerging markets.</p>\n<h2>7. Fed study: Crypto investors driven by beliefs, swayed by returns</h2>\n<p>Cointelegraph summarizes a Federal Reserve Bank of Cleveland study showing that crypto investors’ allocation decisions are heavily influenced by personal beliefs about the technology, yet they remain highly responsive to short‑term price spikes. The research suggests that market sentiment can swing dramatically on news events, reinforcing the importance of clear communication from projects and regulators.</p>\n<h2>8. AI‑generated religious books on Amazon – a peripheral crypto story</h2>\n<p>Decrypt reveals that 63% of religious titles on Amazon appear to be AI‑written, with witchcraft books showing a 78% likelihood. While not directly crypto‑related, the story illustrates the rapid diffusion of generative AI, a technology that many blockchain projects are now integrating for smart‑contract automation and NFT metadata creation.</p>\n<h2>9. Robot brains could have a ‘ChatGPT moment’ by 2027</h2>\n<p>Decrypt interviews ACE Robotics’ chairman, who predicts that AI‑driven robot cognition will reach a breakthrough similar to ChatGPT’s impact on language models by 2027. The convergence of robotics, AI, and blockchain could enable decentralized robot‑as‑a‑service platforms, where payments are settled in crypto, especially stablecoins.</p>\n<h2>10. AI agents as crypto’s next billion users – paying with stablecoins</h2>\n<p>CoinDesk quotes Coinbase’s head of AI product, likening the emerging wave of autonomous agents to the “Napster/LimeWire era” of music sharing. These agents will transact on behalf of users, primarily using stablecoins for speed and price stability. This trend could dramatically increase on‑chain transaction volume and drive demand for low‑fee, high‑throughput networks.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of macro‑economic uncertainty, regulatory clarity, and expanding consumer use cases creates a bifurcated market environment. On the upside, Bitcoin’s rally and the surge in stable‑coin card spend suggest growing confidence and real‑world utility. On the downside, the Term Finance exploit and Tether’s mining setbacks remind participants of operational risk. If the SEC’s Reg Crypto framework lands with balanced requirements, it could unlock institutional capital while preserving space for innovative DeFi projects. Traders should watch the U.S. debt ceiling negotiations, upcoming SEC comment deadlines (early October), and on‑chain metrics such as whale accumulation in XRP and stable‑coin liquidity pools.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s 23% jump signals renewed macro‑driven buying, but volatility remains tied to U.S. fiscal policy.</li><li>Stablecoins are cementing a payments foothold, with $1 B+ card volume indicating mainstream adoption.</li><li>Regulatory progress (Reg Crypto) could provide the legal scaffolding needed for broader institutional entry.</li><li>DeFi security remains a critical concern; governance exploits like Term Finance’s highlight the need for robust audit and design standards.</li><li>Infrastructure projects (e.g., Tether’s Uruguay mine) face real‑world execution risks that can affect token supply dynamics.</li><li>AI’s rise—both in content generation and autonomous agents—will likely increase on‑chain activity, especially in stable‑coin ecosystems.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[2] DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit — <em>The Block</em></li>\n<li>[3] Regulation Crypto is here: State of Crypto — <em>CoinDesk</em></li>\n<li>[4] Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters — <em>The Block</em></li>\n<li>[5] 63% of Religious Books on Amazon Are Likely AI-Written, Study Finds — <em>Decrypt</em></li>\n<li>[6] XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes — <em>CoinDesk</em></li>\n<li>[7] Fed study finds crypto investors driven by beliefs, easily swayed by returns — <em>Cointelegraph</em></li>\n<li>[8] Crypto card spending tops $1 billion as stablecoins move into everyday purchases — <em>CoinDesk</em></li>\n<li>[9] Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says — <em>Decrypt</em></li>\n<li>[10] Crypto’s next billion users might be AI agents, and they’re paying with stablecoins — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "stablecoins",
+        "xrp",
+        "regulation",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787536028/xeonbit24/posts/crypto-roundup-august-24-2026-at-0847-am-ict-bitcoin-rallies-defi-exploit-and-a-.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787536028/xeonbit24/posts/crypto-roundup-august-24-2026-at-0847-am-ict-bitcoin-rallies-defi-exploit-and-a-.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-24-2026-at-0847-am-ict-bitcoin-rallies-defi-exploit-and-a-",
+        "width": 2752,
+        "height": 1536,
+        "format": "png",
+        "alt": "Crypto Roundup August 24, 2026 at 08:47 AM (ICT): Bitcoin rallies, DeFi exploit, and a surge in stable‑coin payments"
+      },
+      "sourceUrl": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+          "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+          "source": "The Block"
+        },
+        {
+          "title": "Regulation Crypto is here: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+          "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+          "source": "The Block"
+        },
+        {
+          "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+          "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+          "source": "Decrypt"
+        },
+        {
+          "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+          "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+          "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+          "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+          "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+          "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-24T01:47:09.034Z",
+      "slug": "crypto-roundup-august-24-2026-at-0847-am-ict-bitcoin-rallies-defi-exploit-and-a-"
+    },
+    {
       "id": "1787449788970",
       "title": "Crypto Roundup August 23, 2026 at 08:49 AM (ICT): ETFs surge, Zcash spikes, and AI‑driven security concerns dominate",
       "summary": "ETF inflows hit a six‑month high as Bitcoin and Ether funds attract $2.6 billion, while Zcash reaches an eight‑year peak. Simultaneously, AI‑enabled attacks and regulatory friction shape the market narrative.",
@@ -19174,16 +19255,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
-    "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
-    "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
-    "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
-    "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
-    "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
     "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -19673,10 +19744,19 @@
     "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
     "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
     "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-    "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle"
+    "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+    "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+    "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+    "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+    "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+    "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+    "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+    "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/401493/poland-passes-mica-crypto-bill-zondacrypto-probe-deepens-report?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2|https://www.coindesk.com/markets/2026/05/15/xrp-gives-back-gains-after-senate-crypto-bill-sparks-5-rally",
     "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown|https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress|https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&amp;utm_medium=rss",
@@ -19875,6 +19955,7 @@
     "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs|https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297|https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax|https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517|https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
     "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories|https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016|https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-    "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531|https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528|https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"
+    "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531|https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528|https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+    "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543|https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto"
   ]
 }
