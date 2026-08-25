@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787660532600",
+      "title": "Crypto Roundup August 25, 2026 at 07:22 PM (ICT): Bitcoin rallies, tokenized bonds, DeFi stress, and legal fallout",
+      "summary": "Bitcoin surged past $80,000, sparking a short‑squeeze and testing a critical resistance level, while India prepares its first tokenized corporate bonds on a wholesale CBDC. Meanwhile, a single wallet’s aggressive token trade triggered $36 million in Ethereum DeFi liquidations and a high‑profile AI‑crypto Ponzi scheme was sentenced.",
+      "content": "<p>Global crypto markets entered a dynamic phase on August 25, 2026. Bitcoin’s price broke the $80,000 barrier, reigniting bullish sentiment and prompting a dramatic short‑squeeze. At the same time, regulatory and institutional developments—India’s tokenized bond pilot, Coinbase’s tokenized stocks on Base, and Grayscale’s new Zcash ETF—highlighted the growing convergence of traditional finance and digital assets. On the risk side, a single aggressive trade caused $36 million in Ethereum‑based DeFi liquidations, and a Las Vegas fraud case involving an alleged AI‑driven mining supercomputer concluded with a severe prison sentence. These events collectively shape a market that is both expanding in mainstream acceptance and exposing lingering vulnerabilities.</p>\n<h2>1. Bitcoin extends 7‑day advance to roughly 25%</h2>\n<p>Bitcoin crossed the $80,000 mark for the first time since May, extending its seven‑day price gain to about 25%. The rally was fueled by a combination of renewed institutional buying, positive macro‑economic data, and a tightening of futures open interest, which reduced short‑selling pressure. Technical analysts note that the price now sits just below the $82,500 resistance zone, a level that, if breached, could signal a decisive end to the bear market that began in late 2024.</p>\n<h2>2. A bitcoin short squeeze for the ages as futures open interest collapses</h2>\n<p>CoinDesk reported a dramatic collapse in Bitcoin futures open interest, dropping over 30% in 24 hours. The decline coincided with a steep fall in funding rates, indicating that short positions were being liquidated en masse. This short‑squeeze reinforced the price surge and suggests that the market’s bullish momentum is underpinned by a structural shift rather than pure speculation.</p>\n<h2>3. Bitcoin's surging price faces 1 key level that could signal if the bear market is really over</h2>\n<p>The critical technical level identified by analysts is the $82,500–$84,000 zone. A sustained close above this range would likely confirm a breakout from the long‑standing bear market, while a pullback could trigger a corrective wave. Traders are watching volume patterns and order‑book depth closely, as a decisive move either way could set the tone for the next quarter.</p>\n<h2>4. India plans first tokenized bonds using wholesale CBDC: Report</h2>\n<p>India’s central bank and the state‑controlled REC are preparing a September pilot to issue tokenized corporate bonds on the digital rupee (wholesale CBDC). Selected institutional investors will receive bond tokens and settle payments via the CBDC, aiming to reduce settlement times from days to minutes and improve transparency. If successful, the pilot could pave the way for broader tokenized debt markets across Asia, showcasing how sovereign digital currencies can integrate with traditional capital markets.</p>\n<h2>5. A 3% token move just triggered $36 million in Ethereum DeFi liquidations</h2>\n<p>A single wallet accumulated a large position in a yield‑optimisation token, pushing the price of its paired principal token down by 3%. The price dip was enough to breach collateralisation thresholds for dozens of borrowers who used the principal token as collateral, triggering automated liquidations worth $36 million across multiple DeFi protocols. The incident underscores the fragility of leveraged positions in high‑volatility environments and the importance of robust risk‑management tools.</p>\n<h2>6. Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency</h2>\n<p>Grayscale introduced a Zcash (ZEC) exchange‑traded fund, giving brokerage investors exposure to the privacy‑focused coin despite recent concerns over a critical privacy vulnerability that was patched earlier this year. The ETF launch signals confidence that demand for privacy assets remains strong, and it diversifies Grayscale’s product suite beyond Bitcoin and Ethereum.</p>\n<h2>7. Morning Minute: Coinbase Puts Tokenized Stocks on Base</h2>\n<p>Coinbase announced that its Base L2 network will host tokenized stocks, each token representing a direct claim on an underlying share with full voting and dividend rights. Unlike synthetic derivatives, these tokens are backed by custodial ownership, bridging the gap between traditional equities and blockchain‑based trading. The move could attract retail investors seeking seamless crypto‑equity exposure.</p>\n<h2>8. Shipyard winds down IPFS work after Protocol Labs ends funding</h2>\n<p>Open‑source developer Shipyard announced the cessation of its IPFS (InterPlanetary File System) contributions after Protocol Labs withdrew funding. The loss of dedicated maintainers raises concerns about the long‑term sustainability of key components of the decentralized web stack. Community‑driven forks and alternative funding models are now being explored to keep the protocol alive.</p>\n<h2>9. Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme</h2>\n<p>Brent Kovar was found guilty of operating a fraudulent scheme that promised investors returns from an AI‑powered crypto mining supercomputer. The scheme defrauded at least 400 victims of $24 million and falsely claimed FDIC insurance. Kovar faces up to 280 years in prison, highlighting ongoing regulatory challenges around crypto‑related fraud.</p>\n<h2>10. Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme</h2>\n<p>In a parallel report, Decrypt detailed the same conviction, emphasizing the court’s focus on the misrepresentation of AI capabilities and the false FDIC insurance claim. The case serves as a cautionary tale for investors attracted to hype‑driven narratives without verifiable technical proof.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of strong price action in Bitcoin, institutional tokenization initiatives, and heightened regulatory scrutiny creates a mixed‑signal environment. On the upside, Bitcoin’s breakout and the growing acceptance of tokenized assets suggest a maturing market with deeper liquidity and broader participation. On the downside, the DeFi liquidation episode and high‑profile fraud convictions remind participants of the sector’s operational risks. Expect continued volatility in the short term, but the underlying trend points toward greater integration of crypto into mainstream finance, especially as sovereign digital currencies like India’s wholesale CBDC gain traction.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s surge past $80,000 and the accompanying short‑squeeze could mark the end of the bear market if the $82,500 resistance holds.</li><li>India’s tokenized bond pilot demonstrates how CBDCs can streamline traditional finance, potentially unlocking new capital‑raising avenues.</li><li>DeFi remains vulnerable to large, coordinated token moves; risk‑management tools are essential for leveraged participants.</li><li>Regulatory and legal actions against fraud continue to intensify, underscoring the need for due diligence.</li><li>Tokenized equities and privacy‑focused ETFs expand the crypto investment landscape, attracting both retail and institutional capital.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] India plans first tokenized bonds using wholesale CBDC: Report — <em>Cointelegraph</em></li>\n<li>[2] A 3% token move just triggered $36 million in Ethereum DeFi liquidations — <em>CoinDesk</em></li>\n<li>[3] Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency — <em>Decrypt</em></li>\n<li>[4] Morning Minute: Coinbase Puts Tokenized Stocks on Base — <em>Decrypt</em></li>\n<li>[5] Shipyard winds down IPFS work after Protocol Labs ends funding — <em>Cointelegraph</em></li>\n<li>[6] Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme — <em>CoinDesk</em></li>\n<li>[7] Bitcoin's surging price faces 1 key level that could signal if the bear market is really over — <em>CoinDesk</em></li>\n<li>[8] A bitcoin short squeeze for the ages as futures open interest collapses — <em>CoinDesk</em></li>\n<li>[9] Bitcoin extends 7-day advance to roughly 25% — <em>CoinDesk</em></li>\n<li>[10] Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "tokenization",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787660529/xeonbit24/posts/crypto-roundup-august-25-2026-at-0722-pm-ict-bitcoin-rallies-tokenized-bonds-def.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787660529/xeonbit24/posts/crypto-roundup-august-25-2026-at-0722-pm-ict-bitcoin-rallies-tokenized-bonds-def.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-25-2026-at-0722-pm-ict-bitcoin-rallies-tokenized-bonds-def",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 25, 2026 at 07:22 PM (ICT): Bitcoin rallies, tokenized bonds, DeFi stress, and legal fallout"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "India plans first tokenized bonds using wholesale CBDC: Report",
+          "url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+          "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+          "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
+          "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+          "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+          "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin extends 7-day advance to roughly 25%",
+          "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
+          "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-08-25T12:22:12.600Z",
+      "slug": "crypto-roundup-august-25-2026-at-0722-pm-ict-bitcoin-rallies-tokenized-bonds-def"
+    },
+    {
       "id": "1787622093927",
       "title": "Crypto Roundup August 25, 2026 at 08:41 AM (ICT): Bitcoin rallies, USDC surge and new prediction‑market deals",
       "summary": "Bitcoin surged toward $80,000 as the dollar weakened, while USDC saw a fresh supply boost and a $140 price target from Bernstein. Meanwhile, Gemini and Coinbase expanded crypto‑based prediction and tokenized‑stock offerings, and a high‑profile AI sale added a new dimension to market sentiment.",
@@ -19417,16 +19498,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
-    "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
-    "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-    "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-    "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -19916,10 +19987,19 @@
     "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
     "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-    "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key"
+    "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+    "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+    "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+    "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+    "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+    "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+    "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+    "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+    "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private|https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts|https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets|https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom|https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000|https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
@@ -20118,6 +20198,7 @@
     "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531|https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528|https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543|https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
     "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register|https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin|https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack|https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares"
+    "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack|https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+    "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations|https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency"
   ]
 }
