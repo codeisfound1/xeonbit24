@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787747047681",
+      "title": "Crypto Roundup August 26, 2026 at 07:24 PM (ICT): Institutional Links, Regulatory Shifts, and Bitcoin’s Volatile Pulse",
+      "summary": "Institutional bridges to Swift’s blockchain and a new LayerZero settlement engine sparked short‑term rallies, while regulators in the U.S., EU, and Japan weigh tokenized deposits and fast‑lane securities. Bitcoin’s recent 23% weekly gain stalled at $79k, highlighting supply‑absorption challenges and macro catalysts from Treasury actions.",
+      "content": "<p>August 26, 2026 was a packed day for crypto, with major developments spanning institutional infrastructure, regulatory policy, and Bitcoin’s price dynamics. The most consequential story was the Dallas Federal Reserve’s warning that tokenized deposits could erode $700 billion of U.S. banks’ lending capacity, a signal that the traditional finance‑crypto interface is moving from theory to reality. At the same time, the European Central Bank (ECB) pushed back against privacy concerns by pledging a highly private digital euro, while Taurus announced a direct link between digital‑asset platforms and the SWIFT blockchain ledger. These macro‑level moves were mirrored by market‑level reactions: LayerZero’s ATLAS settlement engine sent its native token ZRO up 10%, and Bitcoin surged 23% in a week before pulling back to $79,000, underscoring the fragile balance between bullish ETF inflows and supply‑absorption limits.</p>\n<h2>1. Dallas Fed warns tokenized deposits could strip $700 B from U.S. banks' lending capacity</h2>\n<p>The Dallas Federal Reserve’s latest research paper warns that programmable, tokenized deposits—enabled by smart‑contract‑based accounts and AI‑driven yield‑optimizers—could allow depositors to instantly shift funds to higher‑yielding platforms. If widely adopted, this could reduce banks’ core funding by as much as $700 billion, forcing a sharp rise in borrowing costs and potentially tightening credit for businesses and consumers. The report highlights three risk vectors: liquidity mismatches, regulatory arbitrage, and systemic contagion if a large‑scale migration occurs. While the Fed stops short of proposing immediate policy changes, it signals that regulators will likely tighten oversight of “digital deposits” and may require banks to hold higher capital buffers for tokenized assets.</p>\n<h2>2. ECB claims digital euro will offer ‘maximum level of privacy’ amid surveillance fears</h2>\n<p>In response to growing public concern over financial surveillance, the ECB announced that the forthcoming digital euro will be designed with privacy‑by‑design features that make it “structurally unable to link users to individual purchases.” The architecture relies on zero‑knowledge proofs and tiered anonymity limits: low‑value transactions (<€2,000) remain fully private, while higher‑value transfers trigger optional KYC checks for anti‑money‑laundering compliance. Civil‑society groups remain skeptical, pointing to the potential for future legislative overrides. Nevertheless, the ECB’s stance positions the digital euro as a competitor to private stablecoins, potentially reshaping the European payments landscape.</p>\n<h2>3. Taurus links digital‑asset platforms to SWIFT’s blockchain ledger</h2>\n<p>Taurus, a fintech firm specializing in cross‑border settlement, announced that its platform will now interface directly with SWIFT’s newly launched blockchain ledger. The integration aims to provide institutional clients with immutable transaction records, faster settlement times, and reduced reconciliation costs. Taurus expects its first institutional connections within days, with live DLT (distributed‑ledger‑technology) transactions rolling out over the next few weeks. This move could accelerate the mainstream adoption of blockchain for traditional banking corridors, especially as the Dallas Fed’s concerns push banks to consider hybrid solutions that blend legacy infrastructure with tokenized assets.</p>\n<h2>4. LayerZero announces ATLAS as new settlement engine – ZRO rallies 10%</h2>\n<p>LayerZero’s “ATLAS” settlement engine promises near‑instant cross‑chain finality by leveraging a proof‑of‑liquidity model that eliminates the need for centralized relayers. The market reacted positively, with ZRO surging 10% on the day and approaching a 50% rebound from its recent trough. Analysts view ATLAS as a critical step toward true interoperability, reducing friction for DeFi users moving assets between Ethereum, Solana, and emerging L1s. The upgrade could also bolster LayerZero’s positioning as the backbone for next‑generation decentralized finance protocols, especially as regulatory scrutiny intensifies around cross‑chain bridges.</p>\n<h2>5. ‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull‑market reset</h2>\n<p>Matt Hougan, CIO of Bitwise, highlighted Treasury Secretary Scott Bessent’s recent macro‑policy actions—particularly the announcement of a modest fiscal stimulus package—as an additional catalyst for Bitcoin’s bullish momentum. Combined with a historic short squeeze that forced many leveraged shorts to cover at elevated prices, Hougan argues that Bitcoin may be entering a “reset” phase where institutional demand, driven by ETF inflows, outweighs speculative pressure. The narrative aligns with the broader market sentiment that Bitcoin is transitioning from a speculative asset to a quasi‑reserve class.</p>\n<h2>6. Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady</h2>\n<p>After a spectacular 23% weekly gain, Bitcoin slipped back to $79,000, suggesting that supply‑absorption limits are reasserting themselves. August ETF inflows topped $3 billion, reinforcing the view that institutional demand remains robust. However, the price pullback highlights the market’s sensitivity to order‑book depth: large buy walls were exhausted, and the lack of fresh retail inflows kept the rally from breaking the $80k psychological barrier. The episode underscores the importance of monitoring on‑chain supply metrics—such as the “realized cap” and “HODL waves”—to gauge the sustainability of price moves.</p>\n<h2>7. Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K</h2>\n<p>Cointelegraph’s analysis points to a “supply absorption” problem: despite strong demand, the amount of Bitcoin being sold by long‑term holders has outpaced new buying pressure. The metric, which tracks the net change in Bitcoin held by addresses that have not moved in over a year, showed a modest increase in sell‑side activity, eroding the support at $80,000. The report suggests that unless institutional inflows continue to outstrip supply, Bitcoin may hover in a tight range between $75k‑$80k for the next few weeks.</p>\n<h2>8. Japan weighs blockchain fast lane for securities cash settlement</h2>\n<p>Japan’s Financial Services Agency, together with the Ministry of Finance, the Bank of Japan, and major securities firms, announced a joint study to create a “fast‑lane” blockchain settlement system for cash‑settled securities. The plan aims to cut settlement times from T+2 to near‑instant, reduce counterparty risk, and lower operational costs. A development roadmap is expected by early 2027, positioning Japan as a potential leader in blockchain‑enabled capital markets. The initiative could attract foreign capital seeking efficient post‑trade infrastructure, especially as other jurisdictions grapple with legacy settlement bottlenecks.</p>\n<h2>9. The 3 catalysts that could define Bitcoin’s next move</h2>\n<p>CoinDesk’s day‑ahead piece outlines three pivotal catalysts: (1) continued ETF inflows and the potential approval of a spot Bitcoin ETF in the U.S.; (2) macro‑policy shifts, notably the Treasury’s fiscal stance and Fed rate outlook; and (3) on‑chain supply dynamics, especially the behavior of long‑term HODLers. While the article is brief, it reinforces the narrative that Bitcoin’s price trajectory will be dictated by the interplay of institutional demand, regulatory clarity, and the underlying supply‑side health of the network.</p>\n<h2>10. Strategy cuts net leverage to near zero as cash nearly matches convertible debt</h2>\n<p>Strategy, a Bitcoin‑focused treasury company, reported a near‑zero net leverage ratio after raising cash to almost equal its convertible debt obligations. The firm also highlighted four years of preferred‑dividend coverage and ongoing share repurchases below par value. This financial discipline signals confidence in Bitcoin’s long‑term value proposition and may encourage other crypto‑linked firms to adopt similar balance‑sheet strategies, especially as lenders scrutinize exposure to volatile digital assets.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of regulatory attention, institutional infrastructure, and on‑chain dynamics suggests a market at a crossroads. On the upside, the Taurus‑SWIFT link, LayerZero’s ATLAS, and Japan’s fast‑lane study all point to deeper integration of blockchain technology into the traditional financial system. These developments could unlock new liquidity sources and reduce friction for cross‑border capital flows. On the downside, the Dallas Fed’s warning and the ECB’s privacy debate highlight the regulatory headwinds that could constrain growth if policymakers opt for stricter oversight. Bitcoin’s price action—strong weekly gains tempered by supply‑absorption limits—illustrates the delicate balance between bullish institutional demand and the need for sustainable on‑chain fundamentals.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Tokenized deposits pose a systemic risk to U.S. bank funding, prompting likely regulatory tightening.</li><li>The digital euro will prioritize privacy, challenging private stablecoins and reshaping European payments.</li><li>Taurus’s SWIFT blockchain integration could accelerate institutional adoption of DLT for settlement.</li><li>LayerZero’s ATLAS engine boosts cross‑chain liquidity, reflected in a 10% ZRO rally.</li><li>Bitcoin’s recent 23% weekly surge stalled at $79k, underscoring supply‑absorption challenges and the importance of on‑chain metrics.</li><li>Japan’s fast‑lane blockchain settlement plan positions the country as a pioneer in modernizing securities infrastructure.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Taurus links digital asset platforms to Swift’s blockchain ledger — <em>Cointelegraph</em></li>\n<li>[2] Morning Minute: LayerZero Announces ATLAS as New Settlement Engine — <em>Decrypt</em></li>\n<li>[3] ‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say — <em>The Block</em></li>\n<li>[4] Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity — <em>CoinDesk</em></li>\n<li>[5] ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears — <em>CoinDesk</em></li>\n<li>[6] The 3 catalysts that could define bitcoin's next move — <em>CoinDesk</em></li>\n<li>[7] Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis — <em>Cointelegraph</em></li>\n<li>[8] Japan weighs blockchain fast lane for securities cash settlement — <em>Cointelegraph</em></li>\n<li>[9] Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady — <em>CoinDesk</em></li>\n<li>[10] Strategy cuts net leverage to near zero as cash nearly matches convertible debt — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "blockchain"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787747047/xeonbit24/posts/crypto-roundup-august-26-2026-at-0724-pm-ict-institutional-links-regulatory-shif.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787747047/xeonbit24/posts/crypto-roundup-august-26-2026-at-0724-pm-ict-institutional-links-regulatory-shif.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-26-2026-at-0724-pm-ict-institutional-links-regulatory-shif",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 26, 2026 at 07:24 PM (ICT): Institutional Links, Regulatory Shifts, and Bitcoin’s Volatile Pulse"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
+          "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
+          "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
+          "source": "Decrypt"
+        },
+        {
+          "title": "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
+          "url": "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
+          "source": "The Block"
+        },
+        {
+          "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+          "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+          "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The 3 catalysts that could define bitcoin's next move",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis",
+          "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Japan weighs blockchain fast lane for securities cash settlement",
+          "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+          "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+          "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-26T12:24:07.681Z",
+      "slug": "crypto-roundup-august-26-2026-at-0724-pm-ict-institutional-links-regulatory-shif"
+    },
+    {
       "id": "1787708821261",
       "title": "Crypto Roundup August 26, 2026 at 08:46 AM (ICT): Banking blockchain surge, stablecoin expansion, and Bitcoin futures shake‑up",
       "summary": "U.S. state banking associations are gearing up to launch a nationwide blockchain network, while a new USD‑denominated stablecoin hits $4 bn market cap and Bitcoin futures open interest collapses to 12%. These moves signal deeper institutional integration and heightened volatility across the crypto ecosystem.",
@@ -19579,16 +19660,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-    "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-    "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-    "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
-    "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
     "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
     "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
@@ -20078,10 +20149,19 @@
     "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
     "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
-    "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move"
+    "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+    "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
+    "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
+    "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+    "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+    "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+    "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+    "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-under-usd77-000-as-oil-shock-and-treasury-yields-hit-risk-assets|https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom|https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000|https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
     "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen|https://www.coindesk.com/tech/2026/05/19/live-markets-bitcoin-hangs-near-usd77-000-as-interest-rates-continue-to-surge|https://cointelegraph.com/news/bitcoin-miner-canaan-posts-887m-net-loss-q1-btc-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -20280,6 +20360,7 @@
     "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register|https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin|https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack|https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
     "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations|https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
-    "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport|https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network|https://decrypt.co/376559/xrp-price-cools-where-next"
+    "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport|https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network|https://decrypt.co/376559/xrp-price-cools-where-next",
+    "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine|https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785"
   ]
 }
