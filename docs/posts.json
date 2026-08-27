@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787820711568",
+      "title": "Crypto Roundup August 27, 2026 at 03:51 PM (ICT): Bitcoin’s price wall, Mirae Asset’s $109B push and looming security updates",
+      "summary": "Bitcoin is testing a critical $81k‑$86k resistance while US spot ETF inflows cool, and South Korea’s Mirae Asset unveils a $109 billion digital‑asset expansion. At the same time, core Lightning nodes face security patches, quantum‑resistant research advances, and regulators eye tokenized deposits and platform lawsuits.",
+      "content": "<p>Across the globe, the crypto ecosystem is juggling three simultaneous forces: a decisive price test for Bitcoin, massive institutional capital commitments, and a wave of technical and regulatory challenges. The ten stories below capture the most consequential developments from today’s market, from high‑stakes price dynamics to long‑term infrastructure upgrades.</p>\n<h2>1. Bitcoin faces key hurdle in $81,000‑$86,000 range to reach January high, analyst says</h2>\n<p>Glassnode’s latest on‑chain analysis identifies the $81k‑$86k band as a “psychological wall” where a large cohort of long‑term holders sits near breakeven. The concentration of supply at that level creates strong resistance: if Bitcoin can break above $86k, it would clear the last major barrier from the January peak and open the path toward the $100k psychological milestone. Conversely, a failure to breach could trigger short‑term profit‑taking and a return to the $75k‑$80k support zone. Traders are watching the 4‑hour chart for a decisive breakout candle, while institutional investors remain cautious after recent ETF inflow slowdown.</p>\n<h2>2. Bitcoin ETF inflows slow to $232M as BTC holds under $80K</h2>\n<p>US spot Bitcoin ETFs recorded $232.1 million in fresh capital, a noticeable deceleration after a week‑long $2.8 billion inflow streak. The slowdown coincides with Bitcoin hovering just below $80k, suggesting that retail and institutional money are waiting for clearer upside before committing more funds. Notably, XRP‑focused funds saw their biggest inflow since early January, indicating a shift of attention toward altcoins that may benefit from a weaker Bitcoin rally. The reduced ETF momentum adds pressure on the $81k‑$86k barrier identified by Glassnode.</p>\n<h2>3. Mirae Asset maps out $109 billion digital asset push with Digital X: report</h2>\n<p>South Korea’s Mirae Asset announced an ambitious $109 billion roadmap for its Digital X platform, targeting a profitable digital‑asset business by 2027. The plan includes a suite of services: crypto brokerage, tokenized securities, and a proprietary stablecoin ecosystem. Mirae’s scale—backed by one of Asia’s largest asset managers—signals a maturation of institutional appetite for crypto exposure, especially in regulated markets. The rollout could accelerate Korean crypto adoption, pressure local exchanges to upgrade compliance, and provide a new source of liquidity for global markets.</p>\n<h2>4. Core Lightning confirms multiple vulnerabilities, prepares security update</h2>\n<p>The Lightning Network’s reference implementation, Core Lightning, disclosed several critical vulnerabilities affecting node stability and routing privacy. Operators are urged to switch to offline mode until the forthcoming patch is applied, which will keep nodes active but disconnected from the network. While the bugs do not threaten the underlying Bitcoin blockchain, they highlight the fragility of second‑layer solutions that are essential for scaling Bitcoin’s transaction throughput. The incident may temporarily dampen confidence in Lightning‑based services, prompting exchanges and wallets to communicate the mitigation steps to users.</p>\n<h2>5. Bitcoin researchers propose quantum fix that would not crowd out transactions</h2>\n<p>Researchers introduced the SHRINCS (Short‑Hash‑based Ring‑Signature with Non‑interactive Cryptographic Schemes) proposal, a quantum‑resistant signature scheme designed for Bitcoin. Unlike earlier post‑quantum designs that significantly increase transaction size, SHRINCS adds only a modest overhead, preserving network capacity. If adopted, the upgrade would future‑proof Bitcoin against the eventual arrival of large‑scale quantum computers while keeping fees and block weight within current limits. The proposal is still in the academic review stage, but it underscores the community’s proactive stance on long‑term security.</p>\n<h2>6. Tokenized deposits could raise US credit costs: Dallas Fed economists</h2>\n<p>Economists at the Dallas Federal Reserve warned that tokenized, programmable deposits could destabilize traditional bank funding. By enabling instant, on‑chain settlement, these deposits might reduce banks’ reliance on stable, overnight funding, forcing lenders to seek more expensive capital sources. The analysis suggests that regulators will need to craft new liquidity standards for institutions that integrate tokenized assets, a development that could ripple through crypto‑backed lending platforms and DeFi protocols that already rely on on‑chain collateral.</p>\n<h2>7. Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike</h2>\n<p>In the past 24 hours, Bitcoin slipped below $79k while XRP suffered the steepest decline among major tokens, dropping over 5 %. Market sentiment is shifting toward expectations of a Federal Reserve rate hike later this month, prompting risk‑off behavior. Despite the dip, Bitcoin still holds a 14 % weekly gain, indicating resilience. Solana and BNB were the only notable exceptions, posting modest gains as investors rotate into higher‑yielding layer‑1 assets.</p>\n<h2>8. Connecticut sues Kalshi over sports event contracts in months‑long legal feud</h2>\n<p>State regulators in Connecticut filed a lawsuit against prediction‑market platform Kalshi, alleging that its sports‑event contracts violate state gambling laws. Kalshi’s head of litigation called the action “arbitrary and inconsistent enforcement,” noting that similar platforms operate without challenge. The case adds to a growing patchwork of state‑level scrutiny over crypto‑based derivatives, potentially influencing how other U.S. jurisdictions treat betting‑type tokens and synthetic assets.</p>\n<h2>9. Binance co‑founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings</h2>\n<p>In a lighter‑hearted cultural note, Binance’s co‑founders Changpeng Zhao (CZ) and Yi He have been using “Homer” and “Marge” as internal aliases during meetings. While the anecdote has no direct market impact, it reflects the informal, meme‑driven culture that still permeates major crypto firms, even as they grow into regulated enterprises. Such internal branding can affect public perception, especially when media outlets spotlight the personalities behind the exchanges.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup highlighted the same themes covered above: Bitcoin’s price test, ETF inflow trends, Lightning Network security, and regulatory skirmishes. The piece serves as a reminder that the market’s narrative is being shaped by a blend of technical, institutional, and regulatory forces, each reinforcing the others in a feedback loop that drives short‑term volatility and long‑term structural change.</p>\n<h2>Market Outlook</h2>\n<p>Looking ahead, the immediate catalyst will be Bitcoin’s ability to clear the $81k‑$86k resistance. A clean break could reignite ETF inflows, attract fresh institutional capital, and bolster confidence in Lightning‑based scaling solutions once the security patches are deployed. Conversely, a failure may deepen risk‑off sentiment, especially if the Fed proceeds with a rate hike, prompting further outflows from crypto‑focused funds. On the institutional side, Mirae Asset’s $109 billion commitment signals that large‑scale capital will continue to flow into regulated crypto products, potentially offsetting short‑term price weakness. Regulatory developments—particularly around tokenized deposits and state‑level derivatives—will shape the funding environment for DeFi and on‑chain lending, making compliance a competitive advantage for platforms that adapt quickly.</p>\n<h2>Key Takeaways</h2>\n<ul>\n  <li>Bitcoin’s $81k‑$86k range is the decisive technical barrier for the next price rally.</li>\n  <li>ETF inflows are cooling, reflecting cautious investor sentiment amid price uncertainty.</li>\n  <li>Mirae Asset’s $109 billion digital‑asset roadmap could accelerate institutional adoption in Asia.</li>\n  <li>Core Lightning vulnerabilities underscore the need for rapid security updates on second‑layer networks.</li>\n  <li>SHRINCS offers a promising quantum‑resistant upgrade with minimal impact on transaction throughput.</li>\n  <li>Tokenized deposits may raise U.S. credit costs, prompting tighter regulatory oversight.</li>\n  <li>Regulatory actions against platforms like Kalshi highlight the fragmented U.S. approach to crypto derivatives.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Mirae Asset maps out $109 billion digital asset push with Digital X: report — <em>The Block</em></li>\n<li>[2] Core Lightning confirms multiple vulnerabilities, prepares security update — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says — <em>The Block</em></li>\n<li>[4] Bitcoin researchers propose quantum fix that would not crowd out transactions — <em>CoinDesk</em></li>\n<li>[5] Bitcoin ETF inflows slow to $232M as BTC holds under $80K — <em>Cointelegraph</em></li>\n<li>[6] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[7] Tokenized deposits could raise US credit costs: Dallas Fed economists — <em>Cointelegraph</em></li>\n<li>[8] Connecticut sues Kalshi over sports event contracts in months-long legal feud — <em>The Block</em></li>\n<li>[9] Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings — <em>CoinDesk</em></li>\n<li>[10] Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "crypto market",
+        "regulation",
+        "altcoins"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787820710/xeonbit24/posts/crypto-roundup-august-27-2026-at-0351-pm-ict-bitcoins-price-wall-mirae-assets-10.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787820710/xeonbit24/posts/crypto-roundup-august-27-2026-at-0351-pm-ict-bitcoins-price-wall-mirae-assets-10.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-27-2026-at-0351-pm-ict-bitcoins-price-wall-mirae-assets-10",
+        "width": 1200,
+        "height": 675,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 27, 2026 at 03:51 PM (ICT): Bitcoin’s price wall, Mirae Asset’s $109B push and looming security up"
+      },
+      "sourceUrl": "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Mirae Asset maps out $109 billion digital asset push with Digital X: report",
+          "url": "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
+          "source": "The Block"
+        },
+        {
+          "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
+          "url": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says",
+          "url": "https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin researchers propose quantum fix that would not crowd out transactions",
+          "url": "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
+          "url": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Connecticut sues Kalshi over sports event contracts in months-long legal feud",
+          "url": "https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870",
+          "source": "The Block"
+        },
+        {
+          "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
+          "url": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
+          "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-27T08:51:51.569Z",
+      "slug": "crypto-roundup-august-27-2026-at-0351-pm-ict-bitcoins-price-wall-mirae-assets-10"
+    },
+    {
       "id": "1787747047681",
       "title": "Crypto Roundup August 26, 2026 at 07:24 PM (ICT): Institutional Links, Regulatory Shifts, and Bitcoin’s Volatile Pulse",
       "summary": "Institutional bridges to Swift’s blockchain and a new LayerZero settlement engine sparked short‑term rallies, while regulators in the U.S., EU, and Japan weigh tokenized deposits and fast‑lane securities. Bitcoin’s recent 23% weekly gain stalled at $79k, highlighting supply‑absorption challenges and macro catalysts from Treasury actions.",
@@ -19660,15 +19741,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
-    "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
-    "https://www.theblock.co/post/410032/moonpay-paybox-chatgpt-claude?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/410029/bernstein-cuts-circle-price-target-to-140-says-open-usd-threat-will-fade?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/410023/safe-smart-accounts-process-nearly-130-million-transactions-in-record-quarter?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
-    "https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography",
-    "https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report",
     "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -20159,10 +20231,18 @@
     "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
-    "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt"
+    "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+    "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
+    "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876",
+    "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions",
+    "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870",
+    "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
+    "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom|https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000|https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
     "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen|https://www.coindesk.com/tech/2026/05/19/live-markets-bitcoin-hangs-near-usd77-000-as-interest-rates-continue-to-surge|https://cointelegraph.com/news/bitcoin-miner-canaan-posts-887m-net-loss-q1-btc-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/bankr-disables-transactions-after-14-wallets-hacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-backed-truth-social-pulls-bids-for-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf?utm_source=rss&amp;utm_medium=rss",
@@ -20361,6 +20441,7 @@
     "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack|https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
     "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations|https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
     "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport|https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network|https://decrypt.co/376559/xrp-price-cools-where-next",
-    "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine|https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785"
+    "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine|https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
+    "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883|https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876"
   ]
 }
