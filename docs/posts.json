@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1787986163272",
+      "title": "Crypto Roundup August 29, 2026 at 01:49 PM (ICT): Dormant Bitcoin wallets stir, quantum‑ready XRP, and regulatory ripples",
+      "summary": "A wave of activity from long‑dormant Bitcoin wallets, Ripple’s quantum‑proof upgrades, and a stalled Bitcoin rally dominate the day, while Solana accelerates SOL disinflation and U.S. courts reshape prediction‑market jurisdiction.",
+      "content": "<p>August 29, 2026 brought a mixed bag of market signals. On‑chain data showed rare movement from decade‑old Bitcoin wallets, while major players like Ripple and the Bitcoin/Ethereum communities announced quantum‑resilience plans ahead of the looming \"Q‑Day.\" At the same time, regulatory pressure resurfaced in the U.S. with two court rulings that could reshape prediction‑market and sports‑betting landscapes. These events, combined with Solana’s aggressive disinflation proposal and broader macro‑economic chatter, paint a nuanced picture of a market that remains bullish at the long‑term horizon but faces short‑term headwinds.</p>\n<h2>1. Bitcoin wallets untouched for 10 years moved $40 million – most avoided exchanges</h2>\n<p>Data from Galaxy Digital reveals that a handful of wallets dormant for a decade transferred roughly $40 million this month, the lowest dormant‑coin activity since 2022. Crucially, the funds were sent to cold‑storage addresses rather than exchanges, indicating holders are still risk‑averse. The move suggests a modest re‑allocation of long‑term stores of value, possibly to diversify into newer protocols or to hedge against upcoming quantum threats.</p>\n<h2>2. Ripple prepares XRP Ledger for quantum computers before ‘Q‑Day’</h2>\n<p>Ripple announced a multi‑phase upgrade to make the XRP Ledger (XRPL) quantum‑resistant. An Anthropic‑trained model recently reduced the effort needed to break a leading post‑quantum signature scheme by 67 million‑fold, accelerating the timeline for quantum‑proof cryptography. Ripple’s roadmap mirrors similar migration plans released by Bitcoin and Ethereum this week, underscoring industry‑wide recognition that quantum‑computing could jeopardize current elliptic‑curve signatures.</p>\n<h2>3. Bitcoin rally stalls, but long‑term sentiment stays bullish</h2>\n<p>After a brief pullback triggered by Fed Chair Kevin Warsh’s hawkish remarks on inflation, Bitcoin gave back a portion of its recent gains. Prediction‑market traders, however, still price a bullish outlook, with the BTC‑USD futures market showing a 65 % probability of price appreciation over the next 90 days. The rally’s pause appears more related to macro‑policy uncertainty than on‑chain fundamentals.</p>\n<h2>4. Solana validators approve proposal to accelerate SOL disinflation</h2>\n<p>Solana’s governance voted to double the annual disinflation rate from 15 % to 30 %, effectively halving future SOL issuance while keeping the long‑term inflation target unchanged. The move aims to tighten supply ahead of a projected surge in on‑chain activity and to make SOL more attractive to institutional investors seeking scarcity‑driven price appreciation.</p>\n<h2>5. Kalshi takes legal blow in court ruling confirming state powers over prediction markets</h2>\n<p>The Ninth Circuit affirmed a lower‑court decision that Kalshi, a regulated U.S. prediction‑market platform, failed to demonstrate that federal law preempts Nevada’s authority. The ruling creates a split among federal appellate courts, likely prompting a Supreme Court review. The decision could limit the growth of regulated prediction markets and push some activity back to unregulated or offshore venues.</p>\n<h2>6. Ninth Circuit deals blow to Kalshi in Nevada sports‑betting fight, challenging CFTC’s exclusive jurisdiction claim</h2>\n<p>In a related case, the same appellate court sided with Nevada, rejecting the Commodity Futures Trading Commission’s claim of exclusive jurisdiction over sports‑betting contracts. This reinforces state‑level authority and may force the CFTC to renegotiate its regulatory framework for crypto‑based betting platforms.</p>\n<h2>7. XRP treasury company nears Nasdaq listing</h2>\n<p>Evernorth, a publicly‑traded company holding a sizable XRP treasury, secured SEC clearance for a potential Nasdaq listing. While the XRP balance sits below the original purchase price, the move signals growing institutional comfort with crypto‑linked equities and could provide a new conduit for retail exposure to XRP.</p>\n<h2>8. Meta tests robots to handle data‑center work</h2>\n<p>Meta is piloting autonomous robots to manage routine tasks in its expanding AI data centers. The initiative reflects the broader industry trend of automating high‑energy, high‑water‑use facilities—a factor that could indirectly affect crypto mining operations that share similar infrastructure constraints.</p>\n<h2>9. US cities eye AI data‑center limits as study flags water risks</h2>\n<p>A new study highlights the water‑intensive nature of AI‑driven data centers, prompting cities like Austin to consider usage caps. The regulatory focus on energy and water consumption may tighten the operating environment for crypto mining farms, especially those co‑located with AI workloads.</p>\n<h2>10. Daily crypto news roundup</h2>\n<p>Cointelegraph’s daily digest covered a spectrum of stories—from DeFi protocol upgrades to regulatory filings—reinforcing the notion that the market remains information‑dense and highly reactive to both technical and policy developments.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to persist as macro‑policy signals from the Fed clash with on‑chain optimism. The quantum‑readiness race adds a layer of strategic uncertainty, but the coordinated upgrades from Bitcoin, Ethereum, and Ripple suggest the ecosystem is proactively mitigating future risks. Supply‑side dynamics, such as Solana’s accelerated disinflation and the cautious movement of dormant Bitcoin holdings, point to a tightening of available tokens, which could support price appreciation if demand holds.</p>\n<p>Regulatory turbulence—particularly around prediction markets and AI‑related infrastructure—may create sector‑specific headwinds, but also opens opportunities for compliant platforms that can navigate the evolving legal landscape. Overall, the market’s long‑term bullish bias remains intact, anchored by institutional adoption signals like Evernorth’s Nasdaq ambitions and continued interest from large‑scale investors.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Long‑dormant Bitcoin wallets moved $40 M to cold storage, indicating cautious re‑allocation rather than sell‑pressure.</li><li>Ripple, Bitcoin, and Ethereum are racing to implement quantum‑resistant cryptography ahead of a potential \"Q‑Day.\"</li><li>Bitcoin’s rally pause is tied to macro‑policy uncertainty; sentiment remains bullish in futures markets.</li><li>Solana’s disinflation boost aims to create scarcity and attract institutional capital.</li><li>U.S. courts are pushing back on federal preemption of state‑level prediction‑market regulation, potentially reshaping the market‑making landscape.</li><li>Evernorth’s Nasdaq pathway signals growing acceptance of crypto‑linked equities.</li><li>AI data‑center automation and water‑use restrictions could indirectly pressure crypto mining operations.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges — <em>CoinDesk</em></li>\n<li>[2] Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives — <em>CoinDesk</em></li>\n<li>[3] Kalshi takes legal blow in court ruling confirming state powers over prediction markets — <em>CoinDesk</em></li>\n<li>[4] Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish — <em>Decrypt</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] Meta Tests Robots to Handle Data Center Work — <em>Decrypt</em></li>\n<li>[7] Solana validators approve proposal to accelerate SOL disinflation — <em>Cointelegraph</em></li>\n<li>[8] Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim — <em>The Block</em></li>\n<li>[9] XRP Treasury Company Gets One Step Closer to Listing on Nasdaq — <em>Decrypt</em></li>\n<li>[10] US Cities Eye AI Data Center Limits as Study Flags Water Risks — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "xrp",
+        "solana",
+        "regulation"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787986162/xeonbit24/posts/crypto-roundup-august-29-2026-at-0149-pm-ict-dormant-bitcoin-wallets-stir-quantu.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787986162/xeonbit24/posts/crypto-roundup-august-29-2026-at-0149-pm-ict-dormant-bitcoin-wallets-stir-quantu.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-29-2026-at-0149-pm-ict-dormant-bitcoin-wallets-stir-quantu",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 29, 2026 at 01:49 PM (ICT): Dormant Bitcoin wallets stir, quantum‑ready XRP, and regulatory ripple"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "sourceTitle": "CoinDesk / Decrypt / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+          "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+          "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+          "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
+          "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Meta Tests Robots to Handle Data Center Work",
+          "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Solana validators approve proposal to accelerate SOL disinflation",
+          "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC’s exclusive jurisdiction claim",
+          "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
+          "source": "The Block"
+        },
+        {
+          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+          "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+          "source": "Decrypt"
+        },
+        {
+          "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
+          "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-08-29T06:49:23.272Z",
+      "slug": "crypto-roundup-august-29-2026-at-0149-pm-ict-dormant-bitcoin-wallets-stir-quantu"
+    },
+    {
       "id": "1787952834368",
       "title": "Crypto Roundup August 28, 2026 at 04:33 AM (ICT): Legal Rulings, Bitcoin Sentiment, and Solana Disinflation Drive Market Narrative",
       "summary": "U.S. courts delivered a mixed verdict on prediction‑market platform Kalshi, while Bitcoin’s short‑term rally stalled but long‑term bullishness persists. Solana’s aggressive disinflation vote and an XRP‑linked Nasdaq filing add further layers to a market navigating regulatory headwinds and infrastructure pressures.",
@@ -19984,8 +20064,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
     "https://www.theblock.co/post/410208/coinbase-shares-slip-after-q2-results-despite-prediction-markets-doubling-and-record-trading-market-share?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
     "https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -20483,10 +20561,11 @@
     "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
     "https://decrypt.co/376838/us-cities-ai-data-center-limits",
     "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376825/solana-sol-disinflation-vote-passes"
+    "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
+    "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+    "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/368451/ai-watchdog-warns-rogue-deployment-risk-top-labs-capabilities-growing-fast|https://www.theblock.co/post/402029/catena-labs-lands-30-million-series-a-files-for-national-trust-bank-charter-to-underpin-agentic-finance?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings",
     "https://www.theblock.co/post/402125/sec-reviewing-prediction-market-etfs?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402114/fed-input-master-account?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/402197/nhl-cftc-team-up-with-memorandum-of-understanding-as-sports-based-prediction-markets-balloon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402198/boerse-stuttgart-adds-societe-generale-sg-forge-and-flatexdegiro-to-pan-european-tokenized-settlement-network?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits",
     "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss",
@@ -20685,6 +20764,7 @@
     "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883|https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876",
     "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you|https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
     "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing|https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains|https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
-    "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets|https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets|https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges|https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives|https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets"
   ]
 }
