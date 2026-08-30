@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788104203721",
+      "title": "Crypto Roundup August 30, 2026 at 10:36 PM (ICT): Bitcoin’s $80k surge fuels market‑maker yields, while security scares ripple across DeFi",
+      "summary": "Bitcoin reclaimed the $80,000 threshold, prompting market‑making firms to harvest yield without directional bets. At the same time, a string of security breaches—from a $1.1 million crypto‑card hack to a 400 million‑token theft on the Fogo chain—highlight growing operational risk in the broader ecosystem.",
+      "content": "<p>August 30, 2026 was a day of contrasts for the crypto world. On the bullish side, Bitcoin surged back above the psychologically important $80,000 level, allowing sophisticated market‑makers to generate steady yields without taking a directional view. On the bearish side, a series of high‑profile security incidents—ranging from a neobank token crash to a massive token theft on a new Layer‑1—reminded investors that operational risk remains a dominant theme. The day also featured notable regulatory moves in Russia, ongoing debates about AI‑driven cyber threats, and a historical look at money‑movement systems that frames today’s frictionless digital finance. Below we break down each story, draw connections, and outline what the market may see in the coming weeks.</p>\n<h2>1. Crypto market makers are cashing in on Bitcoin’s rally – without betting on direction</h2>\n<p>As Bitcoin reclaimed the $80k mark, a cohort of algorithmic trading firms shifted tactics. Rather than placing outright long or short bets, they are providing liquidity on both sides of the order book and earning the spread, a strategy known as “passive market‑making.” This approach lets them capture the higher funding rates that accompany Bitcoin’s volatility while insulating themselves from price reversals. The article notes that these firms are also deploying “dual‑side yield farms” on layer‑2 solutions, effectively turning Bitcoin’s price action into a low‑risk income stream. The trend underscores a maturing market where institutional‑grade participants prioritize risk‑adjusted returns over speculative exposure.</p>\n<h2>2. Russia’s Sber eyes USDT loans, questions digital ruble demand</h2>\n<p>Sberbank, Russia’s largest lender, announced plans to accept USDT, Ether, and Bitcoin as collateral for consumer loans. The move follows a new Russian law that creates a regulated sandbox for crypto‑related services. While the digital ruble—Russia’s sovereign stablecoin—has struggled to gain traction, Sber’s willingness to back loans with established public‑chain assets signals confidence in their liquidity and price stability. Analysts see this as a pragmatic step: USDT offers a familiar, dollar‑pegged hedge, while Ether and Bitcoin provide diversification. The policy could spur broader adoption of crypto‑backed credit in a market that traditionally relies on collateralized real‑estate loans.</p>\n<h2>3. A $1.1 million crypto card hack crashed a neobank’s token 49%</h2>\n<p>A neobank that issued the AVICI utility token suffered a $1.1 million theft via its crypto‑card platform. The breach caused the token’s price to tumble 49 % in a single day, erasing a market cap of roughly $2 million before a partial recovery. The incident highlights two vulnerabilities: (1) the integration of fiat‑to‑crypto card infrastructure that can be exploited by phishing or man‑in‑the‑middle attacks, and (2) the thin liquidity of many “neobank tokens,” which magnifies price impact when large sums are moved. Post‑mortem analysis suggests the attacker leveraged compromised API keys, a reminder that robust key‑management practices are essential for any token‑issuance platform.</p>\n<h2>4. Layer‑1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens (≈10 % of circulating supply)</h2>\n<p>Fogo, a relatively new Layer‑1 focused on high‑throughput DeFi applications, announced an emergency halt after an attacker siphoned 400 million FOGO tokens—about 10 % of the circulating supply—worth roughly $3 million at the time. The theft was traced to a smart‑contract vulnerability that allowed unchecked minting. Fogo’s developers chose to pause the network to prevent further dilution and to audit the codebase. The incident underscores the heightened risk for emerging chains that launch with limited audit resources. Investors are advised to watch for the forthcoming token‑supply audit and any potential token‑burn or redistribution plan that could restore confidence.</p>\n<h2>5. Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six‑chain hack</h2>\n<p>Cosmos Labs, the team behind the Inter‑Blockchain Communication (IBC) protocol, admitted that a patch released 20 hours before a multi‑chain attack was mis‑applied, leaving a critical flaw open. The hack affected MANTRA Chain, which lost $3.6 million, and two other IBC‑connected chains, totaling $5.7 million. The mistake stemmed from an automated deployment script that rolled back the patch on certain nodes. Cosmos Labs is now rolling out a manual, multi‑signature upgrade process to prevent similar human‑error rollbacks. The episode illustrates the complexity of coordinating security fixes across heterogeneous, permissionless networks.</p>\n<h2>6. Polygon discloses security flaws fixed in recent hard forks</h2>\n<p>Polygon (formerly Matic) revealed that recent hard‑fork upgrades addressed two high‑severity vulnerabilities: a denial‑of‑service (DoS) vector that could have stalled block production, and a validator‑resource exhaustion bug that could have allowed malicious validators to monopolize staking rewards. The fixes were deployed before public disclosure, limiting exposure. Polygon’s transparent post‑mortem reinforces its reputation as a “secure‑by‑design” scaling solution for Ethereum, though the episode reminds developers that even well‑audited chains must remain vigilant.</p>\n<h2>7. After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses</h2>\n<p>More than 100 organizations spanning AI, security, finance, and technology signed an open letter urging governments to enact stricter safeguards against AI‑driven cyber attacks. The letter cites recent incidents where generative‑AI models were weaponized to craft phishing emails, automate vulnerability discovery, and even generate malicious code snippets. While not crypto‑specific, the call has implications for the industry: DeFi protocols increasingly rely on AI for price‑oracles and risk models, making them attractive targets for AI‑enhanced exploits. Regulators may soon require AI‑risk assessments as part of security audits for crypto projects.</p>\n<h2>8. From Hawala to Swift: Inside the 1,000‑year battle to move money safely</h2>\n<p>This long‑form piece traces the evolution of informal value transfer systems—from the ancient hawala networks to modern SWIFT messaging—and draws parallels to today’s blockchain‑based remittances. The author argues that each technological leap reduces friction but simultaneously creates new attack surfaces, a theme echoed in today’s crypto hacks. The article also notes that central banks are experimenting with “central bank digital currencies” (CBDCs) to regain control over cross‑border flows, potentially reshaping the competitive landscape between legacy systems and decentralized finance.</p>\n<h2>9. Real Trump Coins denies launching GOLD token, blames ‘bad actors’</h2>\n<p>Real Trump Coins, a political‑themed meme token, publicly denied any involvement in the launch of a “GOLD” token that surfaced on multiple blockchain explorers. The company blamed “bad actors” for creating a counterfeit token using its branding. While the episode generated social‑media buzz, the market impact was minimal, with the GOLD token never achieving significant liquidity. The incident serves as a cautionary tale about brand‑squatting in the crypto space and the importance of clear trademark enforcement.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup compiled the day’s headlines, reiterating the major themes: Bitcoin’s price rally, heightened security incidents, and regulatory developments in Russia and the EU. The digest also highlighted a modest uptick in DeFi TVL (total value locked) as investors re‑entered yield farms after the market‑maker yield‑harvesting trend took hold. For readers seeking a quick pulse, the article confirms that market sentiment is cautiously optimistic, tempered by the ongoing security narrative.</p>\n<h2>Market Outlook</h2>\n<p>In the short term (next 4‑6 weeks), Bitcoin’s momentum above $80k is likely to attract more institutional liquidity, especially from market‑making desks that can monetize the spread. However, the recent spate of security breaches could dampen risk appetite, prompting a shift toward “blue‑chip” assets like Ethereum and well‑audited layer‑2 solutions (Polygon, Optimism). Regulatory signals from Russia suggest a growing acceptance of crypto‑backed credit, which could spill over into other emerging markets seeking alternative financing. Meanwhile, the AI‑security debate may precipitate new compliance frameworks that require crypto projects to disclose AI‑related risk controls.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s $80k rally is fueling a yield‑focused market‑making strategy rather than pure speculation.</li><li>Security remains the dominant risk factor: token‑based neobanks, new Layer‑1 chains, and cross‑chain protocols are all vulnerable to smart‑contract bugs and operational errors.</li><li>Regulatory environments are evolving—Russia’s Sberbank is pioneering crypto‑collateralized loans, while AI‑related cyber‑risk is drawing policy attention.</li><li>Established chains (Polygon, Cosmos) are improving post‑mortem transparency, which may restore confidence among risk‑averse investors.</li><li>Brand‑squatting and meme‑token scams continue to clutter the ecosystem, underscoring the need for better trademark enforcement.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] From Hawala to Swift: Inside the 1,000-year battle to move money safely — <em>CoinDesk</em></li>\n<li>[2] After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses — <em>Decrypt</em></li>\n<li>[3] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[4] Crypto market makers are cashing in on bitcoin's rally - without betting on direction — <em>CoinDesk</em></li>\n<li>[5] Russia’s Sber eyes USDT loans, questions digital ruble demand — <em>Cointelegraph</em></li>\n<li>[6] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ — <em>Cointelegraph</em></li>\n<li>[7] A $1.1 million crypto card hack crashed a neobank's token 49% — <em>CoinDesk</em></li>\n<li>[8] Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply — <em>The Block</em></li>\n<li>[9] Polygon discloses security flaws fixed in recent hard forks — <em>Cointelegraph</em></li>\n<li>[10] Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "crypto",
+        "market",
+        "regulation"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788104203/xeonbit24/posts/crypto-roundup-august-30-2026-at-1036-pm-ict-bitcoins-80k-surge-fuels-marketmake.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788104203/xeonbit24/posts/crypto-roundup-august-30-2026-at-1036-pm-ict-bitcoins-80k-surge-fuels-marketmake.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-30-2026-at-1036-pm-ict-bitcoins-80k-surge-fuels-marketmake",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 30, 2026 at 10:36 PM (ICT): Bitcoin’s $80k surge fuels market‑maker yields, while security scares "
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "sourceTitle": "CoinDesk / Decrypt / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+          "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+          "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+          "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+          "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+          "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+          "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+          "source": "The Block"
+        },
+        {
+          "title": "Polygon discloses security flaws fixed in recent hard forks",
+          "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-30T15:36:43.721Z",
+      "slug": "crypto-roundup-august-30-2026-at-1036-pm-ict-bitcoins-80k-surge-fuels-marketmake"
+    },
+    {
       "id": "1788066173331",
       "title": "Crypto Roundup August 30, 2026 at 12:02 PM (ICT): Security breaches shake tokens while tokenized assets surge",
       "summary": "Major security incidents hit Fogo, a neobank’s AVICI token, and Cosmos Labs, underscoring persistent on‑chain risks. At the same time, tokenized real‑world assets and equities see explosive growth, hinting at a maturing market beyond speculative trading.",
@@ -20226,11 +20307,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-    "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-    "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
     "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
@@ -20725,10 +20801,14 @@
     "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
-    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+    "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+    "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+    "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips|https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
     "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks|https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -20927,6 +21007,7 @@
     "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets|https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges|https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives|https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
     "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely|https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
