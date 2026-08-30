@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788066173331",
+      "title": "Crypto Roundup August 30, 2026 at 12:02 PM (ICT): Security breaches shake tokens while tokenized assets surge",
+      "summary": "Major security incidents hit Fogo, a neobank’s AVICI token, and Cosmos Labs, underscoring persistent on‑chain risks. At the same time, tokenized real‑world assets and equities see explosive growth, hinting at a maturing market beyond speculative trading.",
+      "content": "<p>The crypto landscape on August 30, 2026 is a study in contrasts. While a series of high‑profile security breaches rattled confidence in newer layer‑1 projects and niche token ecosystems, institutional‑grade tokenized assets and on‑chain equity trading are accelerating at unprecedented rates. This roundup dissects each headline, draws connections across the stories, and projects how these dynamics may shape the market in the weeks ahead.</p>\n<h2>1. Fogo Mainnet Halt After 400 Million Tokens Stolen</h2>\n<p>Fogo, a layer‑1 blockchain that positioned itself as a low‑fee alternative for DeFi apps, announced an emergency halt of its mainnet after an attacker acquired roughly 400 million FOGO tokens—about 10% of the circulating supply. Although the stolen tokens were valued at roughly $3 million at the time, the incident represents a 4% loss of the genesis supply, raising concerns about the robustness of Fogo’s token‑distribution and governance mechanisms. The halt underscores the fragility of newer chains that may lack mature validator incentives and comprehensive audit processes.</p>\n<h2>2. $1.1 Million Crypto Card Hack Crashes Neobank’s AVICI Token 49%</h2>\n<p>A neobank that issued the AVICI token suffered a $1.1 million hack involving a compromised crypto debit card. The exploit triggered a 49% plunge from the token’s 24‑hour high, briefly pushing it to a record low before a modest recovery. The event highlights the growing intersection of traditional finance‑adjacent services and crypto, where legacy security practices may not yet be sufficient for digital asset custody.</p>\n<h2>3. Cosmos Labs Mis‑labels Bug Fix After $5.7 Million Six‑Chain Hack</h2>\n<p>Cosmos Labs, the team behind the MANTRA Chain, admitted it incorrectly cleared a bug that preceded a $5.7 million multi‑chain attack. The patch was released only 20 hours before the breach, and the flaw that was supposedly fixed was not the one exploited. This miscommunication erodes trust in post‑mortem transparency and suggests that rapid patch cycles without thorough verification can backfire.</p>\n<h2>4. Polygon Discloses Security Flaws Fixed in Recent Hard Forks</h2>\n<p>Polygon revealed that recent hard forks addressed denial‑of‑service (DoS) and validator‑resource vulnerabilities. The company chose to patch the issues before publicly disclosing them, a practice that mitigates immediate exploitation risk but raises questions about disclosure timing. The proactive fix is a positive sign for a network that processes billions of transactions daily, yet it reminds developers that even mature rollups can harbor critical bugs.</p>\n<h2>5. Stellar’s Tokenized Real‑World Asset Market Nears $4 B</h2>\n<p>Stellar’s tokenized RWA ecosystem has more than quadrupled its value to nearly $4 billion, driven by institutional adoption and a surge in tokenization projects across the network. The growth reflects a broader shift toward using blockchain for real‑world asset representation—ranging from real‑estate to trade finance—where transparency and settlement speed are paramount. Stellar’s low‑cost anchor and built‑in compliance tools appear to be paying off.</p>\n<h2>6. Tokenized Stock Transfer Volume Jumps 415% to $29.5 B in 30 Days</h2>\n<p>On‑chain activity for tokenized equities exploded, with transfer volume rising 415% to $29.5 billion over the past month. Active addresses and holder counts more than doubled, indicating that retail and institutional investors are increasingly comfortable holding regulated securities as blockchain tokens. This surge could pressure traditional brokerage models and accelerate regulatory clarity around security tokens.</p>\n<h2>7. Bitcoin’s Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen</h2>\n<p>Research from Galaxy shows that wallets dormant for over a decade moved $40 million in a single 10‑day window, a level of activity unseen in previous years. The “awakening” of these ancient coins may be driven by tax‑season considerations, portfolio rebalancing, or new custodial services offering better security. While the total value is modest relative to Bitcoin’s market cap, the phenomenon signals that long‑term holders are becoming more active, potentially adding short‑term volatility.</p>\n<h2>8. Inside the High‑Stakes Battle Between Digital Dollars and SWIFT’s Massive Money Engine</h2>\n<p>Crypto executives argue that emerging blockchain payment infrastructures could render SWIFT obsolete, while traditional bankers point to SWIFT’s 11,500‑institution network and $1.5 quadrillion annual flow as a moat. The debate centers on speed, cost, and cross‑border compliance. If blockchain solutions achieve regulatory interoperability, they could capture a meaningful slice of the $10 trillion daily global payments market.</p>\n<h2>9. Ditching “Digital Gold”: BPI Study Finds Americans Prefer Control and Micro‑Investing</h2>\n<p>A BPI survey reveals that everyday Americans are less attracted to Bitcoin’s “digital gold” narrative and more interested in tools that give them granular control and micro‑investment options. The findings suggest that mainstream adoption may hinge on user‑friendly interfaces, fractional ownership, and clear utility rather than ideological positioning.</p>\n<h2>10. Bernie Sanders Vows Legislation to ‘Stop Flock and AI Mass Surveillance’</h2>\n<p>Senator Bernie Sanders introduced a bill targeting Flock, a company operating over 120,000 AI‑powered surveillance cameras. While not directly a crypto issue, the legislation reflects growing bipartisan concern over data privacy—a theme that resonates with the crypto community’s emphasis on decentralization and user sovereignty.</p>\n<h2>Market Outlook</h2>\n<p>The juxtaposition of security incidents and tokenization growth paints a nuanced picture. Short‑term sentiment may be dampened by the Fogo, AVICI, and Cosmos breaches, prompting investors to scrutinize audit quality and governance. However, the rapid expansion of tokenized RWAs and equities indicates that capital is flowing toward use‑case‑driven applications, which could provide a stabilizing foundation for the market. Bitcoin’s modest “awakening” of dormant coins adds a layer of unpredictable short‑term movement but does not alter the long‑term bullish trajectory driven by institutional interest.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Security remains the top risk: multiple high‑profile hacks this week highlight the need for rigorous code audits and transparent post‑mortems.</li><li>Tokenized assets are gaining traction: Stellar’s RWA surge and the 415% jump in tokenized stock volume suggest a shift from speculative trading to real‑world utility.</li><li>Legacy finance vs. blockchain payments: The SWIFT showdown underscores that incumbents will adapt, but blockchain could capture niche cross‑border corridors first.</li><li>Investor preferences are evolving: Surveys show a move toward micro‑investing and control, pushing projects to prioritize user experience over hype.</li><li>Regulatory focus on privacy: Legislative actions like Sanders’ bill may indirectly benefit crypto by reinforcing the narrative of decentralized, privacy‑preserving finance.</li></ul>\n<p>Overall, the market appears to be at a crossroads where security challenges could either stall growth or catalyze stronger industry standards, while the tokenization wave continues to expand the economic relevance of blockchain technology.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] A $1.1 million crypto card hack crashed a neobank's token 49% — <em>CoinDesk</em></li>\n<li>[2] Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply — <em>The Block</em></li>\n<li>[3] Polygon discloses security flaws fixed in recent hard forks — <em>Cointelegraph</em></li>\n<li>[4] Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack — <em>The Block</em></li>\n<li>[5] Stellar tokenized RWA market more than quadruples to nearly $4B — <em>Cointelegraph</em></li>\n<li>[6] Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance' — <em>Decrypt</em></li>\n<li>[7] Tokenized stock transfer volume jumps 415% in 30 days to $29.5B — <em>Cointelegraph</em></li>\n<li>[8] Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen — <em>Decrypt</em></li>\n<li>[9] Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing — <em>CoinDesk</em></li>\n<li>[10] Inside the high-stakes battle between digital dollars and Swift's massive money engine — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "tokenization",
+        "security"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788066172/xeonbit24/posts/crypto-roundup-august-30-2026-at-1202-pm-ict-security-breaches-shake-tokens-whil.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788066172/xeonbit24/posts/crypto-roundup-august-30-2026-at-1202-pm-ict-security-breaches-shake-tokens-whil.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-august-30-2026-at-1202-pm-ict-security-breaches-shake-tokens-whil",
+        "width": 1617,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup August 30, 2026 at 12:02 PM (ICT): Security breaches shake tokens while tokenized assets surge"
+      },
+      "sourceUrl": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+          "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+          "source": "The Block"
+        },
+        {
+          "title": "Polygon discloses security flaws fixed in recent hard forks",
+          "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+          "source": "The Block"
+        },
+        {
+          "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+          "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+          "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+          "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+          "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+          "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+          "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-30T05:02:53.331Z",
+      "slug": "crypto-roundup-august-30-2026-at-1202-pm-ict-security-breaches-shake-tokens-whil"
+    },
+    {
       "id": "1788018643632",
       "title": "Crypto Roundup August 29, 2026 at 10:50 PM (ICT): Bitcoin’s dormant coins stir, Swift tests blockchain, and stablecoins lose credibility",
       "summary": "Ancient Bitcoin wallets moved $40 million in ten days, while Swift’s $1.5 quadrillion network faces a blockchain challenge. At the same time, regulators and institutions reshape derivatives, tokenized assets, and stablecoin credibility, signaling a shift toward new payment primitives.",
@@ -20145,13 +20226,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-    "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
-    "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-    "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-    "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
     "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
     "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&amp;utm_medium=rss",
@@ -20644,10 +20718,16 @@
     "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
     "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
     "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+    "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+    "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+    "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/402197/nhl-cftc-team-up-with-memorandum-of-understanding-as-sports-based-prediction-markets-balloon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402198/boerse-stuttgart-adds-societe-generale-sg-forge-and-flatexdegiro-to-pan-european-tokenized-settlement-network?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits",
     "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips|https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
     "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -20846,6 +20926,7 @@
     "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing|https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains|https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
     "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets|https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges|https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives|https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-    "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
+    "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
