@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788362863451",
+      "title": "Crypto Roundup September 2, 2026 at 10:27 PM (ICT): Venture‑capital discipline, token‑ization breakthroughs and security setbacks shape the market",
+      "summary": "Crypto venture capital is tightening its focus, token‑ization gains institutional traction, and a major malware takedown highlights ongoing security risks. These forces together steer market sentiment toward cautious optimism.",
+      "content": "<p>The crypto ecosystem continues to evolve at a breakneck pace, with regulatory moves, institutional partnerships, and security incidents all influencing price dynamics and investor sentiment. This roundup dissects the ten most significant stories of the day, draws connections between them, and offers a forward‑looking market outlook.</p><h2>1. CrowdStrike and Federal Authorities Dismantle Russian Malware That Stole Crypto for 8 Years</h2><p>A joint effort by CrowdStrike and U.S. law‑enforcement has taken down a sophisticated Russian‑origin malware campaign that silently replaced victim Bitcoin and Ethereum addresses with those controlled by the attackers. Over 15,000 infected machines were isolated, potentially preventing further theft of millions of dollars in crypto assets. The operation underscores the persistent threat of supply‑chain and endpoint attacks in the crypto space, reminding investors that robust security hygiene remains a non‑negotiable pillar for both custodians and individual holders.</p><h2>2. Hashkey Joins DTCC Working Group as First Asian Crypto Service Provider</h2><p>Hashkey Capital’s entry into the Depository Trust & Clearing Corporation’s token‑ization working group marks a watershed moment for Asian participation in mainstream financial infrastructure. By collaborating with over 100 legacy institutions—including Goldman Sachs and JPMorgan—Hashkey will help shape standards for tokenized securities, settlement, and custody. This partnership signals growing acceptance of crypto‑derived assets among traditional finance and could accelerate cross‑border token flows, especially in the rapidly expanding Asian market.</p><h2>3. Wyoming Expands Chainlink Partnership with On‑Chain Reserve Verification for FRNT</h2><p>Wyoming’s Stable Token Commission has deepened its collaboration with Chainlink, moving the FRNT stablecoin onto Chainlink’s Cross‑Chain Interoperability Protocol (CCIP) after a thorough security review. The upgrade adds on‑chain reserve verification, boosting transparency and confidence for users and regulators alike. Wyoming’s proactive stance on stablecoin oversight, combined with Chainlink’s oracle reliability, may set a template for other U.S. states seeking to balance innovation with consumer protection.</p><h2>4. Arthur Hayes Predicts Bitcoin $1 M by 2030, Shifts Focus to Ethereum</h2><p>Former BitMEX CEO Arthur Hayes doubled down on his long‑term Bitcoin bull case—projecting a $1 million price target by 2030—but revealed he is now allocating more capital to Ethereum, citing its potential for 3‑5× upside. Hayes points to Ethereum’s upcoming scalability upgrades, expanding DeFi ecosystem, and growing institutional adoption as catalysts. While his Bitcoin forecast fuels optimism, his pivot to ETH highlights a broader market narrative: investors are seeking higher‑growth assets within the broader crypto umbrella.</p><h2>5. Full Sail (Sui) DeFi Protocol Winds Down After Switchboard Oracle Attack</h2><p>Full Sail, a DeFi platform on the Sui blockchain, announced its shutdown after an attacker exploited the Switchboard oracle, siphoning roughly $91,000 from three vaults. The incident illustrates the systemic risk posed by oracle failures, especially on newer Layer‑1 networks where security audits may be less mature. Users are reminded to diversify across platforms and to scrutinize the security track record of oracle providers before committing capital.</p><h2>6. Crypto VCs Mistaking Consensus for Discipline – Varun Datta (Truth Ventures)</h2><p>In the latest “Crypto Long & Short” column, venture capitalist Varun Datta argues that the current retreat to later‑stage deals is less about disciplined risk management and more about following a market consensus that undervalues early‑stage innovation. Datta warns that this herd behavior could starve nascent projects of essential funding, potentially slowing the pace of breakthrough technologies like layer‑2 scaling and zero‑knowledge proofs. The piece serves as a cautionary note for limited partners evaluating exposure to crypto venture funds.</p><h2>7. The Token Supercycle: Everything of Value Is Becoming Programmable</h2><p>Lily Liu of the Solana Foundation frames the ongoing token supercycle as a paradigm shift where any asset—real estate, intellectual property, or carbon credits—can be tokenized and programmed for automated transfer, governance, and revenue sharing. This perspective aligns with the growing interest from traditional finance in programmable money and could drive a wave of regulatory clarity as governments grapple with the definition of “value” in a tokenized world.</p><h2>8. Norway Moves to Regulate ‘Pervert Glasses,’ Weighs Facial Recognition Ban</h2><p>Norway’s consumer watchdog is urging retailers to halt sales of “pervert glasses,” wearable devices that use facial recognition to identify and shame individuals deemed indecent. While not a crypto‑specific story, the regulatory focus on privacy‑enhancing technologies may have spillover effects for blockchain‑based identity solutions, prompting developers to prioritize privacy‑by‑design architectures.</p><h2>9. AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61 %</h2><p>Tech magnates Marc Andreessen, Ben Horowitz, and OpenAI’s Greg Brockman have financed a political super PAC to counter rising opposition to new data centers, which are critical for AI model training. The campaign’s success could indirectly benefit crypto mining operations that rely on similar high‑performance compute infrastructure, highlighting the intertwined futures of AI and proof‑of‑work ecosystems.</p><h2>10. Here’s What Happened in Crypto Today – Daily News Digest</h2><p>Cointelegraph’s daily roundup aggregates the day’s headlines, covering price movements, regulatory updates, and notable project developments. While largely a summary, the digest reinforces the narrative that market participants are increasingly seeking concise, reliable sources amid a flood of information.</p><h2>Market Outlook</h2><p>Collectively, these stories paint a picture of a market at a crossroads. Institutional validation—evidenced by Hashkey’s DTCC involvement and Wyoming’s Chainlink partnership—suggests a gradual mainstreaming of tokenized assets. At the same time, security incidents and regulatory scrutiny remind participants that the ecosystem’s foundations remain fragile. Venture‑capital caution may compress funding for early innovators, but the broader token‑supercycle narrative indicates long‑term demand for programmable value. Expect Bitcoin to trade in the $30‑$40 k range in the near term, while Ethereum could see heightened volatility as investors rebalance toward higher‑growth layer‑2 and DeFi projects.</p><h2>Key Takeaways</h2><ul><li>Security remains paramount: the malware takedown and Full Sail oracle breach highlight persistent vulnerabilities.</li><li>Institutional bridges are strengthening: Hashkey’s DTCC role and Wyoming’s Chainlink integration signal growing regulatory comfort.</li><li>Capital is shifting: VCs are favoring later‑stage deals, while seasoned traders like Arthur Hayes are reallocating toward Ethereum.</li><li>Tokenization is entering a supercycle, expanding the definition of value and prompting new regulatory conversations.</li><li>Cross‑industry dynamics—AI data‑center politics and privacy‑focused regulations—will indirectly influence crypto infrastructure and adoption.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban — <em>Decrypt</em></li>\n<li>[2] Crypto Long & Short: Crypto VCs are mistaking consensus for discipline — <em>CoinDesk</em></li>\n<li>[3] AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61% — <em>Decrypt</em></li>\n<li>[4] Sui DeFi protocol Full Sail to wind down after Switchboard incident — <em>Cointelegraph</em></li>\n<li>[5] BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead — <em>Cointelegraph</em></li>\n<li>[6] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[7] CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years — <em>CoinDesk</em></li>\n<li>[8] Hashkey joins DTCC working group as first Asian crypto service provider — <em>Cointelegraph</em></li>\n<li>[9] Wyoming expands Chainlink partnership with onchain reserve verification for FRNT — <em>The Block</em></li>\n<li>[10] The token supercycle: everything of value is becoming programmable — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "tokenization",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788362862/xeonbit24/posts/crypto-roundup-september-2-2026-at-1027-pm-ict-venturecapital-discipline-tokeniz.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788362862/xeonbit24/posts/crypto-roundup-september-2-2026-at-1027-pm-ict-venturecapital-discipline-tokeniz.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-2-2026-at-1027-pm-ict-venturecapital-discipline-tokeniz",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 2, 2026 at 10:27 PM (ICT): Venture‑capital discipline, token‑ization breakthroughs and security"
+      },
+      "sourceUrl": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
+          "url": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+          "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+          "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
+          "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+          "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
+          "url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
+          "source": "The Block"
+        },
+        {
+          "title": "The token supercycle: everything of value is becoming programmable",
+          "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-09-02T15:27:43.451Z",
+      "slug": "crypto-roundup-september-2-2026-at-1027-pm-ict-venturecapital-discipline-tokeniz"
+    },
+    {
       "id": "1788322069784",
       "title": "Crypto Roundup September 2, 2026 at 11:07 AM (ICT): Funding surges, regulatory tweaks, and a looming Bitcoin September curse",
       "summary": "Hyperliquid’s $2.5 bn equity boost and the SEC’s new transfer‑agent proposal dominate the day, while Binance’s TradFi expansion and Robinhood’s L2 surge signal growing institutional crossover. A mix of tech investments, political spending, and security scares round out a volatile week for crypto markets.",
@@ -20712,15 +20793,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-    "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
-    "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
-    "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-    "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
     "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -21211,10 +21283,18 @@
     "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
     "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/377099/dropbox-security-breach"
+    "https://decrypt.co/377099/dropbox-security-breach",
+    "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+    "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
+    "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+    "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+    "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
+    "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/402487/we-dont-know-who-deployed-this-squid-distances-itself-from-3-2-million-third-party-module-exploit?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/features/paper-losses-and-scrapped-etfs-what-trump-medias-2650-btc-transfer-really-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/26/bitcoin-stalls-near-usd76-500-as-muted-trading-points-to-macro-wait-and-see|https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoins-cup-and-handle-pattern-targets-minimum-220k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/369000/crypto-industry-fights-warren-claim-coinbase-ripple-bank-charters-illegal|https://cointelegraph.com/news/eth-treasury-firms-staking-revenue-etfs-dat-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -21413,6 +21493,7 @@
     "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129|https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128|https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
     "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets|https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report|https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
     "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture|https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring|https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
-    "https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304|https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading|https://decrypt.co/377135/openclaw-2-0-is-here-whats-new"
+    "https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304|https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading|https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+    "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban|https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline|https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61"
   ]
 }
