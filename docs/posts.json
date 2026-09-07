@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788754392679",
+      "title": "Crypto Roundup September 7, 2026 at 11:13 AM (ICT): Major Liquid Network breach, ETF inflows, and market shifts",
+      "summary": "A multi‑day security breach on the Liquid Network froze billions of dollars of Bitcoin, while spot Bitcoin ETFs recorded their strongest weekly inflows of the year. Parallel developments – from Harmony’s sunset to a Supreme Court showdown over prediction markets – signal both risk and renewed institutional appetite across the crypto ecosystem.",
+      "content": "<p>September 7, 2026 marks a turbulent yet telling day for the crypto industry. A high‑profile exploit on the Liquid Network – a settlement layer used by several major exchanges – has frozen $320 million worth of Bitcoin and sparked a flurry of “white‑hat” activity. At the same time, institutional demand for spot Bitcoin ETFs surged, pulling in nearly $1 billion in a single week, the strongest flow since September 2025. Across the broader landscape, Harmony announced a full sunset of its Layer‑1 chain, a Solana‑based launchpad called STONK exploded in market cap, and a legal battle over prediction markets edged toward the U.S. Supreme Court. Together, these events illustrate a market that is simultaneously grappling with security challenges, regulatory scrutiny, and renewed capital inflows.</p>\n<h2>1. Bitcoin network used by exchanges hit by $320 million exploit (CoinDesk)</h2>\n<p>The Liquid Network, a Bitcoin sidechain operated by Blockstream and widely adopted by exchanges for faster settlement, halted all transactions after an exploit siphoned off roughly 4,000 BTC (≈ $320 million). The breach appears to have been executed by actors claiming to be “good guys,” positioning themselves as white‑hat hackers who intend to return the funds. Blockstream has engaged law‑enforcement and is working with affected exchanges to secure the remaining assets. The incident underscores the persistent risk of centralized settlement layers, even as they promise lower latency and lower fees compared to on‑chain Bitcoin transfers.</p>\n<h2>2. ‘White hats’ take 4,000 BTC from Liquid, ETFs see best inflows of 2026 (Cointelegraph)</h2>\n<p>Cointelegraph’s coverage highlights the paradox of the Liquid breach: while 4,000 BTC were moved by alleged white‑hat actors, spot Bitcoin ETFs experienced their best three‑week inflow period of the year, totaling $987 million. The juxtaposition suggests that institutional investors remain confident in regulated products despite underlying infrastructure vulnerabilities. Analysts note that ETF inflows are often driven by macro‑economic hedging needs and the upcoming Bitcoin halving, which could outweigh short‑term security concerns.</p>\n<h2>3. Liquid Network pauses after purported ‘white‑hat’ hackers withdraw $320 million in Bitcoin (The Block)</h2>\n<p>The Block reports that exchanges have suspended LBTC (Liquid Bitcoin) deposits and withdrawals as Blockstream attempts to trace the stolen funds. The pause has ripple effects on liquidity for several major crypto brokers that rely on the sidechain for fast settlement. Market makers are now shifting to alternative bridges such as the Lightning Network, which may see a temporary boost in usage. The incident also reignites debate over the trade‑off between speed and decentralization.</p>\n<h2>4. Spot Bitcoin ETFs pull in $987 million last week as institutional demand recovers (The Block)</h2>\n<p>Spot Bitcoin ETFs recorded $3.52 billion in net inflows for August, with $987 million arriving in the most recent week alone. The surge reflects renewed confidence from hedge funds, family offices, and pension funds, many of which cite the upcoming halving and a more predictable regulatory environment in the United States. The inflows also helped push the price of Bitcoin above $38,000, reinforcing the correlation between ETF demand and spot market strength.</p>\n<h2>5. Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative (The Block)</h2>\n<p>Harmony announced it will sunset its native chain by the end of 2026, encouraging validators to migrate their HMY tokens to Ethereum. The move is tied to a new “remix economy” that will fund AI‑generated video content on the Ethereum blockchain. By consolidating onto Ethereum, Harmony hopes to leverage the network’s robust security and growing AI‑centric developer ecosystem. The migration could see up to 150 million HMY tokens bridged, potentially adding modest pressure on ETH gas fees but also expanding Ethereum’s token diversity.</p>\n<h2>6. STONK surges 250 % to $140 million market cap as stock‑paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter (The Block)</h2>\n<p>STONK, a Solana‑based launchpad that pairs traditional equities with crypto tokens, rocketed 250 % in a single day, reaching a $140 million market cap. Integration with Raydium’s LaunchLab and Jupiter’s DEX aggregator drove a surge in trading volume, while Raydium’s native token RAY gained over 40 %. The rapid growth illustrates continued appetite for hybrid finance products that blend familiar stock concepts with DeFi liquidity on high‑throughput chains like Solana.</p>\n<h2>7. Prediction markets inch closer to the Supreme Court: State of Crypto (CoinDesk)</h2>\n<p>New Jersey filed a petition for a writ of certiorari in the Kalshi case, bringing the legal battle over whether regulated prediction markets constitute gambling or a financial product to the U.S. Supreme Court. A favorable ruling could unlock a $30 billion market for crypto‑based prediction platforms, while a negative outcome may force tighter licensing requirements. The case is being closely watched by both traditional bookmakers and crypto projects seeking to launch decentralized prediction markets.</p>\n<h2>8. Coinbase‑backed Router Protocol to shut down, burn 303 million ROUTE tokens (The Block)</h2>\n<p>Router Protocol, a cross‑chain liquidity aggregator backed by Coinbase, announced its shutdown after failing to commercialize its technology. The project will burn 303 million ROUTE tokens, reducing total supply by roughly 70 %. While the shutdown is a setback for cross‑chain routing ambitions, the token burn may provide a modest price floor for remaining holders and signals a broader trend of consolidation among DeFi infrastructure projects.</p>\n<h2>9. OpenAI's GPT‑6 Astra Is Shockingly Good at Almost Everything (Decrypt)</h2>\n<p>OpenAI unveiled GPT‑6 “Astra,” a multimodal model that excels in 3D navigation, gaming, music composition, and academic research. Early testers highlighted its ability to generate realistic 3D cityscapes and write Bach‑style chorales, raising expectations for AI‑driven content creation on blockchain platforms. Crypto developers are already exploring Astra‑powered smart contracts for dynamic NFT generation and AI‑enhanced DeFi strategies.</p>\n<h2>10. XRP Gets Another Boost Through Ripple Deal With Florida Athletics (Decrypt)</h2>\n<p>Ripple secured a multi‑year partnership with the University of Florida, placing the XRP logo on the field at Ben Hill Griffin Stadium. The deal expands Ripple’s visibility in collegiate sports and aims to drive adoption of XRP for ticketing, merchandise, and fan‑engagement token programs. While the partnership is largely promotional, it adds to a series of high‑profile branding moves that could improve XRP’s perception among mainstream audiences.</p>\n<h2>Market Outlook</h2>\n<p>Overall, the market is navigating a dichotomy of risk and opportunity. The Liquid Network breach highlights the fragility of centralized settlement solutions, prompting a short‑term shift toward more decentralized bridges. Simultaneously, the record inflows into spot Bitcoin ETFs demonstrate that institutional capital is still flowing into regulated crypto products, especially ahead of the 2026 Bitcoin halving. Governance‑related developments—Harmony’s migration to Ethereum and the Supreme Court case on prediction markets—suggest that regulatory clarity will remain a key catalyst for growth. On the altcoin side, Solana‑based projects like STONK are benefitting from high‑speed infrastructure, while DeFi infrastructure providers such as Router Protocol are consolidating, leaving space for more resilient cross‑chain solutions.</p>\n<h2>Key Takeaways</h2>\n<p>• Security remains paramount: the $320 million Liquid exploit underscores the need for robust audit and decentralization of settlement layers.<br/>• Institutional confidence is rising: Spot Bitcoin ETFs attracted nearly $1 billion in a week, reinforcing Bitcoin’s role as a hedge asset.<br/>• Regulatory battles are pivotal: The Kalshi Supreme Court petition could unlock or restrict a massive prediction‑market sector.<br/>• Ecosystem consolidation: Projects that fail to achieve product‑market fit (e.g., Router Protocol) are exiting, while successful integrations (e.g., STONK with Raydium) gain momentum.<br/>• Cross‑chain and AI synergies: GPT‑6’s capabilities may accelerate AI‑driven NFTs and DeFi tools, while Harmony’s migration to Ethereum reflects a trend toward leveraging established security models.<br/>• Branding continues to matter: Ripple’s Florida athletics deal shows that mainstream exposure remains a strategic lever for token adoption.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys' — <em>CoinDesk</em></li>\n<li>[2] Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative — <em>The Block</em></li>\n<li>[3] Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers — <em>The Block</em></li>\n<li>[4] ‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[5] Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin — <em>The Block</em></li>\n<li>[6] STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter — <em>The Block</em></li>\n<li>[7] Prediction markets inch closer to the Supreme Court: State of Crypto — <em>CoinDesk</em></li>\n<li>[8] Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens — <em>The Block</em></li>\n<li>[9] OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything — <em>Decrypt</em></li>\n<li>[10] XRP Gets Another Boost Through Ripple Deal With Florida Athletics — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "market",
+        "regulation",
+        "altcoins"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788754392/xeonbit24/posts/crypto-roundup-september-7-2026-at-1113-am-ict-major-liquid-network-breach-etf-i.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788754392/xeonbit24/posts/crypto-roundup-september-7-2026-at-1113-am-ict-major-liquid-network-breach-etf-i.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-7-2026-at-1113-am-ict-major-liquid-network-breach-etf-i",
+        "width": 1916,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 7, 2026 at 11:13 AM (ICT): Major Liquid Network breach, ETF inflows, and market shifts"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+          "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+          "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+          "source": "The Block"
+        },
+        {
+          "title": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
+          "url": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
+          "source": "The Block"
+        },
+        {
+          "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+          "url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+          "source": "The Block"
+        },
+        {
+          "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
+          "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+          "source": "The Block"
+        },
+        {
+          "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+          "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
+          "url": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+          "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+          "source": "Decrypt"
+        },
+        {
+          "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+          "url": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-09-07T04:13:12.679Z",
+      "slug": "crypto-roundup-september-7-2026-at-1113-am-ict-major-liquid-network-breach-etf-i"
+    },
+    {
       "id": "1788705029927",
       "title": "Crypto Roundup September 6, 2026 at 09:30 PM (ICT): Bitcoin’s 600 BTC Wake‑Up, Mortgage Collateral Reuse, and DeFi Shifts",
       "summary": "A dormant 600 BTC batch resurfaced after 16 years, sparking fresh on‑chain activity, while Better Mortgage and Coinbase introduce bitcoin‑backed loans that lock collateral until mortgage payoff. Meanwhile, DeFi ETFs attract institutional money, stable‑coin pressures hit local currencies, and new on‑chain student‑loan financing shows the sector’s expanding use cases.",
@@ -21441,16 +21522,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-    "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
-    "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-    "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-    "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
     "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
     "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -21940,10 +22011,19 @@
     "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
     "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
-    "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+    "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+    "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
+    "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+    "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+    "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+    "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
+    "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+    "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/403028/sui-blockchain-suffers-more-downtime-following-thursdays-six-hour-outage?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403029/wintermute-extends-trading-infrastructure-into-prediction-markets?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto",
     "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/369525/jp-morgan-ceo-jamie-dimon-takes-aim-coinbase-clarity-act",
     "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report|https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions|https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither?utm_source=rss&amp;utm_medium=rss",
@@ -22142,6 +22222,7 @@
     "https://decrypt.co/377489/tiktok-bytedance-loan-ai|https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes|https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
     "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608|https://decrypt.co/377491/ai-solved-350-year-old-math-problem|https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
     "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616|https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market|https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
-    "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys|https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635|https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639"
   ]
 }
