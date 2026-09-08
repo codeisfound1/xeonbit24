@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788840846518",
+      "title": "Crypto Roundup September 8, 2026 at 11:14 AM (ICT): Liquid Hack Returns, AI Safety Calls, and Global Regulatory Shifts",
+      "summary": "Bitcoin’s Liquid network saw a massive partial restitution of stolen funds, while the Ethereum Foundation highlighted two critical EIPs for its upcoming Hegotá upgrade. Meanwhile, AI safety warnings and new regulatory moves in the UK and Brazil add fresh layers of complexity to the market.",
+      "content": "<p>September 8, 2026 was a busy day for the crypto ecosystem, with headlines ranging from a high‑profile Bitcoin restitution to strategic upgrades on Ethereum, and a wave of regulatory activity across Europe and Latin America. The market reacted with cautious optimism, as the return of stolen Bitcoin eased some risk sentiment, but broader concerns about AI safety and regulatory uncertainty kept volatility in play.</p><h2>1. Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart</h2><p>The Liquid exchange’s federation wallet, compromised earlier this year, saw 85% of the withdrawn Bitcoin—about 600 BTC—returned by the original attackers after a public on‑chain message from Blockstream urged them to cooperate. The restitution of $270 million (USD) reduces the net loss from $320 million to roughly $50 million, a significant relief for Liquid’s users and for the broader Bitcoin ecosystem, which views large‑scale thefts as systemic risk. The incident also underscores the growing influence of “white‑hat” actors who can negotiate with malicious actors, a practice that may become more common as blockchain forensics improve.</p><h2>2. Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade</h2><p>Ethereum’s roadmap for the upcoming Hegotá upgrade has been narrowed to two “must‑ship” Ethereum Improvement Proposals (EIPs): FOCIL (Fee‑On‑Chain Incentive Layer) and Frame Transactions. FOCIL aims to refine fee market dynamics, potentially lowering transaction costs during periods of high demand, while Frame Transactions introduce a new transaction envelope that can carry additional metadata, improving composability for DeFi and Layer‑2 solutions. By focusing on these core upgrades, the Foundation signals a pragmatic approach to delivering tangible user benefits while still reviewing a backlog of community proposals.</p><h2>3. UK financial watchdog weighs lifting prediction markets ban</h2><p>The UK’s Financial Conduct Authority (FCA) is reportedly reconsidering its 2019 ban on binary‑option and prediction‑market products for retail investors. If lifted, regulated platforms could offer crypto‑linked prediction markets, opening a new revenue stream and potentially increasing retail exposure to crypto price speculation. However, consumer‑protection groups warn that the inherent high‑risk nature of binary options could amplify retail losses, especially in a market already prone to rapid price swings.</p><h2>4. Brazilian banks expand crypto offerings as regulation takes hold</h2><p>Major Brazilian financial institutions—including Itaú, Nubank, and Banco do Brasil—have launched expanded token catalogs, now offering more than a dozen crypto assets each to retail clients. The move follows the country’s recent regulatory framework that clarifies custodial responsibilities and AML/KYC requirements for banks dealing with digital assets. Notably, the banks are not holding crypto on their balance sheets, instead acting as custodial intermediaries, a model that reduces exposure while still tapping into growing consumer demand.</p><h2>5. OpenAI chief scientist warns AI labs may need to slow down</h2><p>Jakub Pachocki, OpenAI’s chief scientist, called for mandatory safety standards as large language models become harder to interpret and control. While not directly a crypto story, the warning resonates with the blockchain community, where AI‑driven trading bots and smart‑contract automation are proliferating. The call for governance could spur the development of on‑chain safety modules, audit tools, and perhaps even regulatory oversight for AI‑enhanced crypto applications.</p><h2>6. Metaplanet CEO breaks silence but shareholders say hard questions remain</h2><p>Metaplanet’s CEO, Simon Gerovich, attempted to address investor concerns about the company’s opaque corporate structure and alleged ties to MMXX Ventures. Shareholders remain skeptical, demanding clearer disclosures on tokenomics, governance, and the firm’s role in the broader NFT marketplace. The episode highlights lingering governance challenges in the NFT sector, where many projects still lack transparent leadership and robust investor protections.</p><h2>7. Will the crypto trenches show up for Hunter Biden’s meme coin?</h2><p>A new meme coin dubbed “LAPTOP”—purportedly linked to Hunter Biden’s laptop controversy—has been announced, but early sentiment among traders is muted. The coin’s launch coincides with a broader fatigue toward politically‑charged meme projects, which often suffer from low liquidity and rapid price dumps. Analysts suggest that unless the token offers genuine utility or a strong community, it will likely fade without significant market impact.</p><h2>8. Your LG TV might still be listening to you— even when it looks like it’s off</h2><p>Decrypt’s investigation reveals that LG smart TVs continue to scan home networks and capture microphone audio even when the screen is off, contradicting the company’s public assurances to Texas regulators. While not a crypto‑specific issue, the finding raises privacy concerns for users who store crypto wallets or hardware‑wallet seed phrases on devices connected to the same network, underscoring the need for air‑gapped security practices.</p><h2>9. Here’s what happened in crypto today</h2><p>Cointelegraph’s daily roundup recapped the day’s key movements: Bitcoin hovered around $62,800 after the Liquid restitution news, Ethereum traded near $4,350 ahead of the Hegotá discussion, and DeFi protocols saw modest inflows as investors repositioned ahead of potential regulatory changes in the UK and Brazil. The piece also noted a slight uptick in on‑chain activity for Layer‑2 solutions, suggesting continued interest in scaling options.</p><h2>10. Liquid hackers return $270M Bitcoin after swiping $320M</h2><p>Decrypt’s coverage mirrors the Cointelegraph story, emphasizing the role of Blockstream’s on‑chain communication in persuading the attackers to return most of the stolen funds. The article points out that the remaining 600 BTC still represent a lingering risk, and that Liquid’s upcoming network restart will include hardened bridge nodes and additional multi‑sig safeguards.</p><h2>Market Outlook</h2><p>Overall sentiment remains cautiously optimistic. The partial recovery of Liquid’s stolen Bitcoin reduces immediate systemic risk, while Ethereum’s focused upgrade path promises lower fees and better transaction flexibility—both factors that could attract new institutional capital. However, the looming UK regulatory review and the rapid expansion of crypto services by traditional banks in Brazil introduce new variables that could affect liquidity and compliance costs. Additionally, the AI safety discourse may lead to tighter oversight of AI‑driven trading algorithms, potentially curbing some of the speculative excesses that have driven price spikes in recent months.</p><h2>Key Takeaways</h2><ul><li>Liquid’s restitution of $270 M in Bitcoin eases short‑term risk but highlights the need for stronger bridge security.</li><li>Ethereum’s Hegotá upgrade focuses on fee efficiency (FOCIL) and richer transaction data (Frame Transactions), setting the stage for broader DeFi scalability.</li><li>Regulatory shifts in the UK and Brazil could broaden retail access to crypto products, yet consumer‑protection concerns remain.</li><li>AI safety warnings may translate into future compliance requirements for crypto‑based AI applications.</li><li>Governance transparency continues to be a pain point in the NFT space, as illustrated by Metaplanet’s shareholder unrest.</li><li>Privacy vulnerabilities in consumer electronics underscore the importance of air‑gapped storage for crypto assets.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart — <em>Cointelegraph</em></li>\n<li>[2] Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered — <em>CoinDesk</em></li>\n<li>[3] Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off — <em>Decrypt</em></li>\n<li>[4] OpenAI Chief Scientist Warns AI Labs May Need to Slow Down — <em>Decrypt</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] UK financial watchdog weighs lifting prediction markets ban: Report — <em>Cointelegraph</em></li>\n<li>[7] Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold — <em>Decrypt</em></li>\n<li>[8] Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade — <em>Cointelegraph</em></li>\n<li>[9] Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin? — <em>Decrypt</em></li>\n<li>[10] Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "ai",
+        "nft"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788840845/xeonbit24/posts/crypto-roundup-september-8-2026-at-1114-am-ict-liquid-hack-returns-ai-safety-cal.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788840845/xeonbit24/posts/crypto-roundup-september-8-2026-at-1114-am-ict-liquid-hack-returns-ai-safety-cal.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-8-2026-at-1114-am-ict-liquid-hack-returns-ai-safety-cal",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup September 8, 2026 at 11:14 AM (ICT): Liquid Hack Returns, AI Safety Calls, and Global Regulatory Shifts"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+          "url": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+          "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+          "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+          "source": "Decrypt"
+        },
+        {
+          "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+          "url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
+          "url": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+          "url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
+          "url": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+          "url": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-09-08T04:14:06.519Z",
+      "slug": "crypto-roundup-september-8-2026-at-1114-am-ict-liquid-hack-returns-ai-safety-cal"
+    },
+    {
       "id": "1788799509199",
       "title": "Crypto Roundup September 7, 2026 at 11:45 PM (ICT): Bitcoin steadies near $80k as political memes, gas‑free Ethereum, and regulatory ripples dominate",
       "summary": "Bitcoin hovered around $80,000 amid renewed Fed rate‑hike speculation, while Ethereum pushed a gas‑free upgrade and a high‑profile meme coin launched on Base. Regulatory pressure in Europe and a bold AI‑related move by Harmony added further volatility to the market.",
@@ -21603,15 +21684,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-    "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
-    "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
     "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
     "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
@@ -22102,10 +22174,18 @@
     "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
     "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
     "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-    "https://www.theblock.co/news/markets/2026-09-07-bitcoin-holds-near-80000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms-413692"
+    "https://www.theblock.co/news/markets/2026-09-07-bitcoin-holds-near-80000-despite-renewed-fed-rate-hike-fears-as-cpi-test-looms-413692",
+    "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+    "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+    "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
+    "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
+    "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
+    "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report|https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions|https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness|https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
@@ -22304,6 +22384,7 @@
     "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616|https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market|https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
     "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys|https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635|https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
-    "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump|https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown|https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump|https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown|https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off"
   ]
 }
