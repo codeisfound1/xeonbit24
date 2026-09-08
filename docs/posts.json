@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788881445697",
+      "title": "Crypto Roundup September 8, 2026 at 10:30 PM (ICT): Institutional Moves, Stablecoin Surge, and Bitcoin Treasury Activity",
+      "summary": "Institutional money keeps reshaping the market as Circle snaps up Tazapay, Visa leverages on‑chain data for stablecoin credit, and Strive’s SATA token nears a $1 billion market cap. Meanwhile, Bitcoin‑focused firms double down on buy‑backs and Ethereum’s supply tightens with Bitmine’s growing stake.",
+      "content": "<p>September 8, 2026 was another busy day for crypto, with a blend of corporate deals, treasury maneuvers, and regulatory‑adjacent developments. The biggest headlines revolve around institutional infrastructure – Circle’s $400 million acquisition of Tazapay, Visa’s new on‑chain lending data feed, and Strive’s SATA token closing in on a $1 billion market cap. At the same time, Bitcoin‑focused firms like Strategy and Robinhood are deepening their exposure, while Ethereum’s supply tightens as Bitmine’s holdings climb toward 5 % of the total. Together, these moves signal a market that is maturing, with traditional finance players seeking reliable crypto bridges and large holders leveraging their positions for both yield and influence.</p>\n<h2>1. Circle agrees to buy cross‑border payments firm Tazapay for $400 million</h2>\n<p>Circle’s acquisition of Tazapay gives the stablecoin giant a regulated “last‑mile” payment layer that can move dollars, euros, and other fiat currencies into local bank accounts. This solves a persistent friction point for USDC and other Circle‑issued stablecoins: converting on‑chain value into real‑world cash in emerging markets. By integrating Tazapay’s compliance‑focused APIs, Circle can offer merchants a seamless, KYC‑verified pathway, potentially expanding USDC’s usage in cross‑border commerce and boosting its transaction volume beyond the current $20 billion annualized run rate.</p>\n<h2>2. Visa combines VisaNet data with on‑chain lending to power stablecoin card working capital</h2>\n<p>Visa is opening its massive VisaNet settlement data to blockchain lenders, allowing them to assess credit risk for issuers of stablecoin‑backed cards. The move follows Visa’s own stablecoin settlement volume hitting a $20 billion annualized run rate, a 15‑fold increase YoY. By feeding real‑time transaction data into DeFi lending protocols, Visa hopes to unlock working‑capital lines for crypto card issuers, effectively bridging traditional credit markets with on‑chain finance. This could accelerate the adoption of stablecoin cards for everyday spending and reinforce Visa’s relevance in the evolving payments ecosystem.</p>\n<h2>3. Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform</h2>\n<p>SATA, Strive’s perpetual preferred stock, is approaching a $1 billion market cap, driven by a 13 % annualised dividend and a price that stays close to par. The token’s resilience has attracted institutional capital, especially after Strive added 1,375 BTC to its balance sheet. In contrast, Strategy’s STRC token is lagging, highlighting a shift in investor preference toward assets that combine yield with relative price stability. SATA’s growth underscores the rising appeal of crypto‑linked securities that mimic traditional dividend‑paying stocks.</p>\n<h2>4. Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets</h2>\n<p>Robinhood’s multi‑year agreement gives Crypto.com (OG.com) the role of infrastructure and clearing engine for Robinhood’s fast‑growing prediction‑market product. By taking an equity stake, Robinhood secures a strategic partner while Crypto.com gains a steady revenue stream and deeper integration with a mainstream brokerage. This partnership could accelerate the mainstreaming of crypto‑based prediction markets, offering users exposure to events ranging from sports to macro‑economic outcomes, all settled on‑chain.</p>\n<h2>5. Tom Lee's Bitmine Adds $70 million in Ethereum, Holdings Reach 5.93 million ETH</h2>\n<p>Bitmine, the investment vehicle founded by market‑maker Tom Lee, announced a fresh $70 million purchase of ETH, pushing its treasury to 5.93 million tokens (about $14.8 billion) and representing roughly 4.9 % of Ethereum’s total supply. Most of the newly acquired ETH is being staked to earn consensus rewards, reinforcing the network’s security while generating yield for Bitmine’s shareholders. The concentration of such a large stake in a single entity raises questions about market impact, but also signals strong confidence in Ethereum’s long‑term value proposition.</p>\n<h2>6. Bitmine nears 5 % of Ethereum supply after buying 28,086 ETH</h2>\n<p>In a related move, Bitmine purchased an additional 28,086 ETH, further cementing its position near the 5 % ownership threshold. The purchase was executed in a single block, indicating a well‑coordinated strategy to avoid market disruption. By holding a sizable portion of the supply, Bitmine can influence staking dynamics and potentially sway governance proposals, giving it a quasi‑institutional voice within the Ethereum ecosystem.</p>\n<h2>7. Strategy's Return to Bitcoin Buying Lasted Exactly One Week</h2>\n<p>Strategy, a Bitcoin‑focused treasury firm, spent $176.3 million on its own preferred stock and doubled its buy‑back authorization to $2 billion. The firm’s re‑entry into Bitcoin buying lasted precisely one week, suggesting a tactical, short‑term accumulation rather than a long‑term commitment. This aggressive stance reflects a broader trend of corporate treasuries using Bitcoin as a hedge, but also highlights the volatility of such strategies when market sentiment shifts quickly.</p>\n<h2>8. ZKsync developer Matter Labs open‑sources Prividium permissioning engine; Bundesbank tests platform</h2>\n<p>Matter Labs released the source code for Prividium’s permissioning engine, a zero‑knowledge (ZK) based DLT platform aimed at financial institutions. The Bundesbank is among the first central banks testing the platform, indicating growing regulatory interest in privacy‑preserving, permissioned blockchains. Open‑sourcing the engine could accelerate adoption across banks seeking to settle transactions with cryptographic guarantees while maintaining compliance.</p>\n<h2>9. Strive adds 1,375 bitcoin as SATA approaches ‘billion‑dollar’ milestone</h2>\n<p>Strive’s CEO Matt Cole disclosed that 70 % of the capital raised this week came from sales of its SATA perpetual preferred stock, and the firm added 1,375 BTC to its treasury. This Bitcoin accumulation bolsters Strive’s balance sheet and provides a hedge against potential market downturns, while also enhancing the attractiveness of SATA to yield‑seeking investors.</p>\n<h2>10. US Police Fear Meta Glasses Are Watching Them Back: Report</h2>\n<p>Decrypt reported that NYPD memos to Homeland Security warn that Meta’s smart glasses could be used for covert filming inside jails and police facilities. While not a direct market mover, the story underscores the broader regulatory and privacy challenges that emerging hardware and metaverse technologies pose for the crypto ecosystem, especially as NFTs and tokenized identities become intertwined with physical devices.</p>\n<h2>Market Outlook</h2>\n<p>The dominant narrative today is institutional integration. Circle’s Tazapay deal and Visa’s data‑sharing initiative both aim to reduce friction between fiat and crypto, a prerequisite for mass adoption. At the same time, crypto‑linked securities like SATA are gaining traction as investors seek yield without the volatility of pure price‑speculation assets. Ethereum’s supply concentration in Bitmine’s hands could tighten staking yields, while large Bitcoin treasury moves by Strategy and Strive suggest that corporate treasuries view crypto as a strategic reserve, albeit with short‑term tactical adjustments. Overall, the market appears to be moving toward a hybrid model where traditional finance infrastructure co‑exists with decentralized protocols, driving higher volumes and deeper liquidity.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Institutional bridges (Circle‑Tazapay, Visa‑on‑chain data) are accelerating stablecoin and crypto‑card adoption.</li><li>Yield‑focused crypto securities like SATA are attracting capital away from underperforming tokens such as STRC.</li><li>Bitmine’s near‑5 % Ethereum stake consolidates a significant portion of supply, potentially influencing staking rewards and governance.</li><li>Corporate Bitcoin treasuries remain active, but their buying cycles are becoming more tactical and short‑lived.</li><li>Regulatory scrutiny extends beyond finance, touching on emerging hardware that could intersect with crypto identity solutions.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] US Police Fear Meta Glasses Are Watching Them Back: Report — <em>Decrypt</em></li>\n<li>[2] Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets — <em>Decrypt</em></li>\n<li>[3] Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone — <em>The Block</em></li>\n<li>[4] ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform — <em>The Block</em></li>\n<li>[5] Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH — <em>Decrypt</em></li>\n<li>[6] Circle agrees to buy cross-border payments firm Tazapay for $400 million — <em>CoinDesk</em></li>\n<li>[7] Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform — <em>CoinDesk</em></li>\n<li>[8] Visa combines VisaNet data with onchain lending to power stablecoin card working capital — <em>CoinDesk</em></li>\n<li>[9] Strategy's Return to Bitcoin Buying Lasted Exactly One Week — <em>Decrypt</em></li>\n<li>[10] Bitmine nears 5% of Ethereum supply after buying 28,086 ETH — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "defi",
+        "market",
+        "institutional"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788881444/xeonbit24/posts/crypto-roundup-september-8-2026-at-1030-pm-ict-institutional-moves-stablecoin-su.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788881444/xeonbit24/posts/crypto-roundup-september-8-2026-at-1030-pm-ict-institutional-moves-stablecoin-su.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-8-2026-at-1030-pm-ict-institutional-moves-stablecoin-su",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 8, 2026 at 10:30 PM (ICT): Institutional Moves, Stablecoin Surge, and Bitcoin Treasury Activity"
+      },
+      "sourceUrl": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+      "sourceTitle": "Decrypt / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+          "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
+          "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone",
+          "url": "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
+          "source": "The Block"
+        },
+        {
+          "title": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
+          "source": "The Block"
+        },
+        {
+          "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
+          "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+          "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
+          "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+          "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
+          "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitmine nears 5% of Ethereum supply after buying 28,086 ETH",
+          "url": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-09-08T15:30:45.697Z",
+      "slug": "crypto-roundup-september-8-2026-at-1030-pm-ict-institutional-moves-stablecoin-su"
+    },
+    {
       "id": "1788840846518",
       "title": "Crypto Roundup September 8, 2026 at 11:14 AM (ICT): Liquid Hack Returns, AI Safety Calls, and Global Regulatory Shifts",
       "summary": "Bitcoin’s Liquid network saw a massive partial restitution of stolen funds, while the Ethereum Foundation highlighted two critical EIPs for its upcoming Hegotá upgrade. Meanwhile, AI safety warnings and new regulatory moves in the UK and Brazil add fresh layers of complexity to the market.",
@@ -21684,16 +21765,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-    "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
-    "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
-    "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-    "https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b",
-    "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-    "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-    "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
     "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
     "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
@@ -22183,10 +22254,19 @@
     "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
     "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
-    "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin"
+    "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
+    "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+    "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
+    "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
+    "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
+    "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+    "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+    "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+    "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+    "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
+    "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions|https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness|https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
     "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022|https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes|https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&amp;utm_medium=rss",
@@ -22385,6 +22465,7 @@
     "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys|https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635|https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
     "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump|https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown|https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off"
+    "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+    "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report|https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets|https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800"
   ]
 }
