@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788927613104",
+      "title": "Crypto Roundup September 9, 2026 at 11:20 AM (ICT): Market reacts to Robinhood Chain surge, first Tron staked ETF, and high‑profile legal cases",
+      "summary": "Robinhood’s Layer‑2 chain posted record daily fees as DEX volume doubled, while the first Tron‑backed staked ETF entered U.S. markets, signaling growing institutional appetite. At the same time, a series of regulatory, legal and security headlines—from a $245 M crypto theft guilty plea to a lingering $47 M loss on the Liquid sidechain—highlight the sector’s mixed risk‑reward landscape.",
+      "content": "<p>The crypto ecosystem is once again a study in contrasts. On one side, Robinhood’s newly launched Layer‑2 solution is delivering record‑breaking on‑chain activity, and Tron is breaking new ground with a staked exchange‑traded fund (ETF) that gives investors passive exposure to a proof‑of‑stake network. On the other, law‑enforcement actions, municipal bans, and lingering security breaches remind participants that risk remains high. Below we break down the ten most newsworthy stories of the day, assess their implications, and sketch a short‑term market outlook.</p>\n<h2>1. Robinhood Chain Fees Hit $6 Million Daily as DEX Volume Doubles</h2>\n<p>Robinhood’s proprietary Layer‑2, dubbed Robinhood Chain, recorded a historic $6 million in daily fees, driven largely by a surge in decentralized exchange (DEX) volume that has more than doubled week‑over‑week. The catalyst appears to be the rapid appreciation of the PONS token, which vaulted over 200 % in the past seven days and pushed its market cap past $970 million. PONS, a governance token for the Robinhood ecosystem, is being used to pay transaction fees at a discount, creating a feedback loop that fuels both usage and token demand.</p>\n<p>For traders, the fee spike signals that liquidity is deepening and that retail users are increasingly comfortable moving beyond custodial trading to on‑chain activity. For the broader market, it underscores the growing relevance of Layer‑2 solutions that can deliver Ethereum‑compatible throughput without the gas price volatility that has plagued the mainnet.</p>\n<h2>2. First Staked ETF Tied to Tron Launches in the United States</h2>\n<p>The Block reports that the first staked ETF linked to the Tron (TRX) network is set to debut on Wednesday. Unlike traditional spot ETFs, this product holds TRX that is actively staked, allowing investors to earn a share of the network’s consensus rewards while maintaining exposure to price movements. The fund’s structure mirrors recent successes seen with Ethereum 2.0 staking ETFs, suggesting that regulators are becoming more comfortable with on‑chain yield products.</p>\n<p>Institutional interest in staking‑based exposure is a clear trend: it offers a yield component that can offset market volatility. For Tron, the move could accelerate its transition from a high‑volume, low‑yield token to a more mature, income‑generating asset, potentially narrowing the gap with Ethereum’s staking ecosystem.</p>\n<h2>3. StoneX Projects 45 % Upside for Robinhood, Highlights Layer‑2 and Prediction Markets</h2>\n<p>Research firm StoneX sees a 45 % upside potential for Robinhood’s stock, citing the launch of Robinhood Chain and the company’s entry into prediction markets as new growth engines. Prediction markets—platforms where users bet on real‑world outcomes—are gaining traction as a way to monetize on‑chain data and attract speculative capital.</p>\n<p>The analysis dovetails with the fee surge noted above, reinforcing the idea that Robinhood is positioning itself as a one‑stop shop for both traditional brokerage services and emerging DeFi primitives.</p>\n<h2>4. Franklin Templeton Veteran Takes the Helm at StablecoinX</h2>\n<p>Christopher Jensen, a former senior executive at Franklin Templeton’s digital‑asset division, has been appointed to lead StablecoinX, the largest corporate holder of Ethena’s ENA token, overseeing roughly $480 million in treasury assets. Jensen’s move signals a continued influx of legacy finance talent into the stablecoin and algorithmic‑stablecoin space, bringing risk‑management rigor and institutional credibility.</p>\n<p>StablecoinX’s sizable ENA holdings could influence governance decisions on the Ethena protocol, potentially aligning the token’s monetary policy with broader corporate treasury strategies.</p>\n<h2>5. Jack Dorsey’s Block Seeks Federal Bank Charter</h2>\n<p>Block, Inc., the payments company founded by Twitter co‑founder Jack Dorsey, has formally applied for a national bank charter from the Office of the Comptroller of the Currency (OCC). The move follows a wave of crypto‑focused firms—such as Coinbase and Kraken—pursuing similar charters to gain access to the U.S. banking system, deposit insurance, and a clearer regulatory footing.</p>\n<p>If approved, Block could integrate crypto custodial services, lending, and payments under a single regulated umbrella, potentially reshaping the competitive landscape for fintech and crypto‑bank hybrids.</p>\n<h2>6. Malone Lam Pleads Guilty to $245 M Crypto Theft Conspiracy</h2>\n<p>U.S. prosecutors announced that Malone Lam has pleaded guilty to orchestrating a $245 million crypto theft scheme that combined social‑engineering attacks with physical home break‑ins. The case highlights the persistent vulnerability of high‑net‑worth individuals to hybrid attacks that blend digital and real‑world tactics.</p>\n<p>Law‑enforcement success may deter similar operations, but it also underscores the need for robust physical security and multi‑factor authentication for crypto holdings.</p>\n<h2>7. New York Town Considers Extending Ban to AI Data Centers and Crypto Mining</h2>\n<p>Plattsburgh, New York, which recently imposed an 18‑month moratorium on Bitcoin mining, is now debating a broader ban that would also cover AI data centers and other high‑energy crypto operations. The proposal reflects growing local backlash against the environmental footprint of proof‑of‑work mining and the power‑hungry nature of AI training rigs.</p>\n<p>If enacted, the ban could set a precedent for other municipalities, prompting miners to accelerate migration to more energy‑efficient jurisdictions or to proof‑of‑stake networks.</p>\n<h2>8. Hunter Biden’s “LAPTOP” Memecoin Announces Airdrop Mechanics</h2>\n<p>The Block details the upcoming launch of the LAPTOP memecoin, a project linked to Hunter Biden. Approximately 30 % of the token supply is earmarked for a series of 30 public real‑world events; outcomes will trigger either token burns or charitable donations. While the token’s political branding is controversial, the burn‑or‑charity mechanic adds a novel utility layer that could drive community engagement.</p>\n<p>Investors should treat the project as high‑risk speculation, given the regulatory scrutiny around politically exposed persons (PEPs) and the inherent volatility of meme tokens.</p>\n<h2>9. $47 M Still Missing After Liquid Sidechain Hack; Blockstream Negotiates with ‘White Hats’</h2>\n<p>Decrypt reports that after the Liquid sidechain hack, thieves returned roughly 3,400 of the 4,000 BTC stolen, leaving about 600 BTC (≈$47 million) unaccounted for. Blockstream, the operator of Liquid, is in talks with the alleged “white‑hat” actors to recover the remainder, but doubts remain about the hackers’ motives and the legitimacy of the white‑hat claim.</p>\n<p>The incident reignites concerns about the security of Bitcoin sidechains, which, while offering faster settlement, inherit additional attack vectors compared to the main chain.</p>\n<h2>10. OpenAI Claims $1 M Math Breakthrough; Rival Mathematician Disputes Credit</h2>\n<p>Decrypt covers a dispute between OpenAI researcher Sébastien Bubeck and NYU mathematician Tristan Buckmaster over a claimed solution to a $1 million Navier‑Stokes problem. While not a direct crypto story, the episode illustrates the rapid convergence of AI and high‑performance computing—technologies that are increasingly powering crypto analytics, trading bots, and on‑chain AI services.</p>\n<p>The broader implication for crypto is that AI‑driven research could accelerate protocol development, but it also raises questions about intellectual property and attribution in a decentralized research environment.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment is likely to stay bullish on the back of Robinhood Chain’s fee surge and the launch of the Tron staked ETF, both of which signal growing on‑chain activity and institutional acceptance of staking yields. However, the lingering $47 million loss on the Liquid hack, the New York mining ban proposal, and the high‑profile theft case inject a dose of caution.</p>\n<p>We anticipate continued outflows from proof‑of‑work mining operations toward more energy‑efficient proof‑of‑stake networks, especially as municipalities tighten local regulations. Simultaneously, the influx of traditional finance talent into stablecoin governance and the pursuit of federal bank charters by crypto‑native firms suggest that the sector’s infrastructure is maturing toward a regulated, mainstream financial model.</p>\n<p>Overall, the market may see modest upside in risk‑adjusted terms, with Bitcoin likely to trade in a narrow range around $68,000‑$72,000, while Ethereum could edge toward $2,800 as staking‑related products gain traction.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Robinhood Chain’s record fees and PONS rally highlight the commercial viability of Layer‑2 solutions.</li><li>The first Tron‑backed staked ETF marks a new frontier for yield‑focused crypto investment products.</li><li>Regulatory momentum is evident: Block’s bank charter bid, StoneX’s bullish Robinhood outlook, and municipal mining bans all point to a more defined legal landscape.</li><li>Security remains a top concern—high‑profile thefts and sidechain hacks underscore the need for stronger custodial practices.</li><li>Institutional talent is flowing into stablecoin governance, potentially improving risk management and transparency.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Malone Lam pleads guilty in $245M crypto theft conspiracy — <em>Cointelegraph</em></li>\n<li>[2] First staked ETF tied to Tron hits the US markets on Wednesday — <em>The Block</em></li>\n<li>[3] Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch — <em>The Block</em></li>\n<li>[4] StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets — <em>The Block</em></li>\n<li>[5] Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles — <em>The Block</em></li>\n<li>[6] Jack Dorsey’s Block joins rush for federal bank charters from OCC — <em>The Block</em></li>\n<li>[7] OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First — <em>Decrypt</em></li>\n<li>[8] New York town weighs crypto mining and AI data center ban — <em>Cointelegraph</em></li>\n<li>[9] Franklin Templeton digital asset veteran takes helm at StablecoinX — <em>Cointelegraph</em></li>\n<li>[10] $47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats' — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "trading"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788927612/xeonbit24/posts/crypto-roundup-september-9-2026-at-1120-am-ict-market-reacts-to-robinhood-chain-.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788927612/xeonbit24/posts/crypto-roundup-september-9-2026-at-1120-am-ict-market-reacts-to-robinhood-chain-.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-9-2026-at-1120-am-ict-market-reacts-to-robinhood-chain-",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup September 9, 2026 at 11:20 AM (ICT): Market reacts to Robinhood Chain surge, first Tron staked ETF, and h"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
+          "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "First staked ETF tied to Tron hits the US markets on Wednesday",
+          "url": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
+          "source": "The Block"
+        },
+        {
+          "title": "Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch",
+          "url": "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
+          "source": "The Block"
+        },
+        {
+          "title": "StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets",
+          "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+          "source": "The Block"
+        },
+        {
+          "title": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
+          "source": "The Block"
+        },
+        {
+          "title": "Jack Dorsey’s Block joins rush for federal bank charters from OCC",
+          "url": "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+          "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+          "source": "Decrypt"
+        },
+        {
+          "title": "New York town weighs crypto mining and AI data center ban",
+          "url": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+          "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+          "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-09-09T04:20:13.104Z",
+      "slug": "crypto-roundup-september-9-2026-at-1120-am-ict-market-reacts-to-robinhood-chain-"
+    },
+    {
       "id": "1788881445697",
       "title": "Crypto Roundup September 8, 2026 at 10:30 PM (ICT): Institutional Moves, Stablecoin Surge, and Bitcoin Treasury Activity",
       "summary": "Institutional money keeps reshaping the market as Circle snaps up Tazapay, Visa leverages on‑chain data for stablecoin credit, and Strive’s SATA token nears a $1 billion market cap. Meanwhile, Bitcoin‑focused firms double down on buy‑backs and Ethereum’s supply tightens with Bitmine’s growing stake.",
@@ -21765,16 +21846,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-    "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
-    "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-    "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-    "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
-    "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353",
-    "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
     "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
     "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
     "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -22264,10 +22335,19 @@
     "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
     "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
     "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
-    "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790"
+    "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
+    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
+    "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
+    "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+    "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
+    "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
+    "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness|https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
     "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022|https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes|https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -22466,6 +22546,7 @@
     "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys|https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635|https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
     "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump|https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown|https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
-    "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report|https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets|https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800"
+    "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report|https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets|https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
+    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935|https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952"
   ]
 }
