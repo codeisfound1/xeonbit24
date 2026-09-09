@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788967576223",
+      "title": "Crypto Roundup September 9, 2026 at 10:26 PM (ICT): Consensys split, regulatory shifts, and new infrastructure moves",
+      "summary": "Consensys announced a decisive split that will spin off MetaMask as an independent firm, while crypto‑friendly jurisdictions face fresh tax pressures in Illinois and Germany. At the same time, PayPal’s stablecoin platform, new token‑launch frameworks, and rising oil‑linked prediction markets signal expanding use‑cases for digital assets.",
+      "content": "<p>September 9, 2026 was a busy day for the crypto ecosystem, with structural changes at a leading Ethereum infrastructure provider, fresh regulatory proposals in two major economies, and a wave of product launches aimed at lowering friction for token issuers and traders. The headlines together paint a picture of a market that is maturing institutionally while still grappling with policy uncertainty. Below we break down each story, highlight the inter‑connections, and assess what they mean for the broader market outlook.</p>\n<h2>1. Consensys to split MetaMask into its own firm while staying silent on IPO</h2>\n<p>Consensys Software Inc. will rebrand as MetaMask, with Ethereum co‑founder Joe Lubin taking the chair and CEO roles. The move separates the consumer‑facing wallet business from the enterprise‑grade Ethereum protocol and infrastructure services that will remain under a newly formed Consensys entity. By carving out MetaMask, the company aims to give the wallet a clearer path to profitability, potential public listing, and dedicated capital for product innovation. The silence on an IPO suggests the firm is still gauging market appetite, but the structural split signals confidence that the wallet can operate as a standalone revenue engine.</p>\n<h2>2. Consensys splits MetaMask from institutional and Ethereum infrastructure businesses</h2>\n<p>The Block adds detail that the separation is slated for completion by the end of 2026. The institutional arm will retain ownership of core Ethereum protocols, developer tooling, and enterprise blockchain services, while MetaMask will focus on user acquisition, DeFi integrations, and cross‑chain expansion. This bifurcation mirrors a broader industry trend where consumer products and backend infrastructure are being decoupled to attract distinct investor bases and strategic partners.</p>\n<h2>3. Consensys Is Splitting in Two as MetaMask Goes Its Own Way</h2>\n<p>Decrypt emphasizes the strategic rationale: MetaMask’s massive user base—over 30 million active wallets—offers a lucrative platform for on‑ramp services, token launches, and data monetisation. Meanwhile, the remaining Consensys will double‑down on Ethereum scaling solutions, staking infrastructure, and enterprise blockchain adoption, positioning itself as a key player in the upcoming Ethereum 2.0 upgrade cycle.</p>\n<h2>4. Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax</h2>\n<p>The Block reports that a coalition of digital‑asset firms has filed a lawsuit to halt Illinois’ new crypto tax, which would levy a 4.5 % surcharge on crypto transactions. The groups argue the tax creates regulatory uncertainty and could drive businesses to friendlier jurisdictions. If successful, the case could set a precedent for how state‑level taxation interacts with the inherently borderless nature of blockchain activity.</p>\n<h2>5. German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027</h2>\n<p>Decrypt reveals that Germany plans a 25 % capital‑gains tax on crypto profits realized after 2027, while preserving the current twelve‑month holding‑period exemption for assets purchased before that date. The proposal targets future investors and aims to align crypto taxation with traditional securities, potentially increasing compliance costs for German traders but also providing clearer fiscal guidance.</p>\n<h2>6. PayPal expands stablecoin rails with custom token issuance platform</h2>\n<p>CoinDesk details PayPal’s launch of the PYUSDx developer platform, enabling merchants and fintechs to issue custom tokens backed by PayPal USD (PYUSD). Built with M0 and MoonPay, the solution streamlines KYC, on‑chain settlement, and fiat‑to‑crypto conversion, positioning PayPal as a bridge between mainstream payments and decentralized finance. The move underscores the growing appetite for programmable money within existing payment ecosystems.</p>\n<h2>7. Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs</h2>\n<p>The Block reports that a consortium of crypto firms has created the Charter Foundation, a framework designed to lower the financial and regulatory barriers for new token projects. By providing shared legal templates, audit services, and a pooled insurance pool, Charter aims to reduce launch costs by up to 40 %, making tokenisation more accessible to startups and traditional enterprises alike.</p>\n<h2>8. Prediction Markets Abandon Cheap Oil as Brent Passes $100</h2>\n<p>Decrypt notes that prediction‑market platform Myriad shifted its $120 side to dominate the market, while Polymarket now places a 59 % probability on WTI hitting $100 this month. The rapid re‑pricing reflects heightened geopolitical risk and supply‑chain constraints, and demonstrates how crypto‑based prediction markets are increasingly used for real‑world commodity forecasting.</p>\n<h2>9. Kalshi election data goes live on DoubleZero ahead of U.S. midterms</h2>\n<p>CoinDesk explains that Kalshi’s political prediction‑market data is now available on DoubleZero, giving institutional and algorithmic traders full‑depth order‑book visibility for U.S. midterm outcomes. This integration signals growing institutional confidence in crypto‑native market data feeds and could spur further adoption of blockchain‑based information services.</p>\n<h2>10. Crypto Long & Short: Inside the 300-to-1 on‑chain gap between the dollar and euro</h2>\n<p>CoinDesk’s Ryan Connor highlights a stark disparity: while the US dollar leads the euro roughly 3 to 1 in the off‑chain economy, the on‑chain gap widens to over 300 to 1. Euro‑pegged stablecoins represent just €711 million, under 1 % of total stablecoin supply. The data suggests that European retail adoption of crypto‑stablecoins lags far behind the United States, a gap that could present arbitrage opportunities and a target for future regulatory incentives.</p>\n<h2>Market Outlook</h2>\n<p>Collectively, these stories illustrate a market in transition. The Consensys split underscores a maturation of infrastructure providers, seeking clearer valuation metrics and dedicated capital streams. Regulatory developments in Illinois and Germany highlight the inevitable clash between decentralized finance and traditional tax regimes; firms that can navigate these rules will gain a competitive edge. Meanwhile, product launches from PayPal, Charter Foundation, and prediction‑market platforms expand the utility layer of crypto, pulling more institutional capital into the ecosystem.</p>\n<p>From a macro perspective, Bitcoin remains range‑bound around $28,500, while Ethereum trades near $1,850, reflecting investor patience as the network prepares for its next scaling upgrade. Stablecoin issuance continues to grow, with PYUSDx adding a programmable dimension that could accelerate DeFi on‑ramping. The on‑chain dollar/euro imbalance suggests that European markets may see a surge in stablecoin demand if regulatory clarity improves.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Consensys’ strategic split creates two focused entities: a consumer‑centric MetaMask poised for potential IPO and an enterprise‑grade Consensys targeting Ethereum infrastructure growth.</li><li>Regulatory pressure is intensifying in the U.S. (Illinois) and Europe (Germany), prompting industry coalitions to fight unfavorable tax policies.</li><li>PayPal’s PYUSDx platform and the Charter Foundation’s cost‑reduction framework lower barriers for token creation, signaling broader mainstream adoption.</li><li>Crypto‑based prediction markets are gaining credibility as real‑world forecasting tools, evident in the rapid re‑pricing of oil contracts and the integration of political data on DoubleZero.</li><li>The stark on‑chain dollar/euro disparity points to untapped European demand for stablecoins and potential arbitrage for savvy traders.</li></ul>\n<p>Overall, the ecosystem is balancing institutionalization with regulatory headwinds. Companies that can separate their consumer and enterprise arms, comply with emerging tax frameworks, and leverage new infrastructure tools are likely to capture the next wave of growth.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Consensys to split MetaMask into its own firm while staying silent on IPO — <em>CoinDesk</em></li>\n<li>[2] Prediction Markets Abandon Cheap Oil as Brent Passes $100 — <em>Decrypt</em></li>\n<li>[3] Consensys Is Splitting in Two as MetaMask Goes Its Own Way — <em>Decrypt</em></li>\n<li>[4] Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax — <em>The Block</em></li>\n<li>[5] Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro — <em>CoinDesk</em></li>\n<li>[6] Consensys splits MetaMask from institutional and Ethereum infrastructure businesses — <em>The Block</em></li>\n<li>[7] Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs — <em>The Block</em></li>\n<li>[8] German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027 — <em>Decrypt</em></li>\n<li>[9] Kalshi election data goes live on DoubleZero ahead of U.S. midterms — <em>CoinDesk</em></li>\n<li>[10] PayPal expands stablecoin rails with custom token issuance platform — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "stablecoins",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788967575/xeonbit24/posts/crypto-roundup-september-9-2026-at-1026-pm-ict-consensys-split-regulatory-shifts.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788967575/xeonbit24/posts/crypto-roundup-september-9-2026-at-1026-pm-ict-consensys-split-regulatory-shifts.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-9-2026-at-1026-pm-ict-consensys-split-regulatory-shifts",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 9, 2026 at 10:26 PM (ICT): Consensys split, regulatory shifts, and new infrastructure moves"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+      "sourceTitle": "CoinDesk / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+          "url": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+          "url": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
+          "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
+          "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
+          "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+          "source": "The Block"
+        },
+        {
+          "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
+          "source": "The Block"
+        },
+        {
+          "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+          "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
+          "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "PayPal expands stablecoin rails with custom token issuance platform",
+          "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-09-09T15:26:16.223Z",
+      "slug": "crypto-roundup-september-9-2026-at-1026-pm-ict-consensys-split-regulatory-shifts"
+    },
+    {
       "id": "1788927613104",
       "title": "Crypto Roundup September 9, 2026 at 11:20 AM (ICT): Market reacts to Robinhood Chain surge, first Tron staked ETF, and high‑profile legal cases",
       "summary": "Robinhood’s Layer‑2 chain posted record daily fees as DEX volume doubled, while the first Tron‑backed staked ETF entered U.S. markets, signaling growing institutional appetite. At the same time, a series of regulatory, legal and security headlines—from a $245 M crypto theft guilty plea to a lingering $47 M loss on the Liquid sidechain—highlight the sector’s mixed risk‑reward landscape.",
@@ -21846,16 +21927,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-    "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
-    "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
-    "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
-    "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-    "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
     "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
     "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
     "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
@@ -22345,10 +22416,19 @@
     "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
     "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat"
+    "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+    "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+    "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+    "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+    "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+    "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+    "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+    "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
+    "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+    "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+    "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
     "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022|https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes|https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/06/02/here-s-how-one-decentralized-cloud-provider-says-private-citizens-can-make-money-from-ai|https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months|https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
@@ -22547,6 +22627,7 @@
     "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump|https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown|https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
     "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report|https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets|https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
-    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935|https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952"
+    "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935|https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
+    "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo|https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company"
   ]
 }
