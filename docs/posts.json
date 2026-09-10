@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1789013852972",
+      "title": "Crypto Roundup September 10, 2026 at 11:17 AM (ICT): US sanctions hit a crypto scam, Trezor breach sparks security concerns, and institutional moves reshape Ethereum",
+      "summary": "The US Justice Department cracked down on the Xinbi scam marketplace, freezing $52 million in crypto, while Trezor disclosed a third‑party email breach that reignited security worries. Meanwhile, ConsenSys announced a split separating MetaMask from its institutional blockchain arm, and political‑betting data entered mainstream crypto markets.",
+      "content": "<p>September 10, 2026 was a busy day for the crypto ecosystem. Law‑enforcement action, security incidents, and strategic corporate restructurings dominated headlines, while political‑betting data and lobbying battles hinted at the growing convergence of crypto with traditional finance and politics. Below we break down each story, draw connections, and outline what the next few weeks may hold for investors and developers.</p><h2>1. US sanctions Xinbi scam marketplace, restrains $52M in crypto</h2><p>The US Department of Justice seized Xinbi’s Telegram channels and two primary wallets, freezing roughly $52 million tied to a fraudulent marketplace that allegedly laundered illicit proceeds. Investigators also flagged 47 additional wallets for further action. This marks the most significant enforcement move against a crypto‑based scam in 2026, signaling that regulators are sharpening tools to target cross‑border laundering networks that exploit privacy‑focused messaging apps.</p><h2>2. Trezor says third‑party security breach led to phishing emails from legitimate domain</h2><p>Hardware‑wallet leader Trezor disclosed that a breach at its email‑service provider allowed attackers to send phishing emails that appeared to come from a legitimate Trezor domain. The messages warned users of a fictitious hardware flaw that could expose recovery phrases, prompting many to click malicious links. The incident follows a previous breach at shipping partner ShipMonk, which exposed customer personal data. Trezor emphasized that no wallet keys were compromised, but the episode underscores the supply‑chain risk for even the most security‑focused crypto firms.</p><h2>3. Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider</h2><p>Decrypt’s coverage echoed Trezor’s statement, adding that the fake security alert was crafted to look like an official firmware update notice. The phishing campaign leveraged social engineering rather than technical exploits, reminding users that hardware wallets are only as safe as the surrounding communication channels. Experts recommend verifying any security alert through official channels and enabling multi‑factor authentication on email accounts.</p><h2>4. ConsenSys to split into MetaMask and institutional blockchain company</h2><p>Ethereum infrastructure giant ConsenSys announced a structural split: MetaMask will become a standalone consumer‑focused entity, while the remaining business will operate as an institutional blockchain platform offering protocol‑level services. The move aims to reduce regulatory friction for MetaMask’s massive user base and to allow the institutional arm to pursue enterprise contracts without the consumer‑product baggage. Investors see this as a potential catalyst for MetaMask’s token (if launched) and for deeper institutional adoption of Ethereum‑based solutions.</p><h2>5. Crypto, Banks Take CLARITY Act Lobbying Fight to Senators' Home States</h2><p>Decrypt reported that crypto firms and community banks are intensifying lobbying ahead of a September 15 Senate vote on the CLARITY Act, which would impose stricter reporting requirements on crypto transactions. By targeting senators in their home districts, the industry hopes to sway the vote in favor of a more balanced framework that preserves innovation while addressing AML concerns. The outcome could shape the regulatory landscape for U.S. crypto exchanges and custodians for years to come.</p><h2>6. DoubleZero adds Kalshi election market data ahead of US midterms</h2><p>Cointelegraph highlighted DoubleZero’s integration of Kalshi’s political‑betting markets, giving institutional and algorithmic traders real‑time access to election‑related price signals. The data feed, now live on the DoubleZero Edge platform, is expected to attract hedge funds looking to hedge political risk or to develop predictive models for the November midterms. This development reflects a broader trend of crypto‑native data providers entering traditional financial markets.</p><h2>7. DoubleZero adds Kalshi’s election markets ahead of November midterms</h2><p>The Block’s coverage reiterated the same integration, emphasizing that Kalshi’s regulated prediction‑market contracts are now available via DoubleZero’s API. The move bridges regulated US prediction markets with the high‑speed, low‑latency infrastructure of crypto trading, potentially creating new arbitrage opportunities between traditional finance and decentralized platforms.</p><h2>8. SkyAI faces board challenge from would‑be acquirer Forward Industries</h2><p>Solana‑based treasury firm SkyAI is under pressure from Forward Industries, which is pushing for a board overhaul as part of a proposed acquisition. The deal includes a 5.145 million‑share equity plan, diluting existing shareholders by roughly 7.2 %. Analysts note that the board dispute could delay SkyAI’s roadmap for AI‑driven yield products on Solana, a chain that is positioning itself as a hub for high‑throughput DeFi applications.</p><h2>9. AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns</h2><p>Decrypt featured a commentary by Fields Medalist Terence Tao, who warned that AI systems are now solving some of the most challenging mathematical problems faster than human researchers can verify. While not a crypto‑specific story, the piece raises questions about the future role of AI in smart‑contract verification, automated auditing, and on‑chain governance, where rapid proof generation could become a competitive edge.</p><h2>10. Here’s what happened in crypto today</h2><p>Cointelegraph’s daily roundup summarized the day’s price action (Bitcoin hovering around $68,200, Ethereum near $2,850) and highlighted the regulatory, security, and institutional themes discussed above. The article serves as a quick reference for traders tracking market sentiment amid the mixed news flow.</p><h2>Market Outlook</h2><p>Regulatory pressure is intensifying, as seen with the Xinbi sanctions and the upcoming CLARITY Act vote. Security remains a top concern after the Trezor breach, prompting hardware manufacturers to audit third‑party providers more rigorously. Meanwhile, institutional interest is deepening: ConsenSys’ split could unlock new capital for Ethereum infrastructure, and DoubleZero’s Kalshi data feed signals a convergence of crypto and traditional political‑risk markets.</p><p>In the short term, Bitcoin’s price is likely to stay range‑bound as traders digest the regulatory headlines. Ethereum may see modest upside if MetaMask’s spin‑off attracts fresh liquidity or tokenization. Altcoins tied to AI (e.g., SkyAI) could experience volatility pending corporate governance outcomes.</p><h2>Key Takeaways</h2><ul><li>US law‑enforcement is actively targeting crypto‑based scams, reinforcing the importance of AML compliance for exchanges and wallet providers.</li><li>Supply‑chain security breaches (Trezor) highlight that even hardware‑wallet leaders are vulnerable to phishing attacks via compromised email services.</li><li>ConsenSys’ restructuring separates consumer and institutional layers, potentially paving the way for a MetaMask token and deeper enterprise adoption of Ethereum.</li><li>The CLARITY Act remains a pivotal regulatory battle; its outcome will influence reporting standards for U.S. crypto firms.</li><li>Data providers like DoubleZero are bridging crypto trading with regulated prediction markets, creating new arbitrage and hedging opportunities.</li><li>Corporate governance disputes (SkyAI) can affect project timelines and token economics, underscoring the need for transparent shareholder processes.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] US sanctions Xinbi scam marketplace, restrains $52M in crypto — <em>Cointelegraph</em></li>\n<li>[2] Trezor says third-party security breach led to phishing emails from legitimate domain — <em>The Block</em></li>\n<li>[3] Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider — <em>Decrypt</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns — <em>Decrypt</em></li>\n<li>[6] DoubleZero adds Kalshi election market data ahead of US midterms — <em>Cointelegraph</em></li>\n<li>[7] Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States — <em>Decrypt</em></li>\n<li>[8] Consensys to split into MetaMask and institutional blockchain company — <em>Cointelegraph</em></li>\n<li>[9] DoubleZero adds Kalshi’s election markets ahead of November midterms — <em>The Block</em></li>\n<li>[10] Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "security",
+        "institutional"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789013852/xeonbit24/posts/crypto-roundup-september-10-2026-at-1117-am-ict-us-sanctions-hit-a-crypto-scam-t.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789013852/xeonbit24/posts/crypto-roundup-september-10-2026-at-1117-am-ict-us-sanctions-hit-a-crypto-scam-t.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-10-2026-at-1117-am-ict-us-sanctions-hit-a-crypto-scam-t",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup September 10, 2026 at 11:17 AM (ICT): US sanctions hit a crypto scam, Trezor breach sparks security conce"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+          "url": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+          "url": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+          "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+          "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+          "source": "Decrypt"
+        },
+        {
+          "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+          "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+          "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Consensys to split into MetaMask and institutional blockchain company",
+          "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DoubleZero adds Kalshi’s election markets ahead of November midterms",
+          "url": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
+          "source": "The Block"
+        },
+        {
+          "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
+          "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-09-10T04:17:32.972Z",
+      "slug": "crypto-roundup-september-10-2026-at-1117-am-ict-us-sanctions-hit-a-crypto-scam-t"
+    },
+    {
       "id": "1788967576223",
       "title": "Crypto Roundup September 9, 2026 at 10:26 PM (ICT): Consensys split, regulatory shifts, and new infrastructure moves",
       "summary": "Consensys announced a decisive split that will spin off MetaMask as an independent firm, while crypto‑friendly jurisdictions face fresh tax pressures in Illinois and Germany. At the same time, PayPal’s stablecoin platform, new token‑launch frameworks, and rising oil‑linked prediction markets signal expanding use‑cases for digital assets.",
@@ -21927,15 +22007,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
-    "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-    "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
-    "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-    "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
-    "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
-    "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
     "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
     "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
     "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
@@ -22426,10 +22497,18 @@
     "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
     "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
     "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-    "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform"
+    "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+    "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+    "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+    "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+    "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
+    "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022|https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes|https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/06/02/here-s-how-one-decentralized-cloud-provider-says-private-citizens-can-make-money-from-ai|https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months|https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
     "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records|https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance|https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&amp;utm_medium=rss",
@@ -22628,6 +22707,7 @@
     "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
     "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report|https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets|https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
     "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935|https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
-    "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo|https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company"
+    "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo|https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+    "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086|https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email"
   ]
 }
