@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789053687449",
+      "title": "Crypto Roundup September 10, 2026 at 10:21 PM (ICT): Bitcoin dip, stablecoin expansion, and DeFi upgrades",
+      "summary": "Bitcoin slipped amid a surprise US PPI overshoot and soaring 30‑year Treasury yields, while stablecoin infrastructure gained momentum through Coinbase‑Moov partnerships and MoneyGram’s Visa card launch. DeFi innovators like Uniswap also rolled out new tools to capture more value from stablecoin trading.",
+      "content": "<p>The crypto market entered the evening of September 10 with mixed signals. A sharp pull‑back in Bitcoin, triggered by higher‑than‑expected US Producer Price Index (PPI) data and a 30‑year Treasury yield reaching a 19‑year high, weighed on risk assets. At the same time, the ecosystem saw a surge of institutional‑grade stablecoin initiatives—from a nationwide payments API partnership to a Visa‑backed card in Colombia—signalling growing mainstream acceptance. On the DeFi front, Uniswap introduced a novel fee‑adjustment hook for stablecoin pools, while legacy crypto‑related assets such as Bitcoin Depot ATMs changed hands at deep discounts. Below is a headline‑by‑headline breakdown, followed by a market outlook and key takeaways.</p>\n<h2>1. Bitcoin falls on US PPI overshoot as 30‑year bond yield hits new 19‑year high</h2>\n<p>Bitcoin slipped below $26,000 after the US Labor Department released a PPI report that showed inflation running hotter than forecasts. The data sparked a rally in the 30‑year Treasury yield, which climbed to 4.38%, the highest level since 2007. Higher yields increase the opportunity cost of holding non‑yield‑bearing assets like Bitcoin, prompting a short‑term sell‑off. The move also coincided with a broader equity market decline, underscoring Bitcoin’s continued correlation with risk‑on/off sentiment. Technical analysts note that Bitcoin is now testing the 200‑day moving average, a key support level that, if broken, could open the path to a deeper correction.</p>\n<h2>2. Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions (The Block)</h2>\n<p>Coinbase announced a partnership with fintech platform Moov to embed stablecoin rails directly into the payments stack of over 1,000 community banks and credit unions across the United States. Using Coinbase’s Payments API and custodial wallets, the solution will allow these institutions to accept, settle, and fund transactions in USDC instantly, reducing reliance on traditional ACH and wire systems. For banks, the move promises faster settlement, lower fees, and a gateway to crypto‑savvy customers. For the broader market, it marks a significant step toward “bank‑level” crypto adoption, potentially driving volume on the US stablecoin ecosystem.</p>\n<h2>3. MoneyGram launches first stablecoin‑backed Visa card in Colombia</h2>\n<p>Remittance giant MoneyGram, in collaboration with blockchain firm Rain, rolled out a Visa‑branded card that holds a balance denominated in USDC. The card, initially available to Colombian consumers, lets users spend digital dollars at any merchant that accepts Visa, with real‑time conversion to fiat on the backend. This product illustrates how stablecoins are moving from speculative assets to everyday payment tools, especially in emerging markets where cross‑border fees remain high. The launch also aligns with MoneyGram’s broader strategy to modernise its legacy remittance network with blockchain‑based solutions.</p>\n<h2>4. Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value</h2>\n<p>Uniswap Labs introduced the StablePair Hook, a new module for Uniswap v4 that applies dynamic fees to stablecoin pairs such as USDC/USDT. The hook automatically raises fees when the pool’s price deviates from the peg, incentivising liquidity providers (LPs) to supply capital during periods of heightened arbitrage activity. By capturing a larger share of the spread, LPs can earn higher yields without exposing themselves to the volatility typical of other token pairs. The feature is expected to attract more institutional LP capital to DeFi, reinforcing stablecoins as a core component of the decentralized finance stack.</p>\n<h2>5. Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000</h2>\n<p>Bankruptcy court filings reveal that Bitcoin Bancorp purchased roughly 2,300 of the 9,200 Bitcoin Depot kiosks for a total of $620,000—just under $0.27 per unit. The acquisition gives Bitcoin Bancorp a nationwide footprint of dormant ATMs that can be repurposed for cash‑in/cash‑out services or re‑branded under a new retail strategy. While the price tag is modest, the move signals continued interest in physical crypto access points, especially in regions where bank‑less populations rely on cash‑based onboarding.</p>\n<h2>6. Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial</h2>\n<p>A coalition of exchanges—including Nasdaq and Boerse Stuttgart—has formally requested the European Commission to either lift or raise the current €100 million cap on tokenised securities in the EU’s pilot regime. Participants argue that the cap limits the ability to issue larger, institution‑grade tokenised assets, stifling liquidity and innovation. The request comes as several European projects have already exceeded the threshold, highlighting a growing demand for regulatory flexibility to accommodate larger tokenised bond and equity offerings.</p>\n<h2>7. Citadel urges SEC to assert oversight of event contracts tied to public firms</h2>\n<p>Citadel Securities filed a public comment urging the U.S. Securities and Exchange Commission to assume primary oversight of equity‑linked event contracts—derivatives that pay out based on corporate actions such as earnings beats or product launches. Citadel argues that the Commodity Futures Trading Commission’s self‑certification model lacks the necessary consumer protections and market‑integrity safeguards. The push reflects a broader debate over jurisdictional authority in the rapidly evolving crypto‑derivatives space.</p>\n<h2>8. Crypto for Advisors: Hyperliquid and the future of finance</h2>\n<p>CoinDesk’s “Crypto for Advisors” series spotlighted Hyperliquid, a next‑generation perpetuals exchange that markets itself as a “white‑label” solution for wealth‑management firms. Hyperliquid offers sub‑second order execution, on‑chain settlement, and a risk‑engine that integrates with traditional portfolio‑management tools. The piece underscores how crypto‑focused infrastructure is being packaged for fiduciary advisers, potentially unlocking a new wave of institutional capital into leveraged crypto products.</p>\n<h2>9. MoneyGram unveils stablecoin‑backed card as digital dollars move into everyday spending</h2>\n<p>In a separate announcement, MoneyGram detailed the broader vision behind its stablecoin‑backed Visa card: to create a “digital dollar” that can be used for everyday purchases, bill payments, and peer‑to‑peer transfers without the friction of converting between crypto and fiat. The company plans to expand the card to additional Latin American markets later in 2026, leveraging its extensive remittance network to drive adoption.</p>\n<h2>10. Coinbase, Moov to provide stablecoin infrastructure for US community banks (Cointelegraph)</h2>\n<p>Cointelegraph reiterated the Coinbase‑Moov partnership, emphasizing the real‑time funding capabilities that will allow community banks to settle transactions within seconds, a stark contrast to the 1‑3‑day settlement window of traditional ACH. The article highlighted early pilot results showing a 30 % reduction in transaction costs for participating banks, suggesting that stablecoin settlement could become a cost‑effective alternative for the U.S. banking sector.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment remains cautious as macro‑economic data continues to pressure risk assets. Bitcoin’s price action is likely to track the trajectory of US Treasury yields and inflation reports over the next two weeks. However, the steady rollout of stablecoin infrastructure—both on‑chain (Uniswap, Hyperliquid) and off‑chain (Coinbase‑Moov, MoneyGram)—provides a counter‑balancing narrative of growing utility and institutional adoption. In Europe, regulatory adjustments to tokenisation caps could unlock sizable capital flows, while U.S. discussions around derivative oversight may shape the future of crypto‑linked products. Overall, the market appears to be transitioning from speculative bursts toward a more utility‑driven growth model.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s dip underscores sensitivity to US inflation and bond‑market dynamics.</li><li>Stablecoins are cementing their role in everyday payments, evidenced by Visa card launches and bank‑level API integrations.</li><li>DeFi platforms are innovating fee structures to attract institutional LPs, boosting the appeal of stablecoin pools.</li><li>Physical crypto access points remain valuable, as shown by the low‑cost acquisition of Bitcoin Depot ATMs.</li><li>Regulatory bodies in both the US and EU are confronting the rapid expansion of crypto‑derived financial products, with potential policy shifts on the horizon.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000 — <em>CoinDesk</em></li>\n<li>[2] Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions — <em>The Block</em></li>\n<li>[3] Crypto for Advisors: Hyperliquid and the future of finance — <em>CoinDesk</em></li>\n<li>[4] Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value — <em>The Block</em></li>\n<li>[5] Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high — <em>Cointelegraph</em></li>\n<li>[6] MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending — <em>CoinDesk</em></li>\n<li>[7] MoneyGram launches first stablecoin-backed Visa card in Colombia — <em>The Block</em></li>\n<li>[8] Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial — <em>CoinDesk</em></li>\n<li>[9] Citadel urges SEC to assert oversight of event contracts tied to public firms — <em>The Block</em></li>\n<li>[10] Coinbase, Moov to provide stablecoin infrastructure for US community banks — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "stablecoins",
+        "defi",
+        "payments",
+        "regulation",
+        "tokenization"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789053686/xeonbit24/posts/crypto-roundup-september-10-2026-at-1021-pm-ict-bitcoin-dip-stablecoin-expansion.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789053686/xeonbit24/posts/crypto-roundup-september-10-2026-at-1021-pm-ict-bitcoin-dip-stablecoin-expansion.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-10-2026-at-1021-pm-ict-bitcoin-dip-stablecoin-expansion",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 10, 2026 at 10:21 PM (ICT): Bitcoin dip, stablecoin expansion, and DeFi upgrades"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+          "url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions",
+          "url": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value",
+          "url": "https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+          "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MoneyGram launches first stablecoin-backed Visa card in Colombia",
+          "url": "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
+          "source": "The Block"
+        },
+        {
+          "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
+          "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
+          "url": "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
+          "source": "The Block"
+        },
+        {
+          "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+          "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-10T15:21:27.450Z",
+      "slug": "crypto-roundup-september-10-2026-at-1021-pm-ict-bitcoin-dip-stablecoin-expansion"
+    },
+    {
       "id": "1789013852972",
       "title": "Crypto Roundup September 10, 2026 at 11:17 AM (ICT): US sanctions hit a crypto scam, Trezor breach sparks security concerns, and institutional moves reshape Ethereum",
       "summary": "The US Justice Department cracked down on the Xinbi scam marketplace, freezing $52 million in crypto, while Trezor disclosed a third‑party email breach that reignited security worries. Meanwhile, ConsenSys announced a split separating MetaMask from its institutional blockchain arm, and political‑betting data entered mainstream crypto markets.",
@@ -22007,16 +22088,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-    "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-    "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
-    "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575",
-    "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-    "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-    "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
-    "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
     "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
     "https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545",
     "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
@@ -22506,10 +22577,19 @@
     "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
     "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
-    "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061"
+    "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+    "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+    "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153",
+    "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+    "https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160",
+    "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+    "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
+    "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+    "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
+    "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/403286/bitcoin-slides-geopolitical-risks-strategy-btc-sale?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategys-bitcoin-sale-causes-clash-on-80m-in-polymarket-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/06/02/here-s-how-one-decentralized-cloud-provider-says-private-citizens-can-make-money-from-ai|https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months|https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
     "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records|https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance|https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet?utm_source=rss&amp;utm_medium=rss",
@@ -22708,6 +22788,7 @@
     "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report|https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets|https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
     "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935|https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
     "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo|https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-    "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086|https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email"
+    "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086|https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million|https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153|https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors"
   ]
 }
