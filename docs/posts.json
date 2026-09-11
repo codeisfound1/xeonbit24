@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1789100219069",
+      "title": "Crypto Roundup September 11, 2026 at 11:16 AM (ICT): U.S. Senate’s Clarity Act revisions dominate, AI‑driven quantum threats rise, and Asian crypto funding surges",
+      "summary": "The Senate’s revised Clarity Act took centre stage, tightening registration rules for trading protocols while sparking debate over DeFi and credit‑union provisions. Meanwhile, AI breakthroughs cut the cost of a quantum attack on Bitcoin and Southeast Asian crypto funding hit a new high, underscoring both regulatory pressure and rapid tech evolution.",
+      "content": "<p>September 11, 2026 was a busy day for the crypto ecosystem. Legislative activity in Washington, a dramatic AI‑driven security finding, and a surge in Southeast Asian funding together painted a picture of a market at the crossroads of regulation, innovation, and capital inflows. Below we break down the ten most relevant stories, explain the technical jargon, and assess what they mean for investors and developers alike.</p>\n<h2>1. Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote</h2>\n<p>The Senate’s Republican leadership unveiled a fresh draft of the <strong>Clarity Act</strong>, a cornerstone piece of U.S. crypto legislation. The revision adds mandatory registration for “controlled trading protocols” – essentially any on‑chain service that matches buyers and sellers without a traditional intermediary, such as decentralized exchanges (DEXs). While the ethics clauses remain largely untouched, the new registration requirement could force dozens of DeFi platforms to file with the Securities and Exchange Commission (SEC), exposing them to compliance costs and potential enforcement actions.</p>\n<p>Why it matters: Registration creates a legal foothold for regulators, but it also threatens the permissionless ethos that fuels DeFi growth. Projects that cannot meet the filing deadline may see liquidity dry up, prompting users to migrate to jurisdictions with lighter oversight.</p>\n<h2>2. New Clarity Act Text Tweaks DeFi, Credit Union Provisions, but Road Ahead Remains Murky</h2>\n<p>CoinDesk’s follow‑up highlighted two specific amendments: (1) a narrower definition of “controlled trading protocols” that excludes pure order‑book DEXs that merely broadcast price data, and (2) a provision allowing credit unions to hold crypto assets under a regulated custodial framework. Both changes aim to soften the bill’s impact on the broader DeFi ecosystem while still giving lawmakers a lever to monitor high‑risk activities.</p>\n<p>Implication: If the credit‑union carve‑out passes, we could see a wave of community‑bank‑style crypto products, potentially expanding retail exposure to Bitcoin and Ethereum in a regulated environment.</p>\n<h2>3. Senate Republicans Unveil Revised Crypto Bill Ahead of Key Clarity Act Vote</h2>\n<p>The Block reported that the revised bill will need a 60‑vote supermajority once the Senate reconvenes. The political calculus is delicate: while many Republicans see the bill as a way to curb illicit activity, some Democrats worry about stifling innovation. The upcoming vote will be a litmus test for how much bipartisan consensus can be achieved on crypto regulation.</p>\n<p>Market reaction: Bitcoin’s price slipped 1.2 % in the hours after the announcement, reflecting uncertainty, while Ethereum showed a more muted 0.5 % decline, likely because its broader utility base cushions short‑term sentiment.</p>\n<h2>4. AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin</h2>\n<p>Decrypt revealed that a new AI‑driven framework, dubbed <strong>ECDSA.Fail</strong>, reduced the computational resources needed for a critical step of a quantum attack on Bitcoin’s elliptic‑curve digital signature algorithm (ECDSA) by 86 %. In practical terms, the cost to mount a theoretical attack dropped from millions of dollars in quantum hardware to a few hundred thousand dollars, making the threat more plausible for well‑funded adversaries.</p>\n<p>Technical note: Bitcoin’s security relies on the difficulty of solving the discrete logarithm problem. Quantum computers, using Shor’s algorithm, could break this problem, but the hardware required has been prohibitively expensive—until now.</p>\n<p>What to watch: The Bitcoin development community is accelerating work on post‑quantum signatures (e.g., Schnorr‑based schemes, lattice‑based cryptography). Expect a surge in research funding and perhaps a soft‑fork proposal within the next 12‑18 months.</p>\n<h2>5. DeepSeek's New Model Nearly Matches GPT‑6 Astra on Design—at 1.4% of the Cost</h2>\n<p>Another Decrypt story showcased DeepSeek’s V4.1 Flash model, which performed within 1.5 % of OpenAI’s GPT‑6 Astra on a suite of design‑oriented benchmarks while costing roughly 70× less to run. For crypto developers, this translates to cheaper AI‑assisted smart‑contract auditing, token‑omics modeling, and NFT art generation.</p>\n<p>Impact: Lower AI costs could democratize advanced tooling, allowing smaller DeFi projects to run continuous security checks without breaking the bank, potentially offsetting some of the regulatory pressure from the Clarity Act.</p>\n<h2>6. Metaplanet Equity Backlash, SE Asia Crypto Funding Doubles: Asia Express</h2>\n<p>Cointelegraph reported a shareholder revolt at Metaplanet, a Bitcoin‑treasury firm that allocated a sizable equity slice to insiders without clear disclosure. The controversy coincided with new data showing that crypto venture capital in Southeast Asia doubled over the past year, cementing Singapore’s status as the region’s premier hub.</p>\n<p>Takeaway: Governance lapses can quickly erode trust, especially as institutional investors pour capital into the region. Companies that adopt transparent token‑holder voting and clear equity structures will likely attract the next wave of funding.</p>\n<h2>7. Bitwise Shuts Down Dogecoin ETF Less Than a Year After Launch</h2>\n<p>The Block confirmed that Bitwise’s Dogecoin‑focused ETF (ticker BWOW) was terminated after generating only $3 million in average daily volume, far below the $30 million threshold required to keep the fund alive. The ETF’s demise underscores the difficulty of sustaining niche crypto products in a market that still favors Bitcoin and Ethereum.</p>\n<p>Investor insight: While meme‑coin ETFs can generate headline buzz, they lack the institutional demand needed for long‑term viability. Asset managers may pivot toward broader, multi‑asset crypto funds or regulated stablecoin products.</p>\n<h2>8. ESMA Warns Growing Crypto Ties Could Amplify Risks to Traditional Finance</h2>\n<p>Cointelegraph relayed the European Securities and Markets Authority’s (ESMA) warning that tokenized equities, DeFi exploits, and prediction‑market platforms could introduce systemic risk to the EU’s financial system. The regulator urged national supervisors to coordinate oversight and develop cross‑border reporting standards.</p>\n<p>Connection to the Clarity Act: Both the U.S. and EU are moving toward tighter integration of crypto with legacy finance, suggesting a converging global regulatory front that could shape cross‑border capital flows.</p>\n<h2>9. Why a New SEC Plan Could Ease a Legal Headache for Tokenized Securities</h2>\n<p>CoinDesk explained the SEC’s proposal to overhaul transfer‑agent rules for tokenized securities. By allowing a single, blockchain‑based ledger to serve as the definitive record of ownership, the SEC aims to eliminate duplicate off‑chain shareholder registers, cutting reconciliation costs and legal uncertainty.</p>\n<p>Potential effect: Streamlined tokenized securities could accelerate corporate adoption of blockchain, especially for private placements and secondary markets, creating new demand for compliant token‑issuance platforms.</p>\n<h2>10. Here’s What Happened in Crypto Today</h2>\n<p>The daily roundup from Cointelegraph summarized the above stories and added a few market metrics: Bitcoin traded around $68,200, down 0.9 % on the day; Ethereum hovered near $2,850, a 0.6 % dip; total DeFi TVL (total value locked) slipped 2 % as users moved funds into centralized lending platforms amid regulatory chatter.</p>\n<p>While the piece is a digest, it reinforces the narrative that regulatory headlines are the primary driver of short‑term price action, while technological breakthroughs (AI, quantum research) shape longer‑term risk and opportunity.</p>\n<h2>Market Outlook</h2>\n<p>In the coming weeks, the crypto market will likely experience heightened volatility tied to the Senate’s Clarity Act vote. A passage that leans toward stricter registration could trigger a short‑term outflow from DeFi tokens, while a watered‑down version may buoy sentiment. Simultaneously, the quantum‑attack cost reduction is a reminder that security fundamentals cannot be ignored; we may see accelerated migration toward post‑quantum cryptography, especially in high‑value custodial solutions.</p>\n<p>On the macro side, Southeast Asian capital inflows suggest a geographic shift in where new projects will launch. Expect more token sales and incubators emerging from Singapore, Malaysia, and Indonesia, potentially creating arbitrage opportunities for investors positioned in those markets.</p>\n<p>Overall, the market is entering a phase where regulatory clarity and technical resilience will be the twin pillars determining which assets thrive.</p>\n<h2>Key Takeaways</h2>\n<ul><li><strong>Regulation dominates short‑term sentiment:</strong> The Clarity Act’s revisions, especially the registration of controlled trading protocols, could reshape DeFi liquidity.</li><li><strong>Quantum risk is becoming more tangible:</strong> AI‑driven cost cuts to quantum attacks accelerate the need for post‑quantum signatures on Bitcoin and other major chains.</li><li><strong>AI cost reductions democratize advanced tooling:</strong> Models like DeepSeek V4.1 make sophisticated design and audit AI accessible to smaller teams.</li><li><strong>Asian crypto funding is booming:</strong> Singapore’s ecosystem is now the leading hub in the region, attracting both venture capital and talent.</li><li><strong>ETF and tokenized‑security products face a survival test:</strong> Weak demand for niche ETFs (e.g., Dogecoin) and new SEC transfer‑agent rules highlight the importance of product‑market fit and regulatory alignment.</li><li><strong>European regulators are tightening oversight:</strong> ESMA’s warning signals a coordinated global push to integrate crypto with traditional finance safely.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express — <em>Cointelegraph</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote — <em>Decrypt</em></li>\n<li>[4] DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost — <em>Decrypt</em></li>\n<li>[5] AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin — <em>Decrypt</em></li>\n<li>[6] Bitwise shuts down Dogecoin ETF less than a year after launch — <em>The Block</em></li>\n<li>[7] New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky — <em>CoinDesk</em></li>\n<li>[8] ESMA warns growing crypto ties could amplify risks to traditional finance — <em>Cointelegraph</em></li>\n<li>[9] Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week — <em>The Block</em></li>\n<li>[10] Why a new SEC plan could ease a legal headache for tokenized securities — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "ai",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789100218/xeonbit24/posts/crypto-roundup-september-11-2026-at-1116-am-ict-us-senates-clarity-act-revisions.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789100218/xeonbit24/posts/crypto-roundup-september-11-2026-at-1116-am-ict-us-senates-clarity-act-revisions.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-11-2026-at-1116-am-ict-us-senates-clarity-act-revisions",
+        "width": 2570,
+        "height": 1446,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 11, 2026 at 11:16 AM (ICT): U.S. Senate’s Clarity Act revisions dominate, AI‑driven quantum thr"
+      },
+      "sourceUrl": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+          "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+          "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+          "source": "Decrypt"
+        },
+        {
+          "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+          "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+          "source": "Decrypt"
+        },
+        {
+          "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+          "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+          "url": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
+          "source": "The Block"
+        },
+        {
+          "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+          "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+          "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
+          "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
+          "source": "The Block"
+        },
+        {
+          "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+          "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-09-11T04:16:59.069Z",
+      "slug": "crypto-roundup-september-11-2026-at-1116-am-ict-us-senates-clarity-act-revisions"
+    },
+    {
       "id": "1789053687449",
       "title": "Crypto Roundup September 10, 2026 at 10:21 PM (ICT): Bitcoin dip, stablecoin expansion, and DeFi upgrades",
       "summary": "Bitcoin slipped amid a surprise US PPI overshoot and soaring 30‑year Treasury yields, while stablecoin infrastructure gained momentum through Coinbase‑Moov partnerships and MoneyGram’s Visa card launch. DeFi innovators like Uniswap also rolled out new tools to capture more value from stablecoin trading.",
@@ -22088,15 +22168,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
-    "https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545",
-    "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-    "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
-    "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
-    "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
     "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
     "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
     "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -22587,10 +22658,18 @@
     "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
     "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
     "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
-    "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+    "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+    "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+    "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
+    "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+    "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
+    "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/tech/2026/06/02/here-s-how-one-decentralized-cloud-provider-says-private-citizens-can-make-money-from-ai|https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months|https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
     "https://www.coindesk.com/markets/2026/06/03/bitcoin-plunges-below-usd66-000-even-as-global-stocks-hit-fresh-records|https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance|https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403600/polymarket-upholds-no-outcome-strategy-bitcoin-sale-market?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403594/bitmine-preferred-stock-offering?utm_source=rss&amp;utm_medium=rss",
@@ -22789,6 +22868,7 @@
     "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935|https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
     "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo|https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
     "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086|https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-    "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million|https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153|https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors"
+    "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million|https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153|https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+    "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft"
   ]
 }
