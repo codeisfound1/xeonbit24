@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789360490358",
+      "title": "Crypto Roundup September 14, 2026 at 11:34 AM (ICT): US regulatory push, security incidents, and AI‑crypto cross‑currents",
+      "summary": "Congressional negotiations on the CLARITY Act dominate the headlines, while a recovered Bitcoin bridge exploit, a Mexican mining raid, and a high‑profile fintech breach underscore security risks. Meanwhile, AI‑related market sentiment and quantum‑proof research add technical depth to the week’s narrative.",
+      "content": "<p>September 14, 2026 proved to be a busy day for the crypto ecosystem. The most consequential development was the bipartisan push around the CLARITY Act, a sweeping legislative package that could reshape how public officials interact with digital assets. At the same time, security incidents—from a recovered Bitcoin bridge theft to a data‑leak threat against Revolut—reminded markets that risk management remains paramount. Finally, emerging discussions on AI slowdown, quantum‑proof blockchains, and the true economic impact of AI agents added layers of nuance to the broader market outlook.</p>\n<h2>1. Senate Republicans release ‘final’ CLARITY Act draft as Trump accepts most ethics provisions</h2>\n<p>The Block reports that Senate Republicans have unveiled a 635‑page final draft of the CLARITY Act, now featuring ethics restrictions championed by former President Donald Trump. The provisions would bar elected officials and their spouses from holding or trading crypto assets while in office, a move aimed at curbing perceived conflicts of interest. The timing—just days before a pivotal procedural vote—signals that lawmakers are eager to lock in a framework before the next election cycle.</p>\n<h2>2. US Republicans send ‘final’ CLARITY Act offer to Democrats</h2>\n<p>Cointelegraph echoes the same development, emphasizing that the revised proposal has been formally transmitted to Democratic leaders. The bipartisan outreach underscores the political calculus: Republicans want to present the bill as a balanced, “common‑sense” measure, while Democrats are likely to press for stronger consumer‑protection clauses and clearer AML (anti‑money‑laundering) standards. The near‑term market reaction may hinge on whether the Senate can achieve a cloture vote before the summer recess.</p>\n<h2>3. Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest</h2>\n<p>Cointelegraph’s Hodler’s Digest ties the CLARITY debate to a broader tech narrative. Fears that AI‑driven “swarm” models could destabilize financial markets have prompted calls for a temporary slowdown in AI development. Analysts predict that a dip in AI‑related equities could spill over into crypto, especially projects heavily funded by AI venture capital. The confluence of regulatory scrutiny and AI risk sentiment creates a “perfect storm” for volatility.</p>\n<h2>4. Is Clarity dead? A vibes‑based analysis: State of Crypto</h2>\n<p>CoinDesk’s tongue‑in‑cheek piece pokes fun at the legislative frenzy, but the underlying message is clear: the CLARITY Act’s fate remains uncertain. While the article’s humor masks a serious point—policy outcomes are still “up in the air”—market participants should prepare for rapid shifts in compliance costs, particularly for crypto‑focused hedge funds and exchanges that will need to audit political exposure.</p>\n<h2>5. Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty</h2>\n<p>The Block details a successful partial recovery of a Bitcoin bridge hack on the Symbiosis platform. Security firm Blockaid traced roughly 46.1 billion syBTC (synthetic Bitcoin) minted by the attacker, but only $336,000 in proceeds were actually extracted. Symbiosis has offered a 20 % bounty for the return of the remaining funds, highlighting a growing trend of “bug‑bounty diplomacy” where projects incentivize attackers to cooperate rather than pursue legal action.</p>\n<h2>6. Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering</h2>\n<p>In a coordinated operation reported by The Block, Mexican law‑enforcement dismantled a clandestine mining farm near a hydroelectric dam. This is the fourth such raid in the region since early 2025, underscoring the persistent issue of illicit energy consumption and money‑laundering ties in the mining sector. The crackdown may push miners toward greener, regulated facilities, but could also temporarily tighten hash‑rate supply, nudging Bitcoin prices upward.</p>\n<h2>7. Revolut attackers threaten daily customer data leaks</h2>\n<p>Cointelegraph reveals that a hacker group has begun publishing identity documents and selfies from Revolut’s user base, demanding a ransom. The daily‑leak tactic amplifies pressure on the fintech firm and raises broader concerns about the security of custodial crypto wallets linked to traditional finance platforms. Investors are likely to scrutinize any crypto‑related services offered by Revolut for enhanced security protocols.</p>\n<h2>8. Quantum‑proof blockchain: why math, not machines, holds the key</h2>\n<p>CoinDesk’s opinion piece argues that post‑quantum security can be achieved through advanced cryptographic mathematics rather than waiting for quantum computers to become mainstream. MIT professor Muriel Médard emphasizes lattice‑based signatures and hash‑based schemes as viable paths forward. While still largely academic, the discussion is relevant for long‑term protocol designers who must future‑proof assets like Bitcoin and Ethereum against a potential quantum threat.</p>\n<h2>9. AI Agents Spending Money Online? New Research Says Not Really</h2>\n<p>Decrypt reports on a TRM study that examined $52.7 million across 198.9 million settlements using the x402 protocol. The findings suggest that most of the observed transactions are not driven by autonomous AI agents but by human‑initiated activity. This counters hype that AI bots are already reshaping on‑chain economics, reinforcing the view that current AI‑crypto integration is still in its infancy.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup aggregates the day’s price moves, DeFi updates, and regulatory headlines. Bitcoin hovered around $68,500, while Ethereum stayed near $4,800. DeFi TVL (total value locked) slipped 2 % after the Symbiosis incident, and NFT sales continued a modest decline, reflecting broader risk‑off sentiment.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of regulatory pressure, security incidents, and AI‑related market sentiment points to a short‑term environment of heightened volatility. If the Senate clears the CLARITY Act with bipartisan support, compliance costs will rise, but clarity could also attract institutional capital seeking a predictable regulatory landscape. Conversely, any stall or amendment that weakens the ethics provisions may keep political risk premiums elevated.</p>\n<p>Security‑focused events—Symbiosis’s bounty offer and the Revolut data‑leak threat—are likely to push exchanges and DeFi platforms to double‑down on audits, insurance, and real‑time monitoring. The Mexican mining raid signals that governments worldwide are willing to intervene against illicit hash‑rate, which could tighten supply and support Bitcoin’s price in the medium term.</p>\n<p>On the technology front, the quantum‑proof discussion and the modest impact of AI agents suggest that while hype cycles continue, practical implementation remains limited. Market participants should watch for any breakthrough in post‑quantum cryptography standards, as early adopters could gain a competitive edge.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li><strong>Regulation dominates:</strong> The CLARITY Act’s final draft is the week’s headline, with ethics rules poised to reshape political exposure to crypto.</li>\n<li><strong>Security remains paramount:</strong> Successful recovery of stolen BTC and high‑profile data‑leak threats highlight the need for robust custody and bounty strategies.</li>\n<li><strong>Energy enforcement gains traction:</strong> Mexican raids on illegal mining farms may curb illicit hash‑rate and reinforce the push toward greener mining.</li>\n<li><strong>AI hype tempered:</strong> Research shows limited on‑chain spending by AI agents, while AI‑related market fears could depress related equities and crypto projects.</li>\n<li><strong>Future‑proofing tech:</strong> Quantum‑resistant cryptography is moving from theory to practice, a trend worth monitoring for long‑term protocol security.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions — <em>The Block</em></li>\n<li>[2] US Republicans send ‘final’ CLARITY Act offer to Democrats — <em>Cointelegraph</em></li>\n<li>[3] Revolut attackers threaten daily customer data leaks — <em>Cointelegraph</em></li>\n<li>[4] Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[5] Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty — <em>The Block</em></li>\n<li>[6] Is Clarity dead? A vibes-based analysis: State of Crypto — <em>CoinDesk</em></li>\n<li>[7] Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering — <em>The Block</em></li>\n<li>[8] Quantum-proof blockchain: why math, not machines, holds the key — <em>CoinDesk</em></li>\n<li>[9] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[10] AI Agents Spending Money Online? New Research Says Not Really — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "defi",
+        "security",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789360489/xeonbit24/posts/crypto-roundup-september-14-2026-at-1134-am-ict-us-regulatory-push-security-inci.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789360489/xeonbit24/posts/crypto-roundup-september-14-2026-at-1134-am-ict-us-regulatory-push-security-inci.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-14-2026-at-1134-am-ict-us-regulatory-push-security-inci",
+        "width": 1200,
+        "height": 675,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 14, 2026 at 11:34 AM (ICT): US regulatory push, security incidents, and AI‑crypto cross‑current"
+      },
+      "sourceUrl": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions",
+          "url": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
+          "source": "The Block"
+        },
+        {
+          "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
+          "url": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Revolut attackers threaten daily customer data leaks",
+          "url": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+          "url": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+          "source": "The Block"
+        },
+        {
+          "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+          "source": "The Block"
+        },
+        {
+          "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+          "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Agents Spending Money Online? New Research Says Not Really",
+          "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-09-14T04:34:50.358Z",
+      "slug": "crypto-roundup-september-14-2026-at-1134-am-ict-us-regulatory-push-security-inci"
+    },
+    {
       "id": "1789312273577",
       "title": "Crypto Roundup September 13, 2026 at 10:11 PM (ICT): USDC expansion, Fed rate surprise and Bitcoin’s next test",
       "summary": "A surprise Fed rate‑hike, Circle’s $400 M push into emerging markets and Bitcoin’s battle at the $81.7k‑$88.7k resistance zone dominate the day, while regulatory uncertainty and a string of security breaches add caution to the market narrative.",
@@ -22572,14 +22653,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-    "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
-    "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
-    "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-    "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
-    "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
     "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
     "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876",
     "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
@@ -23071,10 +23144,17 @@
     "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
     "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
     "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
+    "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+    "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+    "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+    "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines|https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
     "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows|https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool|https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win|https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
     "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example|https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
@@ -23273,6 +23353,7 @@
     "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud|https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web|https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
     "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy|https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review|https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
     "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519|https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman|https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-    "https://decrypt.co/378103/ai-agents-spending-money-research|https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist|https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build"
+    "https://decrypt.co/378103/ai-agents-spending-money-research|https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist|https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+    "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575|https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
