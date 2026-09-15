@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789487303843",
+      "title": "Crypto Roundup September 15, 2026 at 10:48 PM (ICT): Bitcoin miners strain, Clarity Act turmoil, and DeFi breach",
+      "summary": "Bitcoin mining costs hit record highs while US regulators debate the Clarity Act, and a massive DeFi bridge hack shakes confidence. Combined with an MEV bot intercepting a wallet exploit and the EU’s digital euro pilot, the market faces regulatory pressure and technical risk.",
+      "content": "<p>September 15, 2026 was a whirlwind for crypto markets. Record‑high mining costs, a high‑stakes Senate vote on the Clarity Act, a multi‑billion‑token DeFi bridge exploit, and fresh regulatory signals from Europe all converged, creating a volatile backdrop for price action and investor sentiment.</p>\n<h2>1. Bitcoin price recovery unlikely to lure AI‑focused miners back, CoinShares says</h2>\n<p>CoinShares reports that publicly listed Bitcoin miners produced the cryptocurrency at an average ex‑tax cash cost of roughly <strong>$75,500 per BTC</strong> in Q2 2026. The figure dwarfs the current market price, making a price rally insufficient to bring AI‑optimized miners back online. The high cost reflects soaring electricity rates in key mining jurisdictions and the premium hardware required for AI‑driven hash‑rate optimization. Investors should watch miner profitability metrics closely, as sustained losses could force consolidation or a shift toward lower‑cost regions.</p>\n<h2>2. Bitcoin Sinks as the Senate's Clarity Act Showdown Looms</h2>\n<p>Bitcoin’s price erased its post‑golden‑cross gains in a single red candle as the Senate prepared to vote on the “Clarity Act,” a comprehensive crypto‑market‑structure bill. The market reacted to the uncertainty surrounding potential licensing, reporting, and custodial requirements that could reshape on‑chain activity in the United States. Traders interpreted the candle as a risk‑off move, prompting short‑term volatility across major exchanges.</p>\n<h2>3. Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote</h2>\n<p>Decrypt details a last‑minute push by Senate Democrats for additional concessions, including clearer definitions of “stablecoin” and expanded consumer‑protection clauses. Republicans have labeled the proposal as a final offer, creating a partisan stalemate. The political tug‑of‑war adds another layer of uncertainty for crypto firms awaiting regulatory clarity.</p>\n<h2>4. Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears</h2>\n<p>Senator Cynthia Lummis, a leading Republican voice on crypto, publicly dismissed the Democratic counter‑proposal, emphasizing that any dilution of the original bill would undermine its effectiveness. Her stance signals that the vote could swing either way, depending on whether moderate Republicans break ranks.</p>\n<h2>5. Clarity Act's odds of passing plunge as Republicans reject Democrats' counter‑proposal</h2>\n<p>Prediction markets on CoinDesk showed a sharp decline in the odds of the Clarity Act’s passage after the Republican rejection. The market now prices a roughly 35% chance of enactment, down from 55% just 24 hours earlier. This shift has already impacted crypto‑related equities, with several blockchain‑focused ETFs seeing modest outflows.</p>\n<h2>6. Morning Minute: Clarity Act Odds Slump After Democrat Pushback</h2>\n<p>Decrypt’s “Morning Minute” notes that the odds reversal has prompted crypto majors to adjust their lobbying strategies. Companies like Coinbase and Kraken are reportedly intensifying direct outreach to swing senators, hoping to shape the final language before the vote.</p>\n<h2>7. ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address</h2>\n<p>An attacker attempted to exploit a custom Safe module on Ethereum, targeting rsETH (a liquid staking token). The MEV (Miner Extractable Value) bot “Yoink” front‑ran the transaction, siphoning $7.7 million before the Kelp protocol froze the receiving address. The incident highlights the growing cat‑and‑mouse game between exploit developers and front‑running bots, underscoring the need for robust smart‑contract audits.</p>\n<h2>8. A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge</h2>\n<p>Symbiosis suffered a catastrophic bridge breach where two software bugs allowed an attacker to mint over 2,000 × Bitcoin’s total supply in unbacked syBTC. Preliminary losses are estimated at 9.97 BTC (≈$950 k at current prices). The event revives concerns about cross‑chain bridges, which have historically been high‑risk vectors for systemic loss.</p>\n<h2>9. European Central Bank calls for merchants to participate in digital euro pilot</h2>\n<p>The ECB launched a 12‑month digital euro pilot, inviting merchants to test the beta currency across online, mobile, in‑store, and peer‑to‑peer payments. While the initiative is primarily a sovereign‑digital‑currency experiment, it signals growing institutional acceptance of blockchain‑adjacent payment rails and could set a precedent for other central banks.</p>\n<h2>10. USDT payments feature in Polish energy giant’s failed $230M oil deal: FT</h2>\n<p>Cointelegraph reports that Tether’s USDT stablecoin was part of a $230 million oil transaction that ultimately fell through in late 2023. The case illustrates the lingering regulatory scrutiny around stablecoins in high‑value commodity trades, especially in jurisdictions with strict AML/KYC regimes.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term market sentiment remains bearish, driven by the convergence of high mining costs, regulatory uncertainty from the Clarity Act, and fresh technical failures in DeFi. Bitcoin’s price is likely to stay under pressure until either the Senate vote clarifies the regulatory landscape or mining economics improve via cheaper energy or more efficient hardware. Ethereum may see modest upside if the MEV bot incident spurs broader adoption of protective tools like MEV‑shield and transaction‑ordering safeguards. The digital euro pilot could attract institutional capital to European crypto ecosystems, but the impact will be gradual.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Mining profitability is at a historic low; miners may consolidate or relocate to cheaper jurisdictions.</li><li>The Clarity Act remains a pivotal regulatory event; its outcome will shape U.S. crypto compliance costs.</li><li>DeFi bridges continue to be high‑risk; rigorous code audits and insurance mechanisms are essential.</li><li>MEV bots are becoming active defenders against exploits, but they also raise fairness concerns.</li><li>Central bank digital currency pilots, like the digital euro, signal mainstream acceptance but are unlikely to disrupt crypto markets immediately.</li><li>Stablecoin usage in large‑scale commodity deals remains contentious and subject to regulatory pushback.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin price recovery unlikely to lure AI-focused miners back, CoinShares says — <em>The Block</em></li>\n<li>[2] ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address — <em>Cointelegraph</em></li>\n<li>[3] Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote — <em>Decrypt</em></li>\n<li>[4] Bitcoin Sinks as the Senate's Clarity Act Showdown Looms — <em>Decrypt</em></li>\n<li>[5] Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears — <em>The Block</em></li>\n<li>[6] European Central Bank calls for merchants to participate in digital euro pilot — <em>CoinDesk</em></li>\n<li>[7] Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal — <em>CoinDesk</em></li>\n<li>[8] Morning Minute: Clarity Act Odds Slump After Democrat Pushback — <em>Decrypt</em></li>\n<li>[9] A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge — <em>CoinDesk</em></li>\n<li>[10] USDT payments feature in Polish energy giant’s failed $230M oil deal: FT — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "stablecoins",
+        "digital euro"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789487303/xeonbit24/posts/crypto-roundup-september-15-2026-at-1048-pm-ict-bitcoin-miners-strain-clarity-ac.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789487303/xeonbit24/posts/crypto-roundup-september-15-2026-at-1048-pm-ict-bitcoin-miners-strain-clarity-ac.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-15-2026-at-1048-pm-ict-bitcoin-miners-strain-clarity-ac",
+        "width": 1200,
+        "height": 675,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 15, 2026 at 10:48 PM (ICT): Bitcoin miners strain, Clarity Act turmoil, and DeFi breach"
+      },
+      "sourceUrl": "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin price recovery unlikely to lure AI-focused miners back, CoinShares says",
+          "url": "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
+          "source": "The Block"
+        },
+        {
+          "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+          "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
+          "url": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
+          "url": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears",
+          "url": "https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850",
+          "source": "The Block"
+        },
+        {
+          "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+          "url": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+          "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
+          "url": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
+          "source": "Decrypt"
+        },
+        {
+          "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+          "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+          "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-15T15:48:23.843Z",
+      "slug": "crypto-roundup-september-15-2026-at-1048-pm-ict-bitcoin-miners-strain-clarity-ac"
+    },
+    {
       "id": "1789446904041",
       "title": "Crypto Roundup September 15, 2026 at 11:34 AM (ICT): Solana upgrade, Clarity Act showdown, and market shake‑ups",
       "summary": "Bitcoin slipped below $78k as U.S. lawmakers edged toward a vote on the Clarity Act, while Solana announced a three‑fold boost to transaction size, giving it a fresh competitive edge. Regulatory pressure intensified with a new DOJ seizure, a looming crypto tax bill, and the shutdown of CoinEx, shaping a cautious market outlook.",
@@ -22814,16 +22895,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
-    "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-    "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-    "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
-    "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-    "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-    "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-    "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-    "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
-    "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
     "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
     "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/375821/prediction-fed-rate-change-september",
@@ -23313,10 +23384,19 @@
     "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
     "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
-    "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it"
+    "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844",
+    "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
+    "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
+    "https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850",
+    "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+    "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+    "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
+    "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+    "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example|https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
     "https://decrypt.co/370128/claude-opus-4-8-review|https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says|https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/06/08/bitcoin-recedes-to-usd63-000-as-iran-israel-trade-strikes-and-korean-stocks-crash|https://cointelegraph.com/news/justin-suns-htx-delists-trump-familys-usd1-amid-freeze-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum|https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&amp;utm_medium=rss",
@@ -23515,6 +23595,7 @@
     "https://decrypt.co/378103/ai-agents-spending-money-research|https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist|https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
     "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575|https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/378132/bitmine-adds-68-million-ethereum|https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-    "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum|https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions"
+    "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum|https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+    "https://www.theblock.co/news/markets/2026-09-15-bitcoin-price-recovery-unlikely-lure-ai-focused-miners-back-coinshares-says-414844|https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote"
   ]
 }
