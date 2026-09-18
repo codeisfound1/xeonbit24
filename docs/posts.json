@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789744748370",
+      "title": "Crypto Roundup September 18, 2026 at 10:19 PM (ICT): Regulation pushes forward, Zcash ETF split, and EU licensing turbulence",
+      "summary": "The CFTC advanced its crypto rulemaking to the White House while the ECB blocked Binance’s MiCA license, sparking regulatory ripples. Meanwhile, Grayscale’s Zcash ETF announced a 3‑for‑1 split amid a surge of inflows, and banks doubled their presence on the EU MiCA register.",
+      "content": "<p>September 18, 2026 proved to be a busy day for crypto markets, with regulators, institutional players, and infrastructure providers all making headline‑making moves. The Commodity Futures Trading Commission (CFTC) accelerated its rulemaking process by sending proposals directly to the White House, while the European Central Bank (ECB) intervened to stall Binance’s MiCA licensing. At the same time, Grayscale’s Zcash ETF announced a 3‑for‑1 split after a massive inflow surge, and banks have dramatically increased their representation on the EU’s MiCA provider register. These developments, together with a cyber‑attack on a crypto tech provider and ongoing discussions about AI data use, shape a market that is both resilient and increasingly regulated.</p>\n<h2>1. CFTC Sends Crypto Rules to White House as Congress Stalls on Clarity Act</h2>\n<p>The CFTC has bypassed a stalled Congress by forwarding its comprehensive crypto‑asset rulemaking package to the White House for review. The proposal seeks to clarify the treatment of futures, swaps, and other derivatives tied to digital assets, aiming to close the regulatory gap that has left many market participants uncertain about compliance. By moving the process forward without legislative approval, the CFTC signals a willingness to set de‑facto standards, potentially influencing the SEC’s parallel efforts on tokenized securities. This could lead to a more unified U.S. regulatory framework, reducing the risk of fragmented state‑level rules.</p>\n<h2>2. CFTC Files Crypto Asset Rulemaking with White House, Pressing Ahead Without Congress</h2>\n<p>A related report from The Block emphasizes that the CFTC’s action is not a one‑off; the agency has formally filed its rulemaking package with the Executive Office, requesting feedback within 60 days. The move underscores the agency’s urgency to provide market certainty before the next election cycle, when political appetite for crypto regulation may shift. Industry groups have welcomed the clarity, noting that clearer futures and swap rules could unlock new liquidity for Bitcoin (BTC) and Ethereum (ETH) derivatives.</p>\n<h2>3. ECB President Christine Lagarde Intervened to Block Binance’s EU MiCA License</h2>\n<p>Although the ECB lacks formal licensing authority under the EU’s Markets in Crypto‑Assets (MiCA) regime, President Lagarde’s behind‑the‑scenes intervention caused Greece to pause Binance’s application. The decision reflects growing political scrutiny of large, cross‑border exchanges, especially concerning anti‑money‑laundering (AML) compliance. Binance’s delayed entry into the EU market may push the exchange to bolster its AML controls, but it also leaves a vacuum that could be filled by smaller, EU‑based platforms that are already MiCA‑compliant.</p>\n<h2>4. Banks Double on EU MiCA Crypto Provider List as Share Hits 23%</h2>\n<p>Data from ESMA shows that banks now constitute nearly one‑quarter of the entities listed on the MiCA provider register, up from roughly 12% in June. Traditional financial institutions are leveraging MiCA to offer custodial, settlement, and tokenization services, positioning themselves as trusted intermediaries for institutional investors. This shift signals a convergence of legacy finance and crypto, potentially smoothing the path for large‑scale tokenized asset issuance and increasing overall market stability.</p>\n<h2>5. Grayscale’s Zcash ETF Plans 3‑for‑1 Split After $233 Million Inflow Surge</h2>\n<p>Grayscale’s Zcash (ZEC) ETF (ticker ZCSH) is preparing a 3‑for‑1 split after attracting $233 million in new capital, pushing total assets close to $890 million. The split is designed to make the ETF more accessible to retail investors by lowering the per‑share price, a tactic similar to stock splits in traditional markets. ZEC’s recent price rally, driven by heightened mining competition and renewed interest in privacy‑focused coins, has amplified demand for the fund, suggesting that investors are seeking diversified exposure to privacy assets amid broader market volatility.</p>\n<h2>6. Ava Labs President Says NYSE Spent a Year Testing Avalanche Technology for Tokenization Plans</h2>\n<p>Cooper, president of Ava Labs, revealed that the New York Stock Exchange (NYSE) spent a year piloting Avalanche’s blockchain for tokenization projects. While the NYSE has not yet committed to a full rollout, the extensive testing indicates serious interest from legacy exchanges in leveraging high‑throughput, low‑latency platforms for issuing tokenized securities. Avalanche’s consensus mechanism, which combines proof‑of‑stake with sub‑networks, could enable rapid settlement of tokenized stocks, bonds, and even derivatives, bridging the gap between traditional markets and decentralized finance (DeFi).</p>\n<h2>7. Crypto Tech Provider Haruko Hit by Cyberattack Affecting 15 Clients, Some Funds Lost</h2>\n<p>Haruko, a backend services provider for crypto hedge funds, suffered a targeted cyber‑attack that compromised data and, in some cases, resulted in the loss of client funds. Smaller funds with limited security budgets were most affected, highlighting the ongoing risk disparity between well‑funded institutions and boutique players. The incident underscores the need for industry‑wide security standards and may accelerate adoption of multi‑party computation (MPC) wallets and other advanced custody solutions.</p>\n<h2>8. Here’s What Happened in Crypto Today</h2>\n<p>The daily roundup from Cointelegraph recapped price movements across major assets: Bitcoin hovered around $68,500, Ethereum near $4,850, and altcoins such as Solana and Polkadot showed modest gains. DeFi protocols reported a 2% net inflow of capital, while NFT marketplaces saw a slight dip in sales volume. The summary reinforces the broader narrative that regulatory news is currently the primary driver of market sentiment.</p>\n<h2>9. DHS’s Predictive Policing Is Unconstitutional, Un‑American and Should Be Stopped</h2>\n<p>Coin Center’s Laz Pieper published an opinion piece warning that the Department of Homeland Security’s use of predictive policing tools—leveraging financial transaction data to infer political views—poses a civil‑rights threat. While not directly about crypto, the argument raises concerns for the broader crypto community about data privacy, especially as regulators consider on‑chain analytics for AML purposes.</p>\n<h2>10. Microsoft Staff Asked If AI Scraping Was ‘Largest Theft of Labor in Human History’</h2>\n<p>Internal Microsoft memos, reported by Decrypt, flagged the ethical dilemma of AI models trained on scraped internet content without compensation to original creators. The discussion is relevant to crypto because many blockchain projects rely on open‑source code and community contributions. As AI becomes more integrated with blockchain analytics and smart‑contract auditing, the industry may need to develop new licensing frameworks to protect contributors.</p>\n<h2>Market Outlook</h2>\n<p>Regulatory momentum is the dominant theme shaping the market’s near‑term trajectory. The CFTC’s proactive rulemaking and the ECB’s intervention signal that authorities are moving from tentative observation to decisive action. This could reduce regulatory uncertainty, encouraging institutional capital to flow back into crypto derivatives and tokenized assets, especially if the U.S. framework aligns with European MiCA standards.</p>\n<p>At the same time, the growing presence of banks on the MiCA register and the interest from legacy exchanges like NYSE suggest that the next wave of adoption will be driven by hybrid solutions that blend traditional finance compliance with blockchain efficiency. However, security breaches such as the Haruko attack remind investors that operational risk remains a critical factor, particularly for smaller players.</p>\n<p>Overall, the market is likely to experience modest upside in the coming weeks, provided that regulatory clarity continues to improve and that security incidents are contained. Bitcoin and Ethereum may test the $70k and $5k levels respectively, while privacy coins and tokenized asset ETFs could see heightened inflows.</p>\n<h2>Key Takeaways</h2>\n<ul><li>The CFTC is forging ahead with crypto‑asset rules, potentially setting a de‑facto U.S. standard.</li><li>ECB’s blocking of Binance’s MiCA license highlights political scrutiny of large exchanges in Europe.</li><li>Banks now represent 23% of MiCA providers, indicating a convergence of traditional finance and crypto.</li><li>Grayscale’s Zcash ETF split aims to broaden retail access amid strong inflows.</li><li>Legacy exchanges are actively testing blockchain solutions, with Avalanche leading the pilot efforts.</li><li>Security remains a top concern; the Haruko breach underscores the need for stronger custodial safeguards.</li><li>Emerging discussions on data privacy (DHS predictive policing) and AI scraping may influence future regulatory approaches.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act — <em>CoinDesk</em></li>\n<li>[2] Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge — <em>The Block</em></li>\n<li>[3] Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost — <em>CoinDesk</em></li>\n<li>[4] Banks double on EU MiCA crypto provider list as share hits 23% — <em>Cointelegraph</em></li>\n<li>[5] Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans — <em>The Block</em></li>\n<li>[6] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[7] CFTC files crypto asset rulemaking with White House, pressing ahead without Congress — <em>The Block</em></li>\n<li>[8] DHS’s predictive policing is unconstitutional, un-American and should be stopped — <em>CoinDesk</em></li>\n<li>[9] ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ — <em>CoinDesk</em></li>\n<li>[10] Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History' — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "altcoins"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789744747/xeonbit24/posts/crypto-roundup-september-18-2026-at-1019-pm-ict-regulation-pushes-forward-zcash-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789744747/xeonbit24/posts/crypto-roundup-september-18-2026-at-1019-pm-ict-regulation-pushes-forward-zcash-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-18-2026-at-1019-pm-ict-regulation-pushes-forward-zcash-",
+        "width": 1920,
+        "height": 1078,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 18, 2026 at 10:19 PM (ICT): Regulation pushes forward, Zcash ETF split, and EU licensing turbul"
+      },
+      "sourceUrl": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+          "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Grayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+          "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+          "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+          "url": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress",
+          "url": "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
+          "source": "The Block"
+        },
+        {
+          "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+          "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+          "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+          "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-09-18T15:19:08.371Z",
+      "slug": "crypto-roundup-september-18-2026-at-1019-pm-ict-regulation-pushes-forward-zcash-"
+    },
+    {
       "id": "1789705285529",
       "title": "Crypto Roundup September 18, 2026 at 11:21 AM (ICT): Bitcoin Hits $77k Amid BOJ Rate Hike, Global Regulatory Shifts, and AI‑Driven Risks",
       "summary": "Bitcoin surged past $77,000 after the Bank of Japan’s surprise rate hike, while a new self‑custodial super‑app rolled out worldwide and regulators tightened sanctions on Iranian crypto services. AI‑related security concerns and tokenized stock initiatives added further complexity to the market.",
@@ -23300,15 +23381,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
-    "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
-    "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
-    "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-    "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-    "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
-    "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
     "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
     "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23799,10 +23871,18 @@
     "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
     "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
     "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-    "https://decrypt.co/378553/why-chipotle-working-with-palantir"
+    "https://decrypt.co/378553/why-chipotle-working-with-palantir",
+    "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+    "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
+    "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+    "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
+    "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
+    "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+    "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+    "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/404199/kalshi-requires-employer-disclosure?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high|https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule|https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt",
     "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next|https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round|https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
@@ -24001,6 +24081,7 @@
     "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead|https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
     "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october|https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326",
     "https://www.theblock.co/news/ecosystems/2026-09-17-not-enough-block-space-avalanche-treasury-ceo-says-ai-agents-crunch-blockchain-capacity-415397|https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading|https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-    "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/17/boj-rate-hike|https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/17/boj-rate-hike|https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act|https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520|https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost"
   ]
 }
