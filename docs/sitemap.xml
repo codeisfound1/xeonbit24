@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-september-18-2026-at-1121-am-ict-bitcoin-hits-77k-amid-boj-rate-h</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789705285/xeonbit24/posts/crypto-roundup-september-18-2026-at-1121-am-ict-bitcoin-hits-77k-amid-boj-rate-h.jpg</image:loc>
+      <image:title>Crypto Roundup September 18, 2026 at 11:21 AM (ICT): Bitcoin Hits $77k Amid BOJ Rate Hike, Global Regulatory Shifts, and AI‑Driven Risks</image:title>
+      <image:caption>Crypto Roundup September 18, 2026 at 11:21 AM (ICT): Bitcoin Hits $77k Amid BOJ Rate Hike, Global Regulatory Shifts, and</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-september-17-2026-at-1046-pm-ict-regulatory-pressure-spikes-token</loc>
