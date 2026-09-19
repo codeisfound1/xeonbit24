@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789829801816",
+      "title": "Crypto Roundup September 19, 2026 at 09:56 PM (ICT): AI‑driven risk, XRP upgrades, and a surge in speed upgrades across chains",
+      "summary": "AI‑related systemic risk warnings, Ripple’s XRP Ledger upgrade, and Solana’s speed boost dominate today’s headlines, while stable‑coin custody, tokenization, and regulatory actions shape the broader market narrative.",
+      "content": "<p>September 19, 2026 was a busy day for the crypto ecosystem. From a high‑profile warning that artificial intelligence could spark banking‑system shocks to a series of technical upgrades that promise faster, cheaper transactions, the market is juggling both existential risk and rapid innovation. Asset managers are gearing up for Ripple’s next XRP Ledger upgrade, Solana has shaved 17% off its block time, and traditional finance players are deepening their token‑money strategies. Meanwhile, regulatory headlines—from a Hong Kong prison sentence to a new national‑trust charter for stable‑coin custody—underscore the tightening interplay between crypto and the broader financial system. Below we break down each story, assess its impact, and look ahead to what these trends could mean for investors.</p>\n<h2>1. \"We have lost control\": Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks</h2>\n<p>Marc van der Chijs, an early Bitcoin adopter, sold a large portion of his holdings to fund AI ventures and now warns that unchecked AI could destabilise the banking sector. He points to AI‑driven algorithmic trading, automated credit‑risk models, and deep‑fake fraud as vectors that could amplify market volatility and create cascading failures across both traditional and crypto‑centric infrastructure. Van der Chijs is reallocating some AI profits back into Bitcoin as a hedge against systemic risk, a move that signals growing investor anxiety about AI‑related contagion. The broader implication is a potential shift in capital flows toward “digital safe‑havens” like Bitcoin, especially if regulators begin to scrutinise AI‑enabled financial services more closely.</p>\n<h2>2. Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade</h2>\n<p>Ripple announced that asset managers are testing the upcoming Batch V1.1 upgrade, which introduces atomic linked‑asset transfers—meaning a payment and its associated token move succeed together or both fail. This functionality is crucial for complex financial products such as cross‑border settlements, tokenised securities, and decentralized finance (DeFi) bridges. Early commercial pilots are already being built, suggesting that the XRP Ledger could become a preferred layer‑2 settlement network for institutional players seeking speed, low fees, and regulatory compliance. The upgrade also positions XRP as a bridge currency in a growing ecosystem of tokenised assets.</p>\n<h2>3. Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade</h2>\n<p>Solana’s newest protocol tweak reduces average block time by 17%, improving transaction freshness without expanding raw throughput. The change is achieved by tightening the network’s clock synchronization and optimizing the Turbine block propagation layer. While capacity remains roughly the same, the faster heartbeat benefits high‑frequency trading, real‑time gaming, and DeFi applications that rely on up‑to‑the‑second price feeds. The upgrade reaffirms Solana’s focus on low‑latency use cases rather than sheer transaction volume, differentiating it from rivals like Ethereum that are scaling primarily through rollups.</p>\n<h2>4. \"The orange tie stays\": Michael Saylor responds to venture capitalist's bitcoin obituary</h2>\n<p>Michael Saylor fired back at venture capitalist Jason Calacanis, who likened Bitcoin to an obsolete CD in the streaming era. Saylor countered that Bitcoin remains the “digital gold” of the modern age, emphasizing its scarcity, store‑of‑value properties, and growing institutional adoption. The exchange highlights the ongoing cultural clash between crypto evangelists and skeptical financiers, but also underscores Bitcoin’s resilience as a narrative anchor for the market.</p>\n<h2>5. Robinhood Chain fees collapse 97% even as transactions stay near record highs</h2>\n<p>Robinhood’s on‑chain settlement layer saw average fees drop 82% over a week, yet daily transaction volume stayed around $1.5 billion. The fee plunge is attributed to a combination of lower network congestion on Ethereum’s post‑Merge environment and Robinhood’s own fee‑rebate program aimed at attracting high‑frequency traders. Despite the fee compression, the platform’s transaction count dipped only 6%, indicating that users are price‑sensitive but still value the convenience of integrated fiat‑on‑ramp services.</p>\n<h2>6. Why Wall Street giants build tokenization money for institutions, not regular consumers</h2>\n<p>JPMorgan and Citi are piloting tokenised deposits and other digital assets exclusively within their own branches, targeting large‑scale institutional clients. The article notes a UK challenger bank preparing to launch a consumer‑facing tokenised product, a move that could democratise access to tokenised finance. The trend reflects a cautious rollout strategy: banks first test regulatory compliance and operational risk with trusted partners before opening the floodgates to retail users.</p>\n<h2>7. Bastion wins conditional OCC approval for national trust bank charter</h2>\n<p>Bastion Platforms secured a conditional charter from the U.S. Office of the Comptroller of the Currency (OCC) to operate as a national trust company. The charter will allow Bastion to offer stablecoin custody, wallet services, and white‑label issuance under a single federally regulated umbrella. This development could streamline compliance for crypto firms and set a precedent for future “bank‑crypto hybrids” that blend traditional trust services with digital asset custody.</p>\n<h2>8. Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report</h2>\n<p>A former banking official in Hong Kong received a four‑year prison sentence for forging letters of credit worth $1.6 billion and accepting $470,000 in crypto bribes. The case illustrates how illicit actors still exploit cryptocurrency’s pseudo‑anonymity for large‑scale fraud, prompting regulators in Asia to tighten AML/KYC enforcement around crypto transactions.</p>\n<h2>9. Coinbase Files to List Single‑Stock Perps on Apple, Tesla and Nvidia</h2>\n<p>Coinbase has submitted a filing to the CFTC seeking approval for single‑stock perpetual contracts on high‑profile equities such as Apple, Tesla, and Nvidia. If approved, U.S. traders could gain 24‑hour leveraged exposure to these stocks without owning the underlying shares, blurring the line between traditional equities and crypto‑style derivatives. The move signals Coinbase’s ambition to expand beyond crypto into broader digital‑asset derivatives markets.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup recapped the day’s price action, regulatory updates, and notable on‑chain metrics. Bitcoin hovered near $31,200, Ethereum stayed around $2,150, and DeFi total value locked (TVL) edged up 1.2% despite the fee compression on Robinhood. The summary reinforces the mixed‑signal environment: technical upgrades and institutional interest are strong, but regulatory scrutiny and macro‑risk warnings remain prominent.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of three macro trends—AI‑related systemic risk, institutional tokenisation, and rapid chain upgrades—will shape market dynamics over the next quarter. AI concerns may drive a modest reallocation toward Bitcoin and other “safe‑haven” assets, especially if central banks signal tighter oversight of AI‑enabled financial services. Meanwhile, Ripple’s Batch V1.1 and Bastion’s trust charter suggest that institutional demand for compliant, fast settlement layers is accelerating, potentially boosting the liquidity and price stability of XRP and stablecoins. Solana’s latency improvements could attract more high‑frequency DeFi strategies, but the network still faces competition from Ethereum’s rollup ecosystem.</p>\n<p>Regulatory pressure is intensifying, as seen in Hong Kong’s prison sentence and the OCC’s cautious charter approval. Investors should monitor policy developments in the U.S., EU, and Asia, as they will likely dictate the speed at which tokenised products reach retail markets.</p>\n<h2>Key Takeaways</h2>\n<ul><li>AI‑driven systemic risk warnings may push capital toward Bitcoin as a hedge.</li><li>Ripple’s upcoming Batch V1.1 upgrade positions XRP as a leading settlement layer for institutional tokenised assets.</li><li>Solana’s 17% faster block time enhances its appeal for latency‑sensitive applications, though capacity remains unchanged.</li><li>Traditional finance continues to experiment with tokenisation, but consumer‑facing products are still nascent.</li><li>Regulatory actions—from OCC charters to criminal prosecutions—highlight the growing need for compliance infrastructure.</li><li>Coinbase’s push into single‑stock perps indicates a blurring of lines between crypto derivatives and traditional equity markets.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] 'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks — <em>CoinDesk</em></li>\n<li>[2] Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade — <em>CoinDesk</em></li>\n<li>[3] Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade — <em>Decrypt</em></li>\n<li>[4] 'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary — <em>CoinDesk</em></li>\n<li>[5] Robinhood Chain fees collapse 97% even as transactions stay near record highs — <em>CoinDesk</em></li>\n<li>[6] Why Wall Street giants build tokenization money for institutions, not regular consumers — <em>CoinDesk</em></li>\n<li>[7] Bastion wins conditional OCC approval for national trust bank charter — <em>Cointelegraph</em></li>\n<li>[8] Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report — <em>Cointelegraph</em></li>\n<li>[9] Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia — <em>Decrypt</em></li>\n<li>[10] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "xrp",
+        "solana",
+        "stablecoins",
+        "regulation",
+        "defi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789829801/xeonbit24/posts/crypto-roundup-september-19-2026-at-0956-pm-ict-aidriven-risk-xrp-upgrades-and-a.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789829801/xeonbit24/posts/crypto-roundup-september-19-2026-at-0956-pm-ict-aidriven-risk-xrp-upgrades-and-a.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-19-2026-at-0956-pm-ict-aidriven-risk-xrp-upgrades-and-a",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 19, 2026 at 09:56 PM (ICT): AI‑driven risk, XRP upgrades, and a surge in speed upgrades across "
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+      "sourceTitle": "CoinDesk / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+          "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+          "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+          "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+          "source": "Decrypt"
+        },
+        {
+          "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+          "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+          "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+          "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bastion wins conditional OCC approval for national trust bank charter",
+          "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+          "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+          "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-19T14:56:41.816Z",
+      "slug": "crypto-roundup-september-19-2026-at-0956-pm-ict-aidriven-risk-xrp-upgrades-and-a"
+    },
+    {
       "id": "1789791495793",
       "title": "Crypto Roundup September 19, 2026 at 11:18 AM (ICT): US Regulators Move, Exchanges Expand Perps, and Bitcoin’s $800k Rally",
       "summary": "U.S. regulators are forging ahead with a new crypto‑derivatives framework while major exchanges roll out single‑stock and FX perpetual futures. Bitcoin’s climb back above $800,000 fuels optimism, even as quantum‑computing risks and network upgrades keep the market on edge.",
@@ -23462,14 +23543,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
-    "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454",
-    "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-    "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
-    "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-    "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-    "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
     "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
     "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
     "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
@@ -23961,10 +24034,17 @@
     "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
     "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-    "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+    "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+    "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+    "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next|https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round|https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
     "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges|https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before|https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss",
@@ -24163,6 +24243,7 @@
     "https://www.theblock.co/news/ecosystems/2026-09-17-not-enough-block-space-avalanche-treasury-ceo-says-ai-agents-crunch-blockchain-capacity-415397|https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading|https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
     "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/17/boj-rate-hike|https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act|https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520|https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-    "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks|https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade|https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade"
   ]
 }
