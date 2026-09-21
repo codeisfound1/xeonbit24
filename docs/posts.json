@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789965307925",
+      "title": "Crypto Roundup September 21, 2026 at 11:35 AM (ICT): Bitcoin cracks $81k, NEAR rockets, and DeFi faces structural shocks",
+      "summary": "Bitcoin surged past $81,000 and cleared a historic bullish hurdle, while NEAR jumped 23% on Zcash swap traffic. At the same time, a wave of regulatory, security and network‑migration news—from a North Korean phishing campaign to ZetaChain’s L1 shutdown—shook confidence across the broader crypto ecosystem.",
+      "content": "<p>September 21, 2026 was a day of contrasting forces in crypto. On the upside, Bitcoin reclaimed momentum, breaking the $81,000 barrier and clearing a long‑standing technical hurdle that has preceded past bull runs. Near‑term optimism was also evident as NEAR surged 23% on fresh Zcash swap traffic. On the downside, the sector grappled with security breaches, network migrations, and regulatory friction that could reshape risk premiums for many projects.</p><h2>1. Bitcoin rises above $81,000 and clears a historic bullish hurdle</h2><p>Two CoinDesk pieces highlighted Bitcoin’s dual momentum. First, the price climbed past $81,000 during the Asian session, buoyed by improving U.S.–China trade talks that lifted risk‑on sentiment in equities and futures. Second, analysts noted that Bitcoin finally broke above its 50‑week moving average—a metric that has historically signaled the start of major bull cycles. The confluence of macro‑friendly news and a technical breakout suggests a renewed risk appetite that could attract institutional capital back into the market.</p><h2>2. NEAR jumps 23% on Zcash swap traffic</h2><p>NEAR Protocol experienced a sharp 23% rally after a surge in Zcash‑to‑NEAR swap activity. The influx of Zcash liquidity reflects growing cross‑chain arbitrage opportunities and signals that traders are seeking higher yields on layer‑1 ecosystems with lower transaction costs. NEAR’s robust developer ecosystem and upcoming roadmap milestones (e.g., sharding upgrades) may further cement its role as a bridge asset in the evolving multi‑chain landscape.</p><h2>3. Arbitrum could see a 70× price increase by 2030</h2><p>Cointelegraph’s “Hodler’s Digest” cited Standard Chartered’s bullish projection that Arbitrum (ARB) could appreciate 70‑fold by 2030, driven by the tokenization of stocks and the broader adoption of layer‑2 scaling solutions. While the forecast is speculative, it underscores growing confidence in roll‑up technologies that promise Ethereum‑level security with dramatically lower fees. Investors should weigh the upside against the risk of over‑optimism, especially as regulatory scrutiny on tokenized securities intensifies.</p><h2>4. ZetaChain votes to shut down its Layer‑1 and migrate to Solana</h2><p>The Block reported that ZetaChain’s governance voted to sunset its native L1 network and move the ZETA token to Solana. The decision follows a strategic pivot toward Anuma, a private AI application, suggesting that the team sees greater upside in building on an established, high‑throughput chain rather than maintaining its own consensus layer. The migration will require a second vote, and the market will watch for token price volatility and community sentiment during the transition.</p><h2>5. Polymarket hit by a $10 million fraud attempt and user account compromises</h2><p>Polymarket, a popular prediction‑market platform, faced a coordinated fraud attempt that could have siphoned $10 million, according to The Block. Simultaneously, hackers compromised nearly 500 user accounts using stolen personal data. The incident highlights lingering compliance gaps in DeFi‑oriented platforms and may prompt tighter KYC/AML enforcement from regulators, especially as the U.S. Treasury intensifies scrutiny of prediction markets.</p><h2>6. North Korean fake recruiters steal $10.7 million from 30 k devices</h2><p>Cointelegraph detailed a sophisticated campaign by the North Korean group WaterPlum, which masqueraded as recruiters for crypto, AI, and NFT firms. The operation infected over 30,000 devices across 100+ countries, extracting $10.7 million in crypto assets. This underscores the persistent threat of social‑engineering attacks targeting developers and highlights the need for stronger cyber‑hygiene and multi‑factor authentication in the industry.</p><h2>7. Visa moves to close meme‑coin credit‑card rewards loophole</h2><p>Decrypt reported that Visa is tightening its rules to prevent meme‑coin purchases from being treated as ordinary “digital media” transactions that qualify for credit‑card rewards. The move follows a broader push by payment networks to curb reward arbitrage that could expose them to regulatory risk. While the change may dampen short‑term meme‑coin trading volume, it also signals mainstream payment providers’ willingness to enforce clearer classifications for crypto purchases.</p><h2>8. Gemini’s stock down 80% since IPO, fueling takeover chatter</h2><p>Gemini’s market cap has collapsed to roughly $753 million, an 80% decline from its IPO valuation, according to CoinDesk. The steep drop has revived speculation about a potential acquisition, with investors eyeing the firm’s custodial licenses, compliance infrastructure, and established user base as valuable assets for a larger financial entity seeking a foothold in crypto.</p><h2>9. Holding anything but Bitcoin has been a losing bet for two years</h2><p>Decrypt’s analysis, citing Glassnode and Bybit data, argues that Bitcoin has outperformed all other crypto assets for the past 24 months, while altcoins have languished in a “froth” environment. The report points to a concentration of capital in Bitcoin as a defensive response to macro uncertainty and regulatory pressure, suggesting that diversification into riskier altcoins may carry higher downside risk in the current cycle.</p><h2>10. Trump proposes a U.S. “AI Force” and AI czar, with no new crypto regulation</h2><p>Cointelegraph covered former President Trump’s announcement of an “AI Force” and an AI czar, emphasizing that the initiative would avoid adding regulatory burdens that could slow innovation. While not directly about crypto, the statement hints at a political climate that may favor a lighter regulatory touch on emerging technologies, potentially benefiting crypto projects that intersect with AI.</p><h2>Market Outlook</h2><p>The convergence of bullish technical signals for Bitcoin and strong cross‑chain activity (e.g., NEAR’s Zcash swaps) suggests a short‑term rally could gain steam, especially if macro‑economic data continues to improve. However, the sector faces headwinds from security breaches, network migrations, and increasing regulatory scrutiny of DeFi platforms and meme‑coin incentives. Investors should monitor the following catalysts:</p><ul><li><strong>Technical momentum:</strong> Bitcoin staying above its 50‑week moving average could trigger algorithmic buying and institutional inflows.</li><li><strong>Cross‑chain liquidity:</strong> Growing swap traffic between privacy coins and layer‑1s may broaden the pool of tradable assets.</li><li><strong>Regulatory pressure:</strong> Actions by Visa, Polymarket’s compliance issues, and potential U.S. policy shifts could tighten the operating environment for many projects.</li><li><strong>Security landscape:</strong> High‑profile attacks like WaterPlum’s campaign remind participants that cyber‑risk remains a top concern.</li></ul><p>Overall, the market appears to be in a “risk‑on” phase for Bitcoin, while altcoins and DeFi projects may experience selective pressure unless they can demonstrate clear utility, robust security, and regulatory compliance.</p><h2>Key Takeaways</h2><ul><li>Bitcoin breaking $81k and clearing its 50‑week average revives bullish expectations for the flagship asset.</li><li>NEAR’s 23% surge illustrates the power of cross‑chain arbitrage and the appeal of low‑fee layer‑1s.</li><li>Arbitrum’s 70× projection, while speculative, highlights growing confidence in layer‑2 scaling solutions.</li><li>ZetaChain’s migration to Solana signals a trend of smaller L1s consolidating under larger, more secure ecosystems.</li><li>Security threats—from North Korean phishing to Polymarket fraud—remain a critical risk factor for the industry.</li><li>Regulatory actions targeting meme‑coin rewards and DeFi compliance could reshape revenue models for many platforms.</li><li>Bitcoin’s dominance continues to rise, making altcoin exposure a higher‑risk bet in the current cycle.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic — <em>CoinDesk</em></li>\n<li>[2] Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs — <em>CoinDesk</em></li>\n<li>[3] North Korean fake recruiters infect 30K devices, steal $10.7M in crypto — <em>Cointelegraph</em></li>\n<li>[4] Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[5] ZetaChain votes to shut down Layer 1 network and move ZETA to Solana — <em>The Block</em></li>\n<li>[6] Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ — <em>The Block</em></li>\n<li>[7] Visa Moves to Close Meme Coin Credit Card Rewards Loophole — <em>Decrypt</em></li>\n<li>[8] Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation — <em>CoinDesk</em></li>\n<li>[9] Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years — <em>Decrypt</em></li>\n<li>[10] Trump says US will form ‘AI Force’ and appoint AI czar: Reports — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "near",
+        "defi",
+        "altcoins",
+        "regulation",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789965307/xeonbit24/posts/crypto-roundup-september-21-2026-at-1135-am-ict-bitcoin-cracks-81k-near-rockets-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789965307/xeonbit24/posts/crypto-roundup-september-21-2026-at-1135-am-ict-bitcoin-cracks-81k-near-rockets-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-21-2026-at-1135-am-ict-bitcoin-cracks-81k-near-rockets-",
+        "width": 1920,
+        "height": 1075,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 21, 2026 at 11:35 AM (ICT): Bitcoin cracks $81k, NEAR rockets, and DeFi faces structural shocks"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+          "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+          "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+          "source": "The Block"
+        },
+        {
+          "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+          "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+          "source": "The Block"
+        },
+        {
+          "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+          "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+          "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+          "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+          "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-21T04:35:07.925Z",
+      "slug": "crypto-roundup-september-21-2026-at-1135-am-ict-bitcoin-cracks-81k-near-rockets-"
+    },
+    {
       "id": "1789916391118",
       "title": "Crypto Roundup September 20, 2026 at 09:59 PM (ICT): Gemini’s Collapse, Bitcoin’s Resilience, and the Rise of Tokenized‑Stocks",
       "summary": "Gemini’s stock has tumbled 80% since its IPO, reigniting takeover chatter, while Bitcoin continues to outpace all other digital assets. Meanwhile, the SEC’s tokenized‑stock push is opening new corridors for platforms like Coinbase, Robinhood and Circle, and leveraged Bitcoin‑linked ETFs are expanding the on‑chain investment toolbox.",
@@ -23705,13 +23786,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-    "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-    "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-    "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-    "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-    "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-    "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
     "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
@@ -24204,10 +24278,16 @@
     "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
     "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
     "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+    "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+    "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+    "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+    "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges|https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before|https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin|https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations|https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
     "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
@@ -24406,6 +24486,7 @@
     "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks|https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade|https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
     "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-    "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation|https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet|https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation|https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet|https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic|https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs|https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
