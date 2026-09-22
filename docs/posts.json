@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1790092273121",
+      "title": "Crypto Roundup September 22, 2026 at 10:51 PM (ICT): Regulatory shifts, ETF inflows and new derivatives dominate",
+      "summary": "European regulators are tightening stable‑coin rules while the SEC nudges toward clearer custody guidance. Meanwhile, Bitcoin ETFs saw a near‑$1 billion inflow in a single day and CME added BCH and UNI futures, signalling expanding institutional appetite.",
+      "content": "<p>September 22, 2026 was a busy day for crypto markets, with regulators in Europe and the United States laying out new frameworks, institutional products gaining traction, and a few quirky data points reminding us that the market is still maturing. The combined effect of tighter stable‑coin oversight, fresh custody guidance from the SEC, and a surge of capital into Bitcoin exchange‑traded funds (ETFs) created a mixed‑signal environment for traders and investors. Below we break down each of the ten top stories, explain why they matter, and synthesize the broader market outlook.</p>\n<h2>1. ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins</h2>\n<p>The European Central Bank (ECB) and a coalition of EU central banks have proposed replacing MiCA’s fixed bank‑deposit requirement for stablecoins with a liquidity‑threshold model. The new approach would require issuers to hold a percentage of their stablecoin supply in highly liquid assets rather than a static cash deposit. Regulators argue that sudden redemptions could otherwise strain the banking system. If adopted, the rule could raise the cost of compliance for stablecoin projects operating in Europe, potentially pushing some issuers to relocate or to redesign their reserve‑management strategies.</p>\n<h2>2. European central banks push to expand stablecoin yield ban to crypto lending and staking</h2>\n<p>In a parallel move, European policymakers are lobbying to extend the existing ban on stablecoin‑derived yields to cover crypto‑lending and staking services. The rationale is that “indirect yield structures” blur the line between electronic payment tokens and traditional bank deposits, creating unfair competition. Should the expansion pass, platforms that currently offer interest‑bearing stablecoin products—such as BlockFi‑type services—may need to halt or re‑classify those offerings, adding another layer of regulatory pressure on the DeFi sector in the EU.</p>\n<h2>3. Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody</h2>\n<p>Taylor Lindman, the lead attorney for the SEC’s Crypto Task Force, outlined a pragmatic roadmap for custodial firms. The SEC is focusing on “technology‑neutral” standards that encourage best‑practice security, auditability, and consumer protection without stifling innovation. Lindman emphasized that firms should adopt robust multi‑signature wallets, real‑time monitoring, and clear segregation of client assets. This signals a shift from the SEC’s historically adversarial posture toward a more collaborative stance, which could unlock new institutional custody solutions in the United States.</p>\n<h2>4. Bitcoin ETFs Take Nearly $1 B in a Day as Average Holder Returns to Profit</h2>\n<p>Monday’s inflow into Bitcoin ETFs topped $970 million, eclipsing the total net inflow recorded for the entire previous week—the weakest week on record for the sector. The surge appears tied to a modest price rally that pushed Bitcoin back above the $35,000 mark, allowing average retail holders to lock in paper profits. The influx suggests renewed confidence among retail investors and a growing willingness to use regulated vehicles for exposure, a trend that could sustain higher trading volumes in the ETF market.</p>\n<h2>5. CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows</h2>\n<p>Chicago Mercantile Exchange (CME) announced the launch of both standard and micro futures contracts for Bitcoin Cash (BCH) and Uniswap (UNI). The contracts will trade in sizes of 250 BCH/25 BCH and 10,000 UNI/1,000 UNI respectively, catering to both institutional and retail participants. By expanding beyond Bitcoin and Ether, CME is acknowledging broader market demand for diversified crypto exposure and providing price‑discovery tools for alt‑coins that have matured enough to merit regulated futures.</p>\n<h2>6. Binance takes $100 million Circle stake alongside five‑year USDC deal</h2>\n<p>Binance purchased a $100 million equity stake in Circle and simultaneously signed a five‑year agreement to promote USDC on its platform. The partnership deepens Binance’s commitment to fiat‑backed stablecoins and gives Circle a strategic foothold inside the world’s largest crypto exchange. The move also aligns with the broader industry trend of consolidating stablecoin liquidity on a few trusted issuers, which could improve market stability but also raise antitrust scrutiny.</p>\n<h2>7. Coinbase adds fixed‑rate bitcoin‑backed loans through Morpho Midnight</h2>\n<p>Coinbase entered the crypto‑lending arena by offering fixed‑rate loans against Bitcoin collateral via the Morpho Midnight protocol. Borrowers receive USDC at rates that are locked for the loan term, providing predictability compared to variable‑rate DeFi products. This development marks Coinbase’s first foray into on‑chain lending and may attract users who prefer the security of a regulated exchange combined with the flexibility of decentralized finance.</p>\n<h2>8. Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows</h2>\n<p>Data from Kalshi, a regulated derivatives exchange, revealed that a single $5,499 trade size accounted for 57 % of sampled Ether‑perpetual volume, while recurring $2,500 and $5,000 trades made up 54 % of Bitcoin‑perpetual volume. Analysts suspect algorithmic trading bots are slicing large orders into repeatable chunks to minimize market impact. While the pattern does not indicate manipulation, it highlights how automated strategies can shape volume statistics on emerging regulated platforms.</p>\n<h2>9. Big Questions: Does Satoshi actually own 1.1 million Bitcoin?</h2>\n<p>Researchers have traced roughly 1.1 million BTC to a distinctive early‑mining cluster, reigniting the debate over whether the coins belong to Bitcoin’s creator, Satoshi Nakamoto. The analysis uses clustering techniques based on transaction timing and address reuse. Even if the coins are linked to Satoshi, their movement would have profound market implications, potentially triggering a massive sell‑off or a price surge if they remain dormant.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup compiled the day’s headlines, covering price action, regulatory updates, and notable project developments. While the article itself is a summary, it underscores the rapid news cycle that market participants must navigate, reinforcing the need for real‑time analytics and concise information sources.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of tighter European stablecoin regulation, clearer U.S. custody guidance, and expanding derivative products suggests a market moving toward greater institutional legitimacy. However, the regulatory tightening could constrain DeFi liquidity in the EU, while the SEC’s cooperative tone may accelerate the launch of more custodial services in the United States. The massive ETF inflow indicates that retail confidence is rebounding, but the unusual trade patterns on Kalshi remind us that market depth can still be fragile. Overall, we expect modest upside for Bitcoin and Ether, with alt‑coin futures (BCH, UNI) providing new avenues for risk‑adjusted exposure.</p>\n<h2>Key Takeaways</h2>\n<ul><li>European regulators are shifting from static deposit requirements to liquidity‑based thresholds for stablecoins, potentially raising compliance costs.</li><li>The SEC is moving toward technology‑neutral custody standards, a positive signal for institutional adoption in the U.S.</li><li>Bitcoin ETFs attracted nearly $1 billion in a single day, reflecting renewed retail enthusiasm.</li><li>CME’s addition of BCH and UNI futures broadens the regulated derivatives landscape beyond Bitcoin and Ether.</li><li>Binance’s stake in Circle and the expanded USDC partnership deepen stablecoin integration on major exchanges.</li><li>Coinbase’s fixed‑rate Bitcoin loans bridge the gap between traditional finance and DeFi lending.</li><li>Algorithmic trade clustering on Kalshi shows how bots can dominate volume on emerging platforms.</li><li>The mystery of Satoshi’s 1.1 million BTC remains unresolved, but any movement would be market‑shaking.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins — <em>Cointelegraph</em></li>\n<li>[2] Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody — <em>CoinDesk</em></li>\n<li>[3] Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit — <em>Decrypt</em></li>\n<li>[4] European central banks push to expand stablecoin yield ban to crypto lending and staking — <em>CoinDesk</em></li>\n<li>[5] Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight — <em>The Block</em></li>\n<li>[6] CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows — <em>The Block</em></li>\n<li>[7] Big Questions: Does Satoshi actually own 1.1 million Bitcoin? — <em>Cointelegraph</em></li>\n<li>[8] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[9] Binance takes $100 million Circle stake alongside five-year USDC deal — <em>The Block</em></li>\n<li>[10] Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "defi",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790092272/xeonbit24/posts/crypto-roundup-september-22-2026-at-1051-pm-ict-regulatory-shifts-etf-inflows-an.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790092272/xeonbit24/posts/crypto-roundup-september-22-2026-at-1051-pm-ict-regulatory-shifts-etf-inflows-an.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-22-2026-at-1051-pm-ict-regulatory-shifts-etf-inflows-an",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 22, 2026 at 10:51 PM (ICT): Regulatory shifts, ETF inflows and new derivatives dominate"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+          "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+          "url": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit",
+          "url": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+          "source": "Decrypt"
+        },
+        {
+          "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+          "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight",
+          "url": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
+          "source": "The Block"
+        },
+        {
+          "title": "CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows",
+          "url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
+          "source": "The Block"
+        },
+        {
+          "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
+          "url": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-09-22T15:51:13.121Z",
+      "slug": "crypto-roundup-september-22-2026-at-1051-pm-ict-regulatory-shifts-etf-inflows-an"
+    },
+    {
       "id": "1790051464565",
       "title": "Crypto Roundup September 22, 2026 at 11:30 AM (ICT): AI‑Payments, Regulatory Heat, and Bitcoin’s $90k Test",
       "summary": "Bitcoin surged toward $90,000 while regulators tightened scrutiny on Binance and cross‑border CBDC projects. Meanwhile, AI‑driven payment tools expanded to Cardano and major Asian firms explored stablecoins, signaling both innovation and compliance pressure across the ecosystem.",
@@ -23948,15 +24028,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
-    "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
-    "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-    "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
-    "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-    "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
     "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
     "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
@@ -24447,10 +24518,18 @@
     "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
     "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
     "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-    "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+    "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+    "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+    "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
+    "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
+    "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+    "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
     "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling|https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion|https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone|https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
     "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally|https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&amp;utm_medium=rss",
@@ -24649,6 +24728,7 @@
     "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation|https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet|https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic|https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs|https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/378824/xai-launches-grok-4-7|https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
-    "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments|https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments|https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody|https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit"
   ]
 }
