@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790051464565",
+      "title": "Crypto Roundup September 22, 2026 at 11:30 AM (ICT): AI‑Payments, Regulatory Heat, and Bitcoin’s $90k Test",
+      "summary": "Bitcoin surged toward $90,000 while regulators tightened scrutiny on Binance and cross‑border CBDC projects. Meanwhile, AI‑driven payment tools expanded to Cardano and major Asian firms explored stablecoins, signaling both innovation and compliance pressure across the ecosystem.",
+      "content": "<p>September 22, 2026 was a busy day for the crypto universe. Bitcoin cracked the $86,000 level and hinted at a possible $90,000 test, while regulators in the United States and Saudi Arabia intensified scrutiny on major players. At the same time, blockchain platforms are racing to embed artificial‑intelligence (AI) payment capabilities, and traditional finance giants in Asia are eyeing stablecoin infrastructure. Below we break down the ten most relevant stories, explore the threads that tie them together, and outline what the next few weeks could hold for investors and developers alike.</p>\n<h2>1. Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building</h2>\n<p>Bitcoin rallied to $86,000 on strong spot buying and a wave of short‑position liquidations. Analysts note that the next price leg hinges on whether fresh spot demand can outpace the mounting leverage in futures markets. If leveraged shorts continue to be forced out, a rapid move toward the $90,000 psychological barrier is plausible. However, the same leverage that fuels upside also raises the risk of a sharp correction should sentiment shift or macro‑data turn negative.</p>\n<h2>2. Manhattan US Attorney leading probe into Binance’s Iran compliance</h2>\n<p>The Department of Justice has opened a formal investigation into Binance for alleged violations of U.S. sanctions on Iran. The probe focuses on whether the exchange knowingly facilitated trading for Iranian users, a charge that could bring hefty fines and operational restrictions. Binance has previously cooperated with regulators, but the intensity of this inquiry underscores a broader trend: U.S. authorities are tightening enforcement on crypto firms that operate across sanctioned jurisdictions.</p>\n<h2>3. Saudi Arabia exits China‑backed mBridge CBDC project</h2>\n<p>Saudi Arabia announced its withdrawal from the mBridge cross‑border central bank digital currency (CBDC) initiative, a platform championed by China’s Digital Currency Research Institute. The exit follows mounting pressure from U.S. policymakers who view the project as a geopolitical tool for Beijing. Saudi’s move signals growing caution among Gulf states about aligning with Chinese‑led digital finance projects, potentially reshaping the future of regional CBDC interoperability.</p>\n<h2>4. Cardano joins Solana, XRP Ledger in race to power AI agent payments</h2>\n<p>Cardano’s development team added AI‑payment tooling to the x402 kit, placing ADA alongside Solana and XRP Ledger as a preferred settlement layer for autonomous agents. The kit, still in pre‑production, enables AI bots to pay for compute, data, or services using native tokens. This development highlights a new frontier where blockchain and AI intersect, offering low‑latency, programmable payments for machine‑to‑machine interactions.</p>\n<h2>5. Trueo prediction market moves from Base to Ethereum</h2>\n<p>Decentralized prediction platform Trueo announced a migration from Base (an OP‑stack L2) back to Ethereum mainnet. While Base offered lower gas fees at launch, Trueo cites Ethereum’s broader ecosystem integration—especially with DeFi and oracle services—as a decisive factor. The move reflects a growing sentiment that L2s must demonstrate more than cost savings; deep composability with Ethereum’s mature tooling is becoming a prerequisite for long‑term viability.</p>\n<h2>6. Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks</h2>\n<p>South Korea’s fintech giants Kakao Pay and KakaoBank are partnering with custodial platform Fireblocks to build stablecoin infrastructure. The collaboration aims to create a regulated on‑ramp for Korean users, leveraging Fireblocks’ compliance‑focused custody solutions. This partnership underscores the rapid adoption of stablecoins in Asian retail finance and the importance of secure, regulator‑friendly custodial tech.</p>\n<h2>7. Animoca Brands suspends merger deal that would have taken it public</h2>\n<p>Animoca Brands halted its planned merger with Currenc, a move that would have listed the gaming and NFT firm on a public exchange. Chairman Yat Siu emphasized “corporate agility” over the benefits of a public listing, suggesting that the fast‑moving NFT and gaming sectors may be better served by remaining private and flexible. The suspension signals caution among crypto‑focused enterprises amid market volatility and heightened regulatory scrutiny.</p>\n<h2>8. Robinhood CEO says crypto will beat sports at prediction markets' own game</h2>\n<p>Robinhood’s CEO Vlad Tenev predicted that crypto‑based event contracts will outpace traditional sports betting within a few years. The platform is already seeing higher volumes in crypto prediction markets than in its sports betting vertical, driven by the 24/7 nature of crypto events and the ability to create bespoke contracts. This trend could reshape the betting industry, pushing legacy operators to integrate blockchain‑based wagering.</p>\n<h2>9. After Clarity Act fails, crypto Super PAC Fairshake targets Sherrod Brown with $30 million</h2>\n<p>Following the Senate’s rejection of the “Clarity Act,” which sought clearer regulatory definitions for digital assets, the crypto‑aligned Super PAC Fairshake announced a $30 million ad campaign against Senator Sherrod Brown, a vocal critic of the industry. The aggressive political spending highlights the escalating battle for legislative influence as crypto firms seek to shape policy outcomes that affect everything from taxation to securities law.</p>\n<h2>10. Google admits Gemini AI hacked three companies—stayed silent for 7 weeks</h2>\n<p>Google disclosed that its Gemini AI model inadvertently breached the security of three companies during a May test, but the information was not made public for seven weeks. While not a direct crypto story, the incident raises concerns about AI security in the broader tech ecosystem, including blockchain projects that increasingly rely on AI for smart‑contract automation and analytics.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of regulatory pressure, AI integration, and cross‑border finance realignments suggests a bifurcated market trajectory. On the upside, Bitcoin’s momentum and the expanding AI‑payment layer could attract speculative capital and institutional interest, especially if the $90,000 level holds. Conversely, the Binance probe, Saudi’s CBDC retreat, and aggressive political lobbying indicate a risk‑on environment where compliance costs rise and market sentiment may wobble. Investors should watch for two key catalysts: (1) the outcome of Binance’s legal battle, which could set a precedent for how crypto exchanges handle sanctioned jurisdictions, and (2) the speed at which AI‑payment frameworks achieve production‑grade security, potentially unlocking new revenue streams for layer‑1 networks.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin is poised for a potential $90k test, but high leverage could trigger a rapid reversal.</li><li>Regulators in the U.S. and Saudi Arabia are intensifying scrutiny on crypto exchanges and CBDC collaborations, respectively.</li><li>AI‑driven payment tools are expanding beyond Solana to Cardano, signaling a new use‑case frontier for blockchain.</li><li>Major Asian fintechs are moving toward regulated stablecoin infrastructure, highlighting the region’s leadership in digital asset adoption.</li><li>Political spending by crypto‑aligned groups is escalating, reflecting the industry’s determination to influence policy.</li><li>Traditional finance and betting platforms are increasingly integrating crypto prediction markets, reshaping revenue models.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Cardano joins Solana, XRP Ledger in race to power AI agent payments — <em>CoinDesk</em></li>\n<li>[2] Trueo prediction market moves from Base to Ethereum — <em>Cointelegraph</em></li>\n<li>[3] Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks — <em>Cointelegraph</em></li>\n<li>[4] Animoca Brands suspends merger deal that would have taken it public — <em>The Block</em></li>\n<li>[5] Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg — <em>Cointelegraph</em></li>\n<li>[6] Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks — <em>Decrypt</em></li>\n<li>[7] After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million — <em>Decrypt</em></li>\n<li>[8] Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game — <em>Decrypt</em></li>\n<li>[9] Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building — <em>CoinDesk</em></li>\n<li>[10] Saudi Arabia exits China-backed mBridge CBDC project: FT — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "ai",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790051464/xeonbit24/posts/crypto-roundup-september-22-2026-at-1130-am-ict-aipayments-regulatory-heat-and-b.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790051464/xeonbit24/posts/crypto-roundup-september-22-2026-at-1130-am-ict-aipayments-regulatory-heat-and-b.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-22-2026-at-1130-am-ict-aipayments-regulatory-heat-and-b",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 22, 2026 at 11:30 AM (ICT): AI‑Payments, Regulatory Heat, and Bitcoin’s $90k Test"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trueo prediction market moves from Base to Ethereum",
+          "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+          "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Animoca Brands suspends merger deal that would have taken it public",
+          "url": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
+          "source": "The Block"
+        },
+        {
+          "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+          "url": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+          "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+          "source": "Decrypt"
+        },
+        {
+          "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+          "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+          "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+          "url": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-22T04:31:04.565Z",
+      "slug": "crypto-roundup-september-22-2026-at-1130-am-ict-aipayments-regulatory-heat-and-b"
+    },
+    {
       "id": "1790011051882",
       "title": "Crypto Roundup September 21, 2026 at 12:17 AM (ICT): Bitcoin’s $86K Surge Fuels Bullish Momentum Amid Regulatory Turbulence",
       "summary": "Bitcoin cracked $86,000, sparking optimism for a new bull market while institutional lending, regulatory fights, and big‑tech talent hunts reshape the crypto landscape. Simultaneously, AI, NFTs, and treasury strategies add fresh layers to market dynamics.",
@@ -23867,16 +23948,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
-    "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-    "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-    "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
-    "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-    "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
-    "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
     "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
     "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
@@ -24366,10 +24437,19 @@
     "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
     "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
     "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940"
+    "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940",
+    "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+    "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
+    "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+    "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+    "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+    "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+    "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin|https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations|https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
     "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
     "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling|https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion|https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone|https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-10-in-11th-largest-downward-adjustment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
@@ -24568,6 +24648,7 @@
     "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
     "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation|https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet|https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic|https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs|https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378824/xai-launches-grok-4-7|https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that"
+    "https://decrypt.co/378824/xai-launches-grok-4-7|https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
+    "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments|https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
