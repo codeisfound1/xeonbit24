@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790265667052",
+      "title": "Crypto Roundup September 24, 2026 at 11:01 PM (ICT): Institutional Tokenization, Regulatory Scrutiny, and a Milder Bitcoin Bear Market",
+      "summary": "UK banks completed the world’s first inter‑bank tokenized‑deposit transfers while IBM opened a Swift‑ledger beta, signaling deeper institutional adoption. At the same time, regulators tighten around prediction markets and a high‑profile casino hack underscores security risks, as Bitcoin’s bear market shows signs of softening.",
+      "content": "<p>September 24, 2026 was a busy day for the crypto ecosystem. The most striking development was the successful execution of tokenized‑deposit transactions by the UK’s largest banks, a milestone that brings bank‑issued digital cash into the mainstream. At the same time, IBM’s beta link to the SWIFT ledger shows that legacy payment rails are being retrofitted for 24/7 tokenized transfers. These institutional moves sit alongside heightened regulatory pressure on prediction‑market platforms, a major hot‑wallet hack at a crypto casino, and a surprisingly mild Bitcoin bear market that hints at a possible bull‑run ahead. Below we break down each story, connect the dots, and outline what the next few weeks may hold for investors.</p>\n<h2>1. UK’s Largest Banks Complete World’s First Inter‑Bank Tokenized‑Deposit Transactions</h2>\n<p>Barclays, NatWest, HSBC and several regional banks used tokenized deposits to settle a remortgage and a marketplace‑payment test. The tokens are issued on a permissioned ledger that mirrors each bank’s own digital cash balances, allowing instant settlement without moving traditional fiat. This is the first time multiple sovereign banks have coordinated on a shared token‑based settlement layer, effectively turning the tokenized‑deposit concept from a pilot into a production‑grade service.</p>\n<p>Why it matters: Tokenized deposits promise faster, cheaper cross‑border payments and open the door for banks to offer crypto‑adjacent services (e.g., on‑chain collateral, programmable cash). The success also validates the broader “digital cash” narrative that central banks and regulators have been championing since the early 2020s.</p>\n<h2>2. IBM Opens Beta Swift Ledger Link for 24/7 Tokenized Deposits</h2>\n<p>IBM’s new beta lets banks send tokenized‑deposit instructions over SWIFT’s existing messaging infrastructure while preserving compliance checks. The solution translates traditional MT messages into token transfer commands on a distributed ledger, meaning banks can adopt tokenized cash without overhauling their back‑office systems.</p>\n<p>Impact: By leveraging SWIFT—a network that processes over $10 trillion daily—IBM bridges the gap between legacy finance and blockchain, accelerating global adoption. The beta’s launch follows the UK banks’ test, suggesting a coordinated push from both the private sector and legacy payment networks.</p>\n<h2>3. Bitcoin’s Bear Markets Are Getting Milder – Bull Markets May Be Next</h2>\n<p>Data from CoinDesk’s market analysis shows that the most recent Bitcoin correction (2025‑2026) lost roughly 30 % of its value, compared with 50‑70 % drops in the 2022 and 2023 cycles. The moderation is attributed to three factors: the proliferation of Bitcoin ETFs, a growing base of institutional holders, and a more mature market that reacts less to short‑term sentiment spikes.</p>\n<p>Interpretation: A milder bear market reduces the psychological barrier for new investors and may set the stage for a sustained upward trend, especially if macro‑economic conditions stabilize. Analysts are watching on‑chain metrics such as HODL waves and exchange inflows for early signs of a breakout.</p>\n<h2>4. Crypto Casino Duelbits Goes Offline After $7 Million Hot‑Wallet Hack</h2>\n<p>Attackers drained Duelbits’ hot wallets across four blockchains, siphoning roughly $6 million into a single Ethereum address. The hack exploited weak multi‑sig controls and inadequate monitoring of cross‑chain transaction flows. Duelbits halted operations to investigate and protect remaining user funds.</p>\n<p>Lesson: Even well‑funded gaming platforms remain vulnerable if they rely on hot wallets for large balances. The incident reinforces the industry‑wide call for better custodial standards, automated anomaly detection, and the use of cold storage for the bulk of user assets.</p>\n<h2>5. New York Sues Polymarket Over Alleged Illegal Gambling Business</h2>\n<p>New York Attorney General Letitia James filed a lawsuit accusing Polymarket of operating an illegal gambling platform, echoing a July suit against Kalshi. The complaint alleges that Polymarket’s prediction‑market contracts qualify as wagers under state law, bypassing licensing requirements.</p>\n<p>Regulatory trend: State‑level actions against prediction markets signal a tightening regulatory environment in the U.S. Companies may need to restructure their products, obtain gambling licenses, or shift to jurisdictions with clearer frameworks.</p>\n<h2>6. European Stablecoin Issuer Qivalis Sees Transformation of Global Trade Finance</h2>\n<p>Qivalis CEO Jan‑Oliver Sell announced that major trade‑finance participants are moving invoicing, settlement and letters of credit onto Qivalis‑backed stablecoins. The firm claims its tokenized USD and EUR assets reduce settlement times from days to minutes and cut correspondent‑bank fees.</p>\n<p>Broader implication: Stablecoins are moving beyond retail payments into core B2B processes. If adoption scales, we could see a re‑shaping of trade‑finance liquidity pools, with blockchain‑based escrow and programmable compliance becoming standard.</p>\n<h2>7. Ondo Launches On‑Chain Portfolio Tokens Based on BlackRock‑Developed Strategies</h2>\n<p>Asset‑management platform Ondo released three on‑chain portfolio tokens that mirror BlackRock‑designed model portfolios. Each token represents a diversified basket of crypto and tokenized traditional assets, automatically rebalanced via smart contracts.</p>\n<p>Significance: The partnership bridges traditional asset‑management expertise with decentralized finance (DeFi) infrastructure, offering retail investors exposure to professionally managed strategies without a broker‑dealer intermediary.</p>\n<h2>8. £10K Reward Offered After UK Couple Attacked in Crypto Home Invasion</h2>\n<p>Police in the United Kingdom announced a £10,000 reward after a home invasion targeted a couple known for holding large crypto holdings. Investigators believe the attackers coordinated via a video call, indicating a high level of planning and technical know‑how.</p>\n<p>Takeaway: Physical security remains a critical, often overlooked, component of crypto wealth protection. As on‑chain assets become more valuable, criminals are increasingly blending digital and real‑world tactics.</p>\n<h2>9. Crypto for Advisors: The Hidden Costs of Holding Your Own Bitcoin</h2>\n<p>A CoinDesk advisory piece highlighted the often‑ignored expenses of self‑custody: hardware‑wallet depreciation, insurance premiums, tax‑reporting complexity, and the opportunity cost of capital locked in non‑yield‑generating assets. The article argues that for many institutional advisors, a custodial solution may deliver better net returns.</p>\n<p>Implication: The piece may accelerate the shift toward professional custody services, especially as fiduciary standards tighten and ESG considerations push for transparent risk management.</p>\n<h2>10. Here’s What Happened in Crypto Today – Daily News Roundup</h2>\n<p>Cointelegraph’s daily digest summarized the day’s headlines, reinforcing the themes of regulatory pressure, institutional tokenization, and security incidents. While the roundup itself is not a breaking story, it serves as a barometer of market sentiment, showing heightened attention to both macro‑level developments and micro‑level hacks.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of institutional tokenization (UK banks, IBM, Qivalis) and traditional finance expertise (BlackRock‑backed portfolio tokens) suggests that crypto assets are moving deeper into the core of global finance. This trend should provide a steady demand for stablecoins, tokenized deposits, and compliant on‑chain investment products.</p>\n<p>Regulatory risk remains elevated, especially in the U.S., where state‑level lawsuits against prediction markets could spill over into broader crypto‑gaming and DeFi sectors. Companies that proactively engage with regulators or adopt clear licensing frameworks will likely gain a competitive edge.</p>\n<p>From a price‑action perspective, Bitcoin’s milder bear market, combined with growing institutional inflows, points to a potential breakout in the next 3‑6 months if macro‑economic headwinds ease. Ethereum and other smart‑contract platforms could benefit from the expanding DeFi and tokenized‑finance use cases highlighted by Ondo and Qivalis.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Tokenized deposits are no longer experimental; major UK banks and IBM are delivering production‑grade, 24/7 settlement solutions.</li><li>Regulators are tightening on prediction markets and crypto‑gaming, creating legal uncertainty for platforms like Polymarket.</li><li>Security remains a top concern: the Duelbits hack and the UK home invasion illustrate both digital and physical vulnerabilities.</li><li>Bitcoin’s bear market is softening, suggesting a possible bull‑run if institutional demand continues to rise.</li><li>Stablecoins are gaining traction in trade finance, while on‑chain portfolio tokens bring traditional asset‑management rigor to DeFi.</li><li>Advisors should weigh the hidden costs of self‑custody against the benefits of professional custodial services.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Crypto casino Duelbits goes offline after $7 million hot wallet hack — <em>CoinDesk</em></li>\n<li>[2] New York sues Polymarket over alleged illegal gambling business — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin’s bear markets are getting milder. Bull markets may be next — <em>CoinDesk</em></li>\n<li>[4] £10K Reward Offered After UK Couple Attacked in Crypto Home Invasion — <em>Decrypt</em></li>\n<li>[5] UK’s largest banks complete world’s first interbank transactions using tokenized deposits — <em>CoinDesk</em></li>\n<li>[6] Crypto for Advisors:The hidden costs of holding your own bitcoin — <em>CoinDesk</em></li>\n<li>[7] European stablecoin issuer Qivalis sees transformation of global trade finance — <em>CoinDesk</em></li>\n<li>[8] Ondo launches onchain portfolio tokens based on BlackRock-developed strategies — <em>The Block</em></li>\n<li>[9] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[10] IBM opens beta Swift ledger link for 24/7 tokenized deposits — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoin",
+        "regulation",
+        "tokenization",
+        "defi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790265666/xeonbit24/posts/crypto-roundup-september-24-2026-at-1101-pm-ict-institutional-tokenization-regul.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790265666/xeonbit24/posts/crypto-roundup-september-24-2026-at-1101-pm-ict-institutional-tokenization-regul.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-24-2026-at-1101-pm-ict-institutional-tokenization-regul",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 24, 2026 at 11:01 PM (ICT): Institutional Tokenization, Regulatory Scrutiny, and a Milder Bitco"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
+          "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "New York sues Polymarket over alleged illegal gambling business",
+          "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
+          "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
+          "url": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
+          "source": "Decrypt"
+        },
+        {
+          "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+          "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+          "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
+          "url": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+          "url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-24T16:01:07.052Z",
+      "slug": "crypto-roundup-september-24-2026-at-1101-pm-ict-institutional-tokenization-regul"
+    },
+    {
       "id": "1790223880714",
       "title": "Crypto Roundup September 24, 2026 at 11:24 AM (ICT): Macro Pressure Hits Bitcoin, Regulatory Shifts, and AI Security Sparks",
       "summary": "Bitcoin slipped below $84,000 as Treasury yields surged, while the SEC’s case‑dropping admission and a $5 billion Ether‑perpetual trade surge put regulatory focus back on crypto. Simultaneously, a wave of AI‑related security breaches—from a government website hack to OpenAI’s tool for Ukraine—highlights growing cyber‑risk intersections.",
@@ -24271,15 +24352,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
-    "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
-    "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876",
-    "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions",
-    "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870",
-    "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
     "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
     "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
     "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -24770,10 +24842,18 @@
     "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
     "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
     "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
+    "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+    "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
+    "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
+    "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
+    "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+    "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
+    "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25|https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing|https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa|https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling|https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
     "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
@@ -24972,6 +25052,7 @@
     "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody|https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
     "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000|https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176|https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering|https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-    "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007|https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what"
+    "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007|https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+    "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack|https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next"
   ]
 }
