@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790352116626",
+      "title": "Crypto Roundup September 25, 2026 at 11:01 PM (ICT): Wall Street meets crypto, tokenization accelerates, and regulatory ripples",
+      "summary": "Stablecoins and tokenized assets are forcing traditional finance and crypto into direct competition, while a high‑profile Bitget hack highlights the limits of fiat‑gateway freezes. Meanwhile, DeFi platforms expand collateral options and legacy NFT approvals expose millions in risk, setting a cautious yet opportunistic tone for the market.",
+      "content": "<p>The crypto ecosystem is once again at a crossroads where traditional finance, regulatory uncertainty, and rapid innovation intersect. On September 25, 2026, we saw stablecoins and tokenized securities pulling banks and exchanges into the same battleground, a massive Bitget heist testing the limits of fiat‑gateway controls, and DeFi protocols broadening collateral horizons with tokenized stocks. At the same time, legacy NFT approvals on Magic Eden revealed a $5.7 million exposure, while strategic dividend proposals aim to revive struggling preferred‑stock tokens. These stories together sketch a market that is both resilient and vulnerable, with clear signals for investors and policymakers alike.</p>\n<h2>1. Wall Street and Crypto Fight for the Same Turf</h2>\n<p>Cointelegraph highlights how stablecoins and tokenized assets are eroding the traditional divide between banks, exchanges, and crypto firms. Payments, stock‑like products, and ETFs—once the exclusive domain of Wall Street—are now being offered via blockchain‑based stablecoins and tokenized securities. This convergence pressures legacy institutions to adopt crypto infrastructure while forcing crypto firms to meet regulatory and compliance standards historically reserved for banks. The result is a competitive race for liquidity, custody solutions, and user trust.</p>\n<h2>2. Circle and Tether Freeze Hacker Wallet After Bitget Heist</h2>\n<p>Following a $318,000 theft of USDT and USDC from Bitget, Circle and Tether moved quickly to blacklist the offending wallet. While the stablecoin issuers can freeze their own tokens, the bulk of the stolen assets sat in Ether, which remains beyond their direct control. The incident underscores a key vulnerability: fiat‑gateway freezes are effective only for stablecoins, not for native blockchain assets, leaving users exposed to irreversible losses in the event of a hack.</p>\n<h2>3. Tokenization Is Moving Faster Than Washington</h2>\n<p>Former New York Governor Andrew Cuomo argues that tokenization’s rapid growth is outpacing regulatory frameworks, turning the issue from a purely legal one into an economic imperative. The speed of asset digitization—spanning equities, real estate, and commodities—means that markets could evolve without clear oversight, potentially creating systemic risk. Policymakers are urged to craft balanced rules that protect investors without stifling innovation.</p>\n<h2>4. Tether Confirms Minimal EQIBank Exposure After $89 M Asset Seizure</h2>\n<p>CoinDesk reports that Tether’s exposure to EQIBank, implicated in a $89 million U.S. asset seizure, remains well below its internal ceiling of $64 million. Although the exposure is limited, the episode highlights lingering counter‑party risk in the fiat‑gateway network that underpins stablecoin operations. Stablecoin issuers must continuously monitor banking partners to avoid collateral damage from regulatory actions.</p>\n<h2>5. Strategy Proposes Daily Dividends to Bring STRC Back Toward $100</h2>\n<p>Strategy, a blockchain‑based financial platform, is seeking shareholder approval for daily dividend payouts on its STRC preferred stock, aiming to push the price back toward the $100 benchmark. Despite a 12 % dividend yield and $1 billion in preferred‑share buybacks, STRC has lingered below $100 since May. The daily dividend model is intended to provide a steady cash flow that could attract income‑focused investors and stabilize the token’s market price.</p>\n<h2>6. Magic Eden Legacy Approvals Leave $5.7 Million in NFTs Exposed</h2>\n<p>A security oversight on Magic Eden allowed legacy approvals to expose $5.7 million worth of NFTs to a potential exploit. White‑hat hackers intervened, rescuing 23,155 tokens before any loss occurred. The incident serves as a reminder that even established Web3 marketplaces must maintain rigorous smart‑contract audits and approval hygiene to protect high‑value digital assets.</p>\n<h2>7. Aave V4 on Base Adds Coinbase Tokenized Stocks as Collateral for USDC Loans</h2>\n<p>The Block reports that Aave’s latest version on the Base L2 now accepts tokenized stocks from Coinbase—including Apple, Nvidia, and Tesla—as collateral for USDC loans, extending this capability to non‑U.S. users. This move bridges DeFi lending with traditional equity exposure, offering borrowers diversified collateral options and expanding the utility of tokenized securities within the DeFi ecosystem.</p>\n<h2>8. Strategy Proposes Daily Dividends for STRC, STRD, STRF, and STRK Preferred Stocks</h2>\n<p>In a broader push, Strategy is also proposing daily dividend distributions across its four U.S.-listed preferred stocks (STRC, STRD, STRF, STRK). The uniform dividend cadence aims to create a predictable income stream, potentially boosting investor confidence across the entire suite of tokens and encouraging broader market participation.</p>\n<h2>9. Daily Crypto Recap: Market Movements and Price Action</h2>\n<p>Cointelegraph’s daily roundup summarizes the day’s key price movements, regulatory updates, and sector‑specific news. Highlights include modest Bitcoin price stability around $68,500, Ethereum’s continued consolidation near $4,800, and a mixed sentiment in DeFi as new collateral options emerge. The recap reinforces the notion that while headline events dominate headlines, day‑to‑day price action remains driven by broader macro trends and investor sentiment.</p>\n<h2>10. Exchanges Reporting Crypto Gains to IRS Becomes Tax Nightmare</h2>\n<p>Cointelegraph’s investigative piece details how U.S. exchanges now forward crypto‑gain data to the IRS, but often lack accurate cost‑basis information. This gap creates a tax compliance nightmare for investors, who may face inflated tax liabilities. The situation underscores the need for better record‑keeping tools and clearer guidance on crypto tax reporting.</p>\n<h2>Market Outlook</h2>\n<p>Looking ahead, the convergence of stablecoins, tokenized assets, and traditional finance is likely to intensify competition for liquidity and regulatory favor. While the Bitget hack demonstrates that fiat‑gateway freezes are not a panacea, the rapid adoption of tokenized collateral in DeFi (e.g., Aave’s new offerings) suggests that the sector will continue to innovate around risk mitigation. Regulatory lag—exemplified by the tokenization‑Washington mismatch—poses a systemic risk, but it also creates opportunities for compliant players to capture market share. Investor focus will likely shift toward assets that combine income generation (daily dividends) with robust on‑chain security (post‑exploit audits). Overall, the market appears cautiously optimistic, with growth driven by institutional interest and product diversification, tempered by regulatory and security challenges.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Stablecoins and tokenized securities are blurring the line between traditional finance and crypto, prompting a competitive race for custody and liquidity.</li><li>Fiat‑gateway freezes can stop stablecoin transfers but cannot protect native blockchain assets, as shown by the Bitget hack.</li><li>Regulatory frameworks are trailing tokenization, creating economic pressure for swift policy action.</li><li>Counter‑party risk remains a concern for stablecoin issuers; continuous monitoring of banking partners is essential.</li><li>Daily dividend strategies aim to stabilize preferred‑stock tokens and attract income‑focused investors.</li><li>Legacy smart‑contract approvals can expose significant NFT value; rigorous audits are mandatory.</li><li>DeFi platforms are expanding collateral options with tokenized equities, enhancing loan flexibility for global users.</li><li>Tax reporting complexities persist as exchanges relay gains without cost‑basis data, highlighting the need for better compliance tools.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Crypto Biz: Wall Street and crypto fight for the same turf — <em>Cointelegraph</em></li>\n<li>[2] Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist — <em>CoinDesk</em></li>\n<li>[3] Tokenization is moving faster than Washington — <em>CoinDesk</em></li>\n<li>[4] Tether confirms minimal EQIBank exposure following $89M US asset seizure — <em>CoinDesk</em></li>\n<li>[5] Strategy proposes daily dividends to bring STRC back toward $100 — <em>CoinDesk</em></li>\n<li>[6] Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue — <em>The Block</em></li>\n<li>[7] Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans — <em>The Block</em></li>\n<li>[8] Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks — <em>The Block</em></li>\n<li>[9] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[10] Exchanges reporting crypto gains to IRS becomes tax nightmare — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "nft",
+        "stablecoins",
+        "regulation"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790352116/xeonbit24/posts/crypto-roundup-september-25-2026-at-1101-pm-ict-wall-street-meets-crypto-tokeniz.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790352116/xeonbit24/posts/crypto-roundup-september-25-2026-at-1101-pm-ict-wall-street-meets-crypto-tokeniz.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-25-2026-at-1101-pm-ict-wall-street-meets-crypto-tokeniz",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 25, 2026 at 11:01 PM (ICT): Wall Street meets crypto, tokenization accelerates, and regulatory "
+      },
+      "sourceUrl": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+          "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+          "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tokenization is moving faster than Washington",
+          "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+          "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+          "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+          "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+          "source": "The Block"
+        },
+        {
+          "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+          "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+          "source": "The Block"
+        },
+        {
+          "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
+          "url": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+          "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-25T16:01:56.626Z",
+      "slug": "crypto-roundup-september-25-2026-at-1101-pm-ict-wall-street-meets-crypto-tokeniz"
+    },
+    {
       "id": "1790310954897",
       "title": "Crypto Roundup September 25, 2026 at 11:35 AM (ICT): Major hack, stablecoin rulemaking, AI payments surge",
       "summary": "The crypto sector faced a wave of regulatory activity and a massive exchange breach, while AI‑driven Bitcoin Lightning payments gained traction. Stablecoin oversight tightened, and Asia’s dominance in adoption was reaffirmed.",
@@ -24433,15 +24514,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-    "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
-    "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
-    "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
-    "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
-    "https://decrypt.co/376781/judge-rules-trump-administration-illegally-retaliated-against-anthropic-over-ai-red-lines",
-    "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
-    "https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
     "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
     "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
@@ -24932,10 +25004,18 @@
     "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
     "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
     "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+    "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+    "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+    "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+    "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+    "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+    "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
+    "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling|https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
     "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
     "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says|https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval|https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss",
@@ -25134,6 +25214,7 @@
     "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176|https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering|https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
     "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007|https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
     "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack|https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-    "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist|https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington"
   ]
 }
