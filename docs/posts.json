@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790310954897",
+      "title": "Crypto Roundup September 25, 2026 at 11:35 AM (ICT): Major hack, stablecoin rulemaking, AI payments surge",
+      "summary": "The crypto sector faced a wave of regulatory activity and a massive exchange breach, while AI‑driven Bitcoin Lightning payments gained traction. Stablecoin oversight tightened, and Asia’s dominance in adoption was reaffirmed.",
+      "content": "<p>September 25, 2026 marked a pivotal day for the digital‑asset ecosystem. A $352 million hack at the Bitget exchange dominated headlines, prompting swift responses from regulators worldwide. At the same time, the U.S. Federal Reserve moved forward with concrete stablecoin rules under the GENIUS Act, and a consortium of tech giants, including Block, launched Lightning‑based payments for AI agents. These events, together with legal actions against Polymarket and updated CFTC guidance, illustrate a market that is simultaneously grappling with security threats, regulatory clarity, and new use‑cases.</p>\n<h2>1. Bitget $352 M Hack – Security Shockwaves Across the Industry</h2>\n<p>Bitget disclosed that unauthorized transfers hit several hot wallets, resulting in a loss of roughly $352 million. CEO Gracy Chen emphasized that cold‑wallet holdings remain intact and that user funds are “safe,” while the exchange suspended withdrawals pending investigation. Independent researchers had earlier flagged anomalous wallet activity, and the CEO later suggested North Korean IP patterns as a possible attribution.</p>\n<p>The breach underscores the persistent risk of hot‑wallet exposure. Hot wallets, which are online and used for rapid transaction processing, are inherently more vulnerable than cold storage solutions that keep private keys offline. The incident also reignites debate over the need for stricter custodial standards and real‑time monitoring tools.</p>\n<h2>2. Federal Reserve’s GENIUS Act Stablecoin Rules – Capital, Reserves, Redemption</h2>\n<p>The Fed released two proposals that would enforce capital buffers, a two‑day redemption window, and full‑reserve backing for stablecoins under its supervisory purview. The rules aim to prevent a repeat of the 2022 Terra‑LUNA collapse by ensuring issuers hold safe, liquid assets equal to the tokens in circulation.</p>\n<p>Key provisions include:\n<ul><li>Minimum capital ratios based on risk‑weighted assets.</li><li>Mandatory disclosure of reserve composition (e.g., U.S. Treasuries, cash, or high‑quality liquid assets).</li><li>A two‑day redemption guarantee, limiting the time users must wait to convert stablecoins back to fiat.</li></ul>\nThese measures are expected to raise compliance costs for existing issuers but could boost confidence among institutional investors seeking regulatory certainty.</p>\n<h2>3. Block Brings Bitcoin Lightning Payments to x402 for AI Agents</h2>\n<p>Block (formerly Square) joined Google, Microsoft, AWS, and Coinbase in supporting x402, an open‑standard payment layer designed for autonomous AI agents. By leveraging the Bitcoin Lightning Network—a second‑layer protocol that enables near‑instant, low‑fee micro‑transactions—x402 allows AI services to transact without human intervention.</p>\n<p>This development signals the convergence of decentralized finance (DeFi) and generative AI. Lightning’s scalability solves the latency and cost issues that have limited Bitcoin’s use in high‑frequency AI commerce, opening new revenue streams for developers building agentic applications.</p>\n<h2>4. New York Attorney General Sues Polymarket – Gambling or Prediction?</h2>\n<p>New York filed a lawsuit alleging that Polymarket operates an illegal gambling platform without the required license. The state seeks to block the exchange’s operations and recover alleged illicit gains.</p>\n<p>The case highlights the regulatory gray area surrounding prediction markets, which blend elements of betting with information aggregation. A favorable outcome for regulators could force similar platforms to obtain gambling licenses or restructure their product offerings to comply with state law.</p>\n<h2>5. CFTC Updates Guidance on Tokenized Assets After Failed CLARITY Vote</h2>\n<p>Although the CFTC chair did not attribute the new guidance to the failed CLARITY Act vote, the agency released updated rules aimed at clarifying the treatment of tokenized assets and blockchain records. The guidance emphasizes that tokenized securities must comply with existing securities laws and that record‑keeping on public blockchains can satisfy reporting requirements if proper audit trails are maintained.</p>\n<p>This move provides incremental clarity for market participants, especially those issuing asset‑backed tokens, while the broader legislative effort to codify crypto regulation remains stalled.</p>\n<h2>6. Asia Dominates Crypto Adoption Index – Regional Momentum Continues</h2>\n<p>Data from the Global Crypto Adoption Index shows the Asia‑Pacific region accounting for roughly 50 % of worldwide crypto activity. The report also references the Bitget hack, noting that the incident has heightened security awareness across Asian exchanges.</p>\n<p>The region’s leadership is driven by high mobile penetration, supportive fintech ecosystems, and a youthful demographic eager to experiment with decentralized finance. However, the hack underscores that rapid growth must be matched with robust risk management.</p>\n<h2>7. Fed Proposes New Capital and Redemption Rules – Industry Reaction</h2>\n<p>In a complementary release, the Fed’s capital and redemption proposals were detailed on Cointelegraph, reiterating the two‑day redemption window and capital adequacy standards. Market participants expressed mixed reactions: stablecoin issuers warned of operational strain, while institutional investors welcomed the added safety net.</p>\n<p>Analysts predict that issuers will likely consolidate, with larger players such as USDC and Tether better positioned to meet the new thresholds, potentially accelerating market concentration.</p>\n<h2>8. Bitget Confirms Breach, Suspends Withdrawals – User Impact</h2>\n<p>Following the initial announcement, Bitget confirmed that only a limited number of hot wallets were compromised, and that cold‑wallet assets remain secure. The exchange temporarily halted withdrawals to prevent further loss and to conduct forensic analysis.</p>\n<p>Customers were advised to monitor their accounts and to enable two‑factor authentication (2FA). The incident serves as a reminder that even well‑funded platforms can suffer from insider threats or sophisticated external attacks.</p>\n<h2>9. Federal Reserve Unveils Stablecoin Rules – Public Comment Phase</h2>\n<p>Decrypt reported that the Fed opened two proposals for public comment, inviting industry stakeholders to weigh in on reserve composition and the application process for banks seeking to issue stablecoins. The comment period runs for 60 days, offering a window for constructive feedback.</p>\n<p>Early comments from major banks suggest a willingness to comply, provided the rules are technology‑neutral and allow for diversified reserve assets beyond U.S. Treasuries.</p>\n<h2>10. CFTC Guidance After Failed Vote – Path Forward</h2>\n<p>The final article reiterates that, despite the failed CLARITY Act vote, the CFTC is moving forward with guidance to provide “regulatory clarity.” The agency’s focus remains on ensuring that tokenized assets are treated consistently with their traditional counterparts.</p>\n<p>Stakeholders are encouraged to align their compliance programs with existing securities regulations while awaiting more definitive legislative action.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to persist as the Bitget hack fuels short‑term sell pressure on exchange tokens, while the Fed’s stablecoin proposals may cause a temporary dip in stablecoin‑linked assets as issuers assess compliance costs. However, the broader narrative points toward maturation: regulatory frameworks are solidifying, and innovative use‑cases—such as AI‑driven Lightning payments—are expanding Bitcoin’s utility beyond a store of value.</p>\n<p>Asia’s continued adoption dominance suggests that growth will be driven by emerging markets, whereas North America focuses on regulatory clarity. Investors should monitor the Fed’s final rulebook and the outcome of the Polymarket lawsuit, as both could set precedents that shape market dynamics for the next 12‑18 months.</p>\n<h2>Key Takeaways</h2>\n<p><ul><li>Security remains a top priority; the Bitget $352 M breach highlights hot‑wallet vulnerabilities.</li><li>The U.S. Federal Reserve is close to finalizing stablecoin capital, reserve, and redemption rules, which will likely consolidate the market around well‑capitalized issuers.</li><li>AI integration with Bitcoin’s Lightning Network (x402) opens new micro‑payment pathways, signaling a convergence of DeFi and generative AI.</li><li>Regulatory pressure intensifies, as seen in New York’s Polymarket lawsuit and the CFTC’s updated guidance.</li><li>Asia continues to lead global crypto adoption, but must strengthen security practices to sustain growth.</li></ul></p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Block brings Bitcoin Lightning payments to x402 for AI agents — <em>Cointelegraph</em></li>\n<li>[2] Bitget CEO suspects North Korea behind $352M hack, citing IP clues — <em>Cointelegraph</em></li>\n<li>[3] Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express — <em>Cointelegraph</em></li>\n<li>[4] New York sues Polymarket, alleging it is running an illegal gambling operation — <em>CoinDesk</em></li>\n<li>[5] U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins — <em>CoinDesk</em></li>\n<li>[6] Fed proposes new capital, redemption rules for stablecoin issuers — <em>Cointelegraph</em></li>\n<li>[7] Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe' — <em>CoinDesk</em></li>\n<li>[8] Federal Reserve Unveils Stablecoin Rules on Reserves and Capital — <em>Decrypt</em></li>\n<li>[9] Bitget confirms $352M security breach, suspends withdrawals — <em>Cointelegraph</em></li>\n<li>[10] CFTC updates guidance on tokenized assets, blockchain records after failed vote — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "regulation",
+        "exchange",
+        "ai"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790310954/xeonbit24/posts/crypto-roundup-september-25-2026-at-1135-am-ict-major-hack-stablecoin-rulemaking.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790310954/xeonbit24/posts/crypto-roundup-september-25-2026-at-1135-am-ict-major-hack-stablecoin-rulemaking.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-25-2026-at-1135-am-ict-major-hack-stablecoin-rulemaking",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 25, 2026 at 11:35 AM (ICT): Major hack, stablecoin rulemaking, AI payments surge"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+          "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+          "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
+          "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+          "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+          "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+          "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+          "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+          "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitget confirms $352M security breach, suspends withdrawals",
+          "url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+          "url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-25T04:35:54.897Z",
+      "slug": "crypto-roundup-september-25-2026-at-1135-am-ict-major-hack-stablecoin-rulemaking"
+    },
+    {
       "id": "1790265667052",
       "title": "Crypto Roundup September 24, 2026 at 11:01 PM (ICT): Institutional Tokenization, Regulatory Scrutiny, and a Milder Bitcoin Bear Market",
       "summary": "UK banks completed the world’s first inter‑bank tokenized‑deposit transfers while IBM opened a Swift‑ledger beta, signaling deeper institutional adoption. At the same time, regulators tighten around prediction markets and a high‑profile casino hack underscores security risks, as Bitcoin’s bear market shows signs of softening.",
@@ -24352,16 +24433,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
-    "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
-    "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
-    "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
-    "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
-    "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
     "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
     "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
     "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
@@ -24851,10 +24922,19 @@
     "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
     "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
     "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-    "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+    "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+    "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+    "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+    "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/404978/coinbase-launching-tokenized-us-stocks-backed-11-holders-receive-dividends?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa|https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/crypto-advocates-execs-push-back-on-illinois-transaction-tax?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling|https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
     "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
     "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says|https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval|https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss",
@@ -25053,6 +25133,7 @@
     "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000|https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176|https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering|https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
     "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007|https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-    "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack|https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next"
+    "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack|https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+    "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
