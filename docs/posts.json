@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790397566563",
+      "title": "Crypto Roundup September 26, 2026 at 11:39 AM (ICT): Regulatory shifts, privacy upgrades and market‑wide ripples",
+      "summary": "The crypto sector sees major regulatory churn with the SEC’s top crypto advocate exiting, a US prosecutor’s $84 million claim against a Tether‑linked bank, and the SEC’s new FAQ. At the same time, Bitcoin privacy research and XRP’s delayed batch upgrade highlight technical evolution.",
+      "content": "<p>September 26, 2026 brings a wave of regulatory headlines and technical developments that together shape market sentiment. While the SEC tightens its guidance and loses a key champion, U.S. prosecutors target a bank tied to Tether, and the SEC releases a detailed FAQ on token buybacks and network upgrades. Parallel to the policy turbulence, researchers propose Zcash‑style privacy for Bitcoin and the XRP Ledger postpones a batch‑processing upgrade. These events intersect to create a nuanced outlook for investors and developers.</p><h2>1. U.S. SEC’s steadiest crypto advocate, Hester Peirce, to depart next week</h2><p>Commissioner Hester Peirce, often called “Crypto Mom,” announced her exit effective Oct. 2. Peirce has been the most vocal SEC member pushing for clearer rules and lighter enforcement, especially around digital assets and token offerings. Her departure may signal a shift toward a more cautious stance, potentially slowing the momentum of the SEC’s recent “crypto‑friendly” signals. Market participants are watching for who will fill the vacancy and whether the new appointee will favor stricter oversight.</p><h2>2. US Prosecutors Want $84.2 Million From a Bank Tied to Tether</h2><p>Federal prosecutors in Montana have filed a civil forfeiture claim seeking $84.2 million from a payments firm and a Caribbean‑based bank accused of moving funds linked to Tether without a money‑transmitter license. The case underscores ongoing scrutiny of stablecoin infrastructure and could pressure other custodial partners to tighten compliance. Traders may see short‑term volatility in USDT markets as the legal outcome unfolds.</p><h2>3. SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit</h2><p>The SEC released a frequently‑asked‑questions document clarifying that promoting a network’s existing uses generally does not create an expectation of profit, a key test for securities law. The FAQ also touches on token buybacks and network upgrades, offering guidance that may reduce uncertainty for projects planning governance‑driven token repurchases or hard forks. While the guidance is non‑binding, it provides a reference point for legal teams and may encourage more proactive compliance.</p><h2>4. Bitcoin could soon get Zcash‑style ‘shielded’ privacy without changing its rules</h2><p>Researchers have outlined a protocol that would enable private, shielded Bitcoin transfers by running a parallel layer that mimics Zcash’s zero‑knowledge proofs. The design does not require a consensus rule change, meaning it could be adopted via soft‑fork‑compatible upgrades or optional client software. However, the system still lacks a reliable mechanism to lock real BTC into the shielded pool and later release it, a hurdle that must be solved before mainstream use.</p><h2>5. XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets</h2><p>The XRP Ledger planned a batch‑processing upgrade that would let users bundle up to eight transactions—payments, asset transfers, or smart‑contract calls—into a single ledger entry, improving throughput and reducing fees. A brief dip below the 80 % validator support threshold reset the two‑week activation timer, pushing the launch to Oct. 9. The delay highlights the importance of validator coordination in permissioned‑like networks and may temporarily dampen optimism for faster XRP settlement.</p><h2>6. Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations</h2><p>The Sixth Circuit Court of Appeals held that Kalshi’s sports‑related prediction contracts are not swaps and therefore fall under state gambling laws rather than federal commodity regulations. This decision narrows the regulatory scope for U.S. prediction markets, potentially limiting the growth of platforms that focus on sports events. Companies may need to seek state‑by‑state licenses or pivot to non‑sports contracts.</p><h2>7. OG.com seeks CFTC approval for single‑stock perpetual futures</h2><p>OG.com, a spin‑off of Crypto.com, has filed for CFTC clearance to launch perpetual futures on individual U.S. equities. If approved, this would join offerings from Coinbase, Kalshi and Payward (Kraken) and expand the bridge between crypto‑style derivatives and traditional equities. The move reflects a broader trend of crypto firms targeting regulated futures markets to attract institutional capital.</p><h2>8. Ex‑CFTC leader to leave Blockchain Association after CLARITY vote fails</h2><p>Former CFTC Commissioner Summer Mersinger announced her departure from the Blockchain Association after the Senate’s Crypto‑Clarity Act failed to pass. Mersinger’s exit signals frustration within the industry over stalled legislative progress and may affect the group’s lobbying power in upcoming congressional sessions.</p><h2>9. Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles</h2><p>Following Mersinger’s exit, the Blockchain Association will revert to its original CEO, Kristin Smith, as interim leader. The leadership change comes at a critical time when the industry seeks a unified voice on pending legislation, including the still‑pending Crypto‑Clarity Act and broader fintech reforms.</p><h2>10. Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO</h2><p>The formal announcement confirms Mersinger’s resignation effective next month, with Smith taking over on an interim basis. The transition underscores the volatility of advocacy efforts and may lead to a temporary slowdown in coordinated policy pushes, especially around stablecoin regulation and market‑making rules.</p><h2>Market Outlook</h2><p>Regulatory turbulence dominates the short‑term narrative. The SEC’s loss of a crypto‑friendly commissioner, the aggressive legal action against a Tether‑linked bank, and the mixed court rulings on prediction markets all point to a tightening environment. Yet, the SEC’s new FAQ and the technical progress on Bitcoin privacy and XRP batch processing suggest that innovation continues despite headwinds. Investors should expect modest price corrections in major tokens, particularly USDT and XRP, while Bitcoin may see a modest rally if privacy solutions gain traction. The appetite for regulated crypto‑derivatives, exemplified by OG.com’s CFTC filing, could attract new institutional inflows, offsetting some of the regulatory drag.</p><h2>Key Takeaways</h2><ul><li>Regulators remain the primary driver of market sentiment; the SEC’s internal shift and aggressive prosecutions could increase compliance costs.</li><li>Technical upgrades (Bitcoin shielded layer, XRP batch processing) demonstrate ongoing scalability and privacy focus, but implementation risks remain.</li><li>Legal outcomes for Kalshi and the Tether‑linked bank will set precedents for prediction markets and stablecoin custodianship.</li><li>Crypto‑derivatives firms are intensifying efforts to secure CFTC approval, signaling a maturing market for regulated products.</li><li>Leadership changes at the Blockchain Association may temporarily weaken coordinated lobbying, affecting upcoming legislation like the Crypto‑Clarity Act.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets — <em>CoinDesk</em></li>\n<li>[2] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules — <em>CoinDesk</em></li>\n<li>[3] U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week — <em>CoinDesk</em></li>\n<li>[4] US Prosecutors Want $84.2 Million From a Bank Tied to Tether — <em>Decrypt</em></li>\n<li>[5] Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations — <em>CoinDesk</em></li>\n<li>[6] OG.com seeks CFTC approval for single-stock perpetual futures — <em>Cointelegraph</em></li>\n<li>[7] SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit — <em>The Block</em></li>\n<li>[8] Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails — <em>Cointelegraph</em></li>\n<li>[9] Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles — <em>CoinDesk</em></li>\n<li>[10] Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "xrp",
+        "sec",
+        "cftc",
+        "regulation",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790397566/xeonbit24/posts/crypto-roundup-september-26-2026-at-1139-am-ict-regulatory-shifts-privacy-upgrad.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790397566/xeonbit24/posts/crypto-roundup-september-26-2026-at-1139-am-ict-regulatory-shifts-privacy-upgrad.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-26-2026-at-1139-am-ict-regulatory-shifts-privacy-upgrad",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 26, 2026 at 11:39 AM (ICT): Regulatory shifts, privacy upgrades and market‑wide ripples"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "sourceTitle": "CoinDesk / Decrypt / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+          "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+          "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+          "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+          "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+          "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+          "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+          "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+          "source": "The Block"
+        },
+        {
+          "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+          "url": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+          "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
+          "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-09-26T04:39:26.563Z",
+      "slug": "crypto-roundup-september-26-2026-at-1139-am-ict-regulatory-shifts-privacy-upgrad"
+    },
+    {
       "id": "1790352116626",
       "title": "Crypto Roundup September 25, 2026 at 11:01 PM (ICT): Wall Street meets crypto, tokenization accelerates, and regulatory ripples",
       "summary": "Stablecoins and tokenized assets are forcing traditional finance and crypto into direct competition, while a high‑profile Bitget hack highlights the limits of fiat‑gateway freezes. Meanwhile, DeFi platforms expand collateral options and legacy NFT approvals expose millions in risk, setting a cautious yet opportunistic tone for the market.",
@@ -24514,16 +24595,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-    "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-    "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
-    "https://decrypt.co/376843/meta-tests-robots-data-center",
-    "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-    "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
-    "https://decrypt.co/376838/us-cities-ai-data-center-limits",
-    "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
     "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
     "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
     "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
@@ -25013,10 +25084,19 @@
     "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
     "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
     "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-    "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+    "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+    "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+    "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+    "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+    "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
     "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says|https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval|https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners|https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000|https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades",
@@ -25215,6 +25295,7 @@
     "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007|https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
     "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack|https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
     "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist|https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington"
+    "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist|https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+    "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets|https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules|https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
   ]
 }
