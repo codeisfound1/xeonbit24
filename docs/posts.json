@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790435658919",
+      "title": "Crypto Roundup September 26, 2026 at 10:14 PM (ICT): Quantum‑Safe Bitcoin, Payward’s Infrastructure Play, and a Stablecoin Tug‑of‑War",
+      "summary": "A competition slashes the cost of quantum‑safe Bitcoin transactions, Kraken’s parent Payward pours billions into a unified financial stack, and a new Binance‑Circle partnership intensifies the USDC‑Tether rivalry. Meanwhile, regulatory headlines and a major XRP theft keep the market on edge.",
+      "content": "<p>September 26 was a packed day for crypto, with breakthroughs in security, bold infrastructure bets, and fresh regulatory pressure. While Bitcoin’s privacy and quantum‑resilience advanced, the stablecoin arena saw Binance double‑down on Circle’s USDC, challenging Tether’s dominance. At the same time, high‑profile legal battles—from a prediction‑market appeal loss to a CFTC lawsuit—remind investors that compliance risk remains a core market driver.</p>\n<h2>1. AI‑Driven Competition Cuts Quantum‑Safe Bitcoin Cost to $67</h2>\n<p>StarkWare, Yukon Research, and Eigen Labs hosted an open competition to create a quantum‑safe Bitcoin transaction. By leveraging AI‑generated proofs, participants reduced the estimated cost from roughly $320 to $67. Quantum‑safe protocols protect against future attacks by quantum computers that could break the elliptic‑curve signatures Bitcoin currently uses. The lower cost makes it feasible for everyday users and custodians to adopt post‑quantum cryptography without sacrificing transaction speed or fees, potentially future‑proofing the network.</p>\n<h2>2. Payward (Kraken) Bets Billions on a Unified Financial Infrastructure</h2>\n<p>Payward, the parent of Kraken, announced a multi‑billion‑dollar plan to merge trading, payments, asset‑management, and institutional services onto a single technology stack. Co‑CEO Arjun Sethi framed the move as a shift from a pure exchange to a full‑service financial platform, aiming to capture more of the $10 trillion crypto‑adjacent market. The strategy mirrors traditional banks’ push for integrated services and could give Kraken a competitive edge in liquidity provision and regulatory compliance.</p>\n<h2>3. Binance‑Circle Deal Accelerates USDC’s Global Reach</h2>\n<p>Binance signed a five‑year agreement with Circle, expanding USDC’s availability across emerging markets and adding new on‑ramps for fiat‑to‑stablecoin conversion. Analysts note that while Tether still holds a liquidity advantage, the partnership gives USDC a stronger distribution network and could erode Tether’s market‑share, especially in regions where Binance dominates. The deal also underscores the growing importance of stablecoins as the backbone of cross‑border payments and DeFi liquidity.</p>\n<h2>4. Bitcoin May Gain Zcash‑Style Shielded Privacy Without Protocol Changes</h2>\n<p>Researchers have outlined a method to enable private, shielded Bitcoin transfers that operate alongside the main chain, similar to Zcash’s zk‑SNARKs. The approach does not require a hard fork; instead, it uses side‑chain contracts that lock BTC and release it after a zero‑knowledge proof validates the transaction. If implemented, this could satisfy privacy‑focused users while preserving Bitcoin’s consensus stability, a long‑standing trade‑off in the community.</p>\n<h2>5. Bitget Hack Moves $83 Million in XRP, Highlighting Immutable Ledger Limits</h2>\n<p>A hacker targeting Bitget’s custodial wallets transferred roughly $83 million worth of XRP, with about $75 million still in the original accounts. Because XRP’s ledger is immutable, Ripple cannot freeze the stolen funds, exposing a systemic risk for custodial services that rely on off‑chain controls. The incident reinforces the need for stronger multi‑signature custody solutions and real‑time monitoring to mitigate large‑scale thefts.</p>\n<h2>6. SEC Commissioner Hester Peirce Announces Departure</h2>\n<p>Hester Peirce, dubbed “Crypto Mom,” will leave the SEC on October 2 after eight years, including leading the agency’s Crypto Task Force. Known for her pro‑innovation stance, Peirce’s exit may shift the SEC’s tone toward a more enforcement‑heavy approach, especially as the commission continues to grapple with stablecoin oversight and crypto‑asset classification.</p>\n<h2>7. Kalshi Loses Appeal, Setting Up Possible Supreme Court Fight</h2>\n<p>The 6th US Circuit Court of Appeals ruled against prediction‑market platform Kalshi, siding with Ohio and Tennessee’s authority to regulate sports‑event contracts. Kalshi plans to appeal to the Supreme Court, arguing that its contracts are non‑gambling financial products. The case could set a precedent for how U.S. states treat crypto‑based prediction markets, influencing future regulatory frameworks.</p>\n<h2>8. CFTC Sues Cash FX Over Alleged $950 Million Crypto‑Linked Forex Scheme</h2>\n<p>The Commodity Futures Trading Commission filed a lawsuit accusing Cash FX of operating a sham forex platform that primarily used crypto assets to misappropriate client funds. The complaint alleges that only a fraction of the $950 million raised was used for legitimate trading. The case underscores the CFTC’s expanding jurisdiction over crypto‑related financial fraud and may prompt tighter AML/KYC standards for hybrid crypto‑forex services.</p>\n<h2>9. Google Launches Free 1080p AI Video Generation for All Users</h2>\n<p>Google’s new Vids tool, powered by Gemini Omni 1.1 Flash, lets any Google account generate free 1080p AI videos with scene‑level control and optional watermarks. While not a blockchain product, the technology lowers the barrier for content creators and could accelerate the adoption of AI‑generated NFTs and token‑gated video experiences, linking mainstream AI advances to the crypto ecosystem.</p>\n<h2>10. Daily Crypto News Snapshot</h2>\n<p>Cointelegraph’s daily roundup highlighted price movements, DeFi protocol updates, and regulatory headlines. Bitcoin hovered around $68,000, while Ethereum traded near $2,800. Stablecoin inflows favored USDC after the Binance deal, and market sentiment remained cautious amid the regulatory developments noted above.</p>\n<h2>Market Outlook</h2>\n<p>Overall, the market is entering a phase where infrastructure and compliance will dictate winners. Payward’s billion‑dollar infrastructure push and Binance’s USDC expansion signal a maturation toward institutional‑grade services. At the same time, quantum‑safe and privacy upgrades for Bitcoin aim to preserve its relevance against emerging threats. However, regulatory headwinds—exemplified by the SEC leadership change, the Kalshi appeal, and the CFTC lawsuit—keep volatility elevated. Expect Bitcoin and Ethereum to trade in a relatively narrow band while stablecoin market share battles intensify.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li>Quantum‑safe Bitcoin is becoming economically viable, bolstering long‑term network security.</li>\n<li>Payward’s infrastructure bet could reshape the exchange‑to‑banking pipeline, attracting more institutional capital.</li>\n<li>Binance’s partnership with Circle accelerates USDC’s global push, challenging Tether’s liquidity moat.</li>\n<li>Privacy enhancements for Bitcoin may arrive via side‑chains, offering shielded transfers without protocol changes.</li>\n<li>Custodial security remains a critical risk, as shown by the Bitget XRP theft.</li>\n<li>Regulatory uncertainty persists, with potential Supreme Court rulings and a more aggressive SEC on the horizon.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning — <em>Decrypt</em></li>\n<li>[2] Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange — <em>CoinDesk</em></li>\n<li>[3] Kalshi loses appeal, setting up potential Supreme Court case — <em>Cointelegraph</em></li>\n<li>[4] Google Just Made Free 1080p AI Video Generation Available to Anyone — <em>Decrypt</em></li>\n<li>[5] Binance deal gives Circle a boost in stablecoin race with Tether, analysts say — <em>CoinDesk</em></li>\n<li>[6] Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze — <em>CoinDesk</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules — <em>CoinDesk</em></li>\n<li>[9] SEC Commissioner Hester Peirce to leave post on Oct. 2 — <em>Cointelegraph</em></li>\n<li>[10] CFTC sues Cash FX, alleges $950M crypto-linked forex scheme — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "stablecoins",
+        "regulation",
+        "exchange",
+        "privacy",
+        "AI"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790435658/xeonbit24/posts/crypto-roundup-september-26-2026-at-1014-pm-ict-quantumsafe-bitcoin-paywards-inf.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790435658/xeonbit24/posts/crypto-roundup-september-26-2026-at-1014-pm-ict-quantumsafe-bitcoin-paywards-inf.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-september-26-2026-at-1014-pm-ict-quantumsafe-bitcoin-paywards-inf",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup September 26, 2026 at 10:14 PM (ICT): Quantum‑Safe Bitcoin, Payward’s Infrastructure Play, and a Stableco"
+      },
+      "sourceUrl": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+          "url": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+          "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+          "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+          "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+          "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+          "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+          "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+          "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+          "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-26T15:14:18.919Z",
+      "slug": "crypto-roundup-september-26-2026-at-1014-pm-ict-quantumsafe-bitcoin-paywards-inf"
+    },
+    {
       "id": "1790397566563",
       "title": "Crypto Roundup September 26, 2026 at 11:39 AM (ICT): Regulatory shifts, privacy upgrades and market‑wide ripples",
       "summary": "The crypto sector sees major regulatory churn with the SEC’s top crypto advocate exiting, a US prosecutor’s $84 million claim against a Tether‑linked bank, and the SEC’s new FAQ. At the same time, Bitcoin privacy research and XRP’s delayed batch upgrade highlight technical evolution.",
@@ -24595,14 +24676,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-    "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-    "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
-    "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
-    "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-    "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
-    "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
-    "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
     "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
     "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -25094,10 +25167,17 @@
     "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
     "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-    "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913"
+    "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+    "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+    "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+    "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
+    "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+    "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+    "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says|https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval|https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners|https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000|https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
@@ -25296,6 +25376,7 @@
     "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack|https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
     "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist|https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-    "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets|https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules|https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
+    "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets|https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules|https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap|https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange|https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
