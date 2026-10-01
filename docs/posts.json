@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790832538367",
+      "title": "Crypto Roundup October 1, 2026 at 12:28 PM (ICT): Bitcoin stalls, hacks surge, and DogeOS pushes meme‑coin utility",
+      "summary": "Bitcoin’s brief pop above $85k faded as bond yields held firm, while September saw record‑high crypto hacks totalling $768 M. Meanwhile DogeOS’s testnet aims to transform Dogecoin into a DeFi platform, and regulators tighten their grip on event contracts and validator services.",
+      "content": "<p>October 1 2026 brings a mixed bag for the crypto ecosystem. Bitcoin’s short‑lived rally to $85,500 was erased by stubborn Treasury yields, and September’s hack tally topped $768 million, underscoring persistent security gaps. At the same time, developers are pushing meme‑coin utility forward with DogeOS’s public testnet, while regulators in the U.S. and Europe sharpen their focus on derivatives and validator responsibilities. Below we break down each headline, explore the implications, and synthesize a market outlook.</p><h2>1. Bitcoin's soft‑inflation pop to $85,500 fades as bond yields refuse to fall</h2><p>A cooler‑than‑expected PCE report briefly lifted Bitcoin above $85k, but Treasury yields, hovering near 2002 highs, sucked the momentum away. The price action highlights Bitcoin’s growing sensitivity to macro‑financial conditions: higher yields raise the opportunity cost of holding non‑yield‑bearing assets, prompting profit‑taking. Technical charts now show a retest of the $82k‑$84k range, suggesting a consolidation phase rather than a sustained breakout.</p><h2>2. Crypto hacks top $768 M in September, worst month of 2026</h2><p>September’s breach tally eclipsed $768 million, driven largely by the $388 million Bitget hack and a $320 million exploit on the Liquid Network. Although more than $270 million was later returned, the episode underscores the systemic risk posed by centralized custodians and cross‑chain bridges. Industry analysts warn that attackers are increasingly targeting high‑value custodial platforms, prompting calls for stricter audit standards and real‑time monitoring.</p><h2>3. CFTC seeks to define event contracts as swaps amid prediction market fight</h2><p>The Commodity Futures Trading Commission (CFTC) is moving to classify event contracts—bets on outcomes like elections or sports—as swaps. This would cement the agency’s exclusive jurisdiction over regulated prediction markets, potentially limiting the growth of decentralized platforms that currently operate in a gray area. Market participants should anticipate new compliance requirements and possible licensing for platforms offering such contracts.</p><h2>4. MetaMask exits Ethereum validators amid undisclosed security incident</h2><p>MetaMask announced it is withdrawing its staked ETH from Lido validators while investigating an internal security incident. Although no immediate threat to user wallets was detected, the move raises questions about the robustness of third‑party staking services and the need for clearer risk disclosures. Users may consider diversifying staking providers or moving to self‑custody solutions until the investigation concludes.</p><h2>5. Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity</h2><p>Google’s Gemini 4 model outperformed 12 of 18 benchmarks in cybersecurity resilience, writing a million tokens per response and resisting hijacking attempts. While the model is aimed at cyber defenders, its capabilities could soon be leveraged for smart‑contract auditing and threat detection in blockchain networks, offering a new layer of AI‑driven security for DeFi protocols.</p><h2>6. Standard Chartered sees Ethena’s USDe reaching $40 B, ENA hitting $2</h2><p>Standard Chartered projects Ethena’s algorithmic stablecoin USDe to manage $40 billion in assets, with its governance token ENA potentially climbing to $2 by 2028. The forecast reflects growing institutional confidence in algorithmic stablecoins as a bridge between fiat and crypto, though regulatory scrutiny remains a key variable.</p><h2>7. Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says</h2><p>Bitwise CIO Matt Hougan argues that the defeat of the Clarity Act—intended to impose stricter crypto regulations—has inadvertently accelerated favorable SEC actions and cleared a path for quicker product launches. The sentiment suggests that a lighter regulatory touch may foster innovation, but investors should monitor any subsequent policy shifts.</p><h2>8. Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps</h2><p>Dogecoin’s community-driven DogeOS layer announced a DeFi testnet, aiming to let developers build lending platforms and games on the meme‑coin network. While the current architecture relies on selected operators, the roadmap envisions leveraging Dogecoin miners for security, potentially turning the coin’s massive hash rate into a decentralized validator set.</p><h2>9. Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet</h2><p>The MyDoge wallet team launched a public test of DogeOS, inviting developers to experiment with on‑chain applications. Early prototypes include a peer‑to‑peer lending market and a simple NFT marketplace, signaling a shift from Dogecoin’s pure payment narrative to a broader utility ecosystem.</p><h2>10. FBI tells its employees to assume hackers have their personal data</h2><p>An internal FBI memo warned staff that the ShinyHunters group, which claimed to breach the bureau’s jobs site, may already possess personal data. The advisory underscores the heightened threat landscape for government agencies and highlights the importance of zero‑trust security models—principles that are equally relevant for crypto platforms handling sensitive user information.</p><h2>Market Outlook</h2><p>Overall, the market is navigating a convergence of macro pressure, security challenges, and regulatory tightening. Bitcoin’s price stability will likely remain linked to U.S. Treasury yields, while the surge in hacks may drive capital toward platforms with audited code and insurance coverage. Regulatory moves—especially the CFTC’s swap classification and the fallout from the Clarity Act—could reshape the landscape for prediction markets and token offerings. On the upside, AI advancements like Gemini 4 and the emergence of DeFi layers on meme coins suggest new growth vectors, provided security and compliance keep pace.</p><h2>Key Takeaways</h2><ul><li>Bitcoin’s rally is fragile; monitor Treasury yields for price direction.</li><li>September’s $768 M hack total highlights the need for stronger custodial security and bridge audits.</li><li>The CFTC’s swap definition may restrict decentralized prediction markets.</li><li>MetaMask’s validator exit signals heightened scrutiny of third‑party staking services.</li><li>AI models such as Gemini 4 could become essential tools for blockchain security.</li><li>DogeOS’s testnet marks the first serious attempt to give Dogecoin a DeFi utility layer.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps — <em>CoinDesk</em></li>\n<li>[2] Crypto hacks top $768M in September, worst month of 2026 — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall — <em>CoinDesk</em></li>\n<li>[4] CFTC seeks to define event contracts as swaps amid prediction market fight — <em>Cointelegraph</em></li>\n<li>[5] MetaMask exits Ethereum validators amid undisclosed security incident — <em>Cointelegraph</em></li>\n<li>[6] Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity — <em>Decrypt</em></li>\n<li>[7] Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says — <em>The Block</em></li>\n<li>[8] Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet — <em>Decrypt</em></li>\n<li>[9] FBI Tells Its Employees to Assume Hackers Have Their Personal Data — <em>Decrypt</em></li>\n<li>[10] Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2 — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "dogecoin",
+        "regulation",
+        "security",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790832537/xeonbit24/posts/crypto-roundup-october-1-2026-at-1228-pm-ict-bitcoin-stalls-hacks-surge-and-doge.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790832537/xeonbit24/posts/crypto-roundup-october-1-2026-at-1228-pm-ict-bitcoin-stalls-hacks-surge-and-doge.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-1-2026-at-1228-pm-ict-bitcoin-stalls-hacks-surge-and-doge",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 1, 2026 at 12:28 PM (ICT): Bitcoin stalls, hacks surge, and DogeOS pushes meme‑coin utility"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+          "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto hacks top $768M in September, worst month of 2026",
+          "url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+          "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+          "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+          "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
+          "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+          "source": "The Block"
+        },
+        {
+          "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+          "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+          "source": "Decrypt"
+        },
+        {
+          "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+          "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+          "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-01T05:28:58.367Z",
+      "slug": "crypto-roundup-october-1-2026-at-1228-pm-ict-bitcoin-stalls-hacks-surge-and-doge"
+    },
+    {
       "id": "1790788005712",
       "title": "Crypto Roundup September 30, 2026 at 12:06 AM (ICT): Bitcoin steadies, Bitget fund recovers, stablecoin showdown",
       "summary": "Bitcoin hovered near $83,700 after cooler PCE inflation data eased Fed rate‑hike concerns, while Bitget’s $309 M protection fund helped the exchange rebound from a major breach. Meanwhile, a new Solana‑based media exchange, a challenger stablecoin, and regulatory actions in the US and UK signal growing institutional focus on infrastructure and compliance.",
@@ -25322,16 +25403,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-    "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
-    "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-    "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
-    "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
-    "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
-    "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
-    "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
     "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
     "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
@@ -25821,10 +25892,19 @@
     "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
     "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
     "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-    "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline"
+    "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+    "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+    "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+    "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+    "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+    "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+    "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+    "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking|https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.theblock.co/post/405730/ark-invest-buys-spacex-shares?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief|https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
     "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
@@ -26023,6 +26103,7 @@
     "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again|https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record|https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score|https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr|https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335"
+    "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr|https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
+    "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps|https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
   ]
 }

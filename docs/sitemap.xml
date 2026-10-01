@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-october-1-2026-at-1228-pm-ict-bitcoin-stalls-hacks-surge-and-doge</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790832537/xeonbit24/posts/crypto-roundup-october-1-2026-at-1228-pm-ict-bitcoin-stalls-hacks-surge-and-doge.jpg</image:loc>
+      <image:title>Crypto Roundup October 1, 2026 at 12:28 PM (ICT): Bitcoin stalls, hacks surge, and DogeOS pushes meme‑coin utility</image:title>
+      <image:caption>Crypto Roundup October 1, 2026 at 12:28 PM (ICT): Bitcoin stalls, hacks surge, and DogeOS pushes meme‑coin utility</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-september-30-2026-at-1206-am-ict-bitcoin-steadies-bitget-fund-rec</loc>
