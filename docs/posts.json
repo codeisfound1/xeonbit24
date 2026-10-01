@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1790876201530",
+      "title": "Crypto Roundup October 1, 2026 at 12:36 AM (ICT): Bitcoin’s Uptober rally, Ethereum’s burned‑reward proposal, and a wave of regulatory moves",
+      "summary": "Bitcoin fights to sustain its historic October surge as US Treasury yields retreat, while Ethereum stalls its reward‑burn plan amid governance friction. Meanwhile, U.S. states coordinate crypto oversight, a major XRP treasury deal clears for Nasdaq, and Near Intents suffers a $3.8 M exploit, underscoring security pressures.",
+      "content": "<p>October 1 2026 marks a pivotal day for the crypto ecosystem. Bitcoin is testing the strength of its famed “Uptober” rally, Ethereum’s upgrade roadmap faces a governance setback, and U.S. regulators are tightening coordination across state lines. At the same time, a high‑profile exploit at Near Intents reminds the market that security remains a top concern. This roundup dissects the ten most recent stories, connects the dots, and offers a forward‑looking market outlook.</p>\n<h2>1. Bitcoin’s Uptober Momentum Tested by Fed Policy and Yield Drops</h2>\n<p>Bitcoin entered October on the back of a record‑pace September, earning the moniker “Uptober.” The digital gold is now confronting two macro forces: a recent Federal Reserve rate hike and Treasury yields that peaked at a 24‑year high before retreating. The dip in yields, highlighted by Cointelegraph, gave Bitcoin a brief reprieve, allowing it to preserve a series of higher lows—a classic bullish pattern. However, the Fed’s tighter stance keeps risk appetite in check, meaning any further upside will likely be incremental unless yields continue to fall.</p>\n<h2>2. Ethereum’s Reward‑Burn Proposal Pulled from Hegota Upgrade</h2>\n<p>The Block reports that EIP‑8363, which would have burned a portion of staking rewards, was removed from the upcoming Hegota upgrade. Co‑author Jérôme de Tychey cited broad community pushback and a consensus that the proposal’s scoping process was inappropriate for a fundamental issuance change. The withdrawal signals growing caution among core developers about altering Ethereum’s monetary policy without extensive stakeholder alignment. Investors should watch for alternative fee‑reduction mechanisms that may emerge in future upgrades.</p>\n<h2>3. Illinois Delays Controversial 0.2% Digital Asset Tax</h2>\n<p>Decrypt reveals that Illinois, after a joint request from state officials and crypto industry groups, secured a court‑ordered postponement of its 0.2 % digital‑asset tax from Jan 1 2027 to July 1 2027. The tax, which would have applied to all crypto transactions, sparked a lawsuit alleging it violated the state constitution’s uniformity clause. The delay provides a breathing room for the industry to lobby for a more balanced approach while the legal battle proceeds.</p>\n<h2>4. New York‑Wyoming Pact to Harmonise Crypto Oversight</h2>\n<p>Cointelegraph details a new memorandum of understanding between the New York Department of Financial Services and the Wyoming Division of Banking. The agreement creates a shared information platform, streamlines licensing reviews, and coordinates examinations of digital‑asset firms operating across both jurisdictions. By reducing regulatory friction, the pact could accelerate the rollout of compliant services, especially for fintech startups seeking multi‑state licences.</p>\n<h2>5. Near Intents Hit by $3.8 M Exploit After Bitget‑Related Bug</h2>\n<p>Three outlets—Cointelegraph, Decrypt, and CoinDesk—cover a coordinated story: Near Intents, a cross‑chain swap platform, suffered a $3.8 million loss due to a bug that allowed an attacker to drain funds from deposits and withdrawals. The incident followed the platform’s earlier assistance to Bitget after a separate breach, raising questions about code reuse and audit rigor. Near Intents has pledged to reimburse every affected user, but the episode highlights the broader trend of sophisticated exploits targeting DeFi bridges.</p>\n<h2>6. Evernorth’s $1 B XRP Treasury Deal Clears Nasdaq Path</h2>\n<p>The Block reports that Armada Acquisition Corp. II shareholders approved a merger with Evernorth, a company that will hold roughly 473 million XRP in its treasury. The deal, valued at $1 billion, positions XRP for a potential Nasdaq debut via a special‑purpose acquisition company (SPAC). The approval removes a major regulatory hurdle and could boost XRP’s liquidity and institutional credibility.</p>\n<h2>7. CLARITY Act Fails, Yet New Advisory Rules Take Effect</h2>\n<p>CoinDesk’s analysis notes that the Congressional “CLARITY Act,” intended to create a unified federal framework for crypto advisors, failed to pass. Nonetheless, the SEC and FINRA rolled out a set of advisory rules that mirror many of the act’s provisions, effectively imposing the same compliance requirements on registered investment advisers. The de‑facto regulation underscores the inevitability of formal oversight, regardless of legislative outcomes.</p>\n<h2>8. Bitcoin’s Local Uptrend Supported by Falling US Bond Yields</h2>\n<p>Cointelegraph’s market snapshot shows that after US Treasury yields receded from their 24‑year highs, Bitcoin managed to sustain a local uptrend, forming higher lows on the daily chart. The correlation suggests that lower yields improve the risk‑reward profile for non‑yield‑bearing assets like Bitcoin, reinforcing its role as a hedge against traditional market stress.</p>\n<h2>9. Near Intents’ Cross‑Chain Swap Freeze and User Compensation Promise</h2>\n<p>Deeper coverage from Decrypt emphasizes Near Intents’ decision to freeze all cross‑chain swaps pending a full security audit. The platform’s commitment to repay every user, combined with a transparent post‑mortem, aims to restore confidence. However, the incident adds to a growing list of high‑profile DeFi bridge failures in 2026, prompting calls for standardized security certifications.</p>\n<h2>10. Near Intents Exploit Highlights Ongoing Hack Surge in Crypto</h2>\n<p>CoinDesk frames the Near Intents breach as part of a “rough year of hacks,” noting that the $3.8 million loss is one of several multi‑million exploits reported this year. The article stresses that attackers are increasingly targeting cross‑chain infrastructure, where code complexity and heterogeneous security models create attack surfaces.</p>\n<h2>Market Outlook</h2>\n<p>Overall, the market is navigating a mixed macro‑environment. Bitcoin’s price action remains tied to US Treasury yields; a continued decline could unlock further upside, while any resurgence in rates may cap gains. Ethereum’s governance friction suggests that major protocol changes will be incremental, keeping ETH’s supply dynamics relatively stable for now.</p>\n<p>Regulatory coordination—exemplified by the New York‑Wyoming pact and the Illinois tax delay—signals a maturing framework that could reduce compliance costs for compliant firms, encouraging institutional entry. Conversely, the CLARITY Act’s failure but subsequent rule adoption illustrates that regulatory pressure will not abate.</p>\n<p>Security remains the Achilles’ heel. The Near Intents exploit, alongside other bridge hacks, is likely to accelerate demand for formal security audits, insurance products, and possibly a “bridge certification” standard overseen by a consortium of exchanges and auditors.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s Uptober rally is fragile; its next move hinges on US Treasury yields and Fed policy.</li><li>Ethereum’s reward‑burn proposal was withdrawn, highlighting the need for broader consensus before altering monetary policy.</li><li>State‑level regulatory cooperation (NY‑Wyoming) and delayed tax measures (Illinois) point to a more predictable U.S. crypto landscape.</li><li>Near Intents’ $3.8 M exploit underscores the heightened risk in cross‑chain DeFi services and may spur industry‑wide security standards.</li><li>Evernorth’s XRP treasury merger clears a path to Nasdaq, potentially boosting XRP’s mainstream visibility.</li><li>Even without the CLARITY Act, advisory rules are now effectively in place, meaning crypto advisers must comply with traditional securities regulations.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] It's the Start of Uptober. Will Bitcoin Live Up to It? — <em>Decrypt</em></li>\n<li>[2] Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade — <em>The Block</em></li>\n<li>[3] Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit — <em>Decrypt</em></li>\n<li>[4] New York, Wyoming regulators sign pact to coordinate crypto oversight — <em>Cointelegraph</em></li>\n<li>[5] Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs — <em>Cointelegraph</em></li>\n<li>[6] NEAR Intents suffers $3.8M exploit after assistance with Bitget breach — <em>Cointelegraph</em></li>\n<li>[7] Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker — <em>Decrypt</em></li>\n<li>[8] Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut — <em>The Block</em></li>\n<li>[9] Crypto for Advisors: The CLARITY Act failed, but the rules came anyway — <em>CoinDesk</em></li>\n<li>[10] NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "near",
+        "xrp",
+        "regulation"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790876200/xeonbit24/posts/crypto-roundup-october-1-2026-at-1236-am-ict-bitcoins-uptober-rally-ethereums-bu.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790876200/xeonbit24/posts/crypto-roundup-october-1-2026-at-1236-am-ict-bitcoins-uptober-rally-ethereums-bu.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-1-2026-at-1236-am-ict-bitcoins-uptober-rally-ethereums-bu",
+        "width": 3556,
+        "height": 2000,
+        "format": "png",
+        "alt": "Crypto Roundup October 1, 2026 at 12:36 AM (ICT): Bitcoin’s Uptober rally, Ethereum’s burned‑reward proposal, and a wave"
+      },
+      "sourceUrl": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+      "sourceTitle": "Decrypt / The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+          "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+          "source": "The Block"
+        },
+        {
+          "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+          "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+          "source": "Decrypt"
+        },
+        {
+          "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+          "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+          "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+          "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+          "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+          "url": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+          "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-10-01T17:36:41.530Z",
+      "slug": "crypto-roundup-october-1-2026-at-1236-am-ict-bitcoins-uptober-rally-ethereums-bu"
+    },
+    {
       "id": "1790832538367",
       "title": "Crypto Roundup October 1, 2026 at 12:28 PM (ICT): Bitcoin stalls, hacks surge, and DogeOS pushes meme‑coin utility",
       "summary": "Bitcoin’s brief pop above $85k faded as bond yields held firm, while September saw record‑high crypto hacks totalling $768 M. Meanwhile DogeOS’s testnet aims to transform Dogecoin into a DeFi platform, and regulators tighten their grip on event contracts and validator services.",
@@ -25403,16 +25483,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-    "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
-    "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
-    "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-    "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
-    "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
-    "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
     "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
@@ -25902,10 +25972,19 @@
     "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
     "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
     "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
-    "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+    "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+    "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+    "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+    "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+    "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+    "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/405730/ark-invest-buys-spacex-shares?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief|https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
     "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds|https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
@@ -26104,6 +26183,7 @@
     "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record|https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score|https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr|https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
-    "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps|https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
+    "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps|https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it|https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419|https://decrypt.co/379830/illinois-delays-controversial-crypto-tax"
   ]
 }
