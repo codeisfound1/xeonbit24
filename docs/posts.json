@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790918198593",
+      "title": "Crypto Roundup October 2, 2026 at 12:16 PM (ICT): Regulation, Security, and Emerging zkTech Shape Market Pulse",
+      "summary": "Regulatory moves in South Korea and the US, a wave of security alerts on Bitcoin nodes, and Ethereum’s zkAPI launch dominate today’s headlines, while hacks and market volatility keep risk front‑of‑mind. The combined effect points to tighter compliance, heightened infrastructure vigilance, and growing demand for privacy‑preserving services.",
+      "content": "<p>Today's crypto landscape is defined by three intersecting forces: governments tightening rules around tokenized assets, developers hardening core infrastructure, and privacy‑first innovations gaining traction on major blockchains. Together, these dynamics are reshaping investor sentiment, prompting both caution and optimism across the market.</p><h2>1. South Korea advances tokenized securities rules ahead of 2027 rollout</h2><p>South Korea’s Financial Services Commission released a detailed framework that sets capital buffers, requires OTC‑trading licences, and caps retail exposure to tokenized securities. By codifying these standards before the 2027 launch, the regulator aims to attract institutional capital while protecting retail investors from speculative excess. The move signals Asia’s growing appetite for regulated digital assets and could position Seoul as a hub for compliant security token offerings.</p><h2>2. SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says</h2><p>Robinhood’s Johann Kerbrat warned that the SEC’s newly‑crafted “innovation exemption” still leaves significant ambiguity for tokenized stocks. While the exemption is intended to foster fintech experimentation, its stringent reporting and custody requirements may slow U.S. market entry for security tokens, contrasting sharply with South Korea’s proactive stance.</p><h2>3. Core Lightning warns attackers are targeting unpatched Bitcoin nodes</h2><p>The Core Lightning team issued an urgent advisory: Bitcoin nodes running version 26.06.7 or earlier are vulnerable to a newly‑identified exploit that can hijack channel balances. Operators are urged to upgrade immediately. This reminder underscores the perpetual security arms race in the Bitcoin ecosystem, where even well‑tested software can become a target.</p><h2>4. Ethereum’s zkAPI brings privacy‑preserving API payments to mainnet</h2><p>Ethereum’s zkAPI, now live on mainnet, lets developers charge for API usage without exposing payer identities. Users fund a vault, then authorize spend via zero‑knowledge proofs, ensuring the service provider cannot link requests to a specific address. The rollout demonstrates how zk‑rollup tech is moving from scaling to privacy use‑cases, expanding Ethereum’s utility beyond DeFi.</p><h2>5. Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity</h2><p>Building on the mainnet launch, the Foundation highlighted a partnership with AI providers. By depositing funds into a zk‑enabled vault, developers can monetize AI inference while preserving user anonymity. This convergence of AI and privacy‑preserving finance could spark a new wave of on‑chain services that respect data confidentiality.</p><h2>6. Zcash drops 21% from recent high—here’s why the rally may not be over</h2><p>ZEC slid 21% after a wave of ETF outflows and a suspected North Korean heist that funneled stolen funds through its shielded pool. Despite the dip, analysts note that Zcash’s strong privacy features and renewed institutional interest could support a rebound, especially if the market digests the short‑term shock.</p><h2>7. Zano exploiter created 36.9 M unauthorized ZANO before blockchain rollback</h2><p>A malicious actor minted 36.9 million counterfeit ZANO tokens, indistinguishable from legitimate ones, forcing the project to roll back the chain. The incident highlights the risks inherent in permissionless networks where consensus can be overridden, and it raises questions about future governance safeguards.</p><h2>8. NEAR Intents says it’s identified the hacker, gives 48‑hour ultimatum</h2><p>After a $3.8 million breach, NEAR Intents announced they have pinpointed the attacker and issued a 48‑hour deadline for the culprit to return the funds. The public ultimatum reflects a growing trend of projects taking a more confrontational stance against exploits, leveraging community pressure to deter theft.</p><h2>9. SEC moves to clear custody hurdle for advisers offering crypto</h2><p>The SEC proposed a rule change that would relax custody requirements for registered investment advisers, potentially unlocking crypto products for a broader client base. If adopted, the policy could accelerate institutional inflows, especially into regulated funds and ETFs.</p><h2>10. China warns foreign spies about crypto, Singapore dominates Asia: Asia Express</h2><p>China’s Ministry of State Security warned that foreign intelligence agencies are monitoring blockchain activity, while Singapore’s crypto economy surged 55% and is now the region’s leading hub. South Korea’s pending market‑maker licensing adds another layer of regulatory clarity, positioning the three nations as contrasting case studies in Asia’s crypto evolution.</p><h2>Market Outlook</h2><p>Regulatory clarity in South Korea and the pending SEC custody relief suggest a gradual easing of compliance friction, which could attract fresh capital into tokenized securities and advisory services. At the same time, security alerts—from Bitcoin node exploits to large‑scale token forgeries—remind investors that infrastructure risk remains a top priority. Ethereum’s zkAPI debut signals a maturing privacy layer that may unlock new revenue streams, particularly in AI and data services. Overall, the market appears poised for modest upside, provided that security incidents are contained and regulatory pathways remain constructive.</p><h2>Key Takeaways</h2><ul><li>Asia is leading on regulated tokenized assets, while the U.S. grapples with ambiguous exemptions.</li><li>Node security and chain integrity remain critical; upgrades and governance reforms are essential.</li><li>Privacy‑first tech like zkAPI is transitioning from experimental to commercial use, expanding Ethereum’s value proposition.</li><li>Institutional inflows could rise if the SEC’s custody proposal passes, offsetting short‑term price pressures from hacks and ETF outflows.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] South Korea advances tokenized securities rules ahead of 2027 rollout — <em>Cointelegraph</em></li>\n<li>[2] SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says — <em>The Block</em></li>\n<li>[3] Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback — <em>Cointelegraph</em></li>\n<li>[4] Core Lightning warns attackers are targeting unpatched Bitcoin nodes — <em>Cointelegraph</em></li>\n<li>[5] Ethereum’s zkAPI brings privacy-preserving API payments to mainnet — <em>Cointelegraph</em></li>\n<li>[6] NEAR Intents says its identified the hacker, gives 48-hour ultimatum — <em>Cointelegraph</em></li>\n<li>[7] SEC moves to clear custody hurdle for advisers offering crypto — <em>Cointelegraph</em></li>\n<li>[8] Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity — <em>The Block</em></li>\n<li>[9] China warns foreign spies about crypto, Singapore dominates Asia: Asia Express — <em>Cointelegraph</em></li>\n<li>[10] Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "defi",
+        "market",
+        "altcoins"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790918197/xeonbit24/posts/crypto-roundup-october-2-2026-at-1216-pm-ict-regulation-security-and-emerging-zk.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790918197/xeonbit24/posts/crypto-roundup-october-2-2026-at-1216-pm-ict-regulation-security-and-emerging-zk.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-2-2026-at-1216-pm-ict-regulation-security-and-emerging-zk",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup October 2, 2026 at 12:16 PM (ICT): Regulation, Security, and Emerging zkTech Shape Market Pulse"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+          "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+          "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+          "source": "The Block"
+        },
+        {
+          "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+          "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+          "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+          "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+          "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+          "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+          "source": "The Block"
+        },
+        {
+          "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+          "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
+          "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-02T05:16:38.593Z",
+      "slug": "crypto-roundup-october-2-2026-at-1216-pm-ict-regulation-security-and-emerging-zk"
+    },
+    {
       "id": "1790876201530",
       "title": "Crypto Roundup October 1, 2026 at 12:36 AM (ICT): Bitcoin’s Uptober rally, Ethereum’s burned‑reward proposal, and a wave of regulatory moves",
       "summary": "Bitcoin fights to sustain its historic October surge as US Treasury yields retreat, while Ethereum stalls its reward‑burn plan amid governance friction. Meanwhile, U.S. states coordinate crypto oversight, a major XRP treasury deal clears for Nasdaq, and Near Intents suffers a $3.8 M exploit, underscoring security pressures.",
@@ -25483,16 +25564,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
-    "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
-    "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
-    "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
-    "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
-    "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-    "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
-    "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
     "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
     "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
@@ -25982,10 +26053,19 @@
     "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
     "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
     "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues"
+    "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+    "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+    "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief|https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
     "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds|https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
     "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
@@ -26184,6 +26264,7 @@
     "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score|https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr|https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
     "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps|https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it|https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419|https://decrypt.co/379830/illinois-delays-controversial-crypto-tax"
+    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it|https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419|https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+    "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538|https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
