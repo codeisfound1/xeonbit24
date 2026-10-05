@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791177335525",
+      "title": "Crypto Roundup October 5, 2026 at 12:15 PM (ICT): Bitcoin spikes, tokenized US stocks, and Zcash’s fast‑track upgrade",
+      "summary": "Bitcoin surged toward $87,000 before pulling back, Ether’s Q3 rally showed thinning liquidity, and OKX‑ICE filed to launch 24/7 tokenized U.S. stocks. Meanwhile Zcash accelerated its NU7 upgrade and stepped up lobbying in Washington, highlighting a week of high‑impact market and regulatory moves.",
+      "content": "<p>October 5 was a busy day for the crypto ecosystem. Price action, protocol upgrades, and regulatory filings converged to shape short‑term sentiment and hint at longer‑term trends. Bitcoin’s near‑$87k rally, Ether’s liquidity squeeze, and the OKX‑ICE joint‑venture to tokenise U.S. equities dominated headlines, while Zcash pushed a faster block time and a Washington lobbying push underscored the growing political maturity of the space. Below we break down each story, connect the dots, and outline what the market may see in the coming weeks.</p>\n<h2>1. Bitcoin zooms toward $87,000, nearly setting an eight‑month high, then reverses</h2>\n<p>Bitcoin rallied to within $500 of the $87,000 level that marked the peak of the September surge, only to be pushed back under $86,000 by a wave of short‑covering and profit‑taking. The move represents the second strong rally in a week, but the reversal suggests that buying pressure is still fragile. Technical indicators show the 50‑day moving average still below price, while the Relative Strength Index (RSI) sits in the 68‑70 range, hinting at overbought conditions. Traders are watching the $85,000 support zone closely; a break could open the path to $80,000, whereas a bounce may set the stage for a new high above $88,000.</p>\n<h2>2. Ether’s bitcoin‑beating Q3 rally came with a catch – liquidity thinned</h2>\n<p>Ethereum outperformed Bitcoin in Q3, delivering a higher percentage gain, but Coingecko data shows on‑chain liquidity (the amount of ETH readily available for trade) fell by roughly 12% compared with the same period last year. Thinner liquidity can amplify price swings, making ETH more vulnerable to sharp corrections if large holders (whales) decide to sell. The drop is partly attributed to capital moving into staking derivatives and layer‑2 solutions, which lock up ETH in contracts rather than keeping it on exchanges. Investors should monitor the ETH‑USDT order‑book depth and the upcoming Shanghai‑type upgrade, which could re‑balance supply dynamics.</p>\n<h2>3. Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading</h2>\n<p>OKX‑ICE, the new partnership between crypto exchange OKX and Intercontinental Exchange (ICE), the owner of the NYSE, has filed with the SEC to launch a platform that tokenises shares of more than 60 U.S. listed companies. The tokens will trade 24/7 under the SEC’s Innovation Exemption, allowing fractional ownership, instant settlement, and cross‑border accessibility. If approved, this could bridge traditional equities and crypto, driving institutional interest and potentially increasing demand for stablecoins used as settlement currency. Market participants are also watching how the platform will handle custody, KYC/AML compliance, and price‑feed integrity.</p>\n<h2>4. Zcash’s 25‑second blocks go live on public testnet ahead of schedule</h2>\n<p>Zcash’s NU7 upgrade, which reduces the block time from 75 seconds to 25 seconds, is now live on its public testnet. The faster block cadence aims to improve transaction throughput and lower latency for privacy‑focused applications. Developers have a few weeks to stress‑test the new consensus parameters before the planned November mainnet activation. Early results show a 3× increase in TPS (transactions per second) without compromising the zk‑SNARK privacy guarantees. If successful, Zcash could become a more attractive layer for private DeFi and NFT use cases.</p>\n<h2>5. Zcash activates NU7 on testnet ahead of November mainnet target</h2>\n<p>The Cointelegraph report reiterates the same milestone, emphasizing that the testnet activation gives the community a “live rehearsal” for the upcoming mainnet launch. Community validators are encouraged to run full nodes to surface any edge‑case bugs. The upgrade also introduces a modest reduction in mining reward inflation, aligning Zcash’s monetary policy closer to Bitcoin’s 2.1% annual inflation rate.</p>\n<h2>6. Zcash gets a Washington lobbyist to push crypto policy</h2>\n<p>Zcash has hired a Washington‑based lobbying firm to advocate for favorable legislation, focusing on the CLARITY Act and two pending digital‑asset tax proposals. The CLARITY Act seeks to provide clearer definitions for digital assets, which could reduce regulatory uncertainty for privacy‑oriented projects. By engaging directly with policymakers, Zcash aims to shape a regulatory environment that protects user privacy while allowing mainstream adoption.</p>\n<h2>7. Safe investor asks Swiss watchdog to intervene in governance dispute</h2>\n<p>Greenfield Capital, a major SAFE investor, appealed to the Swiss Financial Market Supervisory Authority (FINMA) to intervene in a board‑room dispute within the SAFE Ecosystem Foundation. The conflict centers on voting rights and the future direction of the SAFE protocol, a cross‑chain liquidity hub. Governance battles like this highlight the growing pains of decentralized projects as they scale, and they underscore the importance of clear on‑chain voting mechanisms and transparent token holder communication.</p>\n<h2>8. Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest</h2>\n<p>A speculative piece notes that former SEC chair Jay Clayton has been appointed as the U.S. “AI Czar” under the Trump administration. The article also cites analyst Peter Brandt’s bullish forecast that Bitcoin could reach $600,000 by 2029, driven by macro‑inflation, AI‑enhanced trading, and broader institutional adoption. While the AI appointment is unrelated to crypto regulation, the juxtaposition reflects market optimism that high‑profile government roles could indirectly boost confidence in digital assets.</p>\n<h2>9. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup aggregates the day’s price moves, regulatory updates, and DeFi developments. Key takeaways include Bitcoin’s near‑$87k rally, the OKX‑ICE tokenized‑stock filing, and Zcash’s testnet progress. The piece serves as a quick reference for traders looking to capture the day’s most actionable information.</p>\n<h2>10. Safe investor asks Swiss watchdog to intervene in governance dispute (duplicate entry clarified)</h2>\n<p>This entry consolidates the earlier SAFE governance story, emphasizing that the dispute could set a precedent for how Swiss‑based crypto foundations resolve internal conflicts. FINMA’s response will be watched closely by other projects that rely on Swiss jurisdiction for legal certainty.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment remains mixed. Bitcoin’s price action suggests a battle between bullish momentum and profit‑taking pressure, while Ether’s liquidity squeeze could lead to sharper swings. The OKX‑ICE tokenized‑stock initiative may inject fresh capital into the crypto ecosystem, especially if stablecoin demand rises for 24/7 equity settlement. Zcash’s faster block time and lobbying push indicate that privacy‑focused chains are positioning themselves for mainstream relevance, but regulatory clarity will be decisive.</p>\n<p>Overall, the market appears to be transitioning from pure price speculation to infrastructure and regulatory maturation. Expect continued volatility in the major coins, but also watch for institutional inflows tied to tokenized equities and the emergence of privacy‑preserving DeFi applications.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin flirted with an $87,000 high but retreated, highlighting a fragile rally that could test the $85,000 support level.</li><li>Ethereum’s Q3 outperformance is tempered by a 12% drop in on‑exchange liquidity, raising the risk of abrupt price corrections.</li><li>OKX‑ICE’s filing for 24/7 tokenized U.S. stock trading could bridge crypto and traditional finance, potentially boosting stablecoin usage.</li><li>Zcash’s NU7 upgrade (25‑second blocks) is on track for a November mainnet launch, promising higher throughput for privacy‑centric use cases.</li><li>Zcash’s lobbying effort targets clearer crypto legislation, a move that could benefit the broader privacy‑coin sector.</li><li>Governance disputes, such as the SAFE Foundation case, underline the need for robust on‑chain voting and transparent leadership structures.</li><li>Speculative long‑term forecasts (e.g., $600K Bitcoin) coexist with real‑world developments, reminding investors to balance optimism with fundamentals.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading — <em>CoinDesk</em></li>\n<li>[3] Zcash’s 25-second blocks go live on public testnet ahead of schedule — <em>CoinDesk</em></li>\n<li>[4] Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses — <em>CoinDesk</em></li>\n<li>[5] Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned. — <em>CoinDesk</em></li>\n<li>[6] Zcash activates NU7 on testnet ahead of November mainnet target — <em>Cointelegraph</em></li>\n<li>[7] OKX, NYSE parent file to launch tokenized US stock platform — <em>Cointelegraph</em></li>\n<li>[8] Safe investor asks Swiss watchdog to intervene in governance dispute — <em>Cointelegraph</em></li>\n<li>[9] Zcash gets a Washington lobbyist to push crypto policy — <em>Cointelegraph</em></li>\n<li>[10] Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "zcash",
+        "tokenized stocks",
+        "market",
+        "regulation"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791177335/xeonbit24/posts/crypto-roundup-october-5-2026-at-1215-pm-ict-bitcoin-spikes-tokenized-us-stocks-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791177335/xeonbit24/posts/crypto-roundup-october-5-2026-at-1215-pm-ict-bitcoin-spikes-tokenized-us-stocks-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-5-2026-at-1215-pm-ict-bitcoin-spikes-tokenized-us-stocks-",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 5, 2026 at 12:15 PM (ICT): Bitcoin spikes, tokenized US stocks, and Zcash’s fast‑track upgrade"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+          "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+          "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+          "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+          "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+          "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+          "url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+          "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash gets a Washington lobbyist to push crypto policy",
+          "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-05T05:15:35.525Z",
+      "slug": "crypto-roundup-october-5-2026-at-1215-pm-ict-bitcoin-spikes-tokenized-us-stocks-"
+    },
+    {
       "id": "1791129842295",
       "title": "Crypto Roundup October 4, 2026 at 11:03 PM (ICT): Bitcoin ETFs surge, North‑Korea hack traced, and regulatory ripples",
       "summary": "Spot Bitcoin ETFs attracted $134 million in two days while Chainalysis used AI to link a $387 million Bitget hack to North Korea. Meanwhile, regulators, sovereigns and crypto firms grapple with new legal battles, digital‑currency pilots, and user‑adoption challenges.",
@@ -25968,15 +26049,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
-    "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
-    "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
-    "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-    "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
-    "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
-    "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
-    "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
     "https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
     "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
@@ -26467,10 +26539,18 @@
     "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
     "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+    "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+    "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+    "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+    "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/372180/bitcoin-tests-59k-as-etfs-shed-692m-options-expiry-looms|https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
     "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle|https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings|https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -26669,6 +26749,7 @@
     "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters|https://decrypt.co/379998/california-subpoena-openai-ai-models-hack|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380002/trump-third-meme-coin-dinner-details|https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money|https://decrypt.co/379983/pope-leo-human-art-ai-creation",
     "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea|https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai|https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-    "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking|https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million|https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users"
+    "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking|https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million|https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks|https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule"
   ]
 }
