@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791351297909",
+      "title": "Crypto Roundup October 7, 2026 at 12:34 PM (ICT): Bitcoin slides, major L2 closures, and regulatory ripples",
+      "summary": "Bitcoin briefly fell below $84,000 amid a $487 million long‑position liquidation wave, while two Ethereum layer‑2s shut down and Cardano introduced on‑chain asset‑control rules. Coinbase’s Pro relaunch and a surge in short‑term gold contracts add further dynamics to a volatile market.",
+      "content": "<p>October 7 2026 was a whirlwind for crypto markets. Bitcoin slipped under the $84k psychological barrier as oil prices spiked, triggering the largest wave of long‑position liquidations in months. At the same time, the ecosystem saw the rapid demise of two consumer‑focused Ethereum layer‑2s, a bold regulatory‑driven upgrade on Cardano, and a surprising shift of trader interest from Ether to 15‑minute gold contracts on the Kalshi platform. Meanwhile, Coinbase announced the return of Coinbase Pro via a Deribit integration, and regulatory friction continued in Europe with a German exchange’s MiCA denial. Lesser‑known but still noteworthy stories included Google’s new AI image model and Circle’s controversial partnership with DJ Khaled.</p>\n<h2>1. Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks</h2>\n<p>Bitcoin briefly traded under $84,000 after Iranian attacks on oil tankers sent crude prices higher and lifted the U.S. dollar. Analysts had flagged the $84k level as a “seller’s pivot” – a price where bearish pressure historically outweighs buying interest. The dip coincided with a massive $487 million liquidation of long positions, according to CoinGlass data, pushing total 24‑hour crypto liquidations to $555.6 million. The sell‑off was not driven by on‑chain fundamentals but by macro‑risk sentiment: higher oil prices often strengthen the dollar, making risk‑off assets like Bitcoin less attractive.</p>\n<h2>2. Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange</h2>\n<p>Coinbase announced that its legacy professional platform, Coinbase Pro, will be relaunched by year‑end after a full integration with Deribit, a leading derivatives exchange. The combined offering, dubbed the “Coinbase Global Exchange,” will allow users to trade spot, futures, and options from a single interface, leveraging Deribit’s deep order‑book liquidity and advanced risk‑management tools. This move signals Coinbase’s intent to recapture professional traders who migrated to competitors after the 2023‑24 market downturn, and it may help stabilize spot‑market volumes that have been under pressure since the recent Bitcoin dip.</p>\n<h2>3. Cardano gives token issuers power to freeze, seize and restrict assets</h2>\n<p>Cardano’s newest token standard embeds compliance‑ready controls directly into the asset’s smart‑contract logic. Issuers of regulated stablecoins, bond‑like tokens, or fund shares can now program identity checks, sanctions screening, and conditional transfer restrictions. The feature is aimed at bridging the gap between decentralized finance (DeFi) and traditional finance (TradFi) by satisfying regulators who demand “know‑your‑customer” (KYC) and anti‑money‑laundering (AML) safeguards. While critics argue that on‑chain freezing could undermine decentralization, Cardano’s team emphasizes that the controls are optional and only usable by assets that voluntarily adopt the standard.</p>\n<h2>4. Kalshi’s 15‑minute gold markets overtake Ether just weeks after launch</h2>\n<p>Prediction‑market platform Kalshi reported that its 15‑minute gold contracts generated 542 million contracts and roughly $5 million in fees in September, surpassing Ether’s 318 million contracts and $2.6 million in fees. The rapid adoption reflects growing trader appetite for ultra‑short‑term exposure to real‑world commodities, especially as macro‑risk events (e.g., the Iranian tanker attacks) drive volatility in precious metals. While Bitcoin still dominates overall contract volume, the gold surge highlights a diversification trend where traders use crypto‑native platforms to hedge against traditional market shocks.</p>\n<h2>5. Pudgy Penguins’ Abstract becomes second Ethereum layer‑2 to shut in a week</h2>\n<p>Abstract, the consumer‑focused L2 backed by NFT collection Pudgy Penguins, announced its shutdown effective Dec. 15. The network, built to offer cheap, fast transactions for gaming and social apps, failed to achieve product‑market fit despite a year‑long infusion of “tens of millions” of dollars from its parent company Igloo. The closure follows the earlier winding‑down of Blast, another niche L2, marking a sobering week for experimental roll‑ups that target mainstream users rather than DeFi power users.</p>\n<h2>6. Pudgy Penguins‑backed Abstract to wind down after ‘tens of millions’ in losses</h2>\n<p>Igloo CEO Luca Netz confirmed that Abstract’s 18‑month runway exhausted its capital without delivering sustainable revenue. Even with marquee brand partnerships and a community of millions, the chain could not attract enough dApp developers to generate transaction fees. The failure underscores the difficulty of building a consumer‑grade L2 in a market that increasingly rewards composability and network effects over niche user experiences.</p>\n<h2>7. Bitcoin.de trading remains halted as German regulator rejects MiCA application</h2>\n<p>Germany’s Federal Financial Supervisory Authority (BaFin) denied Bitcoin.de’s application for a Markets in Crypto‑Assets (MiCA) license, leaving the exchange largely inactive since June. Without MiCA approval, the platform cannot legally offer crypto‑asset services across the EU. Bitcoin.de is now seeking partnerships with already‑licensed entities to resume trading, illustrating the growing importance of regulatory compliance for European exchanges in the post‑MiCA era.</p>\n<h2>8. Google launches Nano Banana 2.1: Better than its predecessor at half the price</h2>\n<p>Google unveiled Nano Banana 2.1, an AI image‑generation model that costs roughly 50 % less to run than the original Nano Banana. While the announcement is not crypto‑specific, the lower compute cost could lower barriers for blockchain projects that embed AI‑generated art or metadata directly on‑chain, a trend that has been gaining traction in the NFT space.</p>\n<h2>9. Circle welcomes DJ Khaled to ‘Team USDC’ and crypto Twitter is furious</h2>\n<p>Circle posted a celebratory tweet tagging DJ Khaled as part of its “Team USDC” campaign. The move sparked backlash after users uncovered Khaled’s 2018 SEC settlement for promoting a fraudulent crypto scheme. Critics argue that Circle’s endorsement undermines its credibility as a stablecoin steward, especially amid heightened regulatory scrutiny. Circle has not issued a formal apology, leaving the controversy unresolved.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of macro‑risk events, regulatory friction, and the collapse of niche L2s suggests a short‑term market correction is likely. Bitcoin’s dip below $84k and the $487 million liquidation spike indicate that leveraged traders are vulnerable to sudden macro shocks. However, the resurgence of professional infrastructure (Coinbase Pro + Deribit) and Cardano’s compliance‑first token standard could attract institutional capital seeking regulated pathways into crypto. Meanwhile, the surge in short‑term gold contracts on Kalshi points to a growing appetite for hybrid exposure—crypto platforms offering real‑world asset hedges.</p>\n<h2>Key Takeaways</h2>\n<ul>\n  <li>Bitcoin’s breach of the $84k “seller’s pivot” triggered the largest long‑position liquidation wave of the year, highlighting heightened leverage risk.</li>\n  <li>Coinbase’s Pro relaunch via Deribit aims to recapture professional traders and may boost spot‑market depth.</li>\n  <li>Cardano’s new token standard embeds KYC/AML controls, signaling a shift toward regulator‑friendly DeFi assets.</li>\n  <li>Kalshi’s 15‑minute gold contracts outperformed Ether in contract volume, reflecting a diversification toward commodity‑linked crypto products.</li>\n  <li>Two consumer‑focused Ethereum L2s (Abstract and Blast) shut down within a week, underscoring the difficulty of achieving sustainable user adoption outside core DeFi.</li>\n  <li>European regulatory compliance remains a make‑or‑break factor, as shown by Bitcoin.de’s MiCA denial.</li>\n  <li>Non‑crypto developments (Google’s cheaper AI model) could lower costs for on‑chain generative art, while Circle’s controversial partnership with DJ Khaled raises reputational risks.</li>\n</ul>\n<p>Overall, the market is entering a phase where macro‑economic volatility, regulatory clarity, and infrastructure upgrades will dictate which assets and platforms thrive. Traders should monitor leverage levels, regulatory filings, and emerging hybrid products that blend traditional finance exposure with crypto’s speed and accessibility.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Kalshi’s 15-min gold markets overtake Ether just weeks after launch — <em>Cointelegraph</em></li>\n<li>[2] Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week — <em>CoinDesk</em></li>\n<li>[3] Cardano gives token issuers power to freeze, seize and restrict assets — <em>CoinDesk</em></li>\n<li>[4] Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks — <em>CoinDesk</em></li>\n<li>[5] Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million — <em>The Block</em></li>\n<li>[6] Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange — <em>The Block</em></li>\n<li>[7] Bitcoin.de trading remains halted as German regulator rejects MiCA application — <em>Cointelegraph</em></li>\n<li>[8] Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses — <em>Cointelegraph</em></li>\n<li>[9] Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price — <em>Decrypt</em></li>\n<li>[10] Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "cardano",
+        "regulation",
+        "defi",
+        "nft"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791351297/xeonbit24/posts/crypto-roundup-october-7-2026-at-1234-pm-ict-bitcoin-slides-major-l2-closures-an.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791351297/xeonbit24/posts/crypto-roundup-october-7-2026-at-1234-pm-ict-bitcoin-slides-major-l2-closures-an.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-7-2026-at-1234-pm-ict-bitcoin-slides-major-l2-closures-an",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 7, 2026 at 12:34 PM (ICT): Bitcoin slides, major L2 closures, and regulatory ripples"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+          "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+          "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+          "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+          "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+          "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+          "source": "The Block"
+        },
+        {
+          "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+          "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+          "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+          "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+          "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+          "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-07T05:34:57.910Z",
+      "slug": "crypto-roundup-october-7-2026-at-1234-pm-ict-bitcoin-slides-major-l2-closures-an"
+    },
+    {
       "id": "1791307825114",
       "title": "Crypto Roundup October 6, 2026 at 12:30 AM (ICT): Bitcoin nears $87K, Zcash ETF filing, and a surge in privacy‑coin activity",
       "summary": "Bitcoin edges toward a new $87,000 milestone while the Winklevoss twins push a low‑fee Zcash ETF. At the same time, South Korea’s token‑asset push, DeFi flash‑loan losses, and growing privacy‑coin momentum signal a market that is diversifying beyond pure price speculation.",
@@ -26292,16 +26373,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
-    "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
-    "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
-    "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
-    "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
-    "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
-    "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
-    "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
     "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
     "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
     "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
@@ -26791,10 +26862,19 @@
     "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
     "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
-    "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+    "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+    "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+    "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+    "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+    "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372248/future-cyberpunk-imagined-here|https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
     "https://www.coindesk.com/markets/2026/06/29/usd4-billion-gone-spot-bitcoin-etfs-are-on-track-for-their-worst-month-on-record|https://cointelegraph.com/news/dubai-crypto-market-50-licensed-firms-vara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/pioneering-zk-rollup-loopring-announces-dex-closure-citing-no-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments|https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys|https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
     "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -26993,6 +27073,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks|https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on|https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets|https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-    "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme|https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme|https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week|https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
   ]
 }
