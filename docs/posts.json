@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791524861721",
+      "title": "Crypto Roundup October 9, 2026 at 12:47 PM (ICT): Bitcoin spikes, Ether liquidations, and AI‑driven regulatory shifts",
+      "summary": "Bitcoin surged to $82,000 after geopolitical calm, while Ether suffered massive liquidations. Meanwhile, AI security tools, new ETF rules in Thailand, and U.S. quantum‑AI funding signal a rapidly evolving regulatory and technological landscape.",
+      "content": "<p>October 9, 2026 was a whirlwind for the crypto ecosystem. A sharp rebound in Bitcoin, unprecedented Ether liquidations, and a flurry of AI‑related security and policy moves highlighted the market’s sensitivity to both macro‑political events and emerging technology. Below we break down the ten most relevant stories, explain their implications, and stitch together the broader narrative shaping the next few weeks.</p><h2>1. Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops</h2><p>Bitcoin rallied to $82,000, its highest level since early 2025, after President Trump publicly dismissed the prospect of an Iranian military strike ahead of the U.S. mid‑term elections. The de‑escalation eased risk‑off sentiment in traditional markets, allowing risk‑on assets like Bitcoin to regain momentum. Analysts note that the price jump was amplified by a short‑covering cascade: many traders had been betting on a further decline, and the sudden geopolitical calm forced them to buy back positions, pushing the price higher.</p><h2>2. Ether bets were wiped out at six times Bitcoin’s rate in crypto’s $1 billion flush</h2><p>While Bitcoin surged, Ether (ETH) faced a brutal 24‑hour liquidation event that erased roughly $356 million in long positions—six times the liquidation rate of Bitcoin. The spike was triggered by a rapid unwind of leveraged ETH futures on several major exchanges after the price slipped below $2,800, a key technical support level. The event underscores the heightened volatility in the DeFi‑derived derivatives market and raises concerns about margin‑call mechanisms when large, correlated positions unwind simultaneously.</p><h2>3. Thailand finalizes rules paving way for Bitcoin, Ether ETFs</h2><p>Thailand’s Securities and Exchange Commission approved a regulatory framework that will allow Bitcoin and Ether exchange‑traded funds (ETFs) to list on the Stock Exchange of Thailand (SET) as early as next week. The rules require custodial segregation, on‑chain audit trails, and a minimum net‑asset value of $50 million per fund. This move positions Thailand as a regional hub for crypto‑linked investment products, potentially attracting inflows from the $450 billion South Korean crypto economy and other Asian investors seeking regulated exposure.</p><h2>4. XRP Ledger adds new controls for banks, stablecoins and tokenized funds</h2><p>The XRP Ledger (XRPL) introduced granular permissioning features that let enterprises create sub‑accounts with limited authority—such as approving customers or initiating payments—while keeping the master keys offline. This “dual‑control” model is designed to satisfy banking compliance requirements and could accelerate the adoption of XRPL for cross‑border payments, tokenized securities, and stablecoin issuance, especially in jurisdictions where custodial risk is a primary regulatory hurdle.</p><h2>5. Crypto projects apply for Anthropic’s new frontier AI security scanner</h2><p>Anthropic launched an opt‑in AI security scanner powered by its Claude Mythos model. The service automatically audits smart contracts and protocol code for vulnerabilities, delivering detailed reports to developers. Early adopters include several DeFi platforms and NFT marketplaces seeking to harden their code before upcoming audits. The initiative reflects a broader industry shift toward AI‑assisted security, aiming to reduce the frequency of high‑profile exploits that have plagued the space.</p><h2>6. Trump administration outlines quantum, AI initiatives in $6 B science push</h2><p>The White House announced a $6 billion science initiative that includes a $215 million quantum‑computing competition and $2.4 billion earmarked for AI research. While the program is framed as a competitiveness drive, the inclusion of quantum‑computing funding raises alarm among crypto security experts who warn that future quantum attacks could threaten public‑key cryptography used by Bitcoin, Ethereum, and other blockchains. The administration’s acknowledgment of “quantum threats” may spur pre‑emptive research into post‑quantum cryptographic standards.</p><h2>7. Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties</h2><p>U.S. Senate Democrats sent a letter to Cantor Fitzgerald demanding clarification on its relationship with Tether (USDT) after a report alleged that the stablecoin is being used by Iran’s shadow banking network. Cantor, a major market maker for USDT, must now disclose its compliance procedures and any potential exposure to sanctioned entities. The probe adds regulatory pressure on stablecoin issuers and could influence future U.S. guidance on “crypto‑friendly” banking relationships.</p><h2>8. China’s P2P stablecoin wallets surge 43×, Korea’s $450 B crypto economy: Asia Express</h2><p>Despite a strict ban on domestic crypto trading, China saw a 43‑fold increase in peer‑to‑peer (P2P) stablecoin wallet activity, driven by cross‑border remittances and offshore trading platforms. Meanwhile, South Korea’s crypto market, valued at $450 billion, continues to dominate East Asia, with robust participation in DeFi, NFTs, and institutional crypto funds. The divergent trajectories highlight how regulatory environments shape user behavior: restrictive policies push Chinese users toward informal channels, while permissive Korean regulations foster a vibrant ecosystem.</p><h2>9. AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 B Acquisition</h2><p>Manus, an AI‑driven autonomous assistant startup, secured a $500 million Series C round after a planned $2 billion acquisition by Meta was blocked by Chinese regulators. The fresh capital will fund expansion of Manus’s large‑language‑model infrastructure and its upcoming integration with blockchain‑based identity solutions. The episode underscores the geopolitical friction that can abruptly reshape deal pipelines in the AI‑crypto convergence space.</p><h2>10. Here’s what happened in crypto today</h2><p>Cointelegraph’s daily roundup compiled the above headlines, adding context on market sentiment, regulatory updates, and emerging tech trends. While useful as a quick reference, the deeper analysis provided in each individual story offers a clearer picture of the forces moving the market today.</p><h2>Market Outlook</h2><p>The confluence of geopolitical calm, aggressive AI security tooling, and new ETF pathways suggests a short‑term bullish bias for Bitcoin and regulated crypto assets. However, the massive Ether liquidations and looming quantum‑computing concerns inject volatility and risk. Investors should watch for:</p><ul><li>Further price reactions to macro‑political events, especially U.S. election dynamics.</li><li>Regulatory scrutiny of stablecoins, particularly USDT, which could affect liquidity.</li><li>Adoption of AI‑based security scanners, potentially lowering the frequency of high‑impact exploits.</li><li>The rollout of Thailand’s crypto ETFs, which may act as a catalyst for Asian inflows.</li></ul><p>Overall, the market appears to be entering a phase where institutional‑grade products and advanced security measures will dictate the next wave of growth, while legacy DeFi derivatives remain vulnerable to rapid unwind events.</p><h2>Key Takeaways</h2><ul><li>Bitcoin’s $82 k rally shows sensitivity to geopolitical risk; expect continued price swings around election news.</li><li>Ether’s $356 m liquidation highlights the danger of over‑leveraged positions in a volatile derivatives market.</li><li>Thailand’s ETF framework could unlock billions of dollars of regulated capital for Bitcoin and Ether.</li><li>XRPL’s new permissioning features may accelerate its use in banking and tokenized asset workflows.</li><li>AI‑driven security scanners like Anthropic’s are becoming essential tools for developers.</li><li>U.S. quantum‑AI funding signals future cryptographic challenges; post‑quantum research will gain urgency.</li><li>Regulatory probes into Tether and stablecoin usage could reshape compliance standards.</li><li>China’s P2P stablecoin surge and Korea’s massive crypto economy illustrate divergent regional dynamics.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] Crypto projects apply for Anthropic’s new frontier AI security scanner — <em>Cointelegraph</em></li>\n<li>[3] Trump administration outlines quantum, AI initiatives in $6B science push — <em>Cointelegraph</em></li>\n<li>[4] XRP Ledger adds new controls for banks, stablecoins and tokenized funds — <em>CoinDesk</em></li>\n<li>[5] Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush — <em>CoinDesk</em></li>\n<li>[6] Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops — <em>CoinDesk</em></li>\n<li>[7] Thailand finalizes rules paving way for Bitcoin, Ether ETFs — <em>Cointelegraph</em></li>\n<li>[8] Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties — <em>Cointelegraph</em></li>\n<li>[9] China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express — <em>Cointelegraph</em></li>\n<li>[10] AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "regulation",
+        "ai",
+        "etf"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791524861/xeonbit24/posts/crypto-roundup-october-9-2026-at-1247-pm-ict-bitcoin-spikes-ether-liquidations-a.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791524861/xeonbit24/posts/crypto-roundup-october-9-2026-at-1247-pm-ict-bitcoin-spikes-ether-liquidations-a.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-9-2026-at-1247-pm-ict-bitcoin-spikes-ether-liquidations-a",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 9, 2026 at 12:47 PM (ICT): Bitcoin spikes, Ether liquidations, and AI‑driven regulatory shifts"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+          "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+          "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+          "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
+          "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+          "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+          "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+          "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+          "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-09T05:47:41.722Z",
+      "slug": "crypto-roundup-october-9-2026-at-1247-pm-ict-bitcoin-spikes-ether-liquidations-a"
+    },
+    {
       "id": "1791482681625",
       "title": "Crypto Roundup October 8, 2026 at 01:04 AM (ICT): Spot Bitcoin ETFs bleed, AI‑security debate, and regulatory ripples",
       "summary": "Bitcoin spot ETFs saw a record outflow of $485 million as “Uptober” turned red, while the IMF warned of systemic risk in tokenized markets and Vitalik Buterin urged a shift to quantum‑ and AI‑resistant encryption. Meanwhile, the NFL’s Supreme Court brief on prediction‑market contracts and a $1 billion Bitcoin seizure add regulatory and sovereign‑asset layers to an already volatile week.",
@@ -26616,15 +26697,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
-    "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
-    "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
-    "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-    "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
-    "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-    "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
-    "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
     "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
     "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
@@ -27115,10 +27187,18 @@
     "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
     "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-    "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+    "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+    "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+    "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers|https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules|https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open|https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
     "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -27317,6 +27397,7 @@
     "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week|https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
     "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954|https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
     "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say|https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-    "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red|https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064|https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066"
+    "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red|https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064|https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
