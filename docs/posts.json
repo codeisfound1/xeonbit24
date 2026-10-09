@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791567471277",
+      "title": "Crypto Roundup October 9, 2026 at 12:37 AM (ICT): Bitcoin bounce, Starknet shift, regulatory pushes, and security scares",
+      "summary": "Bitcoin rallied after a steep dip, while Starknet’s L2‑to‑L1 ambition sparked a 20% surge. Meanwhile, major players like HSBC, Blockchain.com and Ledger faced regulatory or security headwinds, underscoring a market caught between growth and risk.",
+      "content": "<p>October 9, 2026 marks a volatile yet pivotal day for the crypto ecosystem. Bitcoin recovered from a sub‑$80k trough, Ethereum’s Starknet L2 announced a bold move toward becoming a standalone L1, and traditional finance giants tested AI‑driven tokenized payments. At the same time, security concerns resurfaced with Ledger’s investigation into a Southeast Asian reseller, and regulators tightened their grip as Blockchain.com pursued CFTC licences and New York’s Attorney General moved against former Celsius CEO Alex Mashinsky. The confluence of price action, technological ambition, and regulatory pressure paints a nuanced picture of a market that is both maturing and still prone to shocks.</p>\n<h2>1. Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside</h2>\n<p>After sliding to roughly $80,000, Bitcoin staged a modest bounce back toward $84,000. The rebound was driven by short‑covering and renewed institutional buying, yet futures markets show a growing consensus that further downside is likely before the month ends. Options data reveals a steep skew toward put contracts, suggesting traders expect a corrective move of 5‑7% before the October‑December earnings season for crypto‑related firms. The price action underscores Bitcoin’s sensitivity to macro‑economic cues—particularly the Fed’s upcoming rate decision—and highlights the market’s still‑high volatility despite a broader risk‑on sentiment.</p>\n<h2>2. Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1</h2>\n<p>Starknet, a leading zk‑rollup on Ethereum, announced it is “actively considering” a transition to an independent Layer‑1 network, promising full quantum‑resistance by 2027. The news sent Starknet’s token up 20%, reflecting investor optimism about the network’s long‑term scalability and security roadmap. A move to L1 could free Starknet from Ethereum’s gas dynamics, allowing it to set its own fee structure and attract high‑throughput DeFi and NFT projects. However, the transition will require substantial validator onboarding and could fragment the existing developer community, a risk that will be watched closely over the next 12 months.</p>\n<h2>3. HSBC, Ant Digital Test AI‑Agent Payments Using Tokenized Deposits</h2>\n<p>In a joint pilot, HSBC and Ant Digital deployed AI agents that autonomously discovered services and executed micropayments using tokenized deposits on a private blockchain. The trial demonstrated real‑time settlement, automated risk checks, and sub‑second transaction finality—key ingredients for future “smart‑money” ecosystems. While the proof‑of‑concept remains confined to a sandbox, it signals a growing willingness among legacy banks to integrate decentralized finance primitives, potentially lowering friction for cross‑border payments and opening a new revenue stream for token‑based custodial services.</p>\n<h2>4. Ledger Investigates Fund Losses Linked to Southeast Asian Reseller, Warns Users</h2>\n<p>Hardware‑wallet leader Ledger announced an investigation into CryptoBilis, a Southeast Asian reseller implicated in the theft of between $72 million and $86 million worth of crypto assets. On‑chain analysis traced large transfers from wallets purchased through the reseller to a handful of exchange addresses, suggesting a coordinated exit strategy. Ledger has urged recent buyers to refrain from initializing their devices and is working with law‑enforcement agencies to freeze the stolen funds. The episode highlights the persistent supply‑chain risk in hardware‑wallet distribution and reinforces the need for end‑users to verify provenance before purchase.</p>\n<h2>5. Blockchain.com Pursues CFTC Approval for Prediction Markets: CNBC</h2>\n<p>Blockchain.com filed applications for both a Designated Contract Market (DCM) and a Futures Commission Merchant (FCM) licence with the U.S. Commodity Futures Trading Commission. The move aims to launch regulated prediction‑market and derivatives products ahead of a planned $500 million IPO. Securing CFTC approval would place Blockchain.com among the first crypto‑native platforms to offer federally regulated derivatives, potentially unlocking institutional liquidity and setting a precedent for other exchanges seeking U.S. market access.</p>\n<h2>6. DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales</h2>\n<p>Four subsidiaries linked to venture firm DWF Labs have filed a £1.1 billion (≈ $141 million) claim in London’s High Court against custodial provider BitGo. The plaintiffs allege BitGo sold discounted Falcon Finance and ESPORTS tokens two months before the lock‑up period ended, causing a sharp price decline for the remaining tokens. The lawsuit underscores the legal complexities surrounding token‑sale timing, lock‑up enforcement, and the fiduciary duties of custodians in the rapidly evolving token‑economy landscape.</p>\n<h2>7. New York AG Secures Up to $35 M and Industry Ban From Ex‑Celsius CEO Alex Mashinsky</h2>\n<p>New York Attorney General Letitia James secured a settlement that could force former Celsius CEO Alex Mashinsky to forfeit up to $35 million and accept a lifetime ban from the crypto industry. The agreement includes a $25 million payment if Mashinsky fails to surrender an additional $10 million, plus a $10 million penalty for non‑compliance with a prison sentence. The case reinforces regulatory scrutiny of crypto lending platforms and sends a clear signal that senior executives will be held personally accountable for alleged fraud.</p>\n<h2>8. Blockchain.com Seeks CFTC Greenlight for US Prediction Markets, Crypto Derivatives Trading: The Block</h2>\n<p>The Block corroborated the CNBC report, emphasizing that Blockchain.com’s dual‑license strategy is designed to launch a suite of regulated prediction‑market contracts alongside traditional crypto futures. Analysts note that the company’s timing aligns with a broader wave of U.S. regulatory clarity, and successful licensing could accelerate the mainstream adoption of crypto‑based financial products, especially among hedge funds and family offices seeking diversified exposure.</p>\n<h2>9. Crypto Biz: Wealthy Investors Are Buying Crypto, but Their Advisers Aren’t Sold</h2>\n<p>Research from Cointelegraph shows high‑net‑worth individuals are allocating a growing share of their portfolios to digital assets, while many financial advisers remain hesitant due to regulatory uncertainty and perceived volatility. Meanwhile, exchange OKX announced a fresh funding round and a strategic shift toward preferred‑stock buybacks, signaling confidence in continued institutional demand. The divergence between investor appetite and advisory caution may drive a surge in “direct‑to‑client” crypto services and bespoke wealth‑management solutions.</p>\n<h2>10. Ledger Probes Potential Theft of $87 M in User Funds Tied to Crypto Wallet Reseller</h2>\n<p>A second Ledger report details a focused on‑chain investigation that linked the suspected $86‑$87 million theft to the same CryptoBilis reseller. Ledger has asked the reseller to pause sales and warned recent purchasers not to activate their devices until the investigation concludes. The repeated alerts underscore the scale of the breach and the urgency for the broader hardware‑wallet ecosystem to tighten reseller vetting processes.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment remains mixed. Bitcoin’s technical bounce is likely to be short‑lived if bearish options positioning holds, while Ethereum‑related projects like Starknet could benefit from the ongoing “rollup wars” and the promise of quantum‑resistant security. Regulatory developments—particularly Blockchain.com’s CFTC applications and the Mashinsky settlement—suggest a gradual but firming framework in the United States, which could attract institutional capital if clarity continues. Conversely, security incidents involving Ledger expose a lingering vulnerability in the hardware‑wallet supply chain, a risk that could temper retail enthusiasm until remedial standards are widely adopted.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s rebound is fragile; market participants are pricing a further 5‑7% correction before month‑end.</li><li>Starknet’s L1 ambition fuels a 20% price surge and highlights the strategic shift of L2 solutions toward independence.</li><li>Traditional finance is experimenting with AI‑driven tokenized payments, hinting at broader DeFi integration.</li><li>Ledger’s investigations reveal significant supply‑chain risks; users should verify reseller authenticity.</li><li>Regulatory momentum in the U.S. (CFTC licences, Mashinsky case) could unlock new derivative products and enforce tighter compliance.</li><li>Wealthy investors are leading crypto adoption, but advisory lag may spur growth in direct‑to‑client crypto wealth services.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside — <em>Decrypt</em></li>\n<li>[2] HSBC, Ant Digital test AI-agent payments using tokenized deposits — <em>Cointelegraph</em></li>\n<li>[3] Ledger investigates fund losses linked to Southeast Asian reseller, warns users — <em>Cointelegraph</em></li>\n<li>[4] Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1 — <em>Decrypt</em></li>\n<li>[5] Blockchain.com pursues CFTC approval for prediction markets: CNBC — <em>Cointelegraph</em></li>\n<li>[6] DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales — <em>Decrypt</em></li>\n<li>[7] New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky — <em>Decrypt</em></li>\n<li>[8] Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC — <em>The Block</em></li>\n<li>[9] Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold — <em>Cointelegraph</em></li>\n<li>[10] Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "security"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791567470/xeonbit24/posts/crypto-roundup-october-9-2026-at-1237-am-ict-bitcoin-bounce-starknet-shift-regul.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791567470/xeonbit24/posts/crypto-roundup-october-9-2026-at-1237-am-ict-bitcoin-bounce-starknet-shift-regul.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-9-2026-at-1237-am-ict-bitcoin-bounce-starknet-shift-regul",
+        "width": 3556,
+        "height": 2000,
+        "format": "png",
+        "alt": "Crypto Roundup October 9, 2026 at 12:37 AM (ICT): Bitcoin bounce, Starknet shift, regulatory pushes, and security scares"
+      },
+      "sourceUrl": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
+          "url": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+          "source": "Decrypt"
+        },
+        {
+          "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+          "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+          "source": "Decrypt"
+        },
+        {
+          "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+          "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+          "url": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+          "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+          "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-09T17:37:51.277Z",
+      "slug": "crypto-roundup-october-9-2026-at-1237-am-ict-bitcoin-bounce-starknet-shift-regul"
+    },
+    {
       "id": "1791524861721",
       "title": "Crypto Roundup October 9, 2026 at 12:47 PM (ICT): Bitcoin spikes, Ether liquidations, and AI‑driven regulatory shifts",
       "summary": "Bitcoin surged to $82,000 after geopolitical calm, while Ether suffered massive liquidations. Meanwhile, AI security tools, new ETF rules in Thailand, and U.S. quantum‑AI funding signal a rapidly evolving regulatory and technological landscape.",
@@ -26697,16 +26778,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
-    "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
-    "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
-    "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86",
-    "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-    "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-    "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
     "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
     "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -27196,10 +27267,19 @@
     "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
+    "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+    "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+    "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+    "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+    "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+    "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
+    "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406802/bitcoin-etf-worst-month-yet?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules|https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open|https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
     "https://cointelegraph.com/news/renowned-analyst-predicts-btc-drop-to-52k-after-worst-june-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets|https://decrypt.co/372670/metaplanet-adds-2823-bitcoin-in-q2-as-buying-pace-cools",
@@ -27398,6 +27478,7 @@
     "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954|https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
     "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say|https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
     "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red|https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064|https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside|https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
