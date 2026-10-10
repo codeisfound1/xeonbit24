@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-october-10-2026-at-1230-pm-ict-market-shifts-amid-regulatory-move</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791610231/xeonbit24/posts/crypto-roundup-october-10-2026-at-1230-pm-ict-market-shifts-amid-regulatory-move.jpg</image:loc>
+      <image:title>Crypto Roundup October 10, 2026 at 12:30 PM (ICT): Market Shifts Amid Regulatory Moves, Technical Glitches, and Institutional Adoption</image:title>
+      <image:caption>Crypto Roundup October 10, 2026 at 12:30 PM (ICT): Market Shifts Amid Regulatory Moves, Technical Glitches, and Institut</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-october-9-2026-at-1237-am-ict-bitcoin-bounce-starknet-shift-regul</loc>
