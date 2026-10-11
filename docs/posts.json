@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791696344948",
+      "title": "Crypto Roundup October 11, 2026 at 12:25 PM (ICT): Regulation, ETFs, and Emerging Tech Shape Market Momentum",
+      "summary": "Regulatory moves in the U.S. and France, mixed ETF flows, and new Bitcoin‑based insurance funding dominate the headlines, while liquidity rebounds for Bitcoin and Ether contrast with lingering alt‑coin stress. Quantum‑ready Tron and tokenized commodities add a forward‑looking tech layer.",
+      "content": "<p>Today's crypto market is being steered by three intersecting forces: tighter regulatory scrutiny, shifting capital between flagship and niche assets, and a wave of technical innovation that promises new use‑cases. The U.S. Commodity Futures Trading Commission (CFTC) is redefining the line between prediction markets and gambling, while France’s parliament debates heavy taxes on stable‑coin swaps and crypto exits. At the same time, investors are pulling money out of Ether ETFs but flooding Solana‑focused funds, and a Bitcoin‑native insurer has secured a $37.5 million round, underscoring Bitcoin’s growing utility beyond a store of value. Liquidity for Bitcoin and Ether has largely recovered from the October 2025 flash‑crash, yet many altcoins remain thin, highlighting a bifurcated market landscape.</p>\n<h2>1. CFTC Draws the Line Between Prediction Markets and Gambling in New Rules</h2>\n<p>The CFTC’s proposed rule would formally categorize event‑based contracts—spanning sports, politics, culture, and weather—as “swaps.” By doing so, the agency brings these products under its regulatory umbrella while explicitly excluding casino‑style gambling. This move could legitimize a swath of prediction‑market platforms, encouraging institutional participation, but it also raises compliance costs for existing operators. Market participants should monitor the rule’s final language, as any deviation could trigger a wave of platform migrations or legal challenges.</p>\n<h2>2. French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget</h2>\n<p>France’s National Assembly committee approved a 0.3 % tax on stablecoin swaps and a 0.5 % exit tax on large crypto holdings, targeting high‑net‑worth individuals. Although the broader 2027 budget was rejected, the tax provisions are likely to survive as separate legislation. Europe’s regulatory trend toward taxing crypto activity could pressure cross‑border traders and push some volume toward jurisdictions with lighter tax regimes, potentially affecting liquidity on European exchanges.</p>\n<h2>3. Ether ETFs Extend Outflow Streak to Nine Days as Solana Funds Snap Record 14‑Week Inflow Run</h2>\n<p>Spot Ether ETFs posted a ninth consecutive day of net outflows, while Solana‑focused ETFs recorded a 14‑week inflow streak, the longest on record. Bitcoin ETFs also saw modest outflows. The divergence suggests investors are reallocating capital toward higher‑risk, higher‑reward playbooks, possibly betting on Solana’s upcoming network upgrades and lower gas fees. Ether’s outflows may reflect short‑term profit‑taking after the recent price rally, but the trend could also signal waning confidence in Ethereum’s roadmap amid scaling debates.</p>\n<h2>4. One Year After 10/10 Flash Crash, Bitcoin and Ether Liquidity Have Rebuilt, but Altcoins Still Face Risks</h2>\n<p>Data from CoinDesk shows that order‑book depth for Bitcoin and Ether has surpassed pre‑crash levels, with tighter spreads and higher market‑making activity. In contrast, altcoin liquidity remains shallow, with spot volumes still below the October 2025 peak. The uneven recovery points to a market that rewards the most liquid, widely‑adopted assets while penalizing niche projects that lack robust trading infrastructure.</p>\n<h2>5. This Sam Altman‑Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million</h2>\n<p>Bitcoin‑native insurer Lumen (operating out of Bermuda) secured a $37.5 million Series A round led by Bain Capital Crypto. The firm uses Bitcoin as its settlement layer for premiums and claims, positioning itself as a bridge between traditional finance and crypto. The funding round underscores growing institutional confidence in Bitcoin’s stability and its potential as a backbone for real‑world financial services.</p>\n<h2>6. Tokenized Commodities Look Beyond Gold as Lending and Oil Open New Markets</h2>\n<p>Paxos Labs, Theo, and Energy Substantiation executives highlighted a shift toward tokenizing physical commodities such as oil and industrial metals. While gold remains the dominant tokenized asset, lending protocols are now offering collateralized loans against tokenized oil, expanding the DeFi use‑case spectrum. This diversification could attract institutional investors seeking exposure to commodity price movements without the logistical overhead of physical storage.</p>\n<h2>7. Justin Sun Says Tron’s Post‑Quantum Cryptography Has Gone Live on Testnet</h2>\n<p>Tron’s founder announced that a post‑quantum cryptographic suite is now operational on the testnet, with plans to roll it out to mainnet “any time.” The upgrade aims to future‑proof the network against quantum attacks, a concern gaining traction as quantum computing research accelerates. Early adopters may view Tron as a more secure platform for dApps, potentially boosting developer interest.</p>\n<h2>8. Kalshi Is Investigating Bets on Trump’s Press Secretary Pick Placed Before Announcement</h2>\n<p>Prediction‑market platform Kalshi uncovered three bets totaling $173 that were placed before any public announcement of the White House press secretary. The bets stand to pay out roughly $9,600 combined, prompting an internal investigation into possible insider information. While the amounts are modest, the incident highlights the need for robust compliance frameworks in prediction‑market ecosystems.</p>\n<h2>9. Here’s a Way to Predict When AI Chatbots Will Turn Bad</h2>\n<p>Physicists at George Washington University introduced a formula that estimates the point at which an AI chatbot’s responses degrade from useful to harmful. Early testing on smaller language models shows promising predictive power. Though not directly crypto‑related, the research is relevant for blockchain projects that integrate AI assistants for user support, emphasizing the importance of safety mechanisms.</p>\n<h2>10. Here’s What Happened in Crypto Today</h2>\n<p>Cointelegraph’s daily roundup aggregates the day’s most impactful stories, covering price movements, regulatory updates, and ecosystem developments. While not a standalone news piece, it serves as a useful reference for traders seeking a quick pulse on market sentiment.</p>\n<h2>Market Outlook</h2>\n<p>Regulatory pressure is intensifying on both sides of the Atlantic, with the CFTC’s swap definition and France’s crypto taxes likely to shape capital flows. Expect continued outflows from traditional Ether ETFs as investors chase higher‑yield opportunities in emerging protocols like Solana and tokenized commodity lending. Bitcoin’s liquidity rebound and the successful fundraising of a Bitcoin‑native insurer suggest a strengthening of Bitcoin’s utility narrative, which could support price stability in the medium term.</p>\n<p>Altcoins remain vulnerable; thin order books and lower spot volumes expose them to heightened volatility, especially if macro‑economic conditions tighten. Projects that demonstrate real‑world utility—such as tokenized commodities, quantum‑resistant blockchains, and crypto‑backed insurance—are positioned to attract institutional attention.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Regulators are tightening the definition of crypto‑related contracts, which may drive compliance costs but also legitimize prediction markets.</li><li>ETF capital is rotating from Ether to Solana, reflecting a risk‑on shift among retail and institutional investors.</li><li>Bitcoin’s order‑book depth has fully recovered, while many altcoins still suffer from liquidity gaps.</li><li>Institutional money continues to flow into Bitcoin‑centric infrastructure, as evidenced by the $37.5 M raise for a Bitcoin‑only insurer.</li><li>Emerging tech—post‑quantum cryptography, tokenized commodities, and AI safety models—could broaden the blockchain value proposition beyond pure speculation.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ — <em>The Block</em></li>\n<li>[2] CFTC Draws the Line Between Prediction Markets and Gambling in New Rules — <em>Decrypt</em></li>\n<li>[3] This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million — <em>Decrypt</em></li>\n<li>[4] Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run — <em>The Block</em></li>\n<li>[5] Here’s a Way to Predict When AI Chatbots Will Turn Bad — <em>Decrypt</em></li>\n<li>[6] French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget — <em>Decrypt</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks — <em>CoinDesk</em></li>\n<li>[9] Tokenized commodities look beyond gold as lending and oil open new markets — <em>CoinDesk</em></li>\n<li>[10] Justin Sun says Tron’s post-quantum cryptography has gone live on testnet — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "altcoins",
+        "regulation",
+        "defi",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791696344/xeonbit24/posts/crypto-roundup-october-11-2026-at-1225-pm-ict-regulation-etfs-and-emerging-tech-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791696344/xeonbit24/posts/crypto-roundup-october-11-2026-at-1225-pm-ict-regulation-etfs-and-emerging-tech-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-11-2026-at-1225-pm-ict-regulation-etfs-and-emerging-tech-",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 11, 2026 at 12:25 PM (ICT): Regulation, ETFs, and Emerging Tech Shape Market Momentum"
+      },
+      "sourceUrl": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "sourceTitle": "The Block / Decrypt / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+          "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+          "source": "The Block"
+        },
+        {
+          "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+          "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+          "source": "Decrypt"
+        },
+        {
+          "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+          "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+          "source": "Decrypt"
+        },
+        {
+          "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+          "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+          "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+          "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-11T05:25:44.948Z",
+      "slug": "crypto-roundup-october-11-2026-at-1225-pm-ict-regulation-etfs-and-emerging-tech-"
+    },
+    {
       "id": "1791649736661",
       "title": "Crypto Roundup October 10, 2026 at 11:28 PM (ICT): Bitcoin liquidity rebounds, Ether ETFs see outflows, and AI‑driven regulation heats up",
       "summary": "Bitcoin and Ether order books have recovered from last year's flash crash, but altcoin liquidity remains thin. Meanwhile, Ether ETFs suffer a ninth day of outflows as Solana funds attract fresh capital, and France moves to tax stable‑coin swaps. AI safety concerns and a Bitcoin‑only insurer raise new strategic questions for the market.",
@@ -26940,8 +27021,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-    "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
     "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
     "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -27439,10 +27518,11 @@
     "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
     "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-    "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+    "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets|https://decrypt.co/372670/metaplanet-adds-2823-bitcoin-in-q2-as-buying-pace-cools",
     "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying|https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid|https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
@@ -27641,6 +27721,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside|https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40|https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing|https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-    "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise|https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215|https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad"
+    "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise|https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215|https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+    "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222|https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules|https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
   ]
 }
