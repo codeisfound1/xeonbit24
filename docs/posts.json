@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791737622818",
+      "title": "Crypto Roundup October 11, 2026 at 11:53 PM (ICT): ETFs bleed, regulatory shifts, and security scares dominate",
+      "summary": "ETF outflows hit Bitcoin, Ethereum and Solana hard, while regulators tighten prediction‑market rules and a major hardware‑wallet breach raises security alarms. Tokenization demand grows, but liquidity and legal frameworks lag behind.",
+      "content": "<p>October 11, 2026 brought a mixed bag of headlines that together sketch the current pulse of the crypto ecosystem. Outflows from major crypto ETFs signal short‑term risk aversion, while policy debates in the United States and a high‑profile hardware‑wallet breach highlight the sector’s regulatory and security challenges. At the same time, institutional interest in tokenized equities persists despite liquidity hurdles, and privacy projects like Zcash push technical boundaries against AI and quantum threats. Below we unpack each story, draw connections, and outline what the next few weeks may hold for investors and developers.</p><h2>1. Bitcoin, Ethereum and Solana ETFs All in the Red for October</h2><p>DeFi‑focused investors watched as Bitcoin ETFs recorded $386.3 million of net outflows in the first seven trading days of October, and Ethereum funds logged nine consecutive days of losses. Solana’s ETF, still nascent, mirrored the downward trend. The outflows reflect heightened risk‑off sentiment after a series of macro‑economic data points hinted at a possible slowdown in US consumer spending. For retail and institutional holders, the trend suggests a short‑term preference for cash or traditional safe‑haven assets, but it also creates buying opportunities for long‑term believers who can acquire exposure at a discount.</p><h2>2. Clarity's Failure Could Speed Crypto Innovation While Shielding Incumbents</h2><p>CoinDesk’s analysis of the failed Clarity token‑standard proposal points to a paradox: the collapse may open space for new tokenization frameworks, yet it also underscores the regulatory vacuum that protects established players. Lawyers warn that without clear agency guidance, spot‑market oversight remains uncertain, potentially deterring larger institutional entrants. Meanwhile, fintech firms see the gap as a chance to launch proprietary tokenization solutions that bypass the stalled Clarity process.</p><h2>3. IMF Finds Demand for Tokenized Stocks, Says the Market Is Still Volatile, Illiquid</h2><p>The International Monetary Fund highlighted growing interest in blockchain‑based shares, especially for after‑hours and fractional trades. However, the IMF cautioned that settlement systems, legal clarity, and market depth have not kept pace. Investors can expect continued price volatility and wider bid‑ask spreads until custodial standards and cross‑border regulations mature.</p><h2>4. CFTC Proposals Aimed at Separating Prediction Markets From Casino Gambling</h2><p>The Commodity Futures Trading Commission unveiled two proposals to clearly distinguish crypto‑based prediction markets from traditional gambling platforms. The move is designed to protect retail participants and lay groundwork for a potential Supreme Court showdown over federal versus state jurisdiction. If adopted, the rules could legitimize prediction‑market products, attracting more sophisticated traders while limiting “casino‑style” betting apps.</p><h2>5. Ledger Confirms Unauthorized Hardware Implant, Says Losses May Exceed $86 M</h2><p>Ledger disclosed a supply‑chain breach affecting a single reseller in Southeast Asia, where malicious hardware implants were installed on devices before shipment. Preliminary estimates put total user losses above $86 million. The incident underscores the importance of purchasing hardware wallets from authorized channels and may accelerate demand for tamper‑evident packaging and on‑device attestation technologies.</p><h2>6. Coldcard Investigates Phishing Link on Its X Account</h2><p>Coldcard, another hardware‑wallet maker, is probing how a phishing URL appeared on its official X (formerly Twitter) profile. The company urged users not to click the link and promised updates once verified information is available. The episode highlights the broader social‑media attack surface that crypto firms must defend, especially as community engagement moves increasingly to real‑time platforms.</p><h2>7. How Zcash Plans to Hide Your Keys From AI and Quantum Attacks</h2><p>Zcash developer Zakura announced plans to integrate hash‑based signatures in January, a quantum‑resistant scheme that could safeguard private keys against future quantum computers. In parallel, Zcash is rolling out a privacy tool that rotates transparent addresses automatically, reducing metadata leakage that AI‑driven analytics could exploit. These steps position Zcash as a front‑runner in post‑quantum privacy solutions.</p><h2>8. President Trump Declares ‘Energy Ceasefire’ Between Russia and Ukraine</h2><p>While not a crypto‑specific story, the geopolitical development could influence energy‑linked tokens and carbon‑credit markets. An energy ceasefire may stabilize European gas prices, indirectly affecting the profitability of energy‑token projects that peg value to commodity flows. Traders should monitor how the ceasefire evolves, as any reversal could reignite volatility in related crypto assets.</p><h2>9. Kalshi Is Investigating Bets on Trump’s Press Secretary Pick Placed Before Announcement</h2><p>The Block reported that three bets totaling about $173 were placed on Kalshi, a regulated prediction‑market platform, before the press‑secretary announcement was public. The bets stand to pay out roughly $9,600 combined. This case illustrates the fine line between legitimate market speculation and insider‑information concerns, reinforcing the need for robust compliance frameworks in crypto‑based prediction markets.</p><h2>10. Here’s What Happened in Crypto Today (Cointelegraph Daily Roundup)</h2><p>Cointelegraph’s daily digest recapped the day’s price moves, DeFi protocol updates, and regulatory headlines. Highlights included a modest rebound in Bitcoin after the ETF outflows, a surge in DeFi lending rates on Ethereum Layer‑2s, and renewed chatter around upcoming US Treasury guidance on stablecoins. The roundup serves as a useful barometer for the day‑to‑day sentiment among traders.</p><h2>Market Outlook</h2><p>Short‑term market dynamics appear dominated by risk‑off behavior, as evidenced by ETF outflows and cautious trading around geopolitical news. However, the regulatory momentum—CFTC proposals, IMF observations, and the fallout from the Clarity debacle—suggests a longer‑term trajectory toward clearer rules and institutional confidence. Security incidents at Ledger and Coldcard will likely prompt tighter supply‑chain audits, which could increase costs for hardware manufacturers but improve overall ecosystem trust. Meanwhile, Zcash’s quantum‑resistant roadmap may attract privacy‑focused capital seeking future‑proof solutions.</p><h2>Key Takeaways</h2><ul><li>ETF outflows signal short‑term risk aversion but also create entry points for long‑term holders.</li><li>Regulatory clarity remains fragmented; upcoming CFTC rules could legitimize prediction markets.</li><li>Tokenized equities are gaining traction, yet liquidity and legal frameworks lag behind demand.</li><li>Security breaches at major hardware‑wallet providers highlight the need for verified supply chains and vigilant social‑media practices.</li><li>Zcash’s quantum‑resistant upgrades position it as a leader in next‑gen privacy tech.</li><li>Geopolitical developments, such as the energy ceasefire, can indirectly affect crypto assets tied to commodity markets.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin, Ethereum and Solana ETFs All in the Red for October — <em>Decrypt</em></li>\n<li>[2] Clarity's failure could speed crypto innovation while shielding incumbents — <em>CoinDesk</em></li>\n<li>[3] President Trump declares 'energy ceasefire' between Russia and Ukraine — <em>CoinDesk</em></li>\n<li>[4] How Zcash Plans to Hide Your Keys From AI and Quantum Attacks — <em>Decrypt</em></li>\n<li>[5] IMF finds demand for tokenized stocks, says the market is still volatile, illiquid — <em>CoinDesk</em></li>\n<li>[6] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[7] Coldcard says it’s investigating how phishing link appeared on its X account — <em>Cointelegraph</em></li>\n<li>[8] Ledger confirms unauthorized hardware implant, says losses may exceed $86M — <em>Cointelegraph</em></li>\n<li>[9] CFTC proposals aimed at separating prediction markets from casino gambling — <em>Cointelegraph</em></li>\n<li>[10] Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "etf",
+        "security"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791737622/xeonbit24/posts/crypto-roundup-october-11-2026-at-1153-pm-ict-etfs-bleed-regulatory-shifts-and-s.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791737622/xeonbit24/posts/crypto-roundup-october-11-2026-at-1153-pm-ict-etfs-bleed-regulatory-shifts-and-s.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-11-2026-at-1153-pm-ict-etfs-bleed-regulatory-shifts-and-s",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 11, 2026 at 11:53 PM (ICT): ETFs bleed, regulatory shifts, and security scares dominate"
+      },
+      "sourceUrl": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+          "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+          "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+          "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+          "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+          "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+          "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+          "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+          "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-10-11T16:53:42.818Z",
+      "slug": "crypto-roundup-october-11-2026-at-1153-pm-ict-etfs-bleed-regulatory-shifts-and-s"
+    },
+    {
       "id": "1791696344948",
       "title": "Crypto Roundup October 11, 2026 at 12:25 PM (ICT): Regulation, ETFs, and Emerging Tech Shape Market Momentum",
       "summary": "Regulatory moves in the U.S. and France, mixed ETF flows, and new Bitcoin‑based insurance funding dominate the headlines, while liquidity rebounds for Bitcoin and Ether contrast with lingering alt‑coin stress. Quantum‑ready Tron and tokenized commodities add a forward‑looking tech layer.",
@@ -27021,14 +27102,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-    "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
-    "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
     "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
     "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
     "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
@@ -27520,10 +27593,17 @@
     "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
     "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-    "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules"
+    "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+    "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+    "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+    "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+    "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+    "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+    "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying|https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid|https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout|https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -27722,6 +27802,7 @@
     "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside|https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40|https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing|https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
     "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise|https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215|https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
-    "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222|https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules|https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
+    "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222|https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules|https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+    "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october|https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents|https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine"
   ]
 }
