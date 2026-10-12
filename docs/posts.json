@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791783399824",
+      "title": "Crypto Roundup October 12, 2026 at 12:36 PM (ICT): Bitcoin steadies, XRP bug fixed, and regulatory ripples",
+      "summary": "Bitcoin held above $84,000 despite ETF outflows, while the XRP Ledger patched a decade‑old bug that could have minted trillions of tokens. Meanwhile, regulatory pressure mounts in Europe and the US, and the DATA Network’s migration to Sui signals growing AI‑data synergy.",
+      "content": "<p>October 12, 2026 was a busy day for the crypto ecosystem. Bitcoin showed resilience by staying above the $84k mark even as ETFs recorded significant outflows, and the XRP Ledger addressed a critical security flaw that could have created 18 trillion new XRP. At the same time, regulators in France and the United States tightened reporting and oversight requirements, while the DATA Network’s move to the Sui blockchain highlighted the continued convergence of AI data services and decentralized infrastructure. Below, we break down each headline and explore what these developments mean for the broader market.</p>\n<h2>1. Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls</h2>\n<p>Bitcoin (BTC) managed to stay above $84,000 despite more than $600 million of net outflows from crypto‑linked exchange‑traded funds last week. The price stability appears linked to a broader risk‑off environment triggered by falling oil prices, which reduced inflationary pressure and kept fiat investors interested in Bitcoin as a hedge. The outflows suggest short‑term profit‑taking, but the price action indicates that institutional demand remains robust, especially as the market anticipates potential approval of additional spot Bitcoin ETFs.</p>\n<h2>2. XRP Ledger patches decade‑old bug that could have minted trillions of XRP</h2>\n<p>The XRP Ledger Foundation released an emergency patch to close an overflow vulnerability in the payment engine that, if exploited, could have minted roughly 18 trillion XRP in a single transaction. The bug, rooted in code dating back over ten years, would have dramatically inflated supply and destabilized the token’s value. The swift response, combined with transparent communication, helped restore confidence among XRP holders and underscored the importance of continuous code audits for legacy blockchain platforms.</p>\n<h2>3. French lawmakers back reporting rule for crypto wallets over €100,000</h2>\n<p>France’s parliament approved a new AML rule requiring owners of crypto wallets holding assets above €112,000 to report their holdings to the tax authority, with fines up to €10,000 for non‑compliance. The move aligns France with EU‑wide efforts to increase transparency and curb illicit finance. While the rule adds compliance costs for high‑net‑worth individuals, it may push some users toward privacy‑focused solutions or offshore jurisdictions, potentially fragmenting the European crypto market.</p>\n<h2>4. Former Acting CFTC Chair Caroline Pham on expanding U.S. crypto oversight</h2>\n<p>Caroline Pham, former acting chair of the U.S. Commodity Futures Trading Commission, emphasized that the agency’s recent proposals could regulate almost every crypto activity except “onions and box office receipts.” Her remarks signal a more aggressive stance toward retail protection, derivatives, and stablecoins. The CFTC’s push could lead to clearer rules for DeFi platforms but also raise compliance burdens for smaller innovators.</p>\n<h2>5. DATA Network to migrate to Sui, retire its own chain (with $30 M Sui Foundation investment)</h2>\n<p>Data Network, previously known as Story, announced it will abandon its independent blockchain and become a native protocol on the Sui network, backed by a $30 million investment from the Sui Foundation. The migration aims to leverage Sui’s high‑throughput, move‑based architecture for AI‑driven data services, reducing operational costs and improving scalability. This shift reflects a broader trend of niche chains consolidating onto more efficient Layer‑1 platforms.</p>\n<h2>6. Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui</h2>\n<p>The investment from the Sui Foundation not only funds the migration but also signals confidence in AI‑centric data marketplaces. By anchoring DATA Network on Sui, developers expect faster data tokenization and lower latency for machine‑learning pipelines, potentially attracting enterprise customers seeking decentralized data pipelines.</p>\n<h2>7. XRP Ledger defends emergency patch for unlimited XRP bug</h2>\n<p>Following the patch, the XRP Ledger Foundation faced criticism from some network operators who claimed the fix was imposed without sufficient consultation. The foundation defended the decision, stating that the urgency of the vulnerability left no room for prolonged debate. This episode highlights the tension between decentralized governance and the need for rapid security responses.</p>\n<h2>8. Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest</h2>\n<p>A compromised hardware wallet sold in Europe was linked to a broader Ledger attack that leveraged the same overflow bug. Security researchers employed AI tools to uncover the vulnerability, earning a $250 k bounty despite the theoretical $94 billion impact. The incident underscores the importance of supply‑chain security for hardware wallets and the growing role of AI in vulnerability discovery.</p>\n<h2>9. Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices</h2>\n<p>A trader exploited a pricing oracle flaw on the newly launched Papertrade exchange, earning $1.28 million by manipulating Hyperliquid’s ETH price feed. The profit was later partially erased when a cascade of liquidations wiped out $450 k in short positions. The episode serves as a cautionary tale about the risks of ultra‑high‑leverage platforms and the need for robust oracle security.</p>\n<h2>10. Everyone wants SCOTUS to take up prediction markets: State of Crypto</h2>\n<p>Multiple amicus briefs and an interim final rule have been filed urging the U.S. Supreme Court to consider cases involving prediction markets, which sit at the intersection of gambling law and decentralized finance. A favorable ruling could legitimize a growing segment of DeFi that enables users to bet on real‑world events, potentially unlocking billions of dollars in liquidity.</p>\n<h2>Market Outlook</h2>\n<p>Overall, the market appears to be in a consolidation phase. Bitcoin’s price resilience suggests that institutional demand remains a floor, while the flurry of regulatory activity in Europe and the United States could introduce short‑term volatility. Technical upgrades—most notably the XRP Ledger patch and DATA Network’s migration—are likely to improve network security and efficiency, fostering longer‑term confidence. However, the emergence of high‑leverage platforms and hardware‑wallet supply‑chain attacks remind participants that risk management remains paramount.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin holds above $84k despite ETF outflows, indicating strong institutional support.</li><li>The XRP Ledger’s critical bug fix restores trust and highlights the need for continuous code audits.</li><li>Regulatory pressure intensifies in Europe (wallet reporting) and the U.S. (CFTC expansion), potentially reshaping compliance landscapes.</li><li>AI‑driven data protocols are consolidating onto high‑performance Layer‑1s like Sui, attracting sizable capital.</li><li>Security incidents involving hardware wallets and ultra‑leverage exchanges underscore ongoing ecosystem risks.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] DATA Network to migrate to Sui, retire own chain — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls — <em>CoinDesk</em></li>\n<li>[3] French lawmakers back reporting rule for crypto wallets over $112K — <em>Cointelegraph</em></li>\n<li>[4] Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’ — <em>The Block</em></li>\n<li>[5] Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui — <em>The Block</em></li>\n<li>[6] XRP Ledger defends emergency patch for unlimited XRP bug — <em>Cointelegraph</em></li>\n<li>[7] Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[8] Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices — <em>The Block</em></li>\n<li>[9] Everyone wants SCOTUS to take up prediction markets: State of Crypto — <em>CoinDesk</em></li>\n<li>[10] XRP Ledger patches decade-old bug that could have minted trillions of XRP — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "xrp",
+        "defi",
+        "regulation",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791783399/xeonbit24/posts/crypto-roundup-october-12-2026-at-1236-pm-ict-bitcoin-steadies-xrp-bug-fixed-and.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791783399/xeonbit24/posts/crypto-roundup-october-12-2026-at-1236-pm-ict-bitcoin-steadies-xrp-bug-fixed-and.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-12-2026-at-1236-pm-ict-bitcoin-steadies-xrp-bug-fixed-and",
+        "width": 1450,
+        "height": 967,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 12, 2026 at 12:36 PM (ICT): Bitcoin steadies, XRP bug fixed, and regulatory ripples"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "DATA Network to migrate to Sui, retire own chain",
+          "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+          "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+          "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+          "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+          "source": "The Block"
+        },
+        {
+          "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+          "source": "The Block"
+        },
+        {
+          "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+          "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+          "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+          "source": "The Block"
+        },
+        {
+          "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-10-12T05:36:39.824Z",
+      "slug": "crypto-roundup-october-12-2026-at-1236-pm-ict-bitcoin-steadies-xrp-bug-fixed-and"
+    },
+    {
       "id": "1791737622818",
       "title": "Crypto Roundup October 11, 2026 at 11:53 PM (ICT): ETFs bleed, regulatory shifts, and security scares dominate",
       "summary": "ETF outflows hit Bitcoin, Ethereum and Solana hard, while regulators tighten prediction‑market rules and a major hardware‑wallet breach raises security alarms. Tokenization demand grows, but liquidity and legal frameworks lag behind.",
@@ -27102,16 +27183,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-    "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
-    "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-    "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-    "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-    "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
-    "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
-    "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
     "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
     "https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635",
@@ -27601,10 +27672,19 @@
     "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
     "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+    "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+    "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+    "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+    "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+    "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying|https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid|https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout|https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -27803,6 +27883,7 @@
     "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40|https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing|https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
     "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise|https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215|https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
     "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222|https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules|https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-    "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october|https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents|https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine"
+    "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october|https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents|https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+    "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls|https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
