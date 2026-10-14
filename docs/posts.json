@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791952442640",
+      "title": "Crypto Roundup October 14, 2026 at 11:33 AM (ICT): Bitcoin rallies, Solana upgrade, and regulatory ripples",
+      "summary": "Bitcoin surged toward $84,000 on fresh Fed optimism while Solana announced a speed‑focused Alpenglow upgrade. At the same time, regulatory pressure in Asia and new institutional experiments with tokenized treasuries highlighted both risk and opportunity in the market.",
+      "content": "<p>Global crypto markets entered a dynamic trading day on October 14, 2026, as macro‑economic signals, protocol upgrades, and regulatory actions intersected. A bullish Fed outlook pushed Bitcoin back above $80,000, while Solana’s upcoming Alpenglow upgrade promises sub‑150 ms finality, potentially reshaping its transaction metrics. Institutional players tested tokenized U.S. Treasuries, and Southeast Asian regulators tightened scrutiny on exchanges and hardware wallets. Even non‑crypto headlines, such as the OpenAI engineer arrest, underscored the broader security conversation surrounding digital assets.</p>\n<h2>1. Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027</h2>\n<p>The flagship cryptocurrency rallied to a fresh high, hovering just under $84,000, after Federal Reserve President John Williams signaled that the central bank does not anticipate any interest‑rate hikes in 2027. The comment lifted risk‑off sentiment across markets, prompting investors to re‑allocate into Bitcoin as a perceived hedge against potential inflationary pressures. The move was reinforced by a broader bounce in major tokens, led by Zcash (ZEC), and a recovery in Korean chipmakers, suggesting renewed confidence in the tech sector that underpins crypto mining and infrastructure.</p>\n<h2>2. Solana sets Oct. 21 for Alpenglow upgrade targeting 150‑millisecond finality</h2>\n<p>Solana announced that its Alpenglow upgrade will go live on October 21. The upgrade replaces the current validator voting system, removes vote transactions from blocks, and aims to achieve 150 ms finality—a dramatic improvement over the network’s existing ~400 ms latency. While the change will likely reduce headline transaction counts (since vote‑related entries disappear), it could boost real‑world throughput and lower fees, making Solana more attractive for DeFi and NFT applications that demand near‑instant settlement.</p>\n<h2>3. Bitwise’s Hougan says Q3 charts point to ‘crypto spring’</h2>\n<p>Matt Hougan, co‑founder of Bitwise Asset Management, highlighted that nearly every fundamental indicator his firm tracks—on‑chain activity, exchange inflows, and institutional fund inflows—spiked sharply in Q3. He described the pattern as a “crypto spring,” suggesting that the market is moving out of a prolonged winter and entering a phase of renewed growth. Hougan’s optimism aligns with the recent price gains in Bitcoin and the uptick in DeFi TVL (total value locked), reinforcing a narrative of expanding participation.</p>\n<h2>4. Coinbase lays out flexible designs as key priority for Bitcoin’s post‑quantum migration</h2>\n<p>Coinbase released a roadmap outlining its approach to Bitcoin’s post‑quantum transition, emphasizing the need for early preparation of signature scheme upgrades and fund migration strategies. The exchange is advocating for a flexible, multi‑phase migration that would allow users to opt‑in to quantum‑resistant signatures while maintaining compatibility with legacy wallets. This proactive stance reflects growing industry awareness of the long‑term security risks posed by quantum computing.</p>\n<h2>5. Strive raising $500 million to buy additional bitcoin with new preferred share class</h2>\n<p>Asset manager Strive announced a $500 million capital raise via a new preferred share class (SATS) that offers a fixed 15 % dividend yield at par. The proceeds will be used to increase its Bitcoin treasury, complementing its existing variable‑rate preferred shares (SATA). The move signals continued institutional confidence in Bitcoin as a store of value and highlights the growing use of structured financial products to gain exposure to the cryptocurrency.</p>\n<h2>6. BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing</h2>\n<p>Bank of New York Mellon (BNY) and Citadel Securities conducted a pilot that tokenized U.S. Treasury securities on a private blockchain. The experiment demonstrated faster collateral movement between settlement and financing stages, reducing latency from days to minutes. If scaled, tokenized treasuries could unlock new liquidity sources for crypto‑backed lending platforms and bridge traditional finance with decentralized ecosystems.</p>\n<h2>7. Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action</h2>\n<p>The Bangko Sentral ng Pilipinas (BSP) is reportedly preparing regulatory action against Coins.ph, the country’s largest crypto exchange with over 18 million users. The concerns center on the platform’s handling of transactions linked to restricted offshore gaming and gambling operators. The move underscores the tightening regulatory environment in Southeast Asia, where authorities are focusing on anti‑money‑laundering (AML) compliance and consumer protection.</p>\n<h2>8. Ledger asks resellers to halt sales in Southeast Asia and Hong Kong</h2>\n<p>Hardware wallet manufacturer Ledger issued an urgent notice asking resellers to stop selling its devices in Southeast Asia and Hong Kong while an investigation determines the source of alleged tampering. The recall reflects heightened vigilance over supply‑chain security for crypto custody solutions, especially after several high‑profile hardware wallet breaches in recent years.</p>\n<h2>9. OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him</h2>\n<p>In a surprising crossover between AI and security, a Saudi national employed by OpenAI was arrested for secretly placing an encrypted audio recorder in an executive meeting room. OpenAI claimed its own language models helped trace the device back to the engineer. While not directly crypto‑related, the incident highlights the growing role of AI in forensic investigations, a capability that could soon be leveraged by crypto firms to detect illicit activity.</p>\n<h2>10. Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources</h2>\n<p>Chatbot startup Character.AI, once valued at $1 billion, entered bankruptcy proceedings after a failed funding round. Disney submitted a $20 million bid, but the sale remains uncertain. The filing illustrates the volatility in AI‑driven consumer tech, a sector that often overlaps with crypto through tokenized incentives and NFT‑based avatars.</p>\n<h2>Market Outlook</h2>\n<p>Overall, the market appears to be transitioning from a defensive stance to a more growth‑oriented phase. Macro‑economic optimism, as reflected in the Fed’s dovish tone, is reigniting risk appetite, while protocol upgrades like Solana’s Alpenglow and institutional experiments with tokenized treasuries signal a push toward higher efficiency and mainstream adoption. However, regulatory scrutiny in Asia and supply‑chain concerns for hardware wallets introduce headwinds that could temper short‑term enthusiasm. Investors should monitor the Fed’s upcoming inflation data, the performance of the Alpenglow upgrade post‑launch, and any further regulatory actions in key markets.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s rally to near $84 k is driven by dovish Fed signals and broader tech sector recovery.</li><li>Solana’s Alpenglow upgrade aims for sub‑150 ms finality, potentially reshaping its transaction metrics and fee structure.</li><li>Institutional interest remains strong, evidenced by Strive’s $500 m Bitcoin raise and the tokenized Treasury pilot.</li><li>Regulatory pressure is intensifying in Southeast Asia, affecting exchanges (Coins.ph) and hardware wallets (Ledger).</li><li>Post‑quantum readiness is becoming a priority for major custodians like Coinbase.</li><li>Non‑crypto security incidents (OpenAI, Character.AI) underscore the broader relevance of AI in digital asset risk management.</li></ul>\n<p>Investors should balance the bullish macro backdrop with the emerging regulatory and security challenges as the crypto ecosystem continues to mature.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality — <em>CoinDesk</em></li>\n<li>[2] Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027 — <em>CoinDesk</em></li>\n<li>[3] Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration — <em>The Block</em></li>\n<li>[4] Bitwise’s Hougan says Q3 charts point to ‘crypto spring’ — <em>Cointelegraph</em></li>\n<li>[5] Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action — <em>CoinDesk</em></li>\n<li>[6] Ledger asks resellers to halt sales in Southeast Asia and Hong Kong — <em>Cointelegraph</em></li>\n<li>[7] Strive raising $500 million to buy additional bitcoin with new preferred share class — <em>CoinDesk</em></li>\n<li>[8] BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing — <em>CoinDesk</em></li>\n<li>[9] OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him — <em>Decrypt</em></li>\n<li>[10] Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "solana",
+        "market",
+        "regulation",
+        "defi",
+        "treasury"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791952442/xeonbit24/posts/crypto-roundup-october-14-2026-at-1133-am-ict-bitcoin-rallies-solana-upgrade-and.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791952442/xeonbit24/posts/crypto-roundup-october-14-2026-at-1133-am-ict-bitcoin-rallies-solana-upgrade-and.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-14-2026-at-1133-am-ict-bitcoin-rallies-solana-upgrade-and",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 14, 2026 at 11:33 AM (ICT): Bitcoin rallies, Solana upgrade, and regulatory ripples"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+          "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+          "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+          "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+          "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+          "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+          "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+          "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+          "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+          "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-14T04:34:02.640Z",
+      "slug": "crypto-roundup-october-14-2026-at-1133-am-ict-bitcoin-rallies-solana-upgrade-and"
+    },
+    {
       "id": "1791916528878",
       "title": "Crypto Roundup October 13, 2026 at 01:35 AM (ICT): Corporate Bitcoin buying, SEC rule‑making shift and AI‑focused futures dominate",
       "summary": "Strive’s $280 million Bitcoin purchase pushes corporate BTC holdings to a record 32,773 BTC, while a quiet SEC quorum rule change could reshape crypto regulation. Meanwhile, Bitcoin steadies above $84 k and new AI‑linked futures markets emerge, underscoring a blend of institutional confidence and regulatory uncertainty.",
@@ -27426,16 +27507,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-    "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
-    "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
-    "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-    "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-    "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
-    "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
-    "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
     "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
     "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
     "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
@@ -27925,10 +27996,19 @@
     "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
     "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion"
+    "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+    "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+    "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+    "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+    "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+    "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+    "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win|https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s|https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trumps-memecoin-loses-38b-for-nearly-1m-holders-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin|https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says|https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28127,6 +28207,7 @@
     "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls|https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million|https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
-    "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months|https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer|https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months|https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer|https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality|https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027|https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509"
   ]
 }
