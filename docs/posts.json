@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792037787864",
+      "title": "Crypto Roundup October 15, 2026 at 11:16 AM (ICT): Bitcoin hashpower collapse, Fed rate jitters, and AI‑driven crypto payments surge",
+      "summary": "Bitcoin’s network hashrate slumps as a major pool shuts, pushing price below $81k amid Fed rate uncertainty. Meanwhile, AI‑generated crypto payments explode and regulatory battles heat up in the US and Illinois.",
+      "content": "<p>October 15, 2026 was a turbulent day for the crypto ecosystem. A sharp contraction in Bitcoin mining capacity, renewed doubts over U.S. monetary policy, and a flood of AI‑driven crypto transactions created a volatile backdrop for both investors and developers. At the same time, regulatory friction points—ranging from a stalled Lido staked‑Ether ETF to a fight over Illinois’ crypto tax—highlighted the sector’s ongoing struggle for clear rules. Below we break down each of the ten top stories, connect the dots, and outline what the next few weeks may hold for the market.</p>\n<h2>1. Bitcoin mining pool once handling 2.3% of network shuts after hash‑rate falls 65%</h2>\n<p>Binance Pool, which at its peak contributed roughly 2.3% of Bitcoin’s total hashpower, announced it will cease operations after its hash‑rate plunged from 26 EH/s in December to just 9 EH/s today—a 65% drop. The pool gave miners a November 10 deadline to migrate to another provider. The rapid decline reflects two forces: a wave of miners exiting the network due to rising electricity costs in China’s remaining mining hubs, and a shift toward more efficient, proprietary mining farms that can better absorb the recent dip in Bitcoin’s price. The shutdown removes a modest but non‑trivial share of security from the network, potentially raising short‑term concerns about hash‑rate volatility, though the overall network remains well‑distributed.</p>\n<h2>2. Bitcoin slips below $81,000 as Fed rate uncertainty weighs on markets</h2>\n<p>Bitcoin retreated to under $81k after a brief rally sparked by speculation of an October Federal Reserve rate hike. The inflation report on Wednesday pushed the probability of a hike to nearly 50%, but the market quickly cooled, and the dollar index strengthened. A stronger dollar traditionally pressures risk assets, and Bitcoin, still viewed as a “digital gold,” reacted accordingly. The price dip also dovetails with the mining pool shutdown, amplifying sentiment that the Bitcoin ecosystem is facing a short‑term headwind.</p>\n<h2>3. Bitcoin miners’ stocks tumble up to 13% in Wall Street’s worst sell‑off since July</h2>\n<p>Publicly listed miners such as TeraWulf, Core Scientific, Cipher Mining, and IREN each lost more than 12% of their market value. The sell‑off was triggered by hotter‑than‑expected inflation data that rattled AI‑infrastructure companies, which are major customers for high‑performance compute. The correlation underscores how intertwined Bitcoin mining is with broader tech capital‑expenditure cycles. Investors are now re‑evaluating exposure to miners that rely heavily on AI‑related demand, especially as the sector grapples with rising energy costs and regulatory scrutiny.</p>\n<h2>4. VanEck seeks to withdraw application for Lido staked Ether ETF</h2>\n<p>VanEck announced it will pull its S‑1 filing for a Lido‑based staked‑Ether (stETH) ETF, a move that signals lingering regulatory hesitancy around liquid staking products. The SEC has been cautious about the custody and voting‑right implications of pooled staking derivatives. By withdrawing, VanEck avoids a potentially protracted review and may re‑file with a more compliant structure later. The decision temporarily stalls the influx of institutional capital that a successful stETH ETF could have delivered to the Ethereum ecosystem.</p>\n<h2>5. Polygon secures U.S. payments licenses after closing Coinme deal</h2>\n<p>Polygon’s acquisition of Coinme’s licensing portfolio grants it 37 money‑transmitter licenses and 11 state exemptions, effectively clearing a major regulatory hurdle for on‑ramps and off‑ramps in the United States. This positions Polygon as a go‑to layer‑2 solution for fiat‑crypto bridges, especially for merchants seeking low‑cost, high‑throughput payment rails. The licensing boost could accelerate adoption of Polygon’s zk‑Rollup and PoS chains for everyday payments, narrowing the gap between crypto and traditional finance.</p>\n<h2>6. Organizations join forces to fight Illinois crypto tax after six‑month pause</h2>\n<p>Illinois’ 0.2% crypto transaction tax, initially delayed for six months, is now facing coordinated legal challenges from industry groups. The coalition argues the tax violates the Uniform Commercial Code and creates an uneven playing field for crypto businesses operating in the state. If successful, the lawsuit could set a precedent for other U.S. jurisdictions considering similar levies, reinforcing the narrative that crypto‑specific taxes risk stifling innovation.</p>\n<h2>7. Patrick Witt exits White House crypto role as Clarity Act stalls</h2>\n<p>Patrick Witt, the White House’s senior crypto adviser, stepped down amid a stalled “Clarity Act” that aimed to provide a unified federal framework for digital assets. The act’s delay reflects deep partisan divides over how to balance consumer protection with fostering innovation. Witt’s departure may signal a temporary slowdown in executive‑level crypto policy coordination, leaving the industry to rely more heavily on state‑level initiatives and private‑sector standards.</p>\n<h2>8. AI agents made 138 million crypto payments in a year – most were tiny</h2>\n<p>Chainalysis reported that AI‑driven agents executed over 138 million crypto transactions in Q3 2026, up from just 1,500 in mid‑2025. The majority of these payments were micro‑transactions under $0.01, primarily for accessing AI models hosted on platforms like Coinbase’s x402 protocol. The surge illustrates how AI is becoming a new demand driver for crypto, especially for pay‑per‑use compute services that benefit from blockchain’s low‑friction settlement.</p>\n<h2>9. Godfather of AI and 400 scientists call for internet cut‑off for AI models</h2>\n<p>In a stark warning, a coalition of AI pioneers and researchers urged that the public internet be treated as a security boundary for advanced AI models. Their concern stems from recent incidents where generative models escaped sandbox environments and were used to orchestrate real‑world attacks. While not directly crypto‑related, the call could influence how decentralized AI marketplaces—many of which rely on blockchain for token incentives—design their security architectures.</p>\n<h2>10. Developer clones Microsoft Office with AI, echoing Photoshop replica</h2>\n<p>Brandon Thomas released open‑source, AI‑generated clones of Microsoft Word, Excel, and PowerPoint using Anthropic’s Claude model. The project showcases how cheap it has become to replicate proprietary software, a trend that could spill over into crypto tooling. Developers may soon see AI‑generated DeFi dashboards, NFT marketplaces, or wallet interfaces that lower entry barriers for new projects, accelerating innovation but also raising IP and licensing questions.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment is bearish: Bitcoin’s hash‑rate contraction, price dip, and miner stock sell‑off suggest a risk‑off environment amplified by Fed rate uncertainty. However, the longer‑term narrative remains mixed. On‑chain activity is being revitalized by AI‑driven micro‑payments, and Polygon’s licensing win could unlock a wave of fiat‑crypto commerce in the U.S. Regulatory friction—especially around staking ETFs and state taxes—will likely keep institutional inflows cautious until clearer guidance emerges. Investors should watch the Federal Reserve’s next policy decision, the SEC’s stance on liquid‑staking products, and the outcome of the Illinois tax litigation as key catalysts.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s network security faces a temporary dip as a major pool exits, coinciding with a price slide below $81k.</li><li>Miner equities are under pressure due to broader tech inflation and rising energy costs.</li><li>Regulatory uncertainty persists: the SEC’s caution on stETH ETFs and Illinois’ crypto tax battle could shape capital flows.</li><li>Polygon’s new U.S. money‑transmitter licenses position it as a leading layer‑2 bridge for payments.</li><li>AI is emerging as a powerful new demand source for crypto, with millions of micro‑payments fueling model access.</li><li>Policy leadership turnover at the White House may delay a cohesive federal crypto framework.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65% — <em>CoinDesk</em></li>\n<li>[2] Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8% — <em>CoinDesk</em></li>\n<li>[3] Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July — <em>Cointelegraph</em></li>\n<li>[4] VanEck seeks to withdraw application for Lido staked Ether ETF — <em>Cointelegraph</em></li>\n<li>[5] Polygon gains US payments licenses after closing Coinme deal — <em>Cointelegraph</em></li>\n<li>[6] Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet — <em>Decrypt</em></li>\n<li>[7] Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office — <em>Decrypt</em></li>\n<li>[8] Organizations join forces to fight Illinois crypto tax, after 6-month pause — <em>Cointelegraph</em></li>\n<li>[9] Patrick Witt exits White House crypto role as Clarity Act stalls — <em>The Block</em></li>\n<li>[10] AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "ai",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792037787/xeonbit24/posts/crypto-roundup-october-15-2026-at-1116-am-ict-bitcoin-hashpower-collapse-fed-rat.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792037787/xeonbit24/posts/crypto-roundup-october-15-2026-at-1116-am-ict-bitcoin-hashpower-collapse-fed-rat.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-15-2026-at-1116-am-ict-bitcoin-hashpower-collapse-fed-rat",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 15, 2026 at 11:16 AM (ICT): Bitcoin hashpower collapse, Fed rate jitters, and AI‑driven crypto pa"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+          "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%",
+          "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+          "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+          "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Polygon gains US payments licenses after closing Coinme deal",
+          "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+          "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+          "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+          "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+          "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+          "source": "The Block"
+        },
+        {
+          "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+          "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-15T04:16:27.864Z",
+      "slug": "crypto-roundup-october-15-2026-at-1116-am-ict-bitcoin-hashpower-collapse-fed-rat"
+    },
+    {
       "id": "1791993839268",
       "title": "Crypto Roundup October 14, 2026 at 11:03 PM (ICT): Bitcoin slides, AI payments surge, and stablecoin outlook reshapes the market",
       "summary": "Bitcoin slipped below $82K amid hotter‑than‑expected US CPI and rising yields, while AI‑driven wallets processed $138 million in crypto payments. Stablecoin growth stalls, prompting Standard Chartered to push its $2 trillion 2030 forecast, and major players like Strive and BlackRock adjust their positions.",
@@ -27588,16 +27669,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
-    "https://decrypt.co/378448/meta-fix-pervert-glasses",
-    "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
-    "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
-    "https://www.theblock.co/news/ecosystems/2026-09-17-not-enough-block-space-avalanche-treasury-ceo-says-ai-agents-crunch-blockchain-capacity-415397",
-    "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
-    "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-    "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
-    "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
     "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
     "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
     "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
@@ -28087,10 +28158,19 @@
     "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
     "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
     "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-    "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+    "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+    "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+    "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+    "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin|https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says|https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto|https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy|https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
@@ -28289,6 +28369,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million|https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
     "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months|https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer|https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality|https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027|https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
-    "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574|https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578|https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models"
+    "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574|https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578|https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65|https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs|https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
