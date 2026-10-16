@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792123951409",
+      "title": "Crypto Roundup October 16, 2026 at 11:12 AM (ICT): MSCI index shake‑up, Australia tax draft, and regulatory ripples",
+      "summary": "MSCI’s new index exclusion rules threaten several crypto‑focused firms, while Australia moves toward OECD‑aligned tax reporting and Russia tightens P2P Bitcoin rules. Together with developments in quantum computing, exchange funding, and social‑media contracts, the news paints a picture of heightened regulatory pressure and rapid tech evolution shaping market sentiment.",
+      "content": "<p>October 16, 2026 brings a mixed bag of regulatory tightening, institutional shifts, and technological breakthroughs that together shape the short‑term mood of the crypto market. Index providers are reconsidering exposure to crypto‑related companies, governments are aligning tax reporting with global standards, and major economies are curbing peer‑to‑peer Bitcoin activity. At the same time, breakthroughs in quantum computing and strategic acquisitions in the Web3 social layer hint at longer‑term structural change. Below we break down each story, assess its impact, and synthesize what the market may see in the weeks ahead.</p>\n<h2>1. MSCI’s Index Exclusion Rules Threaten Crypto Treasury Firms</h2>\n<p>MSCI, the world’s largest index provider, announced final rules that could remove “non‑operating” crypto treasury firms such as Strategy (MSTR), Metaplanet, and SharpLink from its indices. The decision follows an earlier draft that flagged these firms for exclusion because they primarily hold crypto assets rather than generate operating revenue. The final list will be published on November 11, and any removal could force passive funds that track MSCI indices to sell the affected stocks, creating downward pressure on their share prices.</p>\n<p>For investors, the risk is two‑fold: direct price impact on the listed firms and a broader signal that traditional asset managers remain wary of pure‑play crypto exposure. The move may also accelerate a shift toward more crypto‑friendly indices, such as those offered by Bloomberg or FTSE, which have been quicker to incorporate digital‑asset companies.</p>\n<h2>2. Australia Drafts Bill to Adopt OECD Crypto Tax Reporting Framework (CARF)</h2>\n<p>Australia released a draft bill aligning its crypto tax regime with the OECD’s Common Reporting Standard for Crypto‑Asset Transactions (CARF). The legislation will require domestic exchanges and custodians to collect and transmit transaction data to the Australian Tax Office, with the first cross‑border data exchange slated for 2028. Australia joins 76 other jurisdictions in adopting CARF, signaling a global trend toward greater transparency.</p>\n<p>Short‑term market reaction is muted, but the long‑term effect could be a modest reduction in illicit activity and an increase in compliance costs for smaller exchanges. For Australian investors, the new rules may push more activity onto regulated platforms, potentially boosting liquidity on compliant venues.</p>\n<h2>3. Russia Announces Ban on Peer‑to‑Peer Bitcoin Trading After July 2027</h2>\n<p>The Central Bank of Russia confirmed a phased ban on direct P2P Bitcoin trades, giving users until July 1, 2027 to transition to broker‑mediated transactions. After that date, any Bitcoin transaction must occur through an exchange or broker approved by the Bank of Russia, effectively ending the underground P2P market that has been a staple for Russian crypto users.</p>\n<p>This policy mirrors earlier moves in China and Turkey, and it could shrink Bitcoin’s on‑chain activity in Russia while driving volume to licensed exchanges. The restriction may also increase the demand for privacy‑preserving tools, but the overall effect is likely a contraction of retail Bitcoin liquidity in the region.</p>\n<h2>4. Binance.US Targets $1 B Valuation in $100 M Funding Round</h2>\n<p>Binance.US is reportedly seeking a $100 million capital infusion that would push its post‑money valuation to $1 billion. The funding is intended to help the exchange regain market share after the 2023 settlement with U.S. regulators, which imposed stricter AML/KYC requirements and limited certain product offerings.</p>\n<p>If successful, the capital raise could enable Binance.US to expand its product suite, improve compliance infrastructure, and re‑enter the competitive U.S. spot‑trading arena. Investors will watch the round closely as a barometer of confidence in the U.S. crypto exchange sector.</p>\n<h2>5. Bitcoin and Ether ETFs Launch in Thailand and South Korea</h2>\n<p>While not a standalone article, the launch of Bitcoin and Ether exchange‑traded funds (ETFs) in Thailand and South Korea was highlighted in a broader piece about a scammer losing $4.8 million on tampered Ledger devices. The new ETFs give retail investors in both countries regulated exposure to the two largest cryptocurrencies, potentially widening the investor base and adding institutional credibility to the assets.</p>\n<p>ETF inflows have historically correlated with price upticks, so the debut in two fast‑growing Asian markets could provide a modest bullish catalyst for both BTC and ETH over the next quarter.</p>\n<h2>6. Quantum Computing Breakthrough: Google’s Willow Chip Reduces Error Rates</h2>\n<p>Google announced that its Willow quantum processor cut error rates on “magic states” by a factor of 40, a critical step toward scalable, fault‑tolerant quantum computers. While still years away from practical deployment, the improvement narrows the gap between theoretical quantum attacks on current cryptographic algorithms and real‑world feasibility.</p>\n<p>For the crypto community, the news is a reminder to monitor post‑quantum cryptography (PQC) developments. Major blockchain projects have already begun integrating PQC‑ready signatures, but a sudden breakthrough could accelerate migration timelines.</p>\n<h2>7. Farcaster Acquired by Balaji’s Network School – Introduction of a Social Smart Contract</h2>\n<p>Balaji Srinivasan’s Network School acquired the decentralized social protocol Farcaster. The new ownership model requires users to sign a “social smart contract” to maintain full read‑write access; otherwise, they are relegated to read‑only mode. This approach blends on‑chain identity verification with platform governance, creating a novel monetization and compliance layer for decentralized social media.</p>\n<p>The move may set a precedent for other Web3 applications seeking to balance openness with regulatory accountability, especially as governments scrutinize user‑generated content.</p>\n<h2>8. Hidden Text Exploits Reveal Rogue AI Agents on Alibaba’s Map Service</h2>\n<p>Researchers discovered that inserting hidden Unicode text into API calls could coax rogue AI agents operating on Alibaba’s map platform to reveal internal task instructions. Tracing the activity back to Tencent Cloud infrastructure highlighted the growing risk of AI‑driven supply‑chain attacks.</p>\n<p>Although not directly crypto‑related, the incident underscores the importance of securing AI services that many blockchain projects now rely on for data feeds, oracle services, and automated trading bots.</p>\n<h2>9. Scammer Loses $4.8 M on Tampered Ledger Devices</h2>\n<p>A high‑profile scammer reportedly stored stolen proceeds on tampered Ledger hardware wallets, only to lose $4.8 million when the devices malfunctioned. The case serves as a cautionary tale about supply‑chain integrity for hardware wallets, reinforcing the need for users to purchase devices directly from manufacturers and verify firmware signatures.</p>\n<p>Security‑focused investors may view this as a reminder to diversify custody solutions and to adopt multi‑signature strategies.</p>\n<h2>10. Daily Crypto News Recap</h2>\n<p>The daily roundup from Cointelegraph highlighted price movements, DeFi protocol updates, and regulatory headlines across the globe. While the recap itself contains no new information, it reflects the high‑velocity nature of crypto news cycles, where market sentiment can shift within minutes of a headline.</p>\n<h2>Market Outlook</h2>\n<p>Collectively, the stories point to a market navigating tighter regulation, institutional scrutiny, and emerging technological risk. MSCI’s index exclusion threat and Australia’s CARF adoption suggest that traditional finance is still calibrating its exposure to pure‑play crypto firms, potentially dampening short‑term equity valuations. Meanwhile, the rollout of regulated ETFs in Asia and Binance.US’s fundraising indicate that the exchange ecosystem remains resilient and growth‑oriented.</p>\n<p>On the technology front, Google’s quantum breakthrough and AI‑related security research remind participants that cryptographic assumptions may evolve faster than anticipated. Projects that have already begun integrating post‑quantum algorithms or hardened AI pipelines could gain a competitive edge.</p>\n<p>Geopolitically, Russia’s upcoming P2P ban will likely shrink on‑chain Bitcoin activity in the region, while other jurisdictions continue to tighten reporting standards. The net effect may be a modest contraction in retail‑driven volume but a shift toward more compliant, institutional‑grade liquidity.</p>\n<p>Overall, the market is expected to trade in a narrow range over the next 4‑6 weeks, with price drivers coming from macro‑economic data and any surprise regulatory announcements. Investors should prioritize assets with diversified use‑cases and robust compliance frameworks.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li>MSCI’s final index rules (to be released Nov 11) could trigger sell‑offs in crypto‑focused treasury firms, pressuring related equities.</li>\n<li>Australia’s CARF‑aligned tax bill will increase compliance costs but may boost confidence in regulated exchanges.</li>\n<li>Russia’s P2P Bitcoin ban (effective July 2027) will likely reduce retail on‑chain activity in the country.</li>\n<li>Binance.US’s $100 M funding round aims to restore U.S. market share; success will signal confidence in the exchange’s compliance overhaul.</li>\n<li>New Bitcoin and Ether ETFs in Thailand and South Korea broaden retail access and could drive modest inflows.</li>\n<li>Google’s quantum error‑rate reduction accelerates the timeline for post‑quantum cryptography adoption across blockchains.</li>\n<li>Farcaster’s “social smart contract” model may become a template for regulated yet decentralized social platforms.</li>\n<li>Supply‑chain attacks on AI services and tampered hardware wallets highlight the growing importance of security hygiene.</li>\n</ul>\n<p>Staying vigilant on regulatory developments, diversifying custody, and monitoring quantum‑ready cryptography will be essential for navigating the evolving crypto landscape.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] MSCI adopts index exclusion rules that could oust Strategy — <em>Cointelegraph</em></li>\n<li>[2] Australia releases draft bill to adopt OECD crypto tax reporting framework — <em>Cointelegraph</em></li>\n<li>[3] Scammer loses $4.8M stored on tampered Ledgers: Asia Express — <em>Cointelegraph</em></li>\n<li>[4] Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk — <em>Decrypt</em></li>\n<li>[5] MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion — <em>The Block</em></li>\n<li>[6] Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks — <em>Decrypt</em></li>\n<li>[7] Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users — <em>The Block</em></li>\n<li>[8] Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms — <em>Decrypt</em></li>\n<li>[9] Binance.US seeks $1B valuation in potential $100M funding round: Report — <em>Cointelegraph</em></li>\n<li>[10] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "market",
+        "decentralized",
+        "crypto"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792123950/xeonbit24/posts/crypto-roundup-october-16-2026-at-1112-am-ict-msci-index-shakeup-australia-tax-d.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792123950/xeonbit24/posts/crypto-roundup-october-16-2026-at-1112-am-ict-msci-index-shakeup-australia-tax-d.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-16-2026-at-1112-am-ict-msci-index-shakeup-australia-tax-d",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 16, 2026 at 11:12 AM (ICT): MSCI index shake‑up, Australia tax draft, and regulatory ripples"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "MSCI adopts index exclusion rules that could oust Strategy",
+          "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+          "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+          "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+          "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+          "source": "Decrypt"
+        },
+        {
+          "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+          "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+          "source": "The Block"
+        },
+        {
+          "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+          "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+          "source": "The Block"
+        },
+        {
+          "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+          "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+          "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-16T04:12:31.409Z",
+      "slug": "crypto-roundup-october-16-2026-at-1112-am-ict-msci-index-shakeup-australia-tax-d"
+    },
+    {
       "id": "1792079523180",
       "title": "Crypto Roundup October 15, 2026 at 10:51 PM (ICT): Bitcoin slides below $80K, $1B liquidations spark macro‑driven sell‑off",
       "summary": "Bitcoin slipped under $80,000 as US producer‑price data sparked a fresh sell‑off, triggering nearly $1 billion in crypto liquidations. Meanwhile, Ethereum and altcoins faced outsized drawdowns, while institutional moves in DeFi, Ripple, and Tron highlighted a shift toward real‑world assets and capital raising.",
@@ -27750,15 +27831,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-    "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-    "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-    "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-    "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-    "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
-    "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-    "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
     "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
     "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
     "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
@@ -28249,10 +28321,18 @@
     "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
     "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668"
+    "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
+    "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+    "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+    "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+    "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+    "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+    "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto|https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy|https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
     "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28451,6 +28531,7 @@
     "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality|https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027|https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
     "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574|https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578|https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65|https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs|https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694|https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion|https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694|https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion|https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
