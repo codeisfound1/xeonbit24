@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792296584358",
+      "title": "Crypto Roundup October 18, 2026 at 11:09 AM (ICT): Stablecoin economics, tokenization surge, and regulatory ripples",
+      "summary": "Circle defends USDC’s fee model as rivals push deeper partner cuts, while Wall Street banks and Polygon double‑down on real‑world asset tokenization. Simultaneously, regulatory actions—from a Turkish raid on Hex’s founder to corporate push‑back on tokenized equity—highlight growing scrutiny as the industry matures.",
+      "content": "<p>Crypto markets entered the second week of October with a mix of strategic pivots and regulatory headwinds. Stablecoin economics, real‑world asset tokenization, and quantum‑resilience standards dominated headlines, while political spending and a high‑profile arrest reminded participants that the sector remains under intense public and governmental scrutiny. Below we break down each story, assess its broader impact, and sketch what the next few weeks may hold for investors.</p>\n<h2>1. Circle defends USDC economics as stablecoin rivals court its partners with bigger cuts</h2>\n<p>Circle’s flagship stablecoin USDC faces its first serious competitive pressure from Open USD, a new network that promises to share reserve‑income with partners after a modest management fee. Coinbase, Circle’s largest USDC on‑ramp, is also backing the rival, creating a potential conflict of interest. Circle responded by emphasizing its transparent reserve model, low‑fee structure, and the deep liquidity it provides across more than 50 exchanges. The debate highlights a maturing stablecoin market where partner economics are becoming a key differentiator, and where issuers must balance profitability with the trust that underpins dollar‑backed tokens.</p>\n<h2>2. Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat</h2>\n<p>The three banking giants signaled a strategic shift: rather than viewing tokenized securities as competition, they see them as a new distribution channel. Their statements underscore a broader Wall Street trend to integrate blockchain‑based assets into existing trading, settlement, and advisory services. By positioning themselves as custodians and advisers for tokenized real‑world assets, these banks aim to capture fee revenue while leveraging their compliance infrastructure. This endorsement could accelerate institutional adoption of tokenized bonds, private equity, and even real estate, further blurring the line between traditional finance and crypto.</p>\n<h2>3. Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe</h2>\n<p>Polygon’s purchase of Coinme, a fiat‑on‑ramp provider, is a clear play to own the customer relationship in the payments stack. CEO Marc Boiron explained that the acquisition will let Polygon bypass intermediaries like Visa and Stripe, capturing both data and revenue that currently flow to those legacy players. The move aligns with Polygon’s broader strategy to become a “decentralized finance layer” for everyday transactions, and it may encourage other layer‑2 solutions to pursue similar vertical integrations.</p>\n<h2>4. Citrini sees a tokenization boom. The harder question is who profits</h2>\n<p>Research firm Citrini predicts a surge in real‑world asset tokenization, arguing that blockchain can finally deliver on its promise of fractional ownership and instant settlement. However, the report warns that profit will concentrate among platforms that control custody, compliance, and liquidity. In practice, this means that banks, large crypto exchanges, and specialized tokenization providers stand to reap the biggest rewards, while smaller projects may struggle to compete on regulatory compliance and network effects.</p>\n<h2>5. Crypto firms launch Quantum Alliance as 6 million Bitcoin sit exposed</h2>\n<p>A coalition of nine crypto firms announced the Quantum Alliance, modeled after the IETF, to develop open standards for testing quantum‑resistance claims. With roughly 6 million BTC (about $160 billion) potentially vulnerable to future quantum attacks, the alliance aims to pre‑emptively harden cryptographic primitives. While practical quantum computers are still a decade away, the initiative signals that the industry is moving from reactive security patches to proactive, community‑driven standards.</p>\n<h2>6. Turkey confirms Hex founder Richard Heart’s arrest, police seize $7.15 million and six cold wallets</h2>\n<p>Turkish authorities detained Hex creator Richard Heart, confiscating cash, firearms, ammunition, and six cold wallets containing an estimated $7.15 million worth of crypto. The high‑profile raid underscores the growing willingness of governments to pursue alleged fraudsters in the crypto space, especially when large sums and alleged securities violations are involved. For investors, the case serves as a reminder to conduct thorough due‑diligence on project founders and to consider jurisdictional risks.</p>\n<h2>7. CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE</h2>\n<p>Major corporates, including CoreWeave, Broadcom, and Verizon, filed objections to OKXICE’s proposal to tokenize their equities. Concerns focus on price discovery, liquidity, and regulatory compliance. Applied Optoelectronics, for example, warned that tokenization could introduce volatility that traditional markets are not equipped to handle. The pushback illustrates that while tokenization promises efficiency, issuers remain cautious until clear regulatory frameworks and investor protection mechanisms are in place.</p>\n<h2>8. Crypto Super PAC Fairshake pours millions more into defeating Sherrod Brown</h2>\n<p>Fairshake, a crypto‑aligned political action committee, disclosed an additional $7 million in advertising against Ohio Democrat Sherrod Brown, bringing its total spend to over $46 million. The PAC’s aggressive spending reflects the sector’s growing political engagement, especially as lawmakers consider crypto‑friendly legislation. While the immediate impact on the election is uncertain, the trend signals that crypto interests will increasingly try to shape policy outcomes through substantial campaign financing.</p>\n<h2>9. Chinese startup StepFun launches a phone built around an AI agent, not apps</h2>\n<p>StepFun’s new STEPX Neo smartphone, priced at 3,999 yuan, embeds an AI agent directly into the operating system, positioning the device as a “conversation‑first” platform rather than an app‑centric one. Although not a blockchain product per se, the launch highlights the convergence of AI and consumer hardware in China—a market that continues to experiment with integrating crypto wallets and decentralized services into everyday devices.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup recapped price movements, DeFi protocol updates, and regulatory headlines across the globe. Highlights included Bitcoin hovering around $68,500, Ethereum’s Shanghai‑2 upgrade rollout, and renewed interest in Layer‑2 scaling solutions. While the summary itself offers no new analysis, it reinforces the steady flow of information that keeps market participants informed and reactive.</p>\n<h2>Market Outlook</h2>\n<p>Overall sentiment remains cautiously optimistic. The convergence of tokenization initiatives from both Wall Street and crypto‑native platforms suggests a near‑term expansion of real‑world asset exposure on blockchain. Stablecoin competition could tighten fee structures, benefitting end‑users but pressuring issuers to innovate on reserve management. Regulatory scrutiny, exemplified by the Hex founder’s arrest and corporate objections to tokenized equity, will likely increase, prompting firms to prioritize compliance and legal clarity. Meanwhile, the Quantum Alliance’s early‑stage work may become a differentiator for security‑focused projects as quantum‑ready cryptography matures.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Stablecoin economics are entering a competitive phase; USDC’s transparency is being tested against higher‑share models like Open USD.</li><li>Tokenization is moving from niche to mainstream, with banks, Polygon, and research firms all betting on its growth.</li><li>Regulatory pressure is intensifying, both through government actions (Turkey) and corporate push‑back on tokenized shares.</li><li>Security foresight is gaining traction, as seen in the Quantum Alliance’s push for open quantum‑resistance standards.</li><li>Political spending by crypto‑aligned PACs indicates a strategic shift toward influencing policy directly.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Circle defends USDC economics as stablecoin rivals court its partners with bigger cut — <em>CoinDesk</em></li>\n<li>[2] CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE — <em>The Block</em></li>\n<li>[3] Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets — <em>The Block</em></li>\n<li>[4] Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown — <em>Decrypt</em></li>\n<li>[5] Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat — <em>CoinDesk</em></li>\n<li>[6] Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed — <em>Decrypt</em></li>\n<li>[7] Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps — <em>Decrypt</em></li>\n<li>[8] Citrini sees a tokenization boom. The harder question is who profits — <em>CoinDesk</em></li>\n<li>[9] Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe — <em>CoinDesk</em></li>\n<li>[10] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "tokenization",
+        "defi",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792296583/xeonbit24/posts/crypto-roundup-october-18-2026-at-1109-am-ict-stablecoin-economics-tokenization-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792296583/xeonbit24/posts/crypto-roundup-october-18-2026-at-1109-am-ict-stablecoin-economics-tokenization-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-18-2026-at-1109-am-ict-stablecoin-economics-tokenization-",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 18, 2026 at 11:09 AM (ICT): Stablecoin economics, tokenization surge, and regulatory ripples"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "sourceTitle": "CoinDesk / The Block / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+          "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+          "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+          "source": "The Block"
+        },
+        {
+          "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
+          "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+          "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+          "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+          "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+          "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Citrini sees a tokenization boom. The harder question is who profits",
+          "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+          "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-18T04:09:44.358Z",
+      "slug": "crypto-roundup-october-18-2026-at-1109-am-ict-stablecoin-economics-tokenization-"
+    },
+    {
       "id": "1792247530228",
       "title": "Crypto Roundup October 17, 2026 at 09:32 PM (ICT): Payments, Stablecoins, and Quantum Risks Shape Market Sentiment",
       "summary": "Polygon’s entry into payments, Circle’s push into emerging markets, and fresh quantum‑computing concerns for Bitcoin dominate today’s headlines. Together they signal a tightening regulatory focus on stablecoins while infrastructure players double‑down on mainstream adoption.",
@@ -28073,14 +28154,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
-    "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-    "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866",
-    "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
-    "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-    "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
-    "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
     "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
     "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28572,10 +28645,17 @@
     "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
+    "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+    "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+    "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+    "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+    "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+    "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+    "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+    "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains|https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no|https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
@@ -28774,6 +28854,7 @@
     "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826|https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown|https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough|https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839|https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-    "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models"
+    "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut|https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859|https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
   ]
 }

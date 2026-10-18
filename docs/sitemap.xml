@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-october-18-2026-at-1109-am-ict-stablecoin-economics-tokenization-</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792296583/xeonbit24/posts/crypto-roundup-october-18-2026-at-1109-am-ict-stablecoin-economics-tokenization-.jpg</image:loc>
+      <image:title>Crypto Roundup October 18, 2026 at 11:09 AM (ICT): Stablecoin economics, tokenization surge, and regulatory ripples</image:title>
+      <image:caption>Crypto Roundup October 18, 2026 at 11:09 AM (ICT): Stablecoin economics, tokenization surge, and regulatory ripples</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-october-17-2026-at-0932-pm-ict-payments-stablecoins-and-quantum-r</loc>
