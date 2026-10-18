@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792335560697",
+      "title": "Crypto Roundup October 18, 2026 at 09:59 PM (ICT): Stablecoin surge, Bitcoin debate, and security concerns dominate",
+      "summary": "Stablecoin payments jumped 45% as Visa, Mastercard and Stripe opened new crypto rails, while Bitcoin’s race to $100,000 split analysts amid lingering inflation worries. Simultaneously, a series of security breaches and regulatory moves underscored growing risk management challenges across the crypto ecosystem.",
+      "content": "<p>October 18, 2026 was a busy day for the crypto market, with headline‑grabbing moves in stablecoins, divergent views on Bitcoin’s price trajectory, and a string of security incidents that reminded investors that risk remains high. Below we break down the ten most important stories, connect the dots, and outline what the next few weeks may hold for traders and builders alike.</p><h2>1. Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash</h2><p>Allium’s latest data shows stablecoin transaction volume reaching $482 billion YTD, a 45% increase driven largely by card‑based spending on Visa, Mastercard and Stripe. While the total supply of major US‑dollar stablecoins such as USDC and Tether has plateaued, the surge in on‑ramps suggests that merchants and consumers are treating stablecoins more like a payment layer than a store of value. The implication for the broader market is a stronger utility case for stablecoins, which could buoy demand for related infrastructure and liquidity‑providing protocols.</p><h2>2. Bitcoin’s $100,000 year‑end hope divides analysts as inflation clouds outlook</h2><p>Bitwise’s bullish model projects Bitcoin breaking the $100k barrier before year‑end, citing a weakening dollar and continued institutional inflows. In contrast, LO:TECH warns that persistent interest‑rate uncertainty could trap Bitcoin in a tight $30k‑$45k range. The split reflects a broader macro‑economic tug‑of‑war: if inflation eases, risk assets like Bitcoin may rally; if central banks keep rates high, capital may stay in safer havens. Traders should watch upcoming CPI releases and Fed minutes for clues.</p><h2>3. Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says</h2><p>Hacken’s Q3 report reveals $1.18 billion lost to hacks, with 77% of the damage linked to compromised third‑party suppliers or outdated code that escaped recent audits. The findings highlight a systemic over‑reliance on point‑in‑time audits, which often miss supply‑chain vulnerabilities. Projects are urged to adopt continuous monitoring, formal verification, and bug‑bounty programs to mitigate future losses.</p><h2>4. Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say</h2><p>A Bank for International Settlements working paper finds that U.S. banks raising deposit rates correlates with slower stablecoin growth, especially for Circle’s USDC, which is most sensitive to traditional banking conditions. The research suggests that stablecoin demand is still tethered to the health of the banking sector, and any tightening of rates could dampen the momentum seen in the first half of 2026.</p><h2>5. Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million</h2><p>Binance and Coinbase partnered with regional regulators and private‑sector watchdogs to freeze $11 million tied to phishing and Ponzi schemes targeting West African users. While the total value seized was modest, the operation signals a growing willingness of major exchanges to cooperate with law‑enforcement in emerging markets, potentially improving the sector’s compliance reputation.</p><h2>6. Cysic crypto bridge halted after unauthorized mint of 10 M CYS</h2><p>The Cysic bridge suffered an unauthorized mint of 10 million CYS tokens due to a message‑processing flaw. The team quickly halted the bridge and confirmed that the mainnet and other systems remained untouched. The incident underscores the fragility of cross‑chain bridges and the need for rigorous on‑chain governance and audit coverage.</p><h2>7. Chinese suspect in $75 M international crime network arrested in Bangkok</h2><p>Thai authorities detained a Chinese national linked to a $75 million crypto‑facilitated crime ring operating across 133 accounts. The case illustrates the transnational nature of crypto‑related illicit finance and may prompt tighter AML (anti‑money‑laundering) cooperation between Southeast Asian regulators and global law‑enforcement agencies.</p><h2>8. Chip‑stock bets lost $52 million in 10 minutes with Wall Street shut</h2><p>While not a pure crypto story, the $52 million loss in chip‑stock contracts during a market shutdown highlights the volatility that can spill over into crypto derivatives when traditional markets are unavailable. Crypto traders should be mindful of correlated risk, especially in tech‑heavy tokens that mirror semiconductor sector sentiment.</p><h2>9. Here’s what happened in crypto today</h2><p>Cointelegraph’s daily roundup recapped the day’s price moves, regulatory updates, and DeFi developments, reinforcing the narrative that Bitcoin’s price remains range‑bound, stablecoins are gaining payment traction, and security remains a top concern. The article serves as a useful checklist for anyone needing a quick pulse on the market.</p><h2>10. Most Americans polled oppose betting on elections: Reuters</h2><p>A Reuters poll cited by Cointelegraph shows broad public resistance to election‑betting markets, a sector that often uses crypto tokens for wagering. While not directly affecting crypto prices, the sentiment may influence future regulatory stances on prediction markets that rely on blockchain technology.</p><h2>Market Outlook</h2><p>Overall, the market appears to be at a crossroads. The surge in stablecoin payments suggests growing real‑world adoption, yet the stalled supply and bank‑rate sensitivity remind us that stablecoins are still intertwined with traditional finance. Bitcoin’s price debate reflects macro uncertainty; a decisive inflation read could tip the scales toward a bullish breakout or a prolonged consolidation. Security breaches and bridge failures continue to erode confidence, making robust risk‑management practices essential for both investors and developers. In the short term, we expect modest volatility as traders digest upcoming CPI data, Fed guidance, and the outcomes of ongoing regulatory probes.</p><h2>Key Takeaways</h2><ul><li>Stablecoins are transitioning from a speculative asset to a payment utility, driven by major card networks.</li><li>Bitcoin’s path to $100k is far from certain; macro data will be the primary catalyst.</li><li>Security remains the Achilles’ heel of the ecosystem—continuous monitoring and supply‑chain audits are non‑negotiable.</li><li>Banking conditions directly influence stablecoin growth, highlighting the sector’s hybrid nature.</li><li>Regulatory cooperation is increasing, especially in emerging markets, which could improve overall compliance.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash — <em>CoinDesk</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] Most Americans polled oppose betting on elections: Reuters — <em>Cointelegraph</em></li>\n<li>[4] Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say — <em>Decrypt</em></li>\n<li>[5] Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook — <em>CoinDesk</em></li>\n<li>[6] Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says — <em>CoinDesk</em></li>\n<li>[7] Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million — <em>CoinDesk</em></li>\n<li>[8] Cysic crypto bridge halted after unauthorized mint of 10M CYS — <em>Cointelegraph</em></li>\n<li>[9] Chinese suspect in $75M international crime network arrested in Bangkok — <em>Cointelegraph</em></li>\n<li>[10] Chip-stock bets lost $52 million in 10 minutes with Wall Street shut — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "stablecoins",
+        "security",
+        "regulation",
+        "market",
+        "defi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792335560/xeonbit24/posts/crypto-roundup-october-18-2026-at-0959-pm-ict-stablecoin-surge-bitcoin-debate-an.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792335560/xeonbit24/posts/crypto-roundup-october-18-2026-at-0959-pm-ict-stablecoin-surge-bitcoin-debate-an.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-18-2026-at-0959-pm-ict-stablecoin-surge-bitcoin-debate-an",
+        "width": 798,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 18, 2026 at 09:59 PM (ICT): Stablecoin surge, Bitcoin debate, and security concerns dominate"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+          "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Most Americans polled oppose betting on elections: Reuters",
+          "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+          "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+          "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+          "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+          "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+          "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+          "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+          "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-10-18T14:59:20.697Z",
+      "slug": "crypto-roundup-october-18-2026-at-0959-pm-ict-stablecoin-surge-bitcoin-debate-an"
+    },
+    {
       "id": "1792296584358",
       "title": "Crypto Roundup October 18, 2026 at 11:09 AM (ICT): Stablecoin economics, tokenization surge, and regulatory ripples",
       "summary": "Circle defends USDC’s fee model as rivals push deeper partner cuts, while Wall Street banks and Polygon double‑down on real‑world asset tokenization. Simultaneously, regulatory actions—from a Turkish raid on Hex’s founder to corporate push‑back on tokenized equity—highlight growing scrutiny as the industry matures.",
@@ -28154,15 +28235,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-    "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-    "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
-    "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-    "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
     "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
     "https://decrypt.co/378824/xai-launches-grok-4-7",
     "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28653,10 +28725,18 @@
     "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
     "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
     "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
-    "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits"
+    "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+    "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+    "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+    "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+    "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+    "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains|https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no|https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
     "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack|https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it|https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28855,6 +28935,7 @@
     "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826|https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown|https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough|https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839|https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
     "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut|https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859|https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852"
+    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut|https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859|https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+    "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
