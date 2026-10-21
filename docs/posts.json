@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792556528480",
+      "title": "Crypto Roundup October 21, 2026 at 11:22 AM (ICT): AI earnings lift tech, security scares and new stable‑coin collaborations shape the market",
+      "summary": "Bitcoin steadies near $83k as AI‑driven earnings revive tech stocks, while a major Indian cert‑authority suffers key compromises and a high‑profile merger proposal fuels speculation. Meanwhile, stable‑coin initiatives, regulatory actions and a revived blockchain recovery plan add layers of complexity to the crypto landscape.",
+      "content": "<p>Crypto markets entered the afternoon of October 21 with a blend of optimism and caution. AI‑powered earnings from heavyweight tech firms lifted risk appetite, nudging Bitcoin back toward the $83,000 mark and sparking a rally in privacy‑focused Zcash. At the same time, security lapses at an Indian certificate authority and a high‑profile merger rumor involving Elon Musk’s companies reminded investors that volatility remains a core characteristic of the space. Below, we break down the ten most relevant stories, explore their interconnections, and outline what the next few weeks may hold for traders and builders alike.</p>\n<h2>1. Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%</h2>\n<p>Strong quarterly results from SpaceX and Super Micro have reignited enthusiasm for semiconductor and AI‑related equities across Asian markets. The ripple effect reached crypto: Bitcoin steadied at roughly $83k, a modest gain from the previous week’s dip, while Zcash (ZEC) surged 11% after developers announced a concrete timeline for the upcoming network upgrade, <em>Orchard v2</em>. The upgrade promises enhanced privacy guarantees and a more efficient proof‑of‑work algorithm, attracting both retail speculation and institutional interest in privacy‑preserving assets.</p>\n<h2>2. Musk says SpaceX‑Tesla merger a ‘good idea’ as AI revenue jumps ninefold</h2>\n<p>Elon Musk’s public endorsement of a potential merger between SpaceX and Tesla has added a speculative layer to the crypto narrative. A combined entity would consolidate AI research under one roof, potentially accelerating the development of autonomous systems that could be integrated with blockchain‑based telemetry and tokenized data markets. While the merger remains speculative, the buzz has already influenced sentiment on platforms like X (formerly Twitter), where crypto‑focused accounts are linking the news to bullish expectations for AI‑related tokens.</p>\n<h2>3. MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion</h2>\n<p>MoonPay and Dunamu’s Upbit are negotiating a partnership to enable stablecoin payments across MoonPay’s fiat‑on‑ramp infrastructure while simultaneously promoting GIWA, Dunamu’s Ethereum Layer‑2 solution. The collaboration could lower transaction costs for cross‑border remittances and expand GIWA’s user base beyond East Asia, positioning it as a competitor to Optimism and Arbitrum. For crypto traders, broader stablecoin accessibility may increase on‑ramp volume and improve liquidity in emerging markets.</p>\n<h2>4. U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance</h2>\n<p>The Commodity Futures Trading Commission announced an AI‑focused forum for October 28, aiming to assess how “super‑intelligence” tools could affect futures markets, including crypto derivatives. Topics will include algorithmic trading bots, AI‑generated market signals, and the regulatory challenges of autonomous agents executing trades without direct human oversight. The move signals that regulators are catching up with the rapid integration of AI in financial markets, a trend that could lead to new compliance requirements for crypto exchanges.</p>\n<h2>5. JPMorgan puts a number on Bitcoin for the first time: 10% a year, with a big caveat</h2>\n<p>J.P. Morgan’s 2027 Long‑Term Capital Market Assumptions (LTCMA) model projects a 10% annual return for Bitcoin over the next 10‑15 years. The forecast is accompanied by a disclaimer that Bitcoin will remain a “high‑volatility, non‑core” asset and will not be incorporated into the firm’s primary portfolio models. Nonetheless, the acknowledgment of a concrete return expectation from a major Wall Street institution adds a layer of legitimacy that could encourage cautious institutional allocation.</p>\n<h2>6. Qubic restarts blockchain, opens recovery claims after $1.4M hack</h2>\n<p>After a $1.4 million exploit, the Qubic network’s validators approved a recovery plan and reopened claim submissions until May 1 2027. The restart includes a hard‑fork that patches the vulnerability and introduces a multi‑signature escrow for future withdrawals. While the hack underscores the persistent security risks in newer blockchains, the transparent recovery process may restore confidence among existing token holders.</p>\n<h2>7. A company that vouches for websites had secret keys so weak that 8 of them were cracked</h2>\n<p>eMudhra, an Indian certificate authority that provides SSL/TLS certificates, suffered a breach where eight private keys were compromised due to weak cryptographic practices. Browsers and software vendors are rapidly issuing patches to mitigate the risk of man‑in‑the‑middle attacks. For the crypto community, the incident is a reminder that supply‑chain security extends beyond wallets and smart contracts to the underlying internet infrastructure that secures web‑based crypto services.</p>\n<h2>8. Utah AG sues Kalshi, pursues profits from prediction market company</h2>\n<p>The Utah Attorney General filed a lawsuit against Kalshi, alleging that its binary prediction markets constitute illegal gambling. The case could set a precedent for how U.S. states regulate decentralized prediction markets, many of which rely on crypto tokens for settlement. A ruling against Kalshi may prompt other platforms to adjust compliance frameworks or relocate operations to more crypto‑friendly jurisdictions.</p>\n<h2>9. People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How</h2>\n<p>A viral Claude AI prompt enables Android TV owners to replace sponsored rows and tracking scripts with custom home‑screen layouts, all without rooting the device. The “Vibe Coding” method demonstrates how generative AI can empower end‑users to reclaim privacy on consumer electronics, a trend that could spill over into decentralized TV‑streaming platforms that use blockchain for content rights management.</p>\n<h2>10. OpenAI buys Orchestra Bio to put AI agents in charge of drug development grunt work</h2>\n<p>OpenAI’s acquisition of Orchestra Bio brings AI agents into the early‑stage drug discovery pipeline, automating routine tasks such as compound screening. While not directly crypto‑related, the deal highlights the broader acceleration of AI across high‑value industries—a factor that fuels the demand for AI‑compute tokens and could influence the valuation of blockchain projects that provide decentralized AI compute marketplaces.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of AI earnings, regulatory scrutiny, and security incidents creates a nuanced backdrop for crypto markets. On the upside, AI‑driven corporate earnings are lifting risk appetite, supporting Bitcoin’s price stability and encouraging speculative inflows into privacy coins and Layer‑2 solutions. On the downside, heightened regulatory focus—exemplified by the CFTC forum and the Utah lawsuit—may introduce compliance costs and limit the growth of certain niche markets like prediction trading.</p>\n<p>In the short term, we expect Bitcoin to trade within a $80k‑$86k range, with volatility driven by macro‑economic data and any further AI‑related corporate announcements. Altcoins tied to AI compute (e.g., Fetch.ai) and privacy (ZEC, Monero) could see relative outperformance. Stablecoin adoption is likely to rise as MoonPay and Dunamu expand GIWA, potentially boosting on‑ramp volumes on both centralized and decentralized exchanges.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li>AI earnings are the primary catalyst for a modest Bitcoin rally and increased interest in AI‑adjacent tokens.</li>\n<li>Security remains a top concern: the eMudhra key breach and Qubic hack illustrate vulnerabilities beyond smart contracts.</li>\n<li>Regulators are closing the gap on AI‑driven finance and crypto‑based prediction markets, which could reshape compliance requirements.</li>\n<li>Institutional sentiment is cautiously optimistic, with JPMorgan projecting a 10% annual Bitcoin return but keeping it off core portfolios.</li>\n<li>Cross‑border stablecoin collaborations (MoonPay‑Dunamu) and Layer‑2 expansions (GIWA) may improve liquidity and lower transaction costs, especially in emerging markets.</li>\n<li>Speculative narratives—such as Musk’s merger talk—continue to influence market sentiment, underscoring the need for disciplined risk management.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] A company that vouches for websites had secret keys so weak that 8 of them were cracked — <em>CoinDesk</em></li>\n<li>[2] Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11% — <em>CoinDesk</em></li>\n<li>[3] MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion — <em>The Block</em></li>\n<li>[4] Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold — <em>Cointelegraph</em></li>\n<li>[5] Qubic restarts blockchain, opens recovery claims after $1.4M hack — <em>Cointelegraph</em></li>\n<li>[6] People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How — <em>Decrypt</em></li>\n<li>[7] OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work — <em>Decrypt</em></li>\n<li>[8] Utah AG sues Kalshi, pursues profits from prediction market company — <em>Cointelegraph</em></li>\n<li>[9] JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat — <em>Decrypt</em></li>\n<li>[10] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "stablecoin",
+        "regulation"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792556527/xeonbit24/posts/crypto-roundup-october-21-2026-at-1122-am-ict-ai-earnings-lift-tech-security-sca.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792556527/xeonbit24/posts/crypto-roundup-october-21-2026-at-1122-am-ict-ai-earnings-lift-tech-security-sca.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-21-2026-at-1122-am-ict-ai-earnings-lift-tech-security-sca",
+        "width": 600,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 21, 2026 at 11:22 AM (ICT): AI earnings lift tech, security scares and new stable‑coin collaborat"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+          "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+          "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+          "source": "The Block"
+        },
+        {
+          "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+          "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+          "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+          "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+          "source": "Decrypt"
+        },
+        {
+          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+          "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+          "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+          "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+          "source": "Decrypt"
+        },
+        {
+          "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+          "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-10-21T04:22:08.480Z",
+      "slug": "crypto-roundup-october-21-2026-at-1122-am-ict-ai-earnings-lift-tech-security-sca"
+    },
+    {
       "id": "1792511752633",
       "title": "Crypto Roundup October 20, 2026 at 10:55 PM (ICT): Options, ETFs, and Global Regulatory Shifts",
       "summary": "Blockchain.com launched multi‑asset crypto options, Switzerland approved its first retail Bitcoin ETF, and regulators in France, Kazakhstan and South Korea moved forward on stablecoin rules. Together these events signal a maturing market where institutional products expand while governments tighten tax and licensing frameworks.",
@@ -28559,16 +28640,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
-    "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
-    "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
-    "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-    "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-    "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
     "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
     "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
@@ -29058,10 +29129,19 @@
     "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
-    "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading"
+    "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+    "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+    "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+    "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+    "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015|https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report|https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -29260,6 +29340,7 @@
     "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates|https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears|https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
     "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars|https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
     "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092|https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote"
+    "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked|https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11|https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476"
   ]
 }
