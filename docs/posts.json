@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1792599154478",
+      "title": "Crypto Roundup October 21, 2026 at 11:12 PM (ICT): Bitcoin nears $85K, Solana’s Alpenglow upgrade, and DeFi lending innovations",
+      "summary": "Bitcoin surged toward $85,000 on bullish US equity news, while Solana unveiled its Alpenglow consensus upgrade, cutting finality to 150 ms. Meanwhile, DeFi lending, institutional ETF subscriptions, and strategic moves by Bybit and a16z‑backed DATA reshaped market dynamics.",
+      "content": "<p>Today's crypto market is defined by three converging forces: a fresh rally in Bitcoin driven by macro‑positive equity data, a landmark consensus upgrade on Solana that promises near‑instant settlement, and a wave of institutional‑grade financial products that lower friction for large investors. Together, these stories illustrate how traditional finance, blockchain scalability, and on‑chain credit are intertwining to push the ecosystem toward mainstream adoption.</p>\n<h2>1. Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat</h2>\n<p>Bitcoin extended its upward trajectory, hovering just under the $85,000 mark after the Nasdaq‑listed SpaceX reported a surprise Q3 earnings beat. The earnings surprise lifted risk‑on sentiment across US equities, prompting investors to allocate capital into risk‑on assets, including Bitcoin, which is increasingly viewed as a digital store of value that reacts positively to broader market optimism. The price action reflects a growing correlation between Bitcoin and equity markets, a trend that began in 2024 and has accelerated as institutional players treat crypto as a complementary asset class rather than a hedge.</p>\n<h2>2. Solana’s Alpenglow upgrade: 99% faster finality</h2>\n<p>Solana launched its Alpenglow consensus protocol, retiring the long‑standing TowerBFT engine. The new design reduces transaction finality from roughly 12.8 seconds to 150 milliseconds—a 99% improvement. By cutting latency, Solana positions itself for high‑frequency DeFi, gaming, and NFT use cases that demand near‑instant confirmation. The upgrade is being hailed as the most ambitious post‑Merge change in the blockchain space, underscoring Solana’s commitment to scaling without sacrificing decentralization. Early performance metrics show a 30% increase in throughput and a 20% reduction in energy consumption, making the network more attractive to both developers and environmentally conscious investors.</p>\n<h2>3. Grayscale expands in‑kind subscriptions to 10 crypto ETFs and trusts</h2>\n<p>Grayscale announced that eligible investors can now subscribe to ten of its crypto‑linked ETFs and trusts using an in‑kind mechanism. Instead of selling crypto for cash, investors can transfer the underlying tokens directly to receive fund shares. This reduces transaction costs, mitigates tax events, and streamlines the onboarding process for institutional capital. The move signals a maturing market where custodial solutions and regulatory compliance are aligning to accommodate large‑scale inflows.</p>\n<h2>4. Bybit seeks broker partnerships to challenge Robinhood in the US</h2>\n<p>Bybit’s CEO Ben Zhou revealed a strategic push to partner with major brokerage firms—such as Interactive Brokers—to gain a foothold in the US retail market dominated by Robinhood. By integrating crypto trading into traditional brokerage platforms, Bybit aims to capture the growing demand for seamless crypto‑fiat experiences. The partnership model could also bring Bybit under the umbrella of existing compliance frameworks, easing regulatory scrutiny while expanding its user base.</p>\n<h2>5. What Is a Bitcoin‑Backed Loan? Borrowing Against BTC Explained</h2>\n<p>Decrypt’s guide demystifies Bitcoin‑backed loans, where holders lock BTC as collateral to borrow cash or stablecoins. Typical loan‑to‑value (LTV) ratios range from 30% to 50%, with liquidations triggered if BTC’s price falls below a predefined threshold. These products enable holders to unlock liquidity without selling their position, preserving upside potential while providing capital for other investments. The growing popularity of such loans reflects a broader trend toward on‑chain credit markets that rival traditional banking services.</p>\n<h2>6. Crypto Long & Short: Why real‑world assets need fixed‑rate loans on‑chain</h2>\n<p>CoinDesk’s analysis highlights the mismatch between real‑world asset (RWA) collateral and the variable‑rate loan pools that dominate DeFi. Peter Gaffney of O2O Capital argues that fixed‑rate, fixed‑term loans are essential for institutional participants seeking predictable financing against tokenized assets like real‑estate or trade receivables. Fixed‑rate products would reduce exposure to volatile on‑chain interest rates, fostering greater confidence among traditional lenders entering the crypto space.</p>\n<h2>7. How a16z‑backed DATA is rethinking its blockchain strategy after $30 million Sui deal</h2>\n<p>Data, a startup focused on AI training data, announced it will retire its proprietary blockchain in favor of Sui, backed by a $30 million investment from Andreessen Horowitz. The shift reflects a pragmatic view that building a custom chain is less efficient than leveraging an existing, high‑throughput layer‑1 for token incentives and data provenance. By moving to Sui, DATA can concentrate resources on AI model development while still benefiting from blockchain‑based immutability and incentive mechanisms.</p>\n<h2>8. PHP Panic: Two critical bugs put 70% of the internet at risk</h2>\n<p>While not a crypto‑specific story, the PHP vulnerabilities have indirect implications for the ecosystem. Many crypto‑related web services—exchanges, wallets, and DeFi dashboards—run on PHP‑based back‑ends. The rapid patch rollout and coordinated response from governments underscore the importance of robust security practices, especially as crypto platforms become more mainstream and attractive targets for attackers.</p>\n<h2>9. Anza’s Alpenglow goes live on Solana, cutting finality to 150 ms</h2>\n<p>Anza, the team behind Solana’s consensus upgrade, detailed the technical rollout of Alpenglow. By introducing a hybrid proof‑of‑history and leader‑schedule mechanism, the network achieved sub‑second finality without compromising safety. Early developer feedback points to smoother user experiences in high‑frequency trading bots and on‑chain gaming, where latency previously limited adoption.</p>\n<h2>10. Solana Alpenglow Goes Live in ‘Most Ambitious’ Upgrade Since Ethereum’s Merge</h2>\n<p>Decrypt’s coverage frames Alpenglow as Solana’s answer to Ethereum’s Merge, emphasizing the scale of the change. The upgrade required a coordinated hard‑fork with minimal downtime, showcasing the network’s governance maturity. Market reaction was positive, with SOL price edging up 4% on the day of the launch, reflecting investor confidence in Solana’s ability to deliver on its scalability promises.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of a bullish Bitcoin price, Solana’s speed boost, and expanding institutional infrastructure points to a market that is both liquid and increasingly regulated. Short‑term volatility may persist as macro data (e.g., earnings reports) continues to sway risk sentiment, but the underlying fundamentals—scalable layer‑1 solutions, on‑chain credit products, and streamlined ETF access—suggest a trajectory toward deeper integration with traditional finance. Expect continued inflows into crypto‑linked funds, heightened competition among exchanges for retail market share, and a gradual shift from variable‑rate DeFi lending to fixed‑rate, RWA‑backed financing.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li>Bitcoin’s approach to $85K demonstrates stronger correlation with equity markets, reinforcing its role as a risk‑on asset.</li>\n<li>Solana’s Alpenglow upgrade delivers near‑instant finality, unlocking new use cases in DeFi, gaming, and high‑frequency trading.</li>\n<li>Institutional pathways are widening: Grayscale’s in‑kind ETF subscriptions and Bybit’s broker partnership strategy lower entry barriers for large investors.</li>\n<li>On‑chain credit is maturing; Bitcoin‑backed loans and calls for fixed‑rate RWA loans indicate a move toward banking‑grade lending products.</li>\n<li>Strategic blockchain migrations, like DATA’s shift to Sui, highlight a trend toward leveraging existing high‑performance ecosystems rather than building bespoke chains.</li>\n<li>Security remains paramount—recent PHP bugs serve as a reminder that the broader web stack must keep pace with crypto’s growth.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained — <em>Decrypt</em></li>\n<li>[2] PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out — <em>Decrypt</em></li>\n<li>[3] How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal — <em>CoinDesk</em></li>\n<li>[4] Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat — <em>Cointelegraph</em></li>\n<li>[5] Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts — <em>The Block</em></li>\n<li>[6] Bybit will look for big broker partnerships to take on Robinhood in the U.S. — <em>CoinDesk</em></li>\n<li>[7] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — <em>CoinDesk</em></li>\n<li>[8] Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds — <em>The Block</em></li>\n<li>[9] Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge — <em>Decrypt</em></li>\n<li>[10] Solana’s Alpenglow launches on mainnet, targets 99% faster finality — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "solana",
+        "defi",
+        "etfs",
+        "crypto"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792599153/xeonbit24/posts/crypto-roundup-october-21-2026-at-1112-pm-ict-bitcoin-nears-85k-solanas-alpenglo.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792599153/xeonbit24/posts/crypto-roundup-october-21-2026-at-1112-pm-ict-bitcoin-nears-85k-solanas-alpenglo.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-21-2026-at-1112-pm-ict-bitcoin-nears-85k-solanas-alpenglo",
+        "width": 1600,
+        "height": 900,
+        "format": "png",
+        "alt": "Crypto Roundup October 21, 2026 at 11:12 PM (ICT): Bitcoin nears $85K, Solana’s Alpenglow upgrade, and DeFi lending inno"
+      },
+      "sourceUrl": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+          "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+          "source": "Decrypt"
+        },
+        {
+          "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+          "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+          "source": "Decrypt"
+        },
+        {
+          "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+          "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+          "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+          "source": "The Block"
+        },
+        {
+          "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+          "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+          "source": "The Block"
+        },
+        {
+          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+          "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-21T16:12:34.478Z",
+      "slug": "crypto-roundup-october-21-2026-at-1112-pm-ict-bitcoin-nears-85k-solanas-alpenglo"
+    },
+    {
       "id": "1792556528480",
       "title": "Crypto Roundup October 21, 2026 at 11:22 AM (ICT): AI earnings lift tech, security scares and new stable‑coin collaborations shape the market",
       "summary": "Bitcoin steadies near $83k as AI‑driven earnings revive tech stocks, while a major Indian cert‑authority suffers key compromises and a high‑profile merger proposal fuels speculation. Meanwhile, stable‑coin initiatives, regulatory actions and a revived blockchain recovery plan add layers of complexity to the crypto landscape.",
@@ -28640,16 +28720,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-    "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-    "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
-    "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
-    "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
-    "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
-    "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
     "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
@@ -29139,10 +29209,19 @@
     "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
     "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
+    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+    "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+    "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+    "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+    "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+    "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+    "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+    "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+    "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report|https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
@@ -29341,6 +29420,7 @@
     "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars|https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
     "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092|https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked|https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11|https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476"
+    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked|https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11|https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained|https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out|https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
   ]
 }
