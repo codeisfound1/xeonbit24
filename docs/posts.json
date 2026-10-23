@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792729534426",
+      "title": "Crypto Roundup October 23, 2026 at 11:25 AM (ICT): Stablecoin rollouts, regulatory probes and a dip in Bitcoin",
+      "summary": "HSBC launches a HKD stablecoin, Switzerland green‑lights its first spot Bitcoin ETF, and Bitcoin slips below $81,500 amid a tech‑stock sell‑off. Meanwhile, regulators tighten around Tether and prediction‑market betting, while Chainlink expands into Korean won stablecoins.",
+      "content": "<p>Global crypto markets entered the afternoon of October 23 with mixed signals. On the positive side, major financial institutions in Asia and Europe are deepening crypto infrastructure – HSBC unveiled a Hong Kong‑dollar stablecoin and Switzerland approved its first spot Bitcoin ETF for retail investors. On the downside, Bitcoin fell below $81,500 as a broader tech‑stock sell‑off spread to Asian equities, and U.S. regulators continued to scrutinise stablecoin payments and prediction‑market betting. The convergence of institutional adoption, regulatory pressure, and macro‑economic headwinds set the tone for the week ahead.</p>\n<h2>1. HSBC rolls out its first HKD stablecoin RedCoin to retail users</h2>\n<p>HSBC announced that its PayMe app will soon support <strong>RedCoin</strong>, a Hong Kong‑dollar (HKD) stablecoin backed 1:1 by fiat reserves. Users can activate a wallet directly in the app for peer‑to‑peer (P2P) and peer‑to‑merchant (P2M) payments, effectively turning a traditional banking platform into a crypto‑enabled service. This marks the first major Hong Kong bank to issue a sovereign‑currency stablecoin for retail customers, signalling confidence in stablecoins as a bridge between fiat and digital payments. The move also aligns with Hong Kong’s broader “Smart Banking” agenda, which encourages banks to experiment with blockchain‑based settlement and cross‑border remittance solutions.</p>\n<h2>2. Switzerland approves first spot Bitcoin ETF for retail investors</h2>\n<p>BIT Asset Management’s Bitcoin Fund ETF received approval from the Swiss Financial Market Supervisory Authority (FINMA) and will list on the SIX Swiss Exchange in November. Unlike futures‑based ETFs, this product holds actual Bitcoin, giving Swiss retail investors direct exposure to the spot market. The offering is limited to Swiss residents, reflecting the country’s cautious but progressive stance on crypto assets. The approval follows a wave of spot Bitcoin ETFs in North America, suggesting that Europe is catching up and could see a surge in institutional inflows once the product launches.</p>\n<h2>3. Chainlink partners with LG CNS to drive Korean won stablecoin expansion</h2>\n<p>South Korean IT services firm LG CNS will integrate Chainlink’s cross‑chain data and oracle infrastructure into its digital‑asset platform. The partnership aims to underpin a new Korean‑won (KRW) stablecoin, improving price‑feed reliability and enabling automated compliance checks. Chainlink’s role as a decentralized oracle is critical for stablecoins that need real‑time fiat price data to maintain their peg. This collaboration underscores the growing demand for high‑integrity data services in the Asian stablecoin ecosystem.</p>\n<h2>4. Bitcoin, gold trim early losses as yen gives up gains; oil stays near $100</h2>\n<p>Morning trading saw Bitcoin and gold recover some of their earlier declines, while the Japanese yen weakened after a brief rally. Oil prices hovered just below $100 per barrel, keeping inflation expectations alive. The yen’s retreat lifted risk‑on sentiment in Asian markets, but the overall impact on crypto was muted as investors awaited clearer cues from U.S. tech stocks.</p>\n<h2>5. Bitcoin slides below $81,500 as tech‑stock sell‑off spreads to Asian equities</h2>\n<p>Bitcoin fell to $81,300, breaking the $81,500 threshold for the first time this week. The dip was triggered by a sell‑off in U.S. technology shares that spilled over into Asian markets, with South Korea’s Kospi down 2.3% and Japan’s Nikkei 225 down 1.6%. The correlation between tech equities and Bitcoin re‑asserted itself, suggesting that crypto remains vulnerable to broader risk‑off moves in the equity sector.</p>\n<h2>6. Senate’s top Democratic investigator looks into Tether payments to Bo Hines’ firm</h2>\n<p>Senator Richard Blumenthal’s investigations subcommittee added a probe into alleged payments from Tether to the consulting firm of former White House crypto adviser Bo Hines. The inquiry focuses on whether Tether used the payments to influence policy or gain preferential treatment. This development adds to the growing scrutiny of stablecoin issuers, especially after the U.S. Treasury’s recent guidance on stablecoin AML/KYC compliance.</p>\n<h2>7. Pentagon bans US forces from using military info to bet in prediction markets</h2>\n<p>The Department of Defense issued a directive prohibiting service members from leveraging classified or operational military information to place bets in prediction markets. The ban follows concerns that such activity could inadvertently reveal sensitive data to adversaries. While not directly a crypto issue, many prediction‑market platforms operate on blockchain, meaning the policy could affect crypto‑based forecasting services that involve defense‑related outcomes.</p>\n<h2>8. New DeepSeek ban in US, Swiss‑Asia crypto ties deepen: Asia Express</h2>\n<p>The U.S. federal civilian agencies barred the AI‑driven search engine DeepSeek over espionage fears, while Swiss‑Asian collaborations intensified. A Singapore‑based firm behind Europe’s only spot Bitcoin ETF partnered with Swiss authorities, and Switzerland announced a joint crypto‑tech initiative with Vietnam. The contrasting regulatory approaches highlight a geopolitical split: the U.S. tightening AI and data access, while Europe and Asia pursue cross‑border crypto projects.</p>\n<h2>9. Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals</h2>\n<p>A Circle shareholder filed a lawsuit alleging that former President Donald Trump, World Liberty Financial, and real‑estate investor Steve Witkoff engaged in corrupt dealings that undermined USDC’s market position. The complaint claims the parties’ actions diverted capital away from Circle, impairing its ability to compete with rival stablecoins. While the case is in its early stages, it underscores the reputational risks that high‑profile political figures pose to crypto firms.</p>\n<h2>10. Is the Internet Safe Again After the PHP Nightmare? What You Need to Know</h2>\n<p>After a massive vulnerability in the PHP programming language was patched, attackers launched millions of automated attempts to exploit lingering unpatched servers. The article notes that while no major breaches have been reported yet, the episode serves as a reminder that web‑application security remains a critical vector for crypto‑related attacks, especially for wallet interfaces and DeFi platforms that rely on PHP‑based back‑ends.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment is likely to stay cautious. Bitcoin’s dip below $81,500 suggests that the asset remains sensitive to equity market volatility, particularly in the tech sector. However, institutional tailwinds – HSBC’s stablecoin launch, the Swiss spot Bitcoin ETF, and Chainlink’s Korean partnership – provide a counterbalance, indicating that demand for regulated crypto products is growing. Regulatory scrutiny on stablecoins (Tether probe) and prediction markets may introduce short‑term headwinds for speculative trading, but they also push issuers toward stronger compliance frameworks, which could attract more institutional capital in the medium term.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Institutional adoption accelerates: HSBC’s RedCoin and Switzerland’s spot Bitcoin ETF broaden retail access to crypto.</li><li>Stablecoin ecosystem faces heightened scrutiny, with investigations into Tether and new compliance expectations.</li><li>Bitcoin’s price remains correlated with tech equities; risk‑off moves can trigger rapid declines.</li><li>Cross‑border collaborations (Chainlink‑LG CNS, Swiss‑Vietnam) signal a shift toward a more globally integrated crypto infrastructure.</li><li>Regulatory actions (Pentagon ban, DeepSeek restriction) highlight the intersection of crypto, AI, and national security.</li><li>Cyber‑security remains paramount as legacy web technologies like PHP continue to expose crypto platforms to attack.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] HSBC rolls out its first HKD stablecoin RedCoin to retail users — <em>The Block</em></li>\n<li>[2] Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100 — <em>CoinDesk</em></li>\n<li>[3] Chainlink partners with LG CNS to drive Korean won stablecoin expansion — <em>The Block</em></li>\n<li>[4] Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities — <em>The Block</em></li>\n<li>[5] Switzerland approves first spot Bitcoin ETF for retail investors — <em>Cointelegraph</em></li>\n<li>[6] Pentagon bans US forces from using military info to bet in prediction markets — <em>Cointelegraph</em></li>\n<li>[7] New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express — <em>Cointelegraph</em></li>\n<li>[8] Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm — <em>CoinDesk</em></li>\n<li>[9] Is the Internet Safe Again After the PHP Nightmare? What You Need to Know — <em>Decrypt</em></li>\n<li>[10] Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "stablecoins",
+        "etf",
+        "regulation",
+        "market",
+        "defi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792729533/xeonbit24/posts/crypto-roundup-october-23-2026-at-1125-am-ict-stablecoin-rollouts-regulatory-pro.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792729533/xeonbit24/posts/crypto-roundup-october-23-2026-at-1125-am-ict-stablecoin-rollouts-regulatory-pro.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-23-2026-at-1125-am-ict-stablecoin-rollouts-regulatory-pro",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 23, 2026 at 11:25 AM (ICT): Stablecoin rollouts, regulatory probes and a dip in Bitcoin"
+      },
+      "sourceUrl": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+      "sourceTitle": "The Block / CoinDesk / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+          "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+          "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+          "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+          "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
+          "source": "The Block"
+        },
+        {
+          "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+          "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+          "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+          "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+          "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+          "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-23T04:25:34.426Z",
+      "slug": "crypto-roundup-october-23-2026-at-1125-am-ict-stablecoin-rollouts-regulatory-pro"
+    },
+    {
       "id": "1792685448468",
       "title": "Crypto Roundup October 22, 2026 at 11:10 PM (ICT): Regulatory fines, DeFi upgrades, and AI‑driven market signals",
       "summary": "Regulatory pressure mounts as Coinbase Ireland faces a $3.6 M fine, while DeFi sees fresh utility with Uniswap’s aggregator hooks. At the same time, rising Bitcoin hash‑rate and institutional AI‑cloud activity hint at a bullish undercurrent for the broader crypto ecosystem.",
@@ -28881,16 +28962,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-    "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-    "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-    "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-    "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-    "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-    "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-    "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
     "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
     "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
     "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
@@ -29380,10 +29451,19 @@
     "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
     "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
     "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-    "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+    "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+    "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+    "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
+    "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+    "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+    "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
     "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi|https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&amp;utm_medium=rss",
@@ -29582,6 +29662,7 @@
     "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked|https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11|https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
     "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained|https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out|https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves|https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-    "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom|https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures|https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts"
+    "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom|https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures|https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+    "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018|https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100|https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993"
   ]
 }
