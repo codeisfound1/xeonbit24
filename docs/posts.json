@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792815367974",
+      "title": "Crypto Roundup October 24, 2026 at 11:16 AM (ICT): Regulatory pressure mounts on tokenized assets and geopolitical crypto strategies",
+      "summary": "Regulators and traditional finance firms are pushing back on tokenized securities while governments explore blockchain as a hedge against sanctions. At the same time, U.S. tax policy softens and the SEC flags AI‑driven market risks, creating a mixed backdrop for crypto markets.",
+      "content": "<p>October 24, 2026 brings a wave of regulatory, geopolitical, and technical developments that together shape the short‑term tone for digital assets. From Wall Street banks challenging tokenized stock platforms to Israel’s prime minister courting blockchain as a sanctions‑resilience tool, the market is navigating heightened scrutiny and new use‑case narratives. Meanwhile, the U.S. IRS eases crypto tax‑penalty rules and the SEC highlights AI‑driven systemic risks, underscoring the growing intersection of crypto with broader financial oversight.</p><h2>1. Wells Fargo and five others object to OKX‑ICE tokenized stock listings</h2><p>Twenty‑two Nasdaq‑listed companies, led by Wells Fargo, have formally objected to the OKX‑ICE joint venture’s plan to issue tokenized shares under the SEC’s innovation exemption. The objections focus on investor protection, market integrity, and the potential for regulatory arbitrage. If the SEC sides with the objectors, the fast‑growing tokenized‑stock market could face a significant delay, reinforcing the view that traditional finance still controls the gateway to securities tokenization.</p><h2>2. Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel</h2><p>Prime Minister Benjamin Netanyahu has asked his advisors to draft a blockchain‑based contingency plan in case Israeli banks are hit by international sanctions. The proposal envisions a national digital‑currency layer, private‑key custodial services for businesses, and cross‑border payment corridors that bypass SWIFT. While still speculative, the move signals that sovereign actors are now treating crypto infrastructure as a strategic asset for financial resilience.</p><h2>3. Senate Democrat Probes Tether Payments to Ex‑White House Crypto Adviser’s Firm</h2><p>Sen. Richard Blumenthal is demanding full disclosure from Tether regarding payments to Nxum, a firm co‑owned by former White House crypto adviser Bo Hines. The inquiry stems from concerns about potential conflicts of interest and the opacity of stable‑coin financing. If the investigation uncovers irregularities, it could pressure Tether to increase transparency, a demand that has been growing among regulators worldwide.</p><h2>4. IRS plans lower tax disclosure penalties, including for crypto</h2><p>The Internal Revenue Service announced a revision to its voluntary disclosure program, lowering penalties for taxpayers who come forward with past crypto‑related tax errors. The change aims to encourage faster compliance and offers flexible payment plans. While the policy is a relief for individual investors, it also signals that the IRS expects continued growth in crypto tax reporting volumes.</p><h2>5. SEC Flags AI ‘Super Intelligence’ and Tokenization as Systemic Market Risks</h2><p>The SEC’s Division of Examinations has added “super‑intelligence” AI models and tokenization activities to its list of systemic risk focus areas. Regulators are worried that advanced AI could manipulate market‑making algorithms or generate synthetic assets that evade existing oversight. This pronouncement may lead to tighter reporting requirements for AI‑driven trading bots and deeper scrutiny of tokenized securities platforms.</p><h2>6. Initia halts blockchain after exploit reportedly drains over $2.6 M</h2><p>Layer‑1 blockchain Initia suspended its network after researchers uncovered a vulnerability that allowed unauthorized token minting, siphoning roughly $2.6 million worth of assets to Ethereum. The incident highlights the ongoing security challenges for newer L1 projects and underscores the importance of rigorous audit practices before mainnet launches.</p><h2>7. SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of</h2><p>SpaceX’s recent 10‑Q filing confirms that any merger involving Tesla would require sign‑off from SpaceX’s controlling shareholder—effectively Elon Musk. While not a direct crypto story, the filing is relevant because Musk’s companies have repeatedly influenced crypto sentiment, and the clarification may temper speculative rumors about a Tesla‑SpaceX crypto tie‑up.</p><h2>8. How I Vibe Coded My Smart TV—And Claude Killed It</h2><p>In a lighter piece, a developer recounts using the Claude AI model to program a smart TV, only to encounter a catastrophic bug that bricked the device. The anecdote serves as a reminder that generative AI, while powerful, can introduce unpredictable code errors—an emerging risk for developers building on‑chain or off‑chain AI‑driven applications.</p><h2>9. Netanyahu seeking blockchain plan to prepare for possible sanctions (The Block)</h2><p>The Block’s coverage reiterates Netanyahu’s push for a national blockchain framework, emphasizing cross‑border settlement layers and a potential sovereign digital currency. The parallel reporting by Decrypt and The Block underscores the geopolitical weight of blockchain as a tool for economic sovereignty.</p><h2>10. Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex‑White House crypto adviser (The Block)</h2><p>The Block mirrors Decrypt’s story, adding that Blumenthal’s request includes a subpoena for internal communications. The dual coverage amplifies the political pressure on stable‑coin issuers to disclose lobbying and partnership finances, a trend that could reshape stable‑coin regulatory expectations.</p><h2>Market Outlook</h2><p>Collectively, these stories paint a picture of a market at a regulatory crossroads. Tokenized securities face pushback from legacy banks, while stable‑coin scrutiny intensifies. At the same time, governments are experimenting with blockchain for macro‑economic resilience, and U.S. tax policy is becoming more accommodative. The SEC’s focus on AI and tokenization suggests future rulemaking could tighten compliance burdens, especially for projects that blend advanced tech with financial products. For investors, the near‑term outlook is mixed: heightened regulatory risk may dampen speculative flows, but the emergence of sovereign blockchain initiatives could open new demand channels for infrastructure tokens and decentralized finance (DeFi) services.</p><h2>Key Takeaways</h2><ul><li>Traditional finance institutions are actively challenging tokenized‑stock platforms, potentially slowing the tokenization wave.</li><li>Geopolitical actors, notably Israel, are positioning blockchain as a hedge against sanctions, signaling a new class of state‑level crypto adoption.</li><li>Stable‑coin scrutiny is rising, with U.S. senators demanding transparency on payments to politically connected firms.</li><li>The IRS’s reduced penalties may boost voluntary crypto tax compliance, but reporting volumes are expected to increase.</li><li>The SEC’s AI‑risk focus could lead to new disclosure rules for algorithmic trading and tokenized assets.</li><li>Security incidents like Initia’s exploit remind developers that robust audits remain essential for new L1 chains.</li></ul><p>Investors should monitor regulatory filings, especially around tokenized securities and stable‑coin disclosures, while keeping an eye on emerging sovereign blockchain projects that could reshape demand dynamics.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report — <em>Cointelegraph</em></li>\n<li>[2] Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel — <em>Decrypt</em></li>\n<li>[3] IRS plans lower tax disclosure penalties, including for crypto: Forbes — <em>Cointelegraph</em></li>\n<li>[4] Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm — <em>Decrypt</em></li>\n<li>[5] SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of — <em>Decrypt</em></li>\n<li>[6] SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks — <em>Decrypt</em></li>\n<li>[7] Initia halts blockchain after exploit reportedly drains over $2.6M — <em>Cointelegraph</em></li>\n<li>[8] Netanyahu seeking blockchain plan to prepare for possible sanctions — <em>The Block</em></li>\n<li>[9] How I Vibe Coded My Smart TV—And Claude Killed It — <em>Decrypt</em></li>\n<li>[10] Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "tokenization",
+        "geopolitics",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792815367/xeonbit24/posts/crypto-roundup-october-24-2026-at-1116-am-ict-regulatory-pressure-mounts-on-toke.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792815367/xeonbit24/posts/crypto-roundup-october-24-2026-at-1116-am-ict-regulatory-pressure-mounts-on-toke.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-24-2026-at-1116-am-ict-regulatory-pressure-mounts-on-toke",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 24, 2026 at 11:16 AM (ICT): Regulatory pressure mounts on tokenized assets and geopolitical crypt"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+          "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+          "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+          "source": "Decrypt"
+        },
+        {
+          "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+          "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+          "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+          "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+          "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+          "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+          "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+          "source": "The Block"
+        },
+        {
+          "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+          "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-10-24T04:16:07.974Z",
+      "slug": "crypto-roundup-october-24-2026-at-1116-am-ict-regulatory-pressure-mounts-on-toke"
+    },
+    {
       "id": "1792771257976",
       "title": "Crypto Roundup October 23, 2026 at 11:00 PM (ICT): Bitcoin ETF outflows, price pressure, and a wave of regulatory activity",
       "summary": "Spot Bitcoin ETFs suffered a $636 million outflow, pushing October into the red while Bitcoin slipped below $81K. Meanwhile, major players from a16z to Asian central banks reshaped investment focus and cross‑border stablecoin frameworks, and law‑enforcement actions highlighted growing scrutiny on illicit mining and fraud.",
@@ -29043,16 +29124,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
-    "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-    "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
-    "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-    "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-    "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944",
-    "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
     "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
     "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
     "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
@@ -29542,10 +29613,19 @@
     "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
     "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
     "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-    "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+    "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+    "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+    "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+    "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+    "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+    "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi|https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys|https://cointelegraph.com/news/moonpay-acquires-glide-strengthen-crypto-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -29744,6 +29824,7 @@
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves|https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
     "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom|https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures|https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
     "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018|https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100|https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-    "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again|https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
+    "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again|https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+    "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel|https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
