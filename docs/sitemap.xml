@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-october-26-2026-at-1122-am-ict-major-moves-in-ai-funding-tokenize</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792988577/xeonbit24/posts/crypto-roundup-october-26-2026-at-1122-am-ict-major-moves-in-ai-funding-tokenize.jpg</image:loc>
+      <image:title>Crypto Roundup October 26, 2026 at 11:22 AM (ICT): Major moves in AI funding, tokenized stocks, and regulatory strides</image:title>
+      <image:caption>Crypto Roundup October 26, 2026 at 11:22 AM (ICT): Major moves in AI funding, tokenized stocks, and regulatory strides</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-october-25-2026-at-1009-pm-ict-bitcoin-etf-inflows-tokenization-r</loc>
