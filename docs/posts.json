@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793120221541",
+      "title": "Crypto Roundup October 27, 2026 at 11:56 PM (ICT): Stablecoin Shift, Institutional Tokenisation and Renewed Profitability",
+      "summary": "USDC eclipses USDT in euro‑stablecoin volume, while Janus Henderson’s on‑chain Nasdaq‑100 fund and Galaxy Digital’s $323 M profit signal growing institutional confidence. Ripple’s XRP‑ledger invoice pilot and AI‑driven mining expansion add further depth to market dynamics.",
+      "content": "<p>October 27, 2026 was a busy day for crypto, with headlines ranging from a decisive stablecoin market share shift to the launch of the first licensed on‑chain Nasdaq‑100 fund. The mix of institutional moves, profit rebounds, and a few quirky cultural moments paints a picture of a market that is both maturing and still prone to hype cycles. Below we break down each story, highlight common threads, and project what the next quarter may hold.</p><h2>1. USDC Overtakes USDT in Euro‑Stablecoin Trading as EU Rules Reshape the Market</h2><p>According to Kaiko data, USDC now commands 56 % of euro‑denominated stablecoin volume, a clear lead over USDT that has been eroded by the European Union’s MiCA (Markets in Crypto‑Assets) regulations. Exchanges are tightening compliance for USDT, whose issuer, Tether, faces heightened scrutiny over reserve transparency. USDC’s backing by regulated U.S. entities and its early adoption of MiCA‑compliant reporting have made it the preferred gateway for European traders seeking euro‑stablecoin exposure. The shift underscores the growing importance of regulatory alignment for stablecoin dominance.</p><h2>2. Janus Henderson & Centrifuge Launch Tokenised Nasdaq‑100 Fund on Stellar (Cointelegraph)</h2><p>Asset manager Janus Henderson, in partnership with Centrifuge, introduced a tokenised Nasdaq‑100 fund on the Stellar network, targeting non‑U.S. investors who previously faced barriers to direct U.S. equity exposure. The fund issues regulated digital shares that settle on‑chain, offering near‑instant settlement, fractional ownership, and lower custody costs. By leveraging Stellar’s low‑fee architecture, the product aims to bridge the gap between traditional finance and decentralized markets, setting a precedent for future tokenised equity offerings.</p><h2>3. Nasdaq‑100 Comes On‑Chain as Janus Henderson and Centrifuge Launch First Licensed Fund (CoinDesk)</h2><p>CoinDesk’s coverage adds depth to the Stellar launch, emphasizing that the fund is the first fully licensed on‑chain equity vehicle approved by a U.S. regulator. Unlike earlier “stock tokens” that operated in legal gray zones, this structure complies with SEC guidance on issuer‑sponsored tokenisation. The dual reporting by Cointelegraph and CoinDesk highlights the significance of regulatory clarity, which could unlock a wave of similar products across other indices and asset classes.</p><h2>4. Galaxy Digital Swings to $323 Million Quarterly Profit, Announces $200 Million Share Buyback</h2><p>After a year of losses, Galaxy Digital posted a $323 M profit for Q3, driven by a resurgence in crypto trading volumes, higher margin on lending, and a modest recovery in Bitcoin’s price. The firm also authorized a $200 M share repurchase, signaling confidence in cash flow generation and a belief that its stock is undervalued. This profit swing reinforces the narrative that well‑capitalised crypto firms can return to profitability when market conditions stabilize.</p><h2>5. Ripple and BNY Mellon Explore Using the XRP Ledger to Finance Approved Invoices</h2><p>BNY Mellon has added XRP and its stablecoin RLUSD to its custody platform, while Ripple and fintech C2FO are piloting invoice‑financing settlements on the XRP Ledger. The use‑case leverages XRP’s fast, low‑cost settlement to move funds from invoice approval to payment in seconds, reducing working‑capital friction for large corporates. If successful, this could be the first large‑scale, regulated deployment of XRP beyond cross‑border remittances.</p><h2>6. SoFi Discloses 503,000 Crypto Products as Gross Crypto Revenue Hits $162 Million</h2><p>Fintech platform SoFi broke out its crypto portfolio for the first time, revealing over half a million crypto‑related products ranging from custodial wallets to staking services. Gross crypto revenue rose 20 % year‑over‑year to $162 M, contributing to a record $1.39 B total net revenue. The data suggests that mainstream financial services are increasingly integrating crypto offerings, treating them as a core revenue pillar rather than a peripheral experiment.</p><h2>7. Luxor Raises $16 Million to Expand AI‑Driven Mining Business</h2><p>Bitcoin mining infrastructure firm Luxor secured $16 M in funding to grow its AI‑optimised mining operations. The capital will fund hiring (about 12 engineers by year‑end) and the deployment of machine‑learning models that dynamically adjust hash‑rate allocation across global data centres, improving energy efficiency and profitability. Luxor’s move reflects a broader trend of applying AI to optimise traditionally hardware‑heavy crypto operations.</p><h2>8. OpenAI Proves ETH Is False, and Crypto Twitter Has Questions</h2><p>An OpenAI research paper controversially claimed that Ethereum’s proof‑of‑stake consensus could be mathematically modelled as “false” under certain cryptographic assumptions, sparking debate among both degens and academic mathematicians. While the paper’s technical arguments are dense, most experts agree the claim does not threaten ETH’s security in practice. The episode illustrates how AI‑generated research can quickly amplify speculation in crypto circles.</p><h2>9. A $3M Hedge, a Midterm Test and Retail’s Rise: Prediction Markets at NEXTPredict</h2><p>Decrypt reports that prediction‑market platforms Kalshi, Polymarket and Robinhood are pitching contracts far beyond election outcomes, including macro‑economic indicators and commodity prices. NEXTPredict’s $3 M hedge fund is using these markets as a “fact‑checker” for journalism, indicating a growing appetite among retail investors for speculative instruments that blend finance and information.</p><h2>10. McDonald’s McRib Doesn’t Actually Boost Bitcoin’s Price, Sorry Everyone</h2><p>Another viral meme resurfaced: the return of the McRib was linked to a Bitcoin rally. Analysts debunked the correlation, noting that Bitcoin’s price movements remain driven by macro‑economic factors, on‑chain metrics, and regulatory news—not fast‑food promotions. The story serves as a reminder that hype can quickly masquerade as market signal.</p><h2>Market Outlook</h2><p>The convergence of regulatory‑friendly tokenisation, stablecoin realignment, and renewed profitability among crypto‑focused firms points to a market that is consolidating around compliance and institutional participation. Stablecoin users are gravitating toward assets that meet MiCA standards, while tokenised equity products on Stellar demonstrate that regulators are willing to endorse on‑chain securities when proper safeguards exist. Meanwhile, AI integration in mining and the emergence of invoice‑financing on the XRP Ledger suggest that operational efficiencies will continue to be a competitive edge.</p><p>Looking ahead, we expect continued pressure on USDT in Europe, a possible spill‑over of tokenised funds into other indices, and further experimentation with blockchain‑based trade‑finance solutions. Volatility will remain, especially as AI‑generated research (like the OpenAI ETH claim) can trigger short‑term sentiment swings, but the underlying trend is toward a more regulated, institution‑friendly ecosystem.</p><h2>Key Takeaways</h2><ul><li>USDC’s dominance in euro‑stablecoin volume highlights the market‑share advantage of regulatory compliance under MiCA.</li><li>Janus Henderson’s licensed Nasdaq‑100 token on Stellar sets a blueprint for future on‑chain equity products.</li><li>Galaxy Digital’s profit rebound and share buyback signal confidence in crypto‑related earnings.</li><li>Ripple’s XRP‑ledger invoice pilot could open a new B2B use‑case for the token beyond cross‑border payments.</li><li>SoFi’s disclosed crypto product suite and revenue growth show mainstream finance embracing crypto services.</li><li>AI is becoming a strategic tool in mining efficiency and research, but its outputs must be scrutinised for market impact.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict — <em>Decrypt</em></li>\n<li>[2] OpenAI Proves ETH Is False, and Crypto Twitter Has Questions — <em>Decrypt</em></li>\n<li>[3] Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar — <em>Cointelegraph</em></li>\n<li>[4] USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko — <em>Cointelegraph</em></li>\n<li>[5] SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million — <em>The Block</em></li>\n<li>[6] Ripple, BNY explore using the XRP Ledger to finance approved invoices — <em>The Block</em></li>\n<li>[7] Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback — <em>The Block</em></li>\n<li>[8] Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business — <em>The Block</em></li>\n<li>[9] McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone — <em>Decrypt</em></li>\n<li>[10] Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "institutional",
+        "tokenization",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793120221/xeonbit24/posts/crypto-roundup-october-27-2026-at-1156-pm-ict-stablecoin-shift-institutional-tok.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793120221/xeonbit24/posts/crypto-roundup-october-27-2026-at-1156-pm-ict-stablecoin-shift-institutional-tok.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-27-2026-at-1156-pm-ict-stablecoin-shift-institutional-tok",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 27, 2026 at 11:56 PM (ICT): Stablecoin Shift, Institutional Tokenisation and Renewed Profitabilit"
+      },
+      "sourceUrl": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+          "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+          "source": "Decrypt"
+        },
+        {
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+          "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+          "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+          "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
+          "source": "The Block"
+        },
+        {
+          "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+          "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
+          "source": "The Block"
+        },
+        {
+          "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
+          "url": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+          "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+          "source": "The Block"
+        },
+        {
+          "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+          "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+          "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-10-27T16:57:01.541Z",
+      "slug": "crypto-roundup-october-27-2026-at-1156-pm-ict-stablecoin-shift-institutional-tok"
+    },
+    {
       "id": "1793076126429",
       "title": "Crypto Roundup October 27, 2026 at 11:42 AM (ICT): Ripple’s US Trust Bank Approval Fuels Stablecoin Momentum",
       "summary": "Ripple secured final OCC approval to launch its U.S. national trust bank, unlocking regulated custody and reserve management for RLUSD. Meanwhile, regulators in Canada tighten stablecoin rules, while major financial players like BlackRock and StoneX double‑down on crypto‑linked products, setting a bullish tone for the market.",
@@ -29610,16 +29691,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242",
-    "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
-    "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-    "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-    "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-    "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
     "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
     "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
@@ -30109,10 +30180,19 @@
     "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
     "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-    "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+    "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+    "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
+    "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
+    "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
+    "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+    "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+    "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket|https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin|https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
@@ -30311,6 +30391,7 @@
     "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus|https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide|https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
     "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout|https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers|https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750|https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-    "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank|https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818"
+    "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank|https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
+    "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict|https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions|https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
