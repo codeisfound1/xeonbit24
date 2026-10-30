@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1793380846444",
+      "title": "Crypto Roundup October 30, 2026 at 12:20 AM (ICT): Binance hack, quantum worries and a volatile Bitcoin week",
+      "summary": "The crypto market was dominated by Binance’s unprecedented $6.3 billion hack, rising quantum‑security concerns for Bitcoin, and a sharp pull‑back in BTC price. Meanwhile, regulatory wins for Ripple, USDC expansion in Europe, and new Ethereum upgrade details added nuance to an otherwise turbulent day.",
+      "content": "<p>The crypto ecosystem woke up to a perfect storm: Binance announced a massive $6.3 billion breach, Bitcoin faced its first serious quantum‑security debate, and the broader market echoed a tech‑sell‑off that pushed BTC toward its worst October in 12 years. At the same time, Ripple secured a U.S. banking charter, USDC gained traction in Europe, and a new Ethereum upgrade (EIP‑7702) was identified as a vector in the Binance exploit. This roundup dissects each headline, connects the dots, and sketches the market outlook for the coming weeks.</p><h2>1. Binance’s $6.3 billion hack and the fallout</h2><p>Binance confirmed that a sophisticated attacker siphoned roughly $6.3 billion worth of assets, exploiting a self‑destruct mechanism and an EIP‑7702 delegation that bypassed normal approval controls. CEO Richard Teng pledged a full reimbursement and set aside $6.34 billion to cover losses, while the exchange plans to publish a proof‑of‑reserves report on Monday. The breach exposed weaknesses in on‑chain governance and highlighted the need for tighter smart‑contract audit standards across centralized platforms.</p><h2>2. How the hack unfolded: live updates and investigation</h2><p>Cointelegraph’s live coverage traced the attack from the first on‑chain alerts to the freezing of $3 billion in compromised funds. Investigators suspect links to a North Korean trading entity, though definitive attribution remains pending. Binance’s broader security audit revealed that the attacker erased logs and used an EIP‑7702 contract to execute delegated transactions without triggering the exchange’s internal checks, prompting a sector‑wide review of Ethereum‑based security models.</p><h2>3. Bitcoin’s quantum threat becomes an economic problem</h2><p>Cointelegraph’s Crypto Biz column warned that advances in quantum computing are moving from theoretical to practical, jeopardizing Bitcoin’s SHA‑256 and ECDSA signatures. While no quantum computer can yet break Bitcoin’s keys, the article argues that the market must price in the risk now, especially as institutional investors demand concrete mitigation strategies. VanEck’s new BTC‑ETF, which added Bitcoin exposure, may face pressure to incorporate quantum‑resistant safeguards.</p><h2>4. Bitcoin risks worst October in 12 years as tech sell‑off spreads to gold</h2><p>Bitcoin hovered around $77,000, slipping amid a broader tech market correction that also dragged gold to its lowest level in a year. The correlation suggests that crypto is still being treated as a risk‑on asset, vulnerable to macro‑economic shocks. Analysts note that the combination of the Binance hack and quantum‑security fears amplified downside pressure, making October the most challenging month for BTC since 2014.</p><h2>5. Strategy’s preferred‑stock fix revives Bitcoin buying interest</h2><p>After a disappointing Q3 earnings beat, Strategy (STRC) saw its preferred‑stock structure praised by StoneX and TD Cowen. The firm’s $4.83 billion cash reserve and a more stable preferred‑stock mechanism are being used to accumulate Bitcoin, offering a fresh institutional entry point. The move underscores a growing appetite for Bitcoin exposure through regulated vehicles, even as spot markets wrestle with volatility.</p><h2>6. Ripple secures a U.S. banking charter, USDC gains ground in Europe</h2><p>Ripple’s new charter allows it to operate a full‑service bank in the United States, potentially unlocking faster settlement for cross‑border payments. Simultaneously, USDC’s market share in Europe rose as regulators signaled greater comfort with fiat‑backed stablecoins. These developments reinforce the narrative that stablecoins and regulated crypto‑banks are gaining mainstream acceptance, offsetting some of the negative sentiment from the Binance breach.</p><h2>7. Elon Musk, CZ trade blows over SpaceX shares after Binance hack</h2><p>In a light‑hearted yet telling episode, Elon Musk appeared to mock Binance’s hack on social media. CZ responded by reminding Musk that Binance’s $500 million bet on the Twitter acquisition now translates into over $1 billion in SpaceX shares, effectively turning a joke into a market‑moving statement. The exchange’s ability to leverage its crypto holdings for real‑world assets demonstrates resilience, but also raises questions about concentration risk.</p><h2>8. Texas brothers sentenced for $8 million crypto robbery</h2><p>The Block reported that two Texas brothers received 15‑year prison terms for holding a Minnesota family at gunpoint to steal $8 million worth of cryptocurrency. The case highlights the persistent law‑enforcement challenges surrounding high‑value digital asset thefts and may encourage tighter KYC/AML standards for crypto‑related services.</p><h2>9. EIP‑7702: the Ethereum upgrade behind the Binance hack</h2><p>Decrypt explained that EIP‑7702 enables ordinary Ethereum wallets to execute smart‑contract code, allowing batched and sponsored transactions. While the upgrade promises greater flexibility, it also opened a novel attack surface that the Binance hackers exploited. Developers are now urged to implement additional validation layers and consider optional opt‑in mechanisms for high‑value contracts.</p><h2>10. VanEck adds Bitcoin to a new ETF amid quantum concerns</h2><p>VanEck’s latest ETF filing includes direct Bitcoin exposure, positioning the product as a hedge against inflation and a store of value. However, the quantum‑security narrative may pressure the fund’s prospectus to disclose risk mitigation plans, potentially setting a precedent for future crypto‑ETF disclosures.</p><h2>Market Outlook</h2><p>Short‑term sentiment remains bearish. The Binance hack has shaken confidence in centralized exchanges, while Bitcoin’s price correction reflects broader risk aversion. Yet, regulatory wins for Ripple and USDC, along with institutional buying via preferred‑stock structures, provide a counterbalance. Expect continued volatility, with BTC likely testing the $70,000‑$75,000 range before any decisive catalyst emerges. Ethereum’s upgrade scrutiny may spur a temporary dip in gas fees as developers patch vulnerabilities.</p><h2>Key Takeaways</h2><ul><li>Binance’s $6.3 billion breach is the largest crypto loss in history and will drive stricter smart‑contract audits.</li><li>Quantum‑computing risk for Bitcoin is moving from theory to market pricing, influencing institutional product design.</li><li>Stablecoins and regulated crypto‑banks (Ripple, USDC) are gaining traction, offering a hedge against exchange‑centric risks.</li><li>Institutional appetite for Bitcoin persists, as seen in Strategy’s preferred‑stock accumulation and new ETFs.</li><li>Technical upgrades like EIP‑7702 bring functionality but also new attack vectors; security best practices must evolve quickly.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem — <em>Cointelegraph</em></li>\n<li>[2] Recap: How Binance’s record $6.3B hack unfolded — <em>Cointelegraph</em></li>\n<li>[3] As it happened: Binance’s record $6.3B crypto hack — <em>Cointelegraph</em></li>\n<li>[4] Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe' — <em>Decrypt</em></li>\n<li>[5] Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart — <em>CoinDesk</em></li>\n<li>[6] Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist — <em>The Block</em></li>\n<li>[7] Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack — <em>Decrypt</em></li>\n<li>[8] Bitcoin risks worst October in 12 years as tech sell-off spreads to gold — <em>Cointelegraph</em></li>\n<li>[9] Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say — <em>The Block</em></li>\n<li>[10] What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "binance",
+        "market",
+        "crypto news"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793380845/xeonbit24/posts/crypto-roundup-october-30-2026-at-1220-am-ict-binance-hack-quantum-worries-and-a.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793380845/xeonbit24/posts/crypto-roundup-october-30-2026-at-1220-am-ict-binance-hack-quantum-worries-and-a.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-october-30-2026-at-1220-am-ict-binance-hack-quantum-worries-and-a",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup October 30, 2026 at 12:20 AM (ICT): Binance hack, quantum worries and a volatile Bitcoin week"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+          "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Recap: How Binance’s record $6.3B hack unfolded",
+          "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "As it happened: Binance’s record $6.3B crypto hack",
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+          "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+          "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+          "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+          "source": "The Block"
+        },
+        {
+          "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+          "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+          "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+          "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
+          "source": "The Block"
+        },
+        {
+          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-30T17:20:46.444Z",
+      "slug": "crypto-roundup-october-30-2026-at-1220-am-ict-binance-hack-quantum-worries-and-a"
+    },
+    {
       "id": "1793337999096",
       "title": "Crypto Roundup October 30, 2026 at 12:26 PM (ICT): Binance hack triggers market shock and accelerates DEX migration",
       "summary": "A massive $6‑$7 billion breach at Binance sent Bitcoin and Ether tumbling, spurred institutional withdrawals, and highlighted the role of state‑backed actors. The fallout is reshaping exchange risk perception and boosting interest in decentralized trading platforms.",
@@ -30095,16 +30175,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-    "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-    "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-    "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
-    "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
-    "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-    "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
     "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
     "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
     "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
@@ -30594,10 +30664,19 @@
     "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
     "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum"
+    "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+    "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+    "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+    "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+    "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+    "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
+    "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs|https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system|https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -30796,6 +30875,7 @@
     "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011|https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
     "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling|https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
     "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means|https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze|https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead|https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze|https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead|https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+    "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
