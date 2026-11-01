@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793511671649",
+      "title": "Crypto Roundup November 1, 2026 at 12:41 PM (ICT): Binance hack dominates, FBI links North Korea, market steadies",
+      "summary": "The crypto world is still reeling from the $6 billion Binance breach, now confirmed by the FBI to involve North Korean actors. While Binance has restored most stolen assets, the incident has sparked regulatory pressure, a modest rally in Bitcoin, and a wave of secondary security scares across DeFi.",
+      "content": "<p>November 1, 2026 marks a turbulent day for digital assets. The fallout from the massive Binance hack continues to dominate headlines, with law‑enforcement, the exchange, and market participants all scrambling to assess damage and prevent further abuse. At the same time, ancillary stories—from a stolen iPhone in London to traders betting on an AI‑driven IPO—highlight the sector’s breadth and the growing intersection of crypto with traditional finance and geopolitics.</p>\n<h2>1. FBI confirms North Korea’s role in $6 billion Binance hack, urges DeFi block‑lists</h2>\n<p>The FBI’s latest notice links the Binance breach to a state‑sponsored North Korean hacking group, citing hundreds of wallet addresses tied to the operation. Chainalysis warns that the attackers have already cycled through “thousands of addresses,” making a complete on‑chain purge impractical. The agency’s request for DeFi platforms to block BTC, ETH, and SOL addresses associated with the theft underscores a new era of coordinated, cross‑chain enforcement. For investors, the message is clear: compliance filters are becoming a standard defensive layer.</p>\n<h2>2. Binance says 90% of stolen assets replenished, targets Sunday withdrawals</h2>\n<p>Binance announced that it has repurchased or otherwise restored roughly 90 % of the assets lost in the breach, using a mix of corporate funds, futures reserves, and the SAFU (Secure Asset Fund for Users). The remaining shortfall consists mainly of low‑liquidity tokens that are harder to replace on open markets. By promising Sunday withdrawals, Binance aims to restore confidence, but the episode has already sparked renewed debate over the adequacy of insurance mechanisms in crypto exchanges.</p>\n<h2>3. Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach</h2>\n<p>CoinDesk’s parallel report echoes the same figures, emphasizing that Binance is absorbing losses directly rather than passing them to users. The exchange’s rapid mobilization of reserves highlights the growing maturity of internal risk‑management frameworks, yet critics argue that reliance on corporate balance sheets may mask systemic vulnerabilities if similar attacks hit multiple platforms simultaneously.</p>\n<h2>4. Bitcoin held up better than expected after Binance hack, Strive CEO says</h2>\n<p>Strive’s CEO Matt Cole notes that Bitcoin’s price showed resilience, holding above $68,000 despite the negative sentiment. While Cole cautions against declaring a market bottom too early, the relative stability suggests that Bitcoin is increasingly viewed as a “digital safe haven” amid exchange‑specific turmoil. The rally also reflects broader macro‑economic factors, including a softening US dollar and steady institutional inflows.</p>\n<h2>5. Hackers hijack a dozen DeFi websites, all registered with Name.com, stealing $138,000</h2>\n<p>The Block uncovered a coordinated domain‑hijack campaign targeting twelve DeFi front‑ends, all sharing the same registrar. The attackers siphoned roughly $138 k in user funds before the sites were taken offline. The incident highlights a less‑discussed attack vector—domain registration security—and reinforces the need for multi‑factor authentication and DNSSEC for DeFi projects.</p>\n<h2>6. Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts</h2>\n<p>Trade.xyz launched a synthetic “ANT” contract on Hyperliquid, allowing traders to speculate on the AI‑company Anthropic’s upcoming IPO. The contract fell 20 % in its first hour, reflecting both the hype around AI and the regulatory gray area of crypto‑based derivatives that lack underlying equity exposure. U.S. traders remain locked out, underscoring ongoing jurisdictional frictions.</p>\n<h2>7. A stolen iPhone, $14,000 in losses and London’s crypto theft problem</h2>\n<p>A personal security story from London illustrates how physical device theft can translate into significant crypto loss. The victim’s iPhone was used to access wallet apps, bank accounts, and even disable a laptop, resulting in a $14 k drain. The case serves as a reminder that robust hardware security (e.g., hardware wallets, biometric locks) remains essential, especially as crypto adoption expands into everyday consumer finance.</p>\n<h2>8. Bitcoin’s white paper turns 18, and small businesses are still paying for the bailouts it answered</h2>\n<p>CoinDesk’s opinion piece reflects on the 18‑year legacy of Satoshi’s white paper, arguing that many small businesses still rely on Bitcoin’s “bailout” narrative to hedge against fiat instability. While the author is critical of the narrative, the piece underscores Bitcoin’s continued relevance as a store of value for enterprises seeking diversification.</p>\n<h2>9. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup aggregates the day’s headlines, from price movements to regulatory updates. Key takeaways include a modest uptick in Bitcoin, continued pressure on DeFi protocols after the domain attacks, and growing speculation on AI‑related tokens. The digest reinforces the fragmented yet interconnected nature of today’s crypto ecosystem.</p>\n<h2>10. Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History</h2>\n<p>Decrypt provides a comprehensive timeline of the Binance breach, detailing how North Korean actors allegedly moved $6.4 billion through a series of mixers, cross‑chain bridges, and low‑liquidity token swaps. The article also outlines potential next steps for law‑enforcement and the broader implications for exchange security standards.</p>\n<h2>Market Outlook</h2>\n<p>Despite the headline‑grabbing hack, the broader market shows signs of stabilization. Bitcoin’s price resilience, combined with Binance’s aggressive asset replacement, suggests that investor confidence is holding, at least in the short term. However, the proliferation of security incidents—both on‑chain and off‑chain—could pressure regulators to tighten AML/KYC requirements for DeFi platforms and domain registrars. Expect heightened scrutiny on cross‑border crypto flows, especially those linked to sanctioned states.</p>\n<h2>Key Takeaways</h2>\n<ul><li>North Korean involvement in the Binance hack is now officially confirmed, prompting coordinated block‑list efforts across DeFi.</li><li>Binance has restored ~90 % of stolen assets, but low‑liquidity token gaps remain a risk.</li><li>Bitcoin demonstrated unexpected resilience, reinforcing its “digital gold” narrative.</li><li>Domain‑registration security emerges as a new attack surface for DeFi projects.</li><li>Crypto‑based synthetic contracts are gaining traction, but regulatory uncertainty persists.</li><li>Physical security (hardware wallets, device protection) remains critical for individual users.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses — <em>CoinDesk</em></li>\n<li>[2] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered — <em>CoinDesk</em></li>\n<li>[3] A stolen iPhone, $14,000 in losses and London's crypto theft problem — <em>CoinDesk</em></li>\n<li>[4] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts — <em>CoinDesk</em></li>\n<li>[5] Binance says 90% of stolen assets replenished, targets Sunday withdrawals — <em>Cointelegraph</em></li>\n<li>[6] Bitcoin held up better than expected after Binance hack, Strive CEO says — <em>Cointelegraph</em></li>\n<li>[7] Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000 — <em>The Block</em></li>\n<li>[8] Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach — <em>CoinDesk</em></li>\n<li>[9] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[10] Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "binance",
+        "defi",
+        "market",
+        "north korea"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793511671/xeonbit24/posts/crypto-roundup-november-1-2026-at-1241-pm-ict-binance-hack-dominates-fbi-links-n.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793511671/xeonbit24/posts/crypto-roundup-november-1-2026-at-1241-pm-ict-binance-hack-dominates-fbi-links-n.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-1-2026-at-1241-pm-ict-binance-hack-dominates-fbi-links-n",
+        "width": 616,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 1, 2026 at 12:41 PM (ICT): Binance hack dominates, FBI links North Korea, market steadies"
+      },
+      "sourceUrl": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+          "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+          "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+          "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+          "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+          "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+          "source": "The Block"
+        },
+        {
+          "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+          "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+          "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-01T05:41:11.649Z",
+      "slug": "crypto-roundup-november-1-2026-at-1241-pm-ict-binance-hack-dominates-fbi-links-n"
+    },
+    {
       "id": "1793463927637",
       "title": "Crypto Roundup October 31, 2026 at 11:25 PM (ICT): Binance hack dominates, staking shifts, and new tokenization pilots",
       "summary": "The crypto market grappled with the fallout from Binance’s $6.3 billion breach, while institutions doubled down on staking despite shrinking yields and Uber explored tokenized cash‑management. Smaller hacks and novel financial contracts added nuance to an already volatile day.",
@@ -30337,8 +30418,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-    "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
     "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
     "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -30836,10 +30915,11 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
     "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-    "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
+    "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+    "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+    "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system|https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits|https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest|https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31038,6 +31118,7 @@
     "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze|https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead|https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
     "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve|https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters|https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses|https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered|https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
   ]
 }
