@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793653020744",
+      "title": "Crypto Roundup November 2, 2026 at 03:56 AM (ICT): Security breaches, AI hype, and market volatility",
+      "summary": "Security incidents at major exchanges and a new AI‑driven Linux exploit dominate headlines, while analysts debate the resilience of crypto amid a post‑election rally and tightening AI spending. Bitcoin slips below $76K, and institutional tokenization gains momentum, setting a mixed tone for the market.",
+      "content": "<p>The crypto ecosystem woke up to a cascade of security scares, from a massive Binance hack laundering operation to a fresh breach at Brazil's leading exchange. At the same time, market sentiment is being shaped by AI‑related funding pressures, a muted Bitcoin price reaction to lower oil, and growing institutional interest in tokenized securities. This roundup dissects each story, connects the dots, and offers a forward‑looking view for traders and investors.</p><h2>1. North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds</h2><p>Decrypt reports that North Korean actors are moving $2.85 billion of the $6.43 billion stolen in the Binance hack into a new wallet roughly every 25 seconds. The rapid, automated laundering suggests a sophisticated botnet capable of evading traditional blockchain analytics. While roughly 3 % of the Bybit hack was similarly tracked, the scale here underscores how state‑backed groups can exploit crypto’s pseudonymity. Regulators may intensify AML (anti‑money‑laundering) scrutiny, and exchanges could tighten withdrawal limits to curb such flows.</p><h2>2. Mercado Bitcoin, Brazil’s Largest Crypto Exchange, Hit by $46 Million Security Breach</h2><p>The Block confirms that Mercado Bitcoin suffered a security incident resulting in the loss of about $46 million. The breach forced the platform to pause withdrawals, highlighting lingering vulnerabilities in exchange custodial practices. Brazil’s regulatory body, CVM, is expected to launch an investigation, and the incident may prompt stricter local compliance standards. For users, the event reinforces the importance of self‑custody or diversified storage across multiple platforms.</p><h2>3. Mercado Bitcoin Wallets Show Post‑Hack Transfers After $46M Theft</h2><p>Cointelegraph adds that after the breach, wallets linked to the exchange displayed a flurry of outbound transfers, indicating that attackers are actively cashing out. While Mercado Bitcoin assures customers that remaining funds are safe, the rapid movement of stolen assets could pressure other regional exchanges to review their security protocols. The incident also fuels speculation about the use of mixing services and decentralized exchanges to obscure the trail.</p><h2>4. Coinbase Hit with 50% Price Target Cut as Post‑Earnings Rout Deepens</h2><p>Morgan Stanley slashed its price target for Coinbase by half, citing slowing trading volumes and lingering fallout from the Binance hack. The downgrade reflects concerns that institutional and retail participation may be waning as confidence erodes. A lower target could depress the stock further, but some analysts argue that Coinbase’s diversified revenue streams—such as staking and institutional custody—still offer upside if market conditions improve.</p><h2>5. Bitcoin Risks Drop Below $76K as 7% Oil Slide Fails to Spark BTC Rally</h2><p>Cointelegraph notes that Bitcoin slipped 1.7 % to under $76 k, despite a 7 % decline in oil prices that usually buoy risk assets. The muted reaction suggests that macro‑driven risk appetite is not translating into crypto buying, possibly because investors remain cautious after recent exchange hacks. Technical charts show Bitcoin testing the 200‑day moving average, a level that could act as support if buying pressure returns.</p><h2>6. DTCC’s Tokenization Launch Could Accelerate Adoption and Boost Securitize, StoneX Says</h2><p>The Block reports that the Depository Trust & Clearing Corporation (DTCC) has launched a tokenization platform, validating Securitize’s model and prompting StoneX to maintain a buy rating on SECZ. The move signals growing institutional confidence in blockchain‑based securities, potentially unlocking new liquidity for tokenized stocks and bonds. For crypto markets, this could bridge traditional finance and digital assets, encouraging more capital inflow into compliant token projects.</p><h2>7. Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience</h2><p>Fundstrat’s Tom Lee argues that the AI stock sell‑off has hit a floor, pointing to constrained AI hardware supply and a resilient crypto sector that has withstood the Binance hack. Lee suggests that crypto’s decoupling from broader tech volatility may attract investors seeking non‑correlated returns. While optimistic, his view hinges on continued demand for AI chips and no further major security breaches.</p><h2>8. Bitcoin Traders Eye Post‑Election Rally as Exchange Outflows Point to Supply Squeeze</h2><p>CoinDesk highlights that large Bitcoin withdrawals from exchanges are creating a supply squeeze, a classic bullish signal. Traders are watching short‑position liquidations and key resistance levels ahead of the U.S. midterm elections, expecting that a favorable political outcome could reignite risk‑on sentiment. If outflows persist, the reduced on‑exchange supply could push prices higher, especially if buying pressure returns from institutional players.</p><h2>9. Claude‑Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched</h2><p>Decrypt reveals that Anthropic’s AI model Claude generated code for a Linux exploit that can hijack servers without a password. Red Hat issued a patch, but Ubuntu remains vulnerable, exposing a potential attack surface for crypto mining farms and infrastructure providers. The incident underscores the emerging risk of AI‑generated malware and the need for rapid patch management across all operating systems used in the crypto ecosystem.</p><h2>10. Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push</h2><p>Proton’s CEO dismissed security‑focused users as “loser thinking,” prompting a wave of subscription cancellations. The backlash reflects broader community resistance to aggressive AI integration that may compromise privacy. For privacy‑centric services, maintaining user trust is paramount; any perception of security neglect can trigger churn and damage brand reputation.</p><h2>Market Outlook</h2><p>Overall, the market is navigating a tension between security concerns and institutional optimism. The Binance laundering saga and multiple exchange breaches are likely to tighten regulatory scrutiny, while DTCC’s tokenization initiative and continued interest from fund managers suggest a parallel path of legitimization. Bitcoin’s price action remains range‑bound, but the supply squeeze and post‑election narrative could provide a catalyst for a modest upside. Investors should monitor exchange withdrawal metrics, AI‑related funding trends, and any new patches that affect mining or custodial infrastructure.</p><h2>Key Takeaways</h2><ul><li>Security remains the top headline: exchange hacks and AI‑generated exploits are driving both user caution and regulatory focus.</li><li>Institutional momentum is growing, highlighted by DTCC’s tokenization launch and continued interest in compliant crypto assets.</li><li>Bitcoin’s short‑term price is constrained by macro risk aversion, but a supply squeeze and favorable election outcomes could spark a rebound.</li><li>AI hype is tempering, with analysts like Tom Lee seeing a bottom, yet the sector’s rapid evolution introduces new threat vectors.</li><li>Community sentiment matters—Proton’s user revolt shows that neglecting security culture can erode trust quickly.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched — <em>Decrypt</em></li>\n<li>[2] Coinbase hit with 50% price target cut as post-earnings rout deepens — <em>Cointelegraph</em></li>\n<li>[3] Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach — <em>The Block</em></li>\n<li>[4] Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience — <em>Decrypt</em></li>\n<li>[5] Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally — <em>Cointelegraph</em></li>\n<li>[6] DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says — <em>The Block</em></li>\n<li>[7] Mercado Bitcoin wallets show post-hack transfers after $46M theft — <em>Cointelegraph</em></li>\n<li>[8] North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds — <em>Decrypt</em></li>\n<li>[9] Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push — <em>Decrypt</em></li>\n<li>[10] Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "crypto",
+        "exchange",
+        "security",
+        "ai"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793653020/xeonbit24/posts/crypto-roundup-november-2-2026-at-0356-am-ict-security-breaches-ai-hype-and-mark.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793653020/xeonbit24/posts/crypto-roundup-november-2-2026-at-0356-am-ict-security-breaches-ai-hype-and-mark.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-2-2026-at-0356-am-ict-security-breaches-ai-hype-and-mark",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 2, 2026 at 03:56 AM (ICT): Security breaches, AI hype, and market volatility"
+      },
+      "sourceUrl": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+          "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+          "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+          "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+          "source": "The Block"
+        },
+        {
+          "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+          "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+          "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+          "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+          "source": "The Block"
+        },
+        {
+          "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+          "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+          "url": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+          "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-11-02T20:57:00.744Z",
+      "slug": "crypto-roundup-november-2-2026-at-0356-am-ict-security-breaches-ai-hype-and-mark"
+    },
+    {
       "id": "1793597982100",
       "title": "Crypto Roundup November 2, 2026 at 12:39 PM (ICT): Binance hack triggers market turbulence and regulatory ripples",
       "summary": "The fallout from the record Binance hack dominates the day, sparking massive outflows from spot Bitcoin ETFs, a surge in withdrawals, and a scramble by DeFi bridges to launder the loot. Meanwhile, US mid‑term elections, regulatory probes in Korea, and technical glitches on BTCPay and THORChain add layers of uncertainty to the broader crypto market.",
@@ -30580,16 +30661,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-    "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-    "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-    "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
-    "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
     "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
     "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
     "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
@@ -31079,10 +31150,19 @@
     "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-    "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+    "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+    "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+    "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+    "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+    "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+    "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+    "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+    "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest|https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
@@ -31281,6 +31361,7 @@
     "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses|https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered|https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
     "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-    "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time|https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack|https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
+    "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time|https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack|https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu|https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
   ]
 }
