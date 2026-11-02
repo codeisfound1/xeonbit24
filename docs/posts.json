@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793597982100",
+      "title": "Crypto Roundup November 2, 2026 at 12:39 PM (ICT): Binance hack triggers market turbulence and regulatory ripples",
+      "summary": "The fallout from the record Binance hack dominates the day, sparking massive outflows from spot Bitcoin ETFs, a surge in withdrawals, and a scramble by DeFi bridges to launder the loot. Meanwhile, US mid‑term elections, regulatory probes in Korea, and technical glitches on BTCPay and THORChain add layers of uncertainty to the broader crypto market.",
+      "content": "<p>November 2, 2026 brings a whirlwind of headlines that revolve around one central event: the unprecedented Binance hack that saw roughly 18,270 BTC (about $500 billion at today’s prices) disappear. The hack’s shockwaves are felt across spot Bitcoin ETFs, DeFi bridges, payment processors, and even national regulators. At the same time, the U.S. mid‑term elections loom, promising new policy directions for the industry. Below we break down each story, connect the dots, and project what the next few weeks may hold for crypto markets.</p>\n<h2>1. Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time</h2>\n<p>CoinDesk reports that the 19 wallets controlling the stolen 18,270 BTC have received virtually no legitimate traffic since the theft, only micro‑payments under a dollar accompanied by pleading messages, shilling pitches, or outright laundering offers. The pattern suggests that opportunistic actors are trying to coax the hacker into moving the coins, hoping to profit from a “help me” narrative. The lack of substantive movement indicates the hacker is either hoarding the assets for a future, more sophisticated laundering operation, or is being forced to keep the coins offline while negotiating with law‑enforcement pressure points.</p>\n<h2>2. Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack</h2>\n<p>Despite the hack, Bitcoin managed to rally toward the $79,000 level, driven by a modest pullback in risk‑off assets like oil and a temporary easing of panic selling. ZEC (Zcash) led the major crypto gainers, hinting that privacy‑focused coins are benefitting from heightened concerns over custodial security. The rebound shows Bitcoin’s resilience, but the price action remains fragile, with volatility spikes still likely as investors digest the ongoing fallout.</p>\n<h2>3. Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack</h2>\n<p>The Block notes that U.S. spot Bitcoin ETFs shed $643 million in a single day – the biggest net outflow since June 25. The outflow reflects institutional and retail investors moving capital out of regulated products amid fears of broader systemic risk. While ETFs remain the most compliant way for traditional investors to gain Bitcoin exposure, the hack has reignited concerns about the underlying custody mechanisms that many of these funds rely on.</p>\n<h2>4. Binance net outflows surge to $5.8 B as withdrawals resume after record hack</h2>\n<p>Cointelegraph confirms that after a brief pause, Binance reopened withdrawals, prompting a flood of $5.8 billion in net outflows. Although this represents only a small slice of the exchange’s $171 billion in customer assets, the speed and magnitude of the withdrawals underscore a loss of confidence among users. The outflows also highlight the delicate balance exchanges must strike between liquidity provision and safeguarding assets after a breach.</p>\n<h2>5. THORChain halts swaps after block reorg bug, slowing Binance hackers</h2>\n<p>THORChain, a cross‑chain liquidity protocol, paused swaps across ten networks—including Bitcoin, Ethereum, Solana, and Tron—after a block reorganization (reorg) bug surfaced. The bug, which could have allowed double‑spend attacks, forced node operators to act quickly. By halting swaps, THORChain unintentionally slowed the movement of stolen Binance funds, which were reportedly being funneled through its bridges. The incident illustrates how DeFi infrastructure can become a choke point in illicit fund flows.</p>\n<h2>6. THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest</h2>\n<p>In a follow‑up story, the THORChain co‑founder pushed back against a U.S. FBI request to freeze the protocol’s assets, arguing that a blanket freeze would undermine the decentralized nature of the network. Binance CEO “CZ” publicly thanked the Secret Service for their cooperation, reflecting the tension between law‑enforcement objectives and DeFi’s permissionless ethos. The debate may set precedents for how regulators interact with cross‑chain bridges in future investigations.</p>\n<h2>7. North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst</h2>\n<p>The Block reveals that North Korean state‑linked actors moved roughly $242 million of the stolen Binance BTC through the Tron network, using bridges such as Relay, THORChain, Chainflip, and Symbiosis. Relay alone handled $48 million. The analysis underscores how illicit actors exploit low‑fee, high‑throughput chains like Tron to obscure provenance, and how multi‑bridge strategies complicate tracking efforts.</p>\n<h2>8. BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets</h2>\n<p>CoinDesk reports that the open‑source BTCPay Server project warned merchants to shut down affected servers after reports of wallet drains. The issue appears limited to versions older than 2.4.2, suggesting a vulnerability that may have been introduced in legacy code. While the loss figure remains undisclosed, the incident serves as a reminder that even well‑intentioned open‑source tools can become attack vectors if not promptly updated.</p>\n<h2>9. Bank of Korea probes financial firms’ exposure to crypto risks</h2>\n<p>Cointelegraph notes that South Korea’s central bank is surveying 31 financial institutions to gauge their exposure to crypto‑related shocks, including exchange shutdowns, prolonged market downturns, and counterpart losses. The move reflects a broader Asian regulatory trend toward pre‑emptive risk assessment, especially after the Binance hack highlighted how a single exchange failure can ripple through global finance.</p>\n<h2>10. The crypto reader's guide to the 2026 midterm election: State of Crypto</h2>\n<p>CoinDesk’s election guide outlines how the upcoming U.S. mid‑terms could reshape crypto policy. Key issues include potential federal clarification of securities law for digital assets, possible taxation reforms, and the fate of the “safe harbor” provisions that currently protect certain DeFi projects. Investors should watch candidate positions on the “crypto‑friendly” bills, as they could affect everything from ETF approvals to cross‑border payments.</p>\n<h2>Market Outlook</h2>\n<p>In the short term, Bitcoin’s bounce to $79 k is likely to be tested by continued ETF outflows and the ongoing Binance capital flight. DeFi bridges, especially THORChain, will remain under scrutiny, and any further technical glitches could reignite panic. Regulatory pressure is mounting globally – from the Bank of Korea’s exposure survey to U.S. lawmakers gearing up for post‑midterm crypto legislation. Together, these forces suggest a market that will stay volatile, with price swings driven more by sentiment and policy cues than by fundamental adoption metrics.</p>\n<h2>Key Takeaways</h2>\n<ul><li>The Binance hack is the dominant catalyst, triggering massive outflows from regulated products and accelerating withdrawals.</li><li>DeFi bridges are becoming both a conduit and a bottleneck for illicit funds, highlighting the need for better on‑chain monitoring.</li><li>Technical vulnerabilities in open‑source tools like BTCPay remind users to keep software up‑to‑date.</li><li>Regulators worldwide are tightening oversight, as seen in Korea’s exposure probe and the U.S. FBI’s pressure on THORChain.</li><li>The U.S. mid‑term elections could deliver decisive policy shifts that affect ETF approvals, taxation, and the legal status of DeFi.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time — <em>CoinDesk</em></li>\n<li>[2] Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack — <em>CoinDesk</em></li>\n<li>[3] BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets — <em>CoinDesk</em></li>\n<li>[4] Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack — <em>The Block</em></li>\n<li>[5] Bank of Korea probes financial firms’ exposure to crypto risks — <em>Cointelegraph</em></li>\n<li>[6] THORChain halts swaps after block reorg bug, slowing Binance hackers — <em>Cointelegraph</em></li>\n<li>[7] Binance net outflows surge to $5.8B as withdrawals resume after record hack — <em>Cointelegraph</em></li>\n<li>[8] THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[9] The crypto reader's guide to the 2026 midterm election: State of Crypto — <em>CoinDesk</em></li>\n<li>[10] North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "binance",
+        "thorchain",
+        "regulation",
+        "etf",
+        "midterms"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793597981/xeonbit24/posts/crypto-roundup-november-2-2026-at-1239-pm-ict-binance-hack-triggers-market-turbu.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793597981/xeonbit24/posts/crypto-roundup-november-2-2026-at-1239-pm-ict-binance-hack-triggers-market-turbu.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-2-2026-at-1239-pm-ict-binance-hack-triggers-market-turbu",
+        "width": 675,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 2, 2026 at 12:39 PM (ICT): Binance hack triggers market turbulence and regulatory ripples"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+          "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+          "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+          "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+          "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+          "source": "The Block"
+        },
+        {
+          "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+          "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+          "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+          "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+          "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-02T05:39:42.100Z",
+      "slug": "crypto-roundup-november-2-2026-at-1239-pm-ict-binance-hack-triggers-market-turbu"
+    },
+    {
       "id": "1793553571610",
       "title": "Crypto Roundup November 1, 2026 at 12:19 AM (ICT): Binance hack triggers massive outflows, AI agents test crypto controls",
       "summary": "Binance’s $6.4 billion hack sparked $3.6 billion in net outflows and record Bitcoin ETF withdrawals, while new AI‑agent research exposed weaknesses in crypto approval workflows. Political lobbying and aggressive card‑reward schemes add further layers to a volatile market.",
@@ -30499,16 +30580,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-    "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-    "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-    "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-    "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-    "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
     "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
     "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -30998,10 +31069,19 @@
     "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
     "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
     "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
+    "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+    "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+    "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+    "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+    "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits|https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest|https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31200,6 +31280,7 @@
     "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve|https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters|https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses|https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered|https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-    "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
+    "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+    "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time|https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack|https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
   ]
 }
