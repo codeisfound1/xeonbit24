@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793731447394",
+      "title": "Crypto Roundup November 3, 2026 at 01:44 AM (ICT): Election bets, major hacks, and tokenized stock push",
+      "summary": "Prediction‑market odds favor a Democratic sweep, while a wave of high‑profile hacks—from Brazil’s biggest exchange to Binance—shakes confidence in security. Meanwhile, tokenized stock objections grow, highlighting regulatory friction as crypto firms grapple with institutional pressure.",
+      "content": "<p>Across the globe, the crypto ecosystem is confronting a perfect storm of political uncertainty, security breaches, and regulatory push‑back. From U.S. midterm election betting markets to a $40 million hack of Brazil’s leading Bitcoin exchange, the headlines this morning illustrate how external forces continue to shape market sentiment and operational risk. Below we break down each story, draw connections, and outline what the next few weeks could mean for investors and developers.</p>\n<h2>1. Prediction markets bet on Democratic sweep of House, Senate in midterm elections</h2>\n<p>According to <em>The Block</em>, betting platforms such as Polymarket and Kalshi are pricing in a strong Democratic performance in the upcoming U.S. midterms. Prediction markets are essentially crowdsourced futures contracts that let users wager on real‑world outcomes; their odds can serve as a real‑time barometer of political risk. A Democratic win could lead to stricter crypto regulation, especially around AML/KYC and stablecoin oversight, while a Republican resurgence might preserve the more permissive stance seen in several states. Traders are already adjusting exposure to U.S.-centric tokens and projects that could be affected by policy shifts.</p>\n<h2>2. Brazil's biggest Bitcoin exchange says it will refund users after a $40 million hack</h2>\n<p>Decrypt reports that Mercado Bitcoin, Brazil’s largest crypto platform, will fully reimburse victims of a recent hack that siphoned roughly $40 million. The exchange has frozen withdrawals, and no restart date is set. While the refund pledge restores some user confidence, the incident underscores the persistent vulnerability of custodial services in emerging markets, where regulatory frameworks are still evolving. Investors should watch for tighter Brazilian supervision and potential capital flight to more secure, offshore platforms.</p>\n<h2>3. Binance traces $6.3 billion hack to fake job interviews, compromised AI tool</h2>\n<p>Cointelegraph details Binance’s internal investigation, which links the massive $6.3 billion breach to a social‑engineering campaign involving fake recruitment interviews and a compromised AI‑driven code‑review tool. The attackers harvested employee credentials, accessed wallet infrastructure, and moved funds before detection. This case highlights the growing sophistication of supply‑chain attacks and the need for zero‑trust architectures, especially when AI tools are integrated into critical security workflows.</p>\n<h2>4. South Korea's president calls for a ‘cybersecurity czar’ after Binance hack</h2>\n<p>CoinDesk notes that South Korean President Lee Jae‑Myung is urging the creation of a centralized cybersecurity authority to coordinate defenses across finance, critical infrastructure, and AI‑driven services. The call follows the Binance incident and reflects a broader Asian trend of consolidating cyber‑policy under a single “czar” to streamline response and enforcement. Such a move could accelerate mandatory security standards for domestic exchanges and fintech firms.</p>\n<h2>5. Elon Musk’s Tesla and SpaceX block their stock from OKX‑ICE tokenized venue</h2>\n<p>Decrypt reveals that high‑profile companies—including Tesla, SpaceX, Amazon, Netflix, Lam Research, and SoFi—have formally objected to the tokenized‑stock offering being built by OKX in partnership with ICE. Tokenized stocks are blockchain‑based representations of traditional equities, intended to enable 24/7 trading and fractional ownership. The objections, now totaling 56 firms, stem from concerns over market manipulation, shareholder rights, and regulatory compliance. The growing resistance signals that regulators may soon intervene to clarify the legal status of such assets.</p>\n<h2>6. Amazon, Tesla and SpaceX join OKX‑ICE tokenized stock objections as deadline looms</h2>\n<p>CoinDesk echoes the same story, emphasizing the rapid escalation of corporate push‑back as the OKX‑ICE deadline approaches. With nearly 80 % of the proposed stock list opting out, the venture faces a credibility crisis. For crypto markets, the episode serves as a reminder that bridging traditional finance and decentralized platforms requires careful navigation of securities law and corporate governance.</p>\n<h2>7. Five ways North Korea breaks into crypto firms—and how Binance was hacked</h2>\n<p>Decrypt outlines a playbook used by North Korean actors: AI‑generated deepfakes for phishing, poisoning open‑source libraries, exploiting misconfigured cloud services, leveraging compromised supply‑chain tools, and using ransomware to force entry. The Binance hack exemplifies how these tactics converge, reinforcing the need for continuous threat‑intelligence sharing and hardened development pipelines.</p>\n<h2>8. Epidemic of hacked freezers spreads across Europe</h2>\n<p>In a surprising cross‑industry incident, Decrypt reports that supermarket freezers in ten European countries were forced into defrost mode, reaching temperatures of 50 °C. While the motive remains unclear, the event illustrates how IoT devices—often built on insecure firmware—can be weaponized, potentially affecting crypto mining operations that rely on temperature‑controlled environments. It also adds another layer to the broader conversation about cyber‑physical security.</p>\n<h2>9. Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen</h2>\n<p>Cointelegraph interviews Markus Thielen, co‑founder of the 10x investment fund, who argues that institutional ETF demand has muted Bitcoin’s price spikes, projecting a year‑end level of $90,000. He also critiques Ethereum’s current roadmap, saying the network must deliver more tangible benefits for token holders to sustain growth. Thielen’s view reflects a maturing market where large‑cap investors prioritize stability over speculative rallies.</p>\n<h2>10. Justin Sun seeks sanctions against Trump‑linked World Liberty Financial over UAE ties</h2>\n<p>CoinDesk reports that Tron founder Justin Sun is pursuing sanctions against World Liberty Financial, alleging nondisclosure of UAE connections in a $45 million token dispute. The case highlights the ongoing legal frictions within the altcoin space, where cross‑border regulatory gaps can lead to protracted litigation and reputational risk for founders and investors alike.</p>\n<h2>Market Outlook</h2>\n<p>Collectively, these stories paint a picture of heightened risk awareness and regulatory tightening. Political betting suggests that a Democratic win could usher in stricter U.S. crypto rules, while Asian governments are already moving toward centralized cybersecurity oversight. Security breaches—both digital (Binance, Mercado Bitcoin) and physical (European freezers)—are prompting firms to adopt zero‑trust models and improve IoT hygiene. Meanwhile, the tokenized‑stock backlash signals that the convergence of DeFi and traditional equities will face significant legal scrutiny before achieving mainstream adoption.</p>\n<p>For price action, Bitcoin may continue its steadier trajectory toward the $90,000 target cited by Thielen, driven by institutional inflows and a lack of wild retail rallies. Ethereum’s price will likely hinge on the successful rollout of its upcoming scaling upgrades and the ability to attract developer capital. Altcoins tied to high‑profile legal disputes, such as WLFI, could see heightened volatility.\n</p>\n<h2>Key Takeaways</h2>\n<ul>\n  <li>Political risk is becoming a measurable factor in crypto pricing, with prediction markets indicating a potential Democratic sweep.</li>\n  <li>Security remains the top priority: large hacks (Binance, Mercado Bitcoin) expose gaps in employee vetting, AI tool security, and custodial safeguards.</li>\n  <li>Regulators worldwide are responding—South Korea’s call for a cybersecurity czar and the growing corporate push‑back against tokenized stocks suggest tighter oversight ahead.</li>\n  <li>Supply‑chain attacks, especially those leveraging AI deepfakes, are evolving; firms must adopt zero‑trust architectures and continuous threat monitoring.</li>\n  <li>Institutional demand is moderating Bitcoin’s volatility, while Ethereum must deliver concrete utility to maintain investor confidence.</li>\n  <li>Cross‑border legal disputes (e.g., Justin Sun vs. World Liberty) highlight the need for clearer jurisdictional frameworks for token offerings.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Prediction markets bet on Democratic sweep of House, Senate in midterm elections — <em>The Block</em></li>\n<li>[2] Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack — <em>Decrypt</em></li>\n<li>[3] Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue — <em>Decrypt</em></li>\n<li>[4] Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked — <em>Decrypt</em></li>\n<li>[5] Epidemic of Hacked Freezers Spreads Across Europe — <em>Decrypt</em></li>\n<li>[6] Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties — <em>CoinDesk</em></li>\n<li>[7] South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack — <em>CoinDesk</em></li>\n<li>[8] Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen — <em>Cointelegraph</em></li>\n<li>[9] Binance traces $6.3B hack to fake job interviews, compromised AI tool — <em>Cointelegraph</em></li>\n<li>[10] Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "security",
+        "regulation",
+        "market",
+        "tokenization"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793731446/xeonbit24/posts/crypto-roundup-november-3-2026-at-0144-am-ict-election-bets-major-hacks-and-toke.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793731446/xeonbit24/posts/crypto-roundup-november-3-2026-at-0144-am-ict-election-bets-major-hacks-and-toke.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-3-2026-at-0144-am-ict-election-bets-major-hacks-and-toke",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 3, 2026 at 01:44 AM (ICT): Election bets, major hacks, and tokenized stock push"
+      },
+      "sourceUrl": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+      "sourceTitle": "The Block / Decrypt / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+          "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+          "source": "The Block"
+        },
+        {
+          "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+          "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+          "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+          "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+          "url": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+          "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+          "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+          "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+          "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+          "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-11-03T18:44:07.395Z",
+      "slug": "crypto-roundup-november-3-2026-at-0144-am-ict-election-bets-major-hacks-and-toke"
+    },
+    {
       "id": "1793686829756",
       "title": "Crypto Roundup November 3, 2026 at 01:20 PM (ICT): Binance SAFU depletion fuels market unease while Bitcoin slides below $77k",
       "summary": "Binance’s SAFU fund fell to half its target, sparking concerns about exchange solvency, as Bitcoin slipped below $77,000 amid a broader tech sell‑off. Meanwhile, institutional buying in Coinbase and regulatory pressure in Asia add layers of complexity to the market.",
@@ -30741,16 +30822,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-    "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
-    "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
-    "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-    "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-    "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
-    "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
     "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
     "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
     "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31240,10 +31311,19 @@
     "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
-    "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+    "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+    "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+    "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+    "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+    "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+    "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+    "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
     "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third|https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&amp;utm_medium=rss",
@@ -31442,6 +31522,7 @@
     "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
     "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time|https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack|https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
     "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu|https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows|https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows|https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+    "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461|https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack|https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock"
   ]
 }
