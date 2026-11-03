@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1793686829756",
+      "title": "Crypto Roundup November 3, 2026 at 01:20 PM (ICT): Binance SAFU depletion fuels market unease while Bitcoin slides below $77k",
+      "summary": "Binance’s SAFU fund fell to half its target, sparking concerns about exchange solvency, as Bitcoin slipped below $77,000 amid a broader tech sell‑off. Meanwhile, institutional buying in Coinbase and regulatory pressure in Asia add layers of complexity to the market.",
+      "content": "<p>Today's crypto landscape is defined by a mix of exchange‑level risk, macro‑economic pressure, and renewed institutional interest. The most pressing story is Binance’s dwindling SAFU (Secure Asset Fund for Users) balance, which now sits at roughly $580 million—well under the $800 million threshold that would trigger an automatic top‑up. That development, combined with a fresh wave of withdrawals and a $30 million movement of hack‑related funds on Arbitrum, has injected fresh volatility into the market. At the same time, Bitcoin breached the $77,000 mark as a broader tech correction deepened, while Ark Invest’s modest stake in Coinbase signals lingering confidence in crypto‑related equities.</p>\n<h2>1. Binance’s SAFU fund halves to $580 million</h2>\n<p>According to CoinDesk, Binance’s user‑protection fund—designed to cover losses from hacks or operational failures—has been reduced by half, now standing at about $580 million. Binance’s internal policy mandates a top‑up once the fund falls below $800 million, yet the exchange has offered no timeline for replenishment. This raises questions about the exchange’s liquidity buffers, especially after the record‑breaking hack that forced the creation of the SAFU fund in the first place. Investors are watching closely for any sign of a shortfall that could affect Binance’s ability to honor future claims.</p>\n<h2>2. Arbitrum council moves $30 million of Binance hack funds without a private key</h2>\n<p>CoinDesk reports that a 12‑person council on the Arbitrum network temporarily rewrote a core contract to siphon $30 million from an address linked to the Binance hack—despite not possessing the private key. The move was reversed after a brief period, but it underscores governance challenges in decentralized ecosystems where a small group can alter contract code on short notice. The incident marks the second such episode this year, highlighting the tension between rapid response to security incidents and the immutable nature of blockchain contracts.</p>\n<h2>3. Binance begins second withdrawal phase, outflows slow</h2>\n<p>Cointelegraph notes that Binance has entered a second withdrawal phase, making additional assets available from 04:00 UTC on Tuesday. The exchange says security checks are now complete, and the pace of outflows has decelerated compared with the initial reopening after the hack. While the slower withdrawals may calm panic, the underlying SAFU depletion continues to cast a shadow over the platform’s resilience.</p>\n<h2>4. Bitcoin drops below $77,000 amid chip rout and U.S. midterm uncertainty</h2>\n<p>Bitcoin slipped under the $77,000 level as the broader tech sector faced a “chip rout,” with semiconductor stocks tumbling and the Nasdaq‑100 entering correction territory. The decline was amplified by investor anxiety ahead of the U.S. midterm elections, where policy outcomes could affect fiscal stimulus and regulatory stances on crypto. Zcash fell nearly 10 % and Binance Coin dropped below $700, indicating that the sell‑off is not confined to Bitcoin alone.</p>\n<h2>5. Ark Invest adds $3.4 million Coinbase, $2.6 million Circle, $0.65 million Robinhood</h2>\n<p>The Block reports that Cathie Wood’s Ark Invest purchased $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood stock. Although the amounts are modest relative to Ark’s overall portfolio, the moves signal continued confidence in crypto‑adjacent public companies, even as spot markets wrestle with exchange‑level risk. The purchases came on a day when Coinbase’s stock was under pressure, suggesting a contrarian stance by Ark.</p>\n<h2>6. Crypto.com to withdraw Hong Kong consumer app</h2>\n<p>Crypto.com announced it will cease consumer app services in Hong Kong starting February 2025, citing pending licensing requirements and a shifting regulatory environment. The decision reflects broader tightening of crypto regulations in Asia, where authorities are demanding clearer compliance frameworks. Users will be migrated to other platforms, but the move may erode Crypto.com’s market share in a region that has been a growth engine for the company.</p>\n<h2>7. South Korea urges exchanges to boost cold‑storage ratios after Binance hack</h2>\n<p>South Korean regulators are pressing local exchanges to increase the proportion of customer assets held in cold storage, beyond the existing 80 % minimum. The call follows the Binance hack and aims to reduce systemic risk by limiting exposure to online threats. While most Korean exchanges already meet the baseline, the regulator’s heightened expectations could drive operational cost increases and influence how exchanges allocate liquidity.</p>\n<h2>8. Australia lifts rates to 4.85 % amid AI boom and energy‑price inflation</h2>\n<p>The Reserve Bank of Australia raised its benchmark interest rate to a 18‑year high of 4.85 %, citing rising costs from AI‑driven technology investments and higher energy prices. Higher rates typically strengthen the Australian dollar, which can dampen demand for crypto as a hedge against fiat depreciation. Nevertheless, the AI boom also fuels interest in blockchain‑based compute markets, potentially offsetting some negative pressure.</p>\n<h2>9. UK warns AI‑enabled ransomware attacks on critical infrastructure likely by 2028</h2>\n<p>The United Kingdom’s cyber‑security agency warned that AI‑powered ransomware attacks on national infrastructure are “highly likely” within the next five years. While not directly a crypto story, the warning has implications for blockchain security, as AI tools could be weaponized to target smart‑contract vulnerabilities or private‑key management systems. The alert adds to the broader narrative of increasing cyber‑risk across the financial sector.</p>\n<h2>10. Daily crypto roundup: trends and events shaping the market</h2>\n<p>Cointelegraph’s daily digest highlighted a range of topics—from DeFi developments to regulatory updates—that collectively shape market sentiment. The recurring themes this week are exchange solvency, regulatory tightening in Asia, and the interplay between macro‑economic factors (interest rates, election cycles) and crypto price action.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to persist as traders digest Binance’s SAFU shortfall, Bitcoin’s breach of the $77k support, and the broader tech correction. Institutional investors, exemplified by Ark’s modest buys, may continue to find entry points, but the overall risk appetite will be tempered by regulatory scrutiny in Hong Kong, South Korea, and the UK. Expect Bitcoin to test the $75,000‑$78,000 range over the next week, while altcoins tied to DeFi and AI (e.g., Arbitrum, BNB) could see heightened swing‑trading activity.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Binance’s SAFU fund depletion raises solvency concerns and could trigger tighter user withdrawals.</li><li>Arbitrum’s council actions illustrate governance vulnerabilities in decentralized protocols.</li><li>Bitcoin’s dip below $77,000 reflects a confluence of tech‑sector weakness and political uncertainty.</li><li>Institutional confidence remains, as shown by Ark Invest’s purchases of Coinbase, Circle, and Robinhood.</li><li>Regulators in Asia and Europe are tightening crypto‑related rules, pushing exchanges toward greater cold‑storage and licensing compliance.</li><li>Macro‑economic pressures—higher Australian rates and AI‑driven inflation—add another layer of complexity to crypto demand.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] Binance has spent half its SAFU bitcoin, about $580 million worth, data shows — <em>CoinDesk</em></li>\n<li>[3] Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key — <em>CoinDesk</em></li>\n<li>[4] Crypto.com to withdraw Hong Kong consumer app citing regulatory changes — <em>Cointelegraph</em></li>\n<li>[5] Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote — <em>CoinDesk</em></li>\n<li>[6] Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation — <em>Cointelegraph</em></li>\n<li>[7] UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028 — <em>Cointelegraph</em></li>\n<li>[8] Binance begins second withdrawal phase, exchange outflows slow — <em>Cointelegraph</em></li>\n<li>[9] Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower — <em>The Block</em></li>\n<li>[10] South Korea urges exchanges to boost cold storage after Binance hack — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "binance",
+        "market",
+        "regulation",
+        "institutional"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793686829/xeonbit24/posts/crypto-roundup-november-3-2026-at-0120-pm-ict-binance-safu-depletion-fuels-marke.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793686829/xeonbit24/posts/crypto-roundup-november-3-2026-at-0120-pm-ict-binance-safu-depletion-fuels-marke.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-3-2026-at-0120-pm-ict-binance-safu-depletion-fuels-marke",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 3, 2026 at 01:20 PM (ICT): Binance SAFU depletion fuels market unease while Bitcoin slides below"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+          "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+          "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+          "url": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+          "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+          "url": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+          "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance begins second withdrawal phase, exchange outflows slow",
+          "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+          "url": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+          "source": "The Block"
+        },
+        {
+          "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+          "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-03T06:20:29.756Z",
+      "slug": "crypto-roundup-november-3-2026-at-0120-pm-ict-binance-safu-depletion-fuels-marke"
+    },
+    {
       "id": "1793653020744",
       "title": "Crypto Roundup November 2, 2026 at 03:56 AM (ICT): Security breaches, AI hype, and market volatility",
       "summary": "Security incidents at major exchanges and a new AI‑driven Linux exploit dominate headlines, while analysts debate the resilience of crypto amid a post‑election rally and tightening AI spending. Bitcoin slips below $76K, and institutional tokenization gains momentum, setting a mixed tone for the market.",
@@ -30661,15 +30741,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-    "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-    "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
-    "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
-    "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-    "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
     "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
     "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
     "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
@@ -31160,10 +31231,18 @@
     "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
     "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
-    "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
+    "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+    "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+    "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+    "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+    "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+    "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
     "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31362,6 +31441,7 @@
     "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses|https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered|https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
     "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
     "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time|https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack|https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-    "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu|https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
+    "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu|https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows|https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
   ]
 }
