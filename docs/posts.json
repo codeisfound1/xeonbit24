@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793818661327",
+      "title": "Crypto Roundup November 4, 2026 at 01:57 AM (ICT): Mining, AI, and Tokenization Drive Market Shifts",
+      "summary": "Riot’s $28 bn AI lease, a Democratic sweep boosting Bitcoin, and a wave of tokenization on Wall Street dominate the day, while regulators and voters tighten AI‑data‑center rules.",
+      "content": "<p>Today’s crypto landscape is being reshaped by three intersecting forces: large‑scale AI infrastructure spending, the mainstreaming of tokenized securities, and a politically charged environment that continues to influence market sentiment. Bitcoin rallied on the back of a Democratic midterm win, while miners like Riot are leveraging BTC sales to fund AI expansion. At the same time, Wall Street firms are accelerating on‑chain tokenization, and regulators are signaling a more cautious stance on AI‑related data centers.</p><h2>1. Riot shares surge on $28 B AI lease as Hut 8 sinks on revenue miss</h2><p>Riot Platforms announced a $28 billion lease for AI‑focused data centers, financing the deal by selling a portion of its Bitcoin holdings. The move underscores a growing trend of miners repurposing crypto assets to fund high‑growth, non‑mining ventures. While the share price jumped, rival miner Hut 8 reported a revenue miss and higher transition costs, highlighting the divergent paths miners are taking amid rising energy costs and the need for diversification.</p><h2>2. Bitcoin rebounds after Democratic midterm sweep, but crypto faces tougher fight in Washington</h2><p>Bitcoin rallied roughly 4 % following the Democratic takeover of Congress, reflecting optimism that a more crypto‑friendly legislative agenda may emerge. However, the article notes that the market‑structure bill remains stalled and industry lobbyists are ramping up spending, indicating that regulatory uncertainty still looms. The bounce illustrates how political outcomes can produce short‑term price spikes even when long‑term policy clarity is lacking.</p><h2>3. Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach</h2><p>In the wake of a massive $6.3 billion hack at Binance, Coinbase highlighted that 99 % of its customer funds are held in offline cold storage, insulating it from similar attacks. The statement reinforces the importance of custodial best practices and may attract risk‑averse users to platforms that prioritize asset segregation and security.</p><h2>4. Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income</h2><p>Circle raised capital through its ARC token sale, aiming to diversify revenue beyond the thin margins on USDC stablecoin interest earnings, which have been squeezed by declining yields. The company is betting on future staking rewards and payment‑processing fees to sustain profitability, signaling a broader shift among stablecoin issuers toward ancillary services.</p><h2>5. Canton Coin gets SEC nod as Wall Street tokenization heats up</h2><p>The SEC staff classified Canton Coin as a digital commodity, opting not to pursue enforcement. This clearance comes days after the DTCC launched a tokenization service built partly on the Canton network. The decision could pave the way for more institutional token projects, as regulators signal a pragmatic approach to emerging tokenized assets.</p><h2>6. Wall Street’s plumbing goes on‑chain as Morgan Stanley tokenizes securities</h2><p>Morgan Stanley announced the tokenization of U.S. equities and Treasuries via the DTCC Tokenization Service, with 20 major firms already signed up. By moving core securities onto a blockchain, the bank aims to cut settlement times and operational costs, marking a significant step toward mainstream on‑chain finance.</p><h2>7. Schroders launches tokenized emerging‑markets debt fund on Solana with Centrifuge</h2><p>Asset manager Schroders partnered with Centrifuge to issue a tokenized emerging‑markets bond fund on Solana, bringing a traditionally illiquid asset class onto a high‑throughput blockchain. The $1 trillion‑plus manager’s entry signals confidence in Solana’s scalability and the growing appetite for on‑chain actively managed funds.</p><h2>8. US voters back AI data‑center restrictions in at least 29 communities</h2><p>Local referendums across the United States approved measures limiting AI data‑center construction, citing concerns over electricity consumption, water usage, and community oversight. These voter‑driven restrictions could slow the rollout of AI infrastructure that many crypto miners, including Riot, rely on for power‑intensive operations.</p><h2>9. Tech, AI stocks split after Democratic sweep: Microsoft jumps, Tesla and Nvidia tank</h2><p>Following the midterm results, Microsoft and Alphabet saw share gains, while Nvidia and Tesla fell. The split reflects investor uncertainty about how a Democratic Congress will regulate AI and big‑tech, a factor that indirectly affects crypto projects that depend on AI compute and cloud services.</p><h2>10. What is x402? How AI agents pay with crypto</h2><p>Coinbase’s x402 protocol repurposes the HTTP 402 “Payment Required” status code, enabling AI agents to pay for APIs and data streams using stablecoins like USDC. This innovation could create new revenue streams for developers and embed crypto deeper into AI‑driven applications.</p><h2>Market Outlook</h2><p>The convergence of AI capital spending, tokenization momentum, and political volatility creates a mixed‑signal environment. In the short term, Bitcoin’s rebound suggests that market sentiment can be buoyed by favorable political news, but regulatory headwinds—especially around AI data centers—may constrain miner expansion. Meanwhile, the tokenization wave is likely to accelerate as major financial institutions receive regulatory clarity, offering new on‑chain liquidity sources that could benefit DeFi protocols. Stablecoin issuers will need to diversify revenue beyond low‑yield holdings, and custodial security will remain a differentiator for exchanges.</p><h2>Key Takeaways</h2><ul><li>AI infrastructure financing is driving miners like Riot to monetize Bitcoin holdings, linking crypto markets to broader tech capital cycles.</li><li>Political outcomes continue to sway Bitcoin price, but long‑term regulatory certainty remains elusive.</li><li>Tokenization of securities and debt is gaining regulatory acceptance, positioning blockchain as a core layer of traditional finance.</li><li>Security practices such as cold storage are becoming a competitive advantage for exchanges post‑Binance breach.</li><li>Voter‑driven AI data‑center limits could create supply constraints for energy‑intensive crypto operations.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss — <em>Cointelegraph</em></li>\n<li>[2] US Voters Back AI Data Center Restrictions in At Least 29 Communities — <em>Decrypt</em></li>\n<li>[3] Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up — <em>Decrypt</em></li>\n<li>[4] Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income — <em>Cointelegraph</em></li>\n<li>[5] What Is x402? How AI Agents Pay With Crypto — <em>Decrypt</em></li>\n<li>[6] Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank — <em>Decrypt</em></li>\n<li>[7] Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach — <em>The Block</em></li>\n<li>[8] Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington — <em>Decrypt</em></li>\n<li>[9] Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities — <em>Decrypt</em></li>\n<li>[10] Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ai",
+        "tokenization",
+        "stablecoins",
+        "mining",
+        "regulation"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793818660/xeonbit24/posts/crypto-roundup-november-4-2026-at-0157-am-ict-mining-ai-and-tokenization-drive-m.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793818660/xeonbit24/posts/crypto-roundup-november-4-2026-at-0157-am-ict-mining-ai-and-tokenization-drive-m.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-4-2026-at-0157-am-ict-mining-ai-and-tokenization-drive-m",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 4, 2026 at 01:57 AM (ICT): Mining, AI, and Tokenization Drive Market Shifts"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+          "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+          "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+          "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+          "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "What Is x402? How AI Agents Pay With Crypto",
+          "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+          "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+          "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+          "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+          "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-04T18:57:41.327Z",
+      "slug": "crypto-roundup-november-4-2026-at-0157-am-ict-mining-ai-and-tokenization-drive-m"
+    },
+    {
       "id": "1793771670454",
       "title": "Crypto Roundup November 4, 2026 at 12:54 PM (ICT): US Midterms Shift Crypto Landscape, Global Regulatory Moves, and Market Reactions",
       "summary": "U.S. midterm results handed Democrats control of Congress, prompting fresh regulatory expectations, while Russia’s Moscow Exchange plans a December launch of Bitcoin and USDT and South Korea delays its crypto tax. The combined political and market shifts nudged Bitcoin below $76k and sparked broader industry sentiment.",
@@ -30903,16 +30984,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-    "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
-    "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-    "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-    "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
-    "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
-    "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
-    "https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066",
     "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
     "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
     "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
@@ -31402,10 +31473,19 @@
     "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
     "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
-    "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+    "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+    "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+    "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+    "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+    "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+    "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+    "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third|https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31604,6 +31684,7 @@
     "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu|https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows|https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
     "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461|https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack|https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
-    "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december|https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
+    "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december|https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+    "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions|https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization"
   ]
 }
