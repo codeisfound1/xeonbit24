@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793859406591",
+      "title": "Crypto Roundup November 5, 2026 at 01:16 PM (ICT): Market Holds, Security Threats, and Regulatory Shifts",
+      "summary": "Bitcoin steadied above $80,000 while Zcash surged 12% in a post‑election rally. At the same time, a wave of security incidents—from a Polygon hard‑fork proposal to AI‑driven hacks—combined with mounting regulatory pressure, reshaped market sentiment.",
+      "content": "<p>Across the crypto ecosystem, November 5, 2026 was marked by a juxtaposition of resilience and risk. Bitcoin and Ether continued to climb, buoyed by macro‑economic tailwinds, yet a series of security breaches and regulatory actions reminded participants that the space remains vulnerable. Below we break down the ten most newsworthy stories, explore their interconnections, and outline what they mean for the market’s short‑ and medium‑term trajectory.</p>\n<h2>1. Bitcoin holds above $80,000 as Zcash jumps 12% in post‑election crypto rebound</h2>\n<p>Bitcoin (BTC) maintained a price above the $80k threshold, while Ether (ETH) rose 8% after a dip in oil prices and a weakening U.S. dollar. The rally was further amplified by a 12% surge in Zcash (ZEC), which benefited from renewed investor interest in privacy assets following the recent U.S. midterm elections. The price action suggests that macro‑level factors—commodity price swings and fiat‑currency strength—are still the dominant drivers for the major coins, while niche assets like ZEC can capture upside when risk appetite improves.</p>\n<h2>2. Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto</h2>\n<p>After a hack that siphoned $6.8 million worth of MATIC, Binance and prediction‑market platform Polymarket are lobbying Polygon’s block producers for a hard fork that would roll back the illicit transactions. Polygon validators have already frozen the stolen tokens, but a fork would enable a clean‑up of the ledger and return the assets to their rightful owners. This episode underscores the tension between decentralisation (which resists retroactive changes) and the practical need for remediation after large‑scale thefts.</p>\n<h2>3. Zcash is about to freeze $16 million in its oldest privacy pool</h2>\n<p>Zcash announced plans to freeze roughly $16 million still locked in its legacy Sprout privacy pool, the network’s first generation of shielded transactions launched in 2016. About 12,200 ZEC remain, with most of the pool already emptied over the past week. Freezing the remaining balance is a precautionary step to prevent dust attacks and to encourage migration to the newer Sapling and Orchard pools, which offer stronger privacy guarantees and lower transaction costs.</p>\n<h2>4. XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens</h2>\n<p>The XRP Ledger (XRPL) deployed a patch that closes a vulnerability allowing approved token‑burners to inadvertently mint new tokens. The fix, rolled out after validators reset the activation clock in October, does not affect the XRP supply itself. This rapid response demonstrates the robustness of XRPL’s governance model, where validator consensus can be mobilised quickly to address critical code flaws.</p>\n<h2>5. Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show</h2>\n<p>Blockchain analytics firm Arkham traced a $342 million BTC transfer from a wallet linked to Trump Media &amp; Technology Group (TMTG) to Crypto.com’s custodial address. The move, occurring amid heightened political scrutiny, may be an effort to secure liquidity on a regulated exchange ahead of potential regulatory inquiries. It also highlights how high‑profile entities continue to use on‑chain transfers as a transparent, albeit public, method of fund management.</p>\n<h2>6. Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses</h2>\n<p>French banking group Crédit Mutuel Arkéa confirmed a cyber‑attack that ZachXBT previously flagged as potentially costing $133 million. While the bank stopped short of confirming the exact figure, the acknowledgement validates the growing trend of sophisticated attacks on traditional financial institutions that hold crypto‑related assets. The incident adds pressure on banks to upgrade their cyber‑defence postures, especially as they increasingly integrate crypto services.</p>\n<h2>7. India warns AI‑powered hackers targeting crypto exchanges at ‘machine speed’</h2>\n<p>India’s cybersecurity agency issued an alert about threat actors using artificial‑intelligence tools to automate attacks on crypto exchanges and other financial firms. The AI‑assisted approach can generate custom phishing payloads, bypass traditional signature‑based defenses, and execute trades or withdrawals at speeds previously unattainable by human hackers. Regulators and exchanges are urged to adopt behavioural analytics and AI‑driven monitoring to stay ahead of these threats.</p>\n<h2>8. The pile of lawsuits against Kalshi just grew by one</h2>\n<p>Arkansas joined Utah and several other states in filing criminal or civil charges against prediction‑market platform Kalshi, accusing it of illegal gambling. The expanding legal pressure on regulated prediction markets could set a precedent for how U.S. authorities treat decentralized finance (DeFi) products that blur the line between betting and financial speculation.</p>\n<h2>9. The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto</h2>\n<p>The Digital Chamber of Commerce, a lobbying group for the crypto industry, labelled Senator Sherrod Brown’s Senate victory as the most consequential setback for the sector. Brown is expected to champion stricter consumer‑protection rules and tighter oversight of crypto firms, signaling a shift toward more aggressive regulatory scrutiny in the United States.</p>\n<h2>10. ‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep</h2>\n<p>Following their midterm gains, Democrats warned tech CEOs to prepare for subpoenas and signaled fresh investigations into former President Trump’s business dealings. While not a crypto‑specific story, the political climate influences crypto markets, as regulatory bodies often act in tandem with broader tech oversight initiatives.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment remains bullish for Bitcoin and Ether, driven by macro factors such as lower oil prices and a softening dollar. However, the cascade of security incidents—from the Polygon hack to AI‑driven attacks—introduces a risk premium that could temper price gains, especially for smaller or less‑established assets. Regulatory headwinds are intensifying in the U.S., with multiple states pursuing legal action against prediction markets and a Senate that may push for stricter consumer protections. European banks’ exposure to cyber‑risk and India’s AI‑hacker warning further underscore a global tightening of security standards.</p>\n<p>In this environment, investors are likely to favour assets with strong governance and clear remediation pathways (e.g., XRP, Polygon post‑fork) while remaining cautious on privacy‑focused coins that may face additional scrutiny. Liquidity will continue to flow toward regulated custodians like Crypto.com, especially for high‑net‑worth participants seeking compliance certainty.</p>\n<h2>Key Takeaways</h2>\n<ul>\n  <li>Bitcoin’s resilience above $80k and Ether’s 8% rise signal that macro‑economic tailwinds still dominate major‑cap performance.</li>\n  <li>Security remains the top systemic risk: hard‑fork proposals, AI‑driven hacks, and traditional bank breaches illustrate a widening attack surface.</li>\n  <li>Regulatory pressure is accelerating in the U.S., with multiple states targeting prediction markets and a Senate likely to push for stricter consumer rules.</li>\n  <li>Privacy assets like Zcash can capture upside in risk‑on periods but may face future regulatory constraints.</li>\n  <li>Governance‑focused chains (Polygon, XRPL) that can quickly patch bugs or coordinate forks are better positioned to retain user confidence.</li>\n  <li>High‑profile on‑chain movements (Trump Media to Crypto.com) highlight the continued importance of transparent custodial solutions.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto — <em>Cointelegraph</em></li>\n<li>[2] Zcash is about to freeze $16 million in its oldest privacy pool — <em>CoinDesk</em></li>\n<li>[3] The pile of lawsuits against Kalshi just grew by one — <em>CoinDesk</em></li>\n<li>[4] XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens — <em>CoinDesk</em></li>\n<li>[5] Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound — <em>CoinDesk</em></li>\n<li>[6] ‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep — <em>Cointelegraph</em></li>\n<li>[7] The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto — <em>The Block</em></li>\n<li>[8] Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show — <em>CoinDesk</em></li>\n<li>[9] Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses — <em>The Block</em></li>\n<li>[10] India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’ — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "zcash",
+        "regulation",
+        "security",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793859406/xeonbit24/posts/crypto-roundup-november-5-2026-at-0116-pm-ict-market-holds-security-threats-and-.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793859406/xeonbit24/posts/crypto-roundup-november-5-2026-at-0116-pm-ict-market-holds-security-threats-and-.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-5-2026-at-0116-pm-ict-market-holds-security-threats-and-",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup November 5, 2026 at 01:16 PM (ICT): Market Holds, Security Threats, and Regulatory Shifts"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+          "url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+          "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The pile of lawsuits against Kalshi just grew by one",
+          "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+          "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+          "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+          "url": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto",
+          "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
+          "source": "The Block"
+        },
+        {
+          "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+          "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
+          "url": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+          "source": "The Block"
+        },
+        {
+          "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+          "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-05T06:16:46.591Z",
+      "slug": "crypto-roundup-november-5-2026-at-0116-pm-ict-market-holds-security-threats-and-"
+    },
+    {
       "id": "1793818661327",
       "title": "Crypto Roundup November 4, 2026 at 01:57 AM (ICT): Mining, AI, and Tokenization Drive Market Shifts",
       "summary": "Riot’s $28 bn AI lease, a Democratic sweep boosting Bitcoin, and a wave of tokenization on Wall Street dominate the day, while regulators and voters tighten AI‑data‑center rules.",
@@ -30984,16 +31065,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
-    "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
-    "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-    "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
-    "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-    "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
     "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
     "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
     "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31483,10 +31554,19 @@
     "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
     "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
     "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
-    "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
+    "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+    "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+    "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+    "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+    "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+    "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
+    "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+    "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+    "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third|https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31685,6 +31765,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows|https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
     "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461|https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack|https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
     "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december|https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-    "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions|https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization"
+    "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions|https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+    "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool|https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
   ]
 }
