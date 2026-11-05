@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793905773344",
+      "title": "Crypto Roundup November 5, 2026 at 02:09 AM (ICT): Security breaches, AI fallout, and tokenization drive market dynamics",
+      "summary": "Regulators are tightening scrutiny after a massive Binance hack while AI‑driven market turbulence rattles crypto and equity prices. At the same time, European asset managers and Solana‑based platforms push tokenized finance forward, highlighting a split between risk‑off sentiment and innovation.",
+      "content": "<p>The crypto ecosystem woke up to a mix of security scares, regulatory actions, and fresh tokenization projects. A $6.3 billion breach at Binance triggered a coordinated response from U.S. regulators, while AI‑related market stress caused a $1 billion liquidation wave that tested Bitcoin’s resilience. Meanwhile, Europe’s biggest asset manager launched an Ethereum‑based equity index fund and Solana’s Leap app entered beta, underscoring continued demand for on‑chain financial products despite heightened risk awareness.</p><h2>1. Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack</h2><p>SignalPlus disclosed that attackers compromised an engineer’s workstation, siphoning under $82,000. Binance and Deribit responded by revoking the compromised API keys and pledging full reimbursement. The incident highlights the growing sophistication of social‑engineering attacks targeting API credentials, a vector that can bypass traditional exchange security layers. For traders, the episode is a reminder to enforce multi‑factor authentication and to rotate API secrets regularly.</p><h2>2. Fed, OCC check US banks after Binance hack as experts flag security risks</h2><p>Following the Binance breach, the Federal Reserve and the Office of the Comptroller of the Currency reached out to major U.S. banks to assess exposure to crypto‑related transaction flows. Experts warned that large‑scale hacks could cascade into traditional finance via correspondent banking relationships. While no immediate banking disruptions were reported, the regulatory outreach signals a shift toward tighter oversight of crypto‑linked services offered by legacy institutions.</p><h2>3. Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees ‘glass half full’</h2><p>AI‑driven trading algorithms triggered a rapid unwind of equity positions, dragging the S&P 500 down 3.8 % and prompting circuit‑breaker alerts. Crypto markets fared better, with Bitcoin absorbing a $1 billion liquidation wave but closing the day only modestly down. Wintermute’s senior trader noted that the relative stability stems from Bitcoin’s decoupling from AI‑centric equities and its status as a “digital safe haven” during tech‑sector volatility.</p><h2>4. U.S. Justice Department assembles force to shield against foreign AI threats</h2><p>The DOJ announced a new task force to counter foreign‑sponsored AI threats, complementing the recently created “SI Force.” While not crypto‑specific, the initiative could affect blockchain projects that rely on AI for smart‑contract auditing or market‑making, as foreign actors may exploit AI vulnerabilities to manipulate on‑chain data. Crypto firms should anticipate stricter compliance checks on AI‑related tooling.</p><h2>5. Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum</h2><p>Amundi launched a tokenized share class that mirrors a 600‑company European equity index, issuing ERC‑20 tokens on Ethereum. The move provides investors with 24/7 settlement, fractional ownership, and lower custody costs. It also marks a watershed moment for institutional adoption of Ethereum as a settlement layer, potentially driving demand for ETH and Layer‑2 scaling solutions.</p><h2>6. Solana Labs’ Leap launches mobile app for trading tokenized stocks and crypto</h2><p>Leap, built by the Dialect team, entered beta on iOS, allowing users to trade tokenized stocks, ETFs, metals, currencies, and crypto directly on Solana’s high‑throughput network. By bundling traditional assets with crypto in a single app, Leap aims to capture traders disillusioned by meme‑coin volatility. The launch underscores Solana’s strategy to become a multi‑asset hub, leveraging its low fees and fast finality.</p><h2>7. Trump‑Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books</h2><p>Hut 8‑backed miner American Bitcoin reported a Q3 profit, largely driven by a $197 million gain on its BTC holdings. The turnaround from a Q2 loss illustrates how exposure to Bitcoin’s price rally can quickly swing corporate earnings, reinforcing the narrative that mining firms are increasingly viewed as quasi‑investment vehicles.</p><h2>8. S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs</h2><p>The S&P 500’s 3.8 % drop triggered emergency trading halts, with AI‑heavy stocks leading the sell‑off. The rapid reversal after a day of political optimism highlights the market’s sensitivity to AI‑related risk, a factor that also spilled over into crypto sentiment, as investors re‑evaluated risk‑on positions.</p><h2>9. Paraguay president resigns after collapse of Ueno digital bank</h2><p>Paraguay’s president stepped down amid scrutiny over his ties to the failed Ueno digital bank, which left millions of customers unable to access funds. While the story is primarily political, it raises concerns about regulatory gaps in emerging markets where digital‑only banks operate without robust oversight, a cautionary tale for crypto‑based financial services expanding into similar jurisdictions.</p><h2>10. Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report</h2><p>Major studios have prohibited employees from wagering on prediction markets that cover casting, release dates, and box‑office outcomes. The ban reflects broader corporate worries about insider information leakage and market manipulation, issues that parallel concerns in crypto prediction‑market platforms where regulatory clarity is still evolving.</p><h2>Market Outlook</h2><p>Short‑term volatility is likely to persist as AI‑induced equity turbulence filters into crypto sentiment. However, institutional tokenization projects on Ethereum and Solana suggest a parallel trajectory of mainstream adoption that could buoy demand for Layer‑1 networks. Regulatory scrutiny, especially in the U.S., will intensify around security practices and AI‑related compliance, potentially adding compliance costs but also fostering greater investor confidence.</p><h2>Key Takeaways</h2><ul><li>Security remains paramount: API‑key hygiene and rapid response to breaches are now industry standards.</li><li>AI‑driven market stress is a new macro risk factor for crypto, but Bitcoin’s relative resilience may reinforce its “digital safe haven” narrative.</li><li>Tokenization on Ethereum and Solana is accelerating, indicating growing institutional appetite for on‑chain assets.</li><li>Regulators are extending oversight from crypto‑exchanges to traditional banks and AI‑focused entities, creating a broader compliance landscape.</li><li>Geopolitical and political events (Paraguay, U.S. politics) continue to shape market narratives, underscoring the need for diversified risk management.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack — <em>Cointelegraph</em></li>\n<li>[2] U.S. Justice Department assembles force to shield against foreign AI threats — <em>CoinDesk</em></li>\n<li>[3] Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full' — <em>CoinDesk</em></li>\n<li>[4] Fed, OCC check US banks after Binance hack as experts flag security risks — <em>Cointelegraph</em></li>\n<li>[5] Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books — <em>Decrypt</em></li>\n<li>[6] Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum — <em>Cointelegraph</em></li>\n<li>[7] S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs — <em>Decrypt</em></li>\n<li>[8] Paraguay president resigns after collapse of Ueno digital bank — <em>Cointelegraph</em></li>\n<li>[9] Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report — <em>Decrypt</em></li>\n<li>[10] Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "crypto",
+        "market",
+        "solana"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793905772/xeonbit24/posts/crypto-roundup-november-5-2026-at-0209-am-ict-security-breaches-ai-fallout-and-t.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793905772/xeonbit24/posts/crypto-roundup-november-5-2026-at-0209-am-ict-security-breaches-ai-fallout-and-t.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-5-2026-at-0209-am-ict-security-breaches-ai-fallout-and-t",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup November 5, 2026 at 02:09 AM (ICT): Security breaches, AI fallout, and tokenization drive market dynamics"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+          "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+          "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+          "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+          "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
+          "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+          "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
+          "url": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Paraguay president resigns after collapse of Ueno digital bank",
+          "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+          "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+          "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-05T19:09:33.345Z",
+      "slug": "crypto-roundup-november-5-2026-at-0209-am-ict-security-breaches-ai-fallout-and-t"
+    },
+    {
       "id": "1793859406591",
       "title": "Crypto Roundup November 5, 2026 at 01:16 PM (ICT): Market Holds, Security Threats, and Regulatory Shifts",
       "summary": "Bitcoin steadied above $80,000 while Zcash surged 12% in a post‑election rally. At the same time, a wave of security incidents—from a Polygon hard‑fork proposal to AI‑driven hacks—combined with mounting regulatory pressure, reshaped market sentiment.",
@@ -31065,16 +31146,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-    "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-    "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-    "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
-    "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
     "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
     "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
@@ -31564,10 +31635,19 @@
     "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
     "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
     "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
-    "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+    "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+    "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+    "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
+    "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+    "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day|https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
@@ -31766,6 +31846,7 @@
     "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461|https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack|https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
     "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december|https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
     "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions|https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-    "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool|https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
+    "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool|https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+    "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats|https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
   ]
 }
