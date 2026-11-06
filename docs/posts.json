@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793945481654",
+      "title": "Crypto Roundup November 6, 2026 at 01:11 PM (ICT): Market Shifts, Mining Realignments, and Regulatory Moves",
+      "summary": "Bitcoin’s ecosystem faces fresh security proposals while major miners pivot to AI, and institutional investors double‑down on exchange stocks amid a broader market sell‑off. Together, these stories signal a tightening of risk management, a reallocation of hashpower revenue, and a growing regulatory focus on futures platforms.",
+      "content": "<p>The crypto landscape on November 6, 2026 is defined by three intersecting themes: heightened attention to asset safety, a rapid reallocation of mining capital toward artificial‑intelligence infrastructure, and renewed regulatory jockeying for futures and exchange services. While Bitcoin’s price remains relatively stable, the underlying dynamics—ranging from protocol upgrades to institutional portfolio shifts—are reshaping risk‑reward calculations for investors and developers alike.</p>\n<h2>1. Ark Invest doubles down on Coinbase amid market rout</h2>\n<p>Cathie Wood’s Ark Invest purchased $2.44 million of Coinbase shares as the stock fell 9.69 % in a broader equity sell‑off. The move underscores Ark’s long‑term conviction in crypto‑exchange exposure despite short‑term volatility. By adding to its position while the price is depressed, Ark signals confidence that Coinbase will benefit from sustained trading volume, especially as other exchanges highlight cold‑storage ratios to reassure users.</p>\n<h2>2. Bitcoin developer proposes “quantum landmines” to deter quantum attacks</h2>\n<p>A Bitcoin Core contributor suggested a novel defensive mechanism: transactions that attempt to move vulnerable UTXOs would require the attacker to post collateral equal to the value being moved. If the transaction is later proven to be a quantum‑derived exploit, the collateral is forfeited to the original owner. The proposal aims to make quantum‑computing attacks economically unattractive, buying time for the network to adopt post‑quantum cryptography. While still theoretical, it reflects growing awareness of quantum risk as hardware advances.</p>\n<h2>3. Zcash launches NU7 upgrade, accelerating private payments</h2>\n<p>Zcash’s long‑awaited NU7 hard fork went live, cutting block intervals from 75 seconds to 25 seconds and streamlining the Sapling‑style shielded transaction verification. The upgrade reduces the computational burden on wallets, lowers latency for private transfers, and earmarks a portion of transaction fees for future miner incentives. Faster, cheaper privacy transactions could revive Zcash’s usage in jurisdictions where anonymity is prized.</p>\n<h2>4. Core Scientific exits Bitcoin mining to become pure‑play AI data‑center provider</h2>\n<p>Core Scientific announced it will cease Bitcoin mining by year‑end, with mining now representing only 7.5 % of quarterly revenue. The firm will refocus on AI‑focused colocation services, leveraging its existing high‑density infrastructure. This mirrors a broader trend where miners repurpose excess power and cooling capacity for AI workloads, a sector that offers higher margins and faster revenue growth than the increasingly competitive mining market.</p>\n<h2>5. IREN’s mining revenue plunges 58 % as AI cloud business soars</h2>\n<p>Chinese mining conglomerate IREN reported a 58 % drop in Bitcoin mining revenue, offset by a 182 % surge in AI cloud earnings to $200 million. The company plans a full exit from mining by year‑end, reallocating capital to AI infrastructure. IREN’s pivot highlights the pressure on miners from rising electricity costs, network difficulty, and the allure of AI services that command premium pricing for GPU‑intensive workloads.</p>\n<h2>6. American Bitcoin posts $126 M profit but faces margin squeeze</h2>\n<p>Eric Trump‑backed miner American Bitcoin disclosed a $126 million net income for the quarter, driven largely by gains on its Bitcoin holdings. However, the report flagged rising operational costs and shrinking profit margins as the company scales. The profit mask underscores a sector‑wide challenge: miners must balance asset appreciation against the eroding economics of block rewards and transaction fees.</p>\n<h2>7. Hyperliquid seeks U.S. futures commission merchant license</h2>\n<p>Derivatives platform Hyperliquid announced its intention to become a U.S. “futures commission merchant” (FCM), aiming for full compliance with the Commodity Futures Trading Commission (CFTC). While the timeline remains uncertain, the move reflects a broader push by crypto‑focused firms to secure regulated status in the United States, potentially unlocking institutional liquidity and reducing the regulatory risk premium.</p>\n<h2>8. Exchanges spotlight cold‑storage ratios after Binance hack</h2>\n<p>Following a recent Binance security breach, exchanges are emphasizing their cold‑storage holdings. Coinbase claims over 99 % of customer assets are offline, while Gate reports 88.26 % in cold storage. These disclosures aim to rebuild trust by demonstrating that the majority of funds are insulated from online attacks, a narrative that dovetails with Ark’s confidence in Coinbase.</p>\n<h2>9. Claude personal‑finance assistant sparks controversy with Pompliano</h2>\n<p>Anthropic’s AI assistant Claude launched a personal‑finance feature that aggregates U.S. bank data to provide spending insights. Anthony Pompliano accused the company of copying his own fintech startup’s concept, igniting a debate over AI‑driven financial services and data privacy. The episode illustrates the growing intersection of crypto‑savvy investors with mainstream AI applications.</p>\n<h2>10. Daily crypto roundup – trends and events shaping the market</h2>\n<p>Cointelegraph’s daily digest highlighted the day’s top stories, from Bitcoin price movements to regulatory updates. While the roundup itself is a summary, it reinforces the narrative that the market is currently driven by infrastructure shifts (mining to AI), security innovations (quantum defenses, cold storage), and regulatory positioning (FCM licensing).</p>\n<h2>Market Outlook</h2>\n<p>In the short term, Bitcoin’s price is likely to remain range‑bound as investors digest the mixed signals of institutional buying and mining cost pressures. The most significant catalyst could be the adoption of Zcash’s NU7 upgrade, which may attract privacy‑focused users and modestly boost transaction volume. Over the medium term (3‑6 months), we expect continued capital migration from pure mining operations to AI‑related data‑center services, especially as AI demand outpaces the marginal profitability of Bitcoin mining. Regulatory clarity for futures platforms like Hyperliquid could unlock a new wave of institutional participation, but the timeline remains uncertain.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Institutional confidence in exchange equities persists despite market volatility, as evidenced by Ark’s Coinbase purchase.</li><li>Security innovation is a priority: quantum‑landmine proposals and faster Zcash privacy transactions aim to future‑proof protocols.</li><li>Mining is undergoing a structural shift toward AI infrastructure, driven by higher margins and lower energy intensity.</li><li>Regulatory engagement, particularly around U.S. futures licensing, is intensifying and could reshape market liquidity.</li><li>Cold‑storage transparency is becoming a competitive differentiator for exchanges after high‑profile hacks.</li></ul>\n<p>Overall, the crypto ecosystem is at a crossroads where technical upgrades, capital reallocation, and regulatory positioning will determine the next phase of growth.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] Zcash’s landmark NU7 upgrade goes live, speeding up private payments — <em>CoinDesk</em></li>\n<li>[3] Crypto exchanges tout cold storage ratios after Binance attack — <em>Cointelegraph</em></li>\n<li>[4] IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end — <em>The Block</em></li>\n<li>[5] Ark Invest buys more Coinbase as shares plunge 10% in wider market rout — <em>The Block</em></li>\n<li>[6] Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform — <em>CoinDesk</em></li>\n<li>[7] Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC — <em>CoinDesk</em></li>\n<li>[8] Core Scientific to quit Bitcoin mining by year-end as AI business surges — <em>Cointelegraph</em></li>\n<li>[9] Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup — <em>Decrypt</em></li>\n<li>[10] American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "zcash",
+        "mining",
+        "regulation",
+        "defi",
+        "ai"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793945481/xeonbit24/posts/crypto-roundup-november-6-2026-at-0111-pm-ict-market-shifts-mining-realignments-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793945481/xeonbit24/posts/crypto-roundup-november-6-2026-at-0111-pm-ict-market-shifts-mining-realignments-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-6-2026-at-0111-pm-ict-market-shifts-mining-realignments-",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 6, 2026 at 01:11 PM (ICT): Market Shifts, Mining Realignments, and Regulatory Moves"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+          "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+          "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+          "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+          "source": "The Block"
+        },
+        {
+          "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+          "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+          "source": "The Block"
+        },
+        {
+          "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+          "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+          "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+          "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+          "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+          "source": "Decrypt"
+        },
+        {
+          "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+          "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-06T06:11:21.655Z",
+      "slug": "crypto-roundup-november-6-2026-at-0111-pm-ict-market-shifts-mining-realignments-"
+    },
+    {
       "id": "1793905773344",
       "title": "Crypto Roundup November 5, 2026 at 02:09 AM (ICT): Security breaches, AI fallout, and tokenization drive market dynamics",
       "summary": "Regulators are tightening scrutiny after a massive Binance hack while AI‑driven market turbulence rattles crypto and equity prices. At the same time, European asset managers and Solana‑based platforms push tokenized finance forward, highlighting a split between risk‑off sentiment and innovation.",
@@ -31146,15 +31227,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-    "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-    "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
-    "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-    "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-    "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-    "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
     "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
     "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31645,10 +31717,18 @@
     "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
     "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-    "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto"
+    "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+    "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+    "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+    "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+    "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+    "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+    "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+    "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day|https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
     "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
@@ -31847,6 +31927,7 @@
     "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december|https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
     "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions|https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
     "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool|https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
-    "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats|https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
+    "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats|https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments|https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
