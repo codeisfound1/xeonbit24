@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-7-2026-at-1239-pm-ict-us-treasury-crackdown-and-global-r</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794029996/xeonbit24/posts/crypto-roundup-november-7-2026-at-1239-pm-ict-us-treasury-crackdown-and-global-r.jpg</image:loc>
+      <image:title>Crypto Roundup November 7, 2026 at 12:39 PM (ICT): US Treasury crackdown and global regulatory shifts</image:title>
+      <image:caption>Crypto Roundup November 7, 2026 at 12:39 PM (ICT): US Treasury crackdown and global regulatory shifts</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-6-2026-at-0136-am-ict-regulatory-wins-bitcoin-turbulence</loc>
