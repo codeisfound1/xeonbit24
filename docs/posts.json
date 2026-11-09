@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794260460973",
+      "title": "Crypto Roundup November 9, 2026 at 04:40 AM (ICT): AI Power Shifts, Regulatory Scrutiny, and Market Uncertainty",
+      "summary": "AI‑driven power shortages, a looming Australian tax hike, and fresh laundering schemes after the Binance hack dominate today’s headlines, while Bitcoin hovers near $75k ahead of the US inflation report. Regulatory pressure mounts in the US and tokenization gains traction on new exchanges.",
+      "content": "<p>Global crypto markets entered the morning of November 9, 2026 in a state of cautious balance. Bitcoin lingered around $75,000 as equity markets rallied ahead of the U.S. inflation report, while a cascade of non‑technical stories – from AI data‑center power shortages to heightened regulatory focus on prediction markets – added layers of complexity. Below we break down the ten most relevant stories, highlight emerging trends, and outline what the next few weeks could hold for investors and developers alike.</p>\n<h2>1. Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report</h2>\n<p>U.S. equities surged on lower oil prices, but Bitcoin remained stuck near $75,000 after a wave of liquidations wiped out roughly $4 billion in long‑positions. Traders are waiting for the Consumer Price Index (CPI) release later today; a softer inflation reading could revive expectations of a December Federal Reserve rate hike pause, which would be bullish for BTC. Conversely, a hotter CPI could reignite risk‑off sentiment and push Bitcoin back down. Technical charts show a tight range between the 50‑day moving average (≈$73,800) and the 200‑day average (≈$71,200), suggesting a breakout in either direction could set the tone for the next month.</p>\n<h2>2. Nvidia’s $350 Billion Scare: What Happens If Jensen Huang Leaves?</h2>\n<p>Nvidia shares slipped up to 8 % after a Bloomberg report hinted at internal turmoil surrounding CEO Jensen Huang. The chipmaker’s valuation – roughly $350 billion – is a cornerstone of the AI boom, and any leadership vacuum could ripple through the broader AI‑related crypto ecosystem. Projects that rely on Nvidia GPUs for training large language models (LLMs) or for mining AI‑optimized tokens may see cost volatility, prompting developers to diversify toward AMD or Google’s new TPU offerings.</p>\n<h2>3. Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory</h2>\n<p>Google unveiled the TPU 8tx and TPU 8i Max, chips designed for privacy‑preserving AI workloads and memory‑intensive models. The TPU 8tx’s on‑chip encryption could attract enterprises wary of data leakage, while the 8i Max’s 1 TB of HBM memory opens doors for generative‑AI applications that previously required Nvidia’s high‑end GPUs. Crypto projects focused on confidential computing (e.g., zk‑rollups that need secure off‑chain proof generation) may begin experimenting with Google’s hardware, potentially reducing the sector’s reliance on Nvidia.</p>\n<h2>4. AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years</h2>\n<p>With a global shortage of new gas turbines, AI data‑center operators are turning to refurbished jet‑engine generators to meet soaring electricity demand. While the solution provides short‑term capacity, it raises concerns about higher emissions, regulatory permitting, and operational reliability. Crypto miners that co‑locate with AI farms could face increased power costs, prompting a renewed interest in renewable‑powered mining farms and on‑chain energy‑efficiency protocols.</p>\n<h2>5. North Korean Hackers Create Memecoins to Launder Funds from Binance Hack</h2>\n<p>Elliptic traced stolen Binance funds through six newly minted tokens on the NEAR protocol. The hackers used liquidity pools to obscure the trail, effectively turning illicit proceeds into “memecoins” featuring animal and Elon Musk imagery. This laundering method underscores the growing sophistication of state‑linked actors exploiting DeFi’s composability. Projects on NEAR and other interoperable chains may need to tighten AML monitoring and consider mandatory token‑origin disclosures.</p>\n<h2>6. Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto</h2>\n<p>In a parallel investigation, Elliptic reported that the same actors are minting meme tokens on multiple chains, including Binance Smart Chain and Polygon, to further dilute the traceability of the hacked assets. The use of high‑volume, low‑value tokens makes on‑chain analysis more costly and highlights the need for cross‑chain forensic tools that can follow funds through automated market makers (AMMs) and bridge contracts.</p>\n<h2>7. Elizabeth Warren Vows Scrutiny of Prediction Markets, Trump Family Crypto Ventures</h2>\n<p>Senator Warren, now chair of the Senate Banking Committee, announced hearings on prediction‑market platforms and the Trump family’s crypto enterprises. While prediction markets are not yet mainstream in the U.S., they intersect with decentralized finance (DeFi) protocols that enable outcome‑based token trading. The scrutiny could lead to tighter KYC/AML requirements for platforms like Augur and Polymarket, potentially slowing user growth but also legitimizing the space through clearer regulatory frameworks.</p>\n<h2>8. Formation Securities Plans Solana Stock Trading Venue Under SEC Exemption</h2>\n<p>Formation Securities filed to launch a 24/7 tokenized‑share venue on Solana, featuring equities from Galaxy Digital, Exodus, and Forward Industries. The SEC exemption hinges on the venue’s compliance with the “broker‑dealer” safe harbor, allowing investors to trade tokenized stocks without traditional settlement delays. If successful, this could accelerate the convergence of traditional equities and crypto, encouraging more firms to explore Solana’s high‑throughput, low‑fee environment.</p>\n<h2>9. Robinhood Backs Tokenization of Its Stock on OKX–ICE Platform Even as Most Companies Opt Out</h2>\n<p>Robinhood announced it will issue a tokenized version of its own shares on the OKX‑ICE joint platform, positioning itself as a pioneer amid a wave of corporate reluctance. The move signals confidence in regulated token‑issuance frameworks and could spur other broker‑dealers to experiment with hybrid listings, especially if liquidity proves robust on decentralized exchanges (DEXs) that support the token.</p>\n<h2>10. Should You Leave Australia to Avoid Paying 47% Tax on Crypto Gains?</h2>\n<p>Australia’s upcoming capital‑gains‑tax (CGT) hike to 47 % (effective July 2027) is prompting crypto investors to consider relocation. While moving abroad can reduce tax liability, the article outlines alternative strategies such as using tax‑efficient structures, timing disposals before the rate change, and leveraging Australia’s “crypto‑friendly” self‑managed super funds. The discussion highlights how fiscal policy can drive cross‑border capital flows, potentially affecting on‑chain activity from Australian wallets.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of macro‑economic uncertainty, AI‑related power constraints, and heightened regulatory focus creates a “risk‑on/risk‑off” environment for crypto assets. Bitcoin’s price action will likely mirror the outcome of the CPI report; a softer reading could revive bullish sentiment, while a hotter number may push investors toward safe‑haven assets like gold or stablecoins. Ethereum and other smart‑contract platforms may benefit from the growing demand for tokenized equities and AI‑driven applications, especially as Google’s TPUs and Solana’s tokenized‑share venue gain traction.</p>\n<p>On the threat side, sophisticated laundering schemes using meme tokens demonstrate that DeFi’s composability remains a double‑edged sword. Expect continued pressure from regulators in the U.S. and Australia, and watch for potential AML rule changes that could affect cross‑chain bridges and AMM liquidity providers.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin is poised for a decisive move pending the U.S. inflation report; traders should monitor the CPI closely.</li><li>AI hardware competition (Google vs. Nvidia) may diversify the compute landscape, influencing mining costs and AI‑related token projects.</li><li>Power shortages for AI data centers could raise operating expenses for co‑located crypto miners, accelerating the shift toward renewable‑energy solutions.</li><li>State‑linked actors are using meme‑token laundering on multiple chains, underscoring the need for stronger cross‑chain AML tools.</li><li>Regulatory scrutiny is intensifying on prediction markets and high‑profile crypto ventures, likely leading to stricter KYC/AML compliance.</li><li>Tokenization of traditional equities is gaining momentum on Solana and via Robinhood’s partnership with OKX‑ICE, hinting at a blended future for stocks and crypto.</li><li>Australian investors face a steep tax increase; relocation or strategic tax planning will become a hot topic in the community.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years — <em>Decrypt</em></li>\n<li>[2] Should you leave Australia to avoid paying 47% tax on crypto gains? — <em>Cointelegraph</em></li>\n<li>[3] North Korean hackers create memecoins to launder funds from Binance hack: Elliptic — <em>Cointelegraph</em></li>\n<li>[4] Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory — <em>Decrypt</em></li>\n<li>[5] Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair — <em>The Block</em></li>\n<li>[6] Formation Securities plans Solana stock trading venue under SEC exemption — <em>Cointelegraph</em></li>\n<li>[7] Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out — <em>CoinDesk</em></li>\n<li>[8] Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto — <em>Decrypt</em></li>\n<li>[9] Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report — <em>Decrypt</em></li>\n<li>[10] Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves? — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "nft"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794260460/xeonbit24/posts/crypto-roundup-november-9-2026-at-0440-am-ict-ai-power-shifts-regulatory-scrutin.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794260460/xeonbit24/posts/crypto-roundup-november-9-2026-at-0440-am-ict-ai-power-shifts-regulatory-scrutin.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-9-2026-at-0440-am-ict-ai-power-shifts-regulatory-scrutin",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 9, 2026 at 04:40 AM (ICT): AI Power Shifts, Regulatory Scrutiny, and Market Uncertainty"
+      },
+      "sourceUrl": "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
+          "url": "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+          "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+          "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+          "url": "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+          "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+          "source": "The Block"
+        },
+        {
+          "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+          "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+          "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+          "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+          "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
+          "url": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-09T21:41:00.973Z",
+      "slug": "crypto-roundup-november-9-2026-at-0440-am-ict-ai-power-shifts-regulatory-scrutin"
+    },
+    {
       "id": "1794203557722",
       "title": "Crypto Roundup November 9, 2026 at 12:52 PM (ICT): Bitcoin volatility, Ethereum governance clash, Zcash block‑time push and market tremors",
       "summary": "Bitcoin’s price swung sharply after a scandal at Nvidia and failed Iran talks, while Ethereum faces competing governance proposals to protect legacy contracts. Zcash’s developers seek faster blocks, and a cascade of regulatory and operational news adds further pressure to the broader crypto market.",
@@ -31713,16 +31794,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-    "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-    "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
-    "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-    "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-    "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
-    "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
     "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
     "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
     "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32212,10 +32283,19 @@
     "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
     "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
     "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
+    "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+    "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
+    "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
+    "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+    "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+    "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+    "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+    "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say|https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears|https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12|https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32414,6 +32494,7 @@
     "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue|https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets|https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
     "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992|https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988|https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
     "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022|https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts|https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
+    "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts|https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines|https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
