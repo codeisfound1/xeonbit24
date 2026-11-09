@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794203557722",
+      "title": "Crypto Roundup November 9, 2026 at 12:52 PM (ICT): Bitcoin volatility, Ethereum governance clash, Zcash block‑time push and market tremors",
+      "summary": "Bitcoin’s price swung sharply after a scandal at Nvidia and failed Iran talks, while Ethereum faces competing governance proposals to protect legacy contracts. Zcash’s developers seek faster blocks, and a cascade of regulatory and operational news adds further pressure to the broader crypto market.",
+      "content": "<p>November 9, 2026 was a whirlwind for crypto investors. A mix of technical upgrades, governance battles, and external geopolitical shocks created a volatile backdrop that rippled through Bitcoin, Ethereum, and a host of alt‑coins. Below we break down the ten most significant stories, explain the jargon, and draw a line from today’s headlines to the market outlook for the coming weeks.</p>\n<h2>1. Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility</h2>\n<p>CoinDesk reported that Bitcoin’s price fell sharply after news broke that Nvidia’s CEO Jensen Huang is under investigation for alleged ties to a Chinese intelligence operative. The scandal sent risk‑off sentiment through the market, prompting a wave of liquidations in leveraged long positions. Within hours, however, the price rebounded as traders bought the dip, betting that the fallout would be contained to Nvidia’s stock and not spill over into crypto. Simultaneously, the collapse of renewed diplomatic talks with Iran removed a potential catalyst for a broader risk‑on rally, adding another layer of uncertainty.</p>\n<p>Technical terms: <em>leveraged bullish plays</em> refer to futures or margin positions that amplify gains (and losses) when the market moves in the trader’s direction. A “liquidation” occurs when the position’s margin falls below the required level, forcing the exchange to close it.</p>\n<h2>2. Binance's bitcoin mining pool finds just one block in a week as shutdown nears</h2>\n<p>Binance’s once‑dominant mining pool, which contributed a sizable share of Bitcoin’s hash power, reported a dramatic drop to a single block found in the past seven days. The pool is slated to cease operations on November 10, ending a venture that began as a strategic move to secure the network and generate fee revenue. The shutdown reduces overall network hash rate, potentially easing mining difficulty and marginally lowering transaction fees, but it also underscores the growing regulatory pressure on large exchanges that run mining operations.</p>\n<h2>3. Zcash devs propose another block time cut days after NU7 upgrade</h2>\n<p>Following the recent NU7 upgrade, Zcash developers have floated a proposal to shrink block intervals from 75 seconds to 20 seconds. Faster blocks would lower confirmation times, making Zcash more attractive for point‑of‑sale payments, exchange deposits, and cross‑chain swaps. Critics warn that shorter blocks could increase orphan rates (blocks that are discarded because another block was accepted first) and raise the risk of centralization if only well‑resourced miners can keep up.</p>\n<p>Technical terms: <em>block time</em> is the average interval between new blocks; a shorter block time means transactions confirm more quickly but can strain network resources.</p>\n<h2>4. Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts</h2>\n<p>Ethereum’s upcoming gas‑pricing changes have sparked two competing EIPs (Ethereum Improvement Proposals) designed to protect legacy contracts from unintended breakage—a scenario dubbed “Glamsterdam.” One proposal changes the way gas is billed for certain opcodes, preserving the original cost view for existing contracts while charging the new rates to fresh deployments. The rival proposal rewrites the execution environment so that contracts see a static gas schedule regardless of future upgrades. The debate highlights the tension between protocol evolution and backward compatibility.</p>\n<p>Technical terms: <em>gas</em> is the fee paid to execute operations on Ethereum; an <em>EIP</em> is a formal design document for changes to the protocol.</p>\n<h2>5. tBTC bridge partially resumes as $120M Aave reserve remains frozen</h2>\n<p>Threshold’s tBTC bridge, which lets users move Bitcoin onto Ethereum as an ERC‑20 token, resumed limited operations after a critical Linux kernel vulnerability was patched. The bridge was halted on Oct. 30 to prevent potential remote code execution attacks. Meanwhile, Aave’s $120 million reserve linked to the bridge remains frozen, leaving liquidity providers unable to withdraw or redeploy those assets. The incident underscores the systemic risk that a single bridge failure can impose on DeFi protocols.</p>\n<h2>6. Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal</h2>\n<p>The Block detailed how Nvidia’s perpetual futures (perps) fell sharply after the board announced an investigation into Huang’s alleged relationship with a Chinese spy. While the scandal is unrelated to crypto directly, Nvidia’s GPUs power a large share of Bitcoin and AI‑driven mining rigs. The market’s reaction reflects broader concerns about supply‑chain stability for mining hardware and the potential for export restrictions.</p>\n<h2>7. What is Zcash (ZEC)? How shielded transactions work</h2>\n<p>The Block published an educational piece explaining Zcash’s privacy model. Zcash offers two transaction types: transparent (public) and shielded (private). Shielded transactions use zero‑knowledge succinct non‑interactive arguments of knowledge (zk‑SNARKs) to prove that a transfer is valid without revealing sender, receiver, or amount. This dual‑mode design aims to balance regulatory compliance with user privacy.</p>\n<h2>8. On‑chain data casts doubt on insider‑trading theory in NYT’s ‘suspicious’ election betting story</h2>\n<p>The Block examined a New York Times report that suggested unusual crypto betting patterns ahead of the U.S. midterms might indicate insider trading. Two independent analysts reviewed the on‑chain data and found no statistically significant anomalies, concluding that the observed spikes could be explained by normal market speculation and algorithmic trading.</p>\n<h2>9. Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest</h2>\n<p>Cointelegraph’s Hodler’s Digest highlighted Vitalik Buterin’s recent remarks positioning Ethereum as a “store of value” rather than solely a platform for decentralized applications. The shift aims to attract long‑term investors but has ruffled Bitcoin maximalists who see ETH as a competitor to Bitcoin’s store‑of‑value narrative. The article also notes that the broader crypto market softened after the U.S. midterm results, reflecting investor uncertainty about future regulatory direction.</p>\n<h2>10. What the election results mean for crypto: State of Crypto</h2>\n<p>CoinDesk’s policy analysis argued that the Democratic sweep in the midterms, while unexpected, may not be a net negative for crypto. The new composition of Congress could lead to clearer regulatory frameworks, but the short‑term market reaction remains bearish as traders digest the political shift.</p>\n<h2>Market Outlook</h2>\n<p>In the near term, Bitcoin’s price is likely to remain range‑bound as the market digests the Nvidia scandal and the fallout from Iran talks. The reduction in Binance’s hash power could modestly lower mining difficulty, offering a slight upside for miners who stay active. Ethereum’s governance split introduces short‑term uncertainty; whichever proposal wins will set the tone for future upgrades and could affect gas‑price volatility. Zcash’s block‑time proposal, if adopted, may boost its utility but also raises centralization concerns that could deter privacy‑focused investors.</p>\n<p>DeFi remains vulnerable to bridge and reserve freezes, as seen with tBTC and Aave. Investors should watch for further announcements from Threshold and Aave regarding the release of the frozen $120 million, as its movement could trigger liquidity shifts across the ecosystem.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s volatility is driven more by external geopolitical and corporate scandals than on‑chain fundamentals.</li><li>Ethereum faces a pivotal governance decision; the outcome will influence gas economics and contract security.</li><li>Zcash is aggressively pursuing faster blocks, a move that could improve usability but may increase centralization risk.</li><li>DeFi bridge security remains a critical risk factor; frozen reserves can have outsized market impact.</li><li>Regulatory uncertainty persists post‑midterms, but a Democratic‑led Congress could eventually deliver clearer rules.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Zcash devs propose another block time cut days after NU7 upgrade — <em>Cointelegraph</em></li>\n<li>[2] Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts — <em>CoinDesk</em></li>\n<li>[3] Binance's bitcoin mining pool finds just one block in a week as shutdown nears — <em>CoinDesk</em></li>\n<li>[4] tBTC bridge partially resumes as $120M Aave reserve remains frozen — <em>Cointelegraph</em></li>\n<li>[5] Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal — <em>The Block</em></li>\n<li>[6] Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility — <em>CoinDesk</em></li>\n<li>[7] What is Zcash (ZEC)? How shielded transactions work — <em>The Block</em></li>\n<li>[8] Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story — <em>The Block</em></li>\n<li>[9] Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[10] What the election results mean for crypto: State of Crypto — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "zcash",
+        "nvidia",
+        "market",
+        "policy"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794203557/xeonbit24/posts/crypto-roundup-november-9-2026-at-1252-pm-ict-bitcoin-volatility-ethereum-govern.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794203557/xeonbit24/posts/crypto-roundup-november-9-2026-at-1252-pm-ict-bitcoin-volatility-ethereum-govern.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-9-2026-at-1252-pm-ict-bitcoin-volatility-ethereum-govern",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 9, 2026 at 12:52 PM (ICT): Bitcoin volatility, Ethereum governance clash, Zcash block‑time push "
+      },
+      "sourceUrl": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+          "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+          "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+          "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+          "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+          "url": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+          "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "What is Zcash (ZEC)? How shielded transactions work",
+          "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+          "source": "The Block"
+        },
+        {
+          "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
+          "url": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+          "source": "The Block"
+        },
+        {
+          "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "What the election results mean for crypto: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-11-09T05:52:37.722Z",
+      "slug": "crypto-roundup-november-9-2026-at-1252-pm-ict-bitcoin-volatility-ethereum-govern"
+    },
+    {
       "id": "1794158333596",
       "title": "Crypto Roundup November 8, 2026 at 12:18 AM (ICT): Ethereum valuation debate, Binance upheaval, and Bitcoin’s quantum shield",
       "summary": "Ethereum co‑founder Vitalik Buterin pushes for a store‑of‑value narrative, Binance wrestles with leadership exits and European account closures, and a novel Bitcoin quantum‑defense proposal surfaces. Together these stories signal shifting risk dynamics and regulatory pressure across the crypto ecosystem.",
@@ -31632,16 +31713,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
-    "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-    "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
-    "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-    "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
-    "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
-    "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
     "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
@@ -32131,10 +32202,19 @@
     "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
     "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+    "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+    "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+    "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery|https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410273/td-cowen-cuts-sharplink-price-target-to-13-on-lower-2026-ether-outlook?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say|https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears|https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12|https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32333,6 +32413,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system|https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue|https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets|https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
     "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992|https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988|https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-    "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022|https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022|https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts|https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
   ]
 }
