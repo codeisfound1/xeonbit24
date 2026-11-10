@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794293846604",
+      "title": "Crypto Roundup November 10, 2026 at 01:57 PM (ICT): Bitcoin miner sales, regulatory fight, and market pressure",
+      "summary": "Bitcoin miner Marathon Digital disclosed a $1.1 bn BTC sale while regulators face a high‑stakes CFTC lawsuit; hot‑wallet caps and quantum‑proof upgrades signal tightening security, and mixed earnings from media and tokenized‑asset firms add to a cautious market tone.",
+      "content": "<p>The crypto landscape on November 10, 2026 is defined by a clash of macro forces: large‑scale BTC liquidation by a major miner, a courtroom showdown over the CFTC's authority, and a wave of security‑focused initiatives from exchanges to ledgers. At the same time, earnings reports from Trump Media and Securitize illustrate how crypto‑linked businesses are navigating profitability amid volatile prices. Below we break down each headline, connect the dots, and outline what the next weeks may hold for investors and developers.</p>\n<h2>1. Coinbase, Kalshi and Payward back CFTC in lawsuit over single‑stock perp futures</h2>\n<p>The Block reports that three crypto‑focused firms have filed an amicus brief supporting the Commodity Futures Trading Commission's claim to regulate single‑stock perpetual futures. The case could set a precedent for how traditional equity derivatives intersect with crypto platforms. If the CFTC retains jurisdiction, exchanges like Coinbase may expand their derivatives desks, but they will also face tighter compliance costs. Market participants should watch for any injunctions that could pause new product launches.</p>\n<h2>2. Bitcoin miner MARA sold 13,597 BTC for $1.1 bn in six weeks, plans to sell more</h2>\n<p>Marathon Digital (MARA) disclosed a massive off‑balance‑sheet sale of 13,597 BTC, generating roughly $1.1 billion. The proceeds were used to retire all loan obligations tied to its mining inventory, clearing the path for the remaining BTC to fund AI data‑center expansion. The sale adds significant supply pressure on the spot market, contributing to the recent dip below $75,000. Analysts warn that continued liquidation could suppress price recovery unless spot ETF inflows accelerate.</p>\n<h2>3. Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough</h2>\n<p>CoinDesk notes that Bitcoin is trading below $75,000 ahead of the October Consumer Price Index release. While lower inflation could revive risk appetite, analysts argue that a single macro data point is insufficient to sustain a rally. They point to the need for deeper liquidity, institutional demand via spot ETFs, and a clear regulatory environment to drive a durable uptrend.</p>\n<h2>4. Crypto exchanges need hard dollar caps on hot wallets, CertiK says</h2>\n<p>CertiK, a leading blockchain security firm, urged exchanges to impose strict dollar limits on hot‑wallet holdings. Hot wallets—online accounts used for rapid withdrawals—are vulnerable to hacks. By capping exposure, exchanges can reduce potential loss magnitude. The recommendation aligns with broader industry moves toward cold‑storage dominance and could become a compliance benchmark for regulators.</p>\n<h2>5. XRP Ledger maps out quantum‑proof accounts, with no extra fees for users</h2>\n<p>The XRP Ledger Foundation unveiled a roadmap to quantum‑resistant accounts that let users add a post‑quantum key and retire the legacy one without additional fees. Quantum‑proof cryptography is essential as future computers could break current elliptic‑curve signatures. By 2028 the ledger aims to complete the transition, positioning XRP as a forward‑looking settlement layer for enterprises wary of long‑term security risks.</p>\n<h2>6. Trump Media swings to $410 million profit in Q3, driven by crypto gains</h2>\n<p>The Block reports that Trump Media and Technology Group posted a net income of $409.7 million, a dramatic turnaround from a $54.8 million loss a year earlier. The profit surge is attributed largely to gains on crypto‑related assets held on its balance sheet, highlighting how political media firms are increasingly exposed to digital‑asset volatility.</p>\n<h2>7. Securitize shares surge 12% in after‑hours trading on Q3 results and River One acquisition agreement</h2>\n<p>Securitize announced strong Q3 earnings and a strategic acquisition of River One, a platform that will add asset‑backed lending capabilities. The deal expands Securitize's tokenization ecosystem, allowing investors to obtain credit lines against tokenized securities. The market rewarded the news with a 12 % after‑hours rally, underscoring investor appetite for regulated crypto‑finance infrastructure.</p>\n<h2>8. HIVE, MARA mine more Bitcoin but earn less as crypto prices fall</h2>\n<p>Both Hive Blockchain and Marathon Digital reported higher BTC production volumes, yet revenue fell due to lower BTC prices and rising electricity costs tied to their AI‑focused data‑center expansions. The paradox illustrates the growing tension between mining profitability and diversification into AI workloads, a trend that could reshape capital allocation decisions for miners.</p>\n<h2>9. OpenAI builds kill switch to stop rogue agents within 35 seconds</h2>\n<p>OpenAI introduced a safety mechanism that can halt a model’s output in as little as 35 seconds when internal monitors flag suspicious behavior. While not a crypto story per se, the development is relevant for decentralized AI projects that may integrate with blockchain‑based incentive layers, emphasizing the importance of rapid response controls in emerging AI‑crypto hybrids.</p>\n<h2>10. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup compiled the day’s headline events, from price movements to regulatory filings. The article serves as a reminder that the market’s narrative is shaped by a rapid stream of micro‑news, each capable of nudging sentiment in an already volatile environment.</p>\n<h2>Market Outlook</h2>\n<p>Looking ahead, the confluence of regulatory clarity, security upgrades, and macro data will dictate Bitcoin’s trajectory. The CFTC lawsuit could either cement or curtail the growth of crypto‑based derivatives, influencing institutional inflows. Meanwhile, large BTC sell‑offs by miners add downward pressure, making spot ETF demand a critical catalyst. Security‑focused measures—hot‑wallet caps and quantum‑proof ledgers—suggest a maturing ecosystem that may attract risk‑averse capital. Earnings from crypto‑exposed firms like Trump Media and Securitize highlight the sector’s increasing integration with traditional finance, but also its susceptibility to price swings.</p>\n<h2>Key Takeaways</h2>\n<p>• Marathon’s $1.1 bn BTC sale intensifies short‑term supply, keeping Bitcoin under $75k pending CPI data.<br/>• The CFTC’s authority over single‑stock perpetual futures is under judicial review; a win for the agency could unlock new derivative products.<br/>• Exchanges are being urged to cap hot‑wallet exposure, a move that may become a regulatory standard.<br/>• XRP’s quantum‑proof roadmap positions it as a long‑term secure settlement layer.<br/>• Crypto‑linked earnings are volatile; profits at Trump Media and Securitize contrast with miner revenue compression.<br/>• Overall market sentiment remains cautious, with liquidity, regulatory outcomes, and security innovations as the primary drivers of the next price swing.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures — <em>The Block</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more — <em>CoinDesk</em></li>\n<li>[4] Crypto exchanges need hard dollar caps on hot wallets, CertiK says — <em>Cointelegraph</em></li>\n<li>[5] XRP Ledger maps out quantum-proof accounts, with no extra fees for users — <em>CoinDesk</em></li>\n<li>[6] Trump Media swings to $410 million profit in Q3, driven by crypto gains — <em>The Block</em></li>\n<li>[7] Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough — <em>CoinDesk</em></li>\n<li>[8] OpenAI builds kill switch to stop rogue agents within 35 seconds — <em>Cointelegraph</em></li>\n<li>[9] Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement — <em>The Block</em></li>\n<li>[10] HIVE, MARA mine more Bitcoin but earn less as crypto prices fall — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "regulation",
+        "mining",
+        "defi",
+        "security",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794293846/xeonbit24/posts/crypto-roundup-november-10-2026-at-0157-pm-ict-bitcoin-miner-sales-regulatory-fi.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794293846/xeonbit24/posts/crypto-roundup-november-10-2026-at-0157-pm-ict-bitcoin-miner-sales-regulatory-fi.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-10-2026-at-0157-pm-ict-bitcoin-miner-sales-regulatory-fi",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 10, 2026 at 01:57 PM (ICT): Bitcoin miner sales, regulatory fight, and market pressure"
+      },
+      "sourceUrl": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+          "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+          "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+          "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+          "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+          "url": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+          "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+          "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+          "url": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
+          "source": "The Block"
+        },
+        {
+          "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+          "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-10T06:57:26.604Z",
+      "slug": "crypto-roundup-november-10-2026-at-0157-pm-ict-bitcoin-miner-sales-regulatory-fi"
+    },
+    {
       "id": "1794260460973",
       "title": "Crypto Roundup November 9, 2026 at 04:40 AM (ICT): AI Power Shifts, Regulatory Scrutiny, and Market Uncertainty",
       "summary": "AI‑driven power shortages, a looming Australian tax hike, and fresh laundering schemes after the Binance hack dominate today’s headlines, while Bitcoin hovers near $75k ahead of the US inflation report. Regulatory pressure mounts in the US and tokenization gains traction on new exchanges.",
@@ -31794,15 +31875,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
-    "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
-    "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-    "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-    "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-    "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-    "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
     "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
     "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32293,10 +32365,18 @@
     "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
     "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
     "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
-    "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves"
+    "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
+    "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+    "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+    "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+    "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+    "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+    "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
+    "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12|https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
@@ -32495,6 +32575,7 @@
     "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992|https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988|https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
     "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022|https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts|https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
-    "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines|https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines|https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more"
   ]
 }
