@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-11-2026-at-1248-pm-ict-stablecoin-funding-bitcoindriven-</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794376123/xeonbit24/posts/crypto-roundup-november-11-2026-at-1248-pm-ict-stablecoin-funding-bitcoindriven-.jpg</image:loc>
+      <image:title>Crypto Roundup November 11, 2026 at 12:48 PM (ICT): Stablecoin funding, Bitcoin‑driven profits and rising AI‑linked mining revenue dominate the headlines</image:title>
+      <image:caption>Crypto Roundup November 11, 2026 at 12:48 PM (ICT): Stablecoin funding, Bitcoin‑driven profits and rising AI‑linked mini</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-10-2026-at-0158-am-ict-banks-target-stablecoins-us-infla</loc>
