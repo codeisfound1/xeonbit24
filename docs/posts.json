@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794423387690",
+      "title": "Crypto Roundup November 11, 2026 at 01:56 AM (ICT): Bitcoin’s rare double‑year loss, tokenized‑stock surge, and a stablecoin contraction",
+      "summary": "Bitcoin is on track for its first back‑to‑back annual losses while a major bug that could have halted mining has been patched. Meanwhile, tokenized‑stock platforms launch, stablecoin supplies shrink sharply, and new data feeds and privacy tools reshape the ecosystem.",
+      "content": "<p>Welcome to today’s crypto market roundup. The headlines this morning span the full spectrum of the industry: from Bitcoin’s unprecedented performance dip and a critical mining‑software bug, to a wave of tokenization initiatives and a steep contraction in stablecoin supply. Together these stories illustrate a market that is simultaneously consolidating risk, expanding into regulated finance, and experimenting with privacy and data infrastructure.</p>\n<h2>1. Bitcoin Faces First Back‑to‑Back Annual Losses in History, But There’s a Catch</h2>\n<p>According to Decrypt, Bitcoin is poised to record consecutive calendar‑year declines—a pattern not seen in its 18‑year history. The price has slipped from its $84k peak in early 2024 to a tight range around $74k, driven by weaker retail inflows and a resurgence of macro‑risk aversion. However, the article notes a nuance: while the headline loss is clear, the underlying on‑chain activity shows a healthier hash‑rate and continued accumulation by long‑term holders, suggesting that the dip may be more a valuation correction than a fundamental crisis.</p>\n<h2>2. A High‑Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix</h2>\n<p>Decrypt reports that three bugs were discovered in Bitcoin Core, the most serious of which could have prevented miners from constructing new blocks under certain network conditions. The issue was patched swiftly, averting a potential freeze that would have crippled transaction processing and possibly triggered a market panic. The rapid response underscores the robustness of Bitcoin’s open‑source governance and the importance of continuous code audits.</p>\n<h2>3. Stablecoin Supply Drops $14.2 Billion in Largest Contraction Since 2022 Bear Market</h2>\n<p>The Block highlights a $14.2 billion shrinkage in the combined supply of USDT and USDC over the past month—the steepest decline since the 2022 downturn. USDT fell by $6.5 billion and USDC by $4.7 billion, while gold‑backed tokens held steady. Analysts attribute the outflow to tighter monetary policy, rising yields on traditional assets, and growing regulatory scrutiny that is prompting institutions to de‑risk their crypto exposure.</p>\n<h2>4. OKX‑ICE Moves Ahead with Tokenized Stocks as Blue Chips Push Back</h2>\n<p>Cointelegraph details OKX‑ICE’s upcoming November 23 launch of a tokenized‑stock venue featuring more than 70 assets. The platform will operate under a new SEC exemption, testing the limits of U.S. securities law. Notably, Nasdaq is developing its own tokenized‑stock plans, warning that fragmented liquidity could arise if multiple venues compete without coordination. The move signals a maturing bridge between crypto and traditional equities, but also raises questions about market depth and regulatory harmonisation.</p>\n<h2>5. OKX‑ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out</h2>\n<p>Decrypt adds that after 67 large tech firms declined participation, OKX‑ICE turned to crypto‑native firms such as Coinbase, Circle, Robinhood, and Strategy to supply liquidity. This pivot illustrates the growing willingness of crypto‑centric companies to fill the void left by traditional players, potentially accelerating the adoption of tokenized securities among retail investors who are already comfortable with digital wallets.</p>\n<h2>6. Apex Group Joins Hedera Council to Explore Tokenization and Settlement</h2>\n<p>The Block reports that Apex Group, which manages $3.5 trillion in assets, has become a Hedera Council member. Apex will pilot Hedera’s hashgraph‑based network for tokenizing assets and streamlining settlement. The partnership showcases how large institutional asset managers are seeking high‑throughput, low‑cost DLT solutions to modernise post‑trade processes, and it could boost Hedera’s credibility as an enterprise‑grade platform.</p>\n<h2>7. StoneX Sees 111% Upside for Securitize Shares as Tokenization Revenue Rebounds</h2>\n<p>StoneX maintains a Buy rating on Securitize, forecasting a 111 % upside as the firm’s tokenization revenue rebounds. Growth drivers include tokenized equities, fund demand, and structured‑credit products. The bullish outlook reflects broader market optimism that tokenized finance will capture a meaningful slice of the $30 trillion traditional securities market.</p>\n<hh2>8. Pyth Network Adds NYSE Stock and ETF Data to Its Marketplace</h2>\n<p>The Block notes that Pyth Network now offers real‑time NYSE stock and ETF data to its on‑chain data marketplace. By feeding high‑frequency market data directly into smart contracts, Pyth enables more accurate synthetic assets, derivatives, and decentralized finance (DeFi) products that track traditional equities. This development dovetails with the tokenized‑stock surge, creating a richer data ecosystem for hybrid finance applications.</p>\n<h2>9. What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana</h2>\n<p>Decrypt explains Helius’ “Privacy Rings,” a layer‑2 protocol that encrypts balances and transfer amounts while keeping transactions on Solana’s base layer. The rings use zero‑knowledge proofs to hide amounts, offering privacy without sacrificing Solana’s low fees and high throughput. This innovation could attract privacy‑focused users to Solana, a chain traditionally known for speed rather than confidentiality.</p>\n<h2>10. Bitcoin Hovers Near $74K as Stocks Rise Despite US Bond Yield Rebound</h2>\n<p>Cointelegraph observes that Bitcoin has been trading in a narrow band around $74 k while tech stocks rallied and U.S. Treasury yields climbed following higher‑than‑expected CPI data. The correlation suggests that Bitcoin is still being treated as a risk‑on asset by many investors, reacting to broader equity market sentiment rather than its own fundamentals.</p>\n<h2>Market Outlook</h2>\n<p>The convergence of several themes points to a market in transition. On one hand, Bitcoin’s price weakness and the stablecoin outflows signal a pullback from speculative excess as investors re‑allocate toward higher‑yielding traditional assets. On the other hand, the rapid expansion of tokenized‑stock venues, institutional DLT pilots, and on‑chain data feeds indicates that crypto is deepening its integration with regulated finance. Technical resilience is also evident: the swift patch of a critical Bitcoin Core bug and the emergence of privacy layers on Solana demonstrate that the ecosystem’s infrastructure continues to mature.</p>\n<p>Regulatory clarity remains the biggest wildcard. The SEC’s new exemption for tokenized stocks could either unlock a flood of new products or, if interpreted narrowly, create fragmented liquidity that hampers market efficiency. Meanwhile, stablecoin contraction may accelerate the push for clearer reserve‑backing rules, potentially reshaping the supply dynamics of USDT and USDC.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li>Bitcoin is on track for its first consecutive annual loss, but on‑chain health metrics remain solid; a recent core bug was patched before it could cause a network halt.</li>\n<li>Stablecoin supplies have shrunk dramatically, reflecting tighter monetary conditions and regulatory pressure.</li>\n<li>Tokenized‑stock platforms are launching quickly, with OKX‑ICE leading the charge and traditional exchanges like Nasdaq watching closely.</li>\n<li>Large institutions (Apex, StoneX, Securitize) are betting on tokenization and DLT for settlement, signaling mainstream adoption.</li>\n<li>Data infrastructure (Pyth) and privacy solutions (Helius Privacy Rings) are expanding the functional scope of DeFi.</li>\n<li>Overall market sentiment is cautious but opportunistic, with risk‑on dynamics still influencing Bitcoin’s price despite broader macro headwinds.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] OKXICE moves ahead with tokenized stocks as blue chips push back — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch — <em>Decrypt</em></li>\n<li>[3] Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market — <em>The Block</em></li>\n<li>[4] What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana — <em>Decrypt</em></li>\n<li>[5] Apex Group joins Hedera Council to explore tokenization and settlement — <em>The Block</em></li>\n<li>[6] A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix — <em>Decrypt</em></li>\n<li>[7] Pyth Network adds NYSE stock and ETF data to its marketplace — <em>The Block</em></li>\n<li>[8] Bitcoin hovers near $74K as stocks rise despite US bond yield rebound — <em>Cointelegraph</em></li>\n<li>[9] StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds — <em>The Block</em></li>\n<li>[10] OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "stablecoins",
+        "tokenization",
+        "solana",
+        "hedera",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794423387/xeonbit24/posts/crypto-roundup-november-11-2026-at-0156-am-ict-bitcoins-rare-doubleyear-loss-tok.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794423387/xeonbit24/posts/crypto-roundup-november-11-2026-at-0156-am-ict-bitcoins-rare-doubleyear-loss-tok.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-11-2026-at-0156-am-ict-bitcoins-rare-doubleyear-loss-tok",
+        "width": 1376,
+        "height": 768,
+        "format": "png",
+        "alt": "Crypto Roundup November 11, 2026 at 01:56 AM (ICT): Bitcoin’s rare double‑year loss, tokenized‑stock surge, and a stable"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+          "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+          "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+          "source": "The Block"
+        },
+        {
+          "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
+          "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
+          "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+          "source": "The Block"
+        },
+        {
+          "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+          "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+          "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+          "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
+          "url": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
+          "source": "The Block"
+        },
+        {
+          "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+          "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-11T18:56:27.690Z",
+      "slug": "crypto-roundup-november-11-2026-at-0156-am-ict-bitcoins-rare-doubleyear-loss-tok"
+    },
+    {
       "id": "1794376123668",
       "title": "Crypto Roundup November 11, 2026 at 12:48 PM (ICT): Stablecoin funding, Bitcoin‑driven profits and rising AI‑linked mining revenue dominate the headlines",
       "summary": "Stablecoin Project Faro secured $270 million from major banks, while Bitcoin gains powered a $410 million profit for Trump Media. Meanwhile, Tron posted a 22 % earnings jump and a Bitcoin miner eyes a $45 million AI data‑center deal, underscoring the growing convergence of crypto with traditional finance and emerging tech.",
@@ -32037,16 +32118,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
-    "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-    "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-    "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
-    "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
-    "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-    "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
     "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
     "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
@@ -32536,10 +32607,19 @@
     "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
     "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
     "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-    "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+    "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+    "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+    "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+    "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+    "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+    "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
+    "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported|https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
@@ -32738,6 +32818,7 @@
     "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines|https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
     "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants|https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
-    "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786|https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786|https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history|https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
   ]
 }
