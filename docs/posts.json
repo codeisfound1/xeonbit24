@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1794466432441",
+      "title": "Crypto Roundup November 12, 2026 at 01:53 PM (ICT): Key Risks, Governance Shifts, and Market Stagnation",
+      "summary": "Bitcoin’s hidden node bug and Binance’s pre‑emptive security warning dominate the headlines, while governance moves in Zcash and Ripple’s lending rollout add a layer of institutional nuance. Meanwhile, South Korean regulators tighten withdrawal controls and major miners brace for a sub‑$70k Christmas scenario, keeping the market on edge.",
+      "content": "<p>Across the crypto ecosystem, November 12 brought a mix of technical revelations, regulatory tightening, and strategic pivots that together paint a cautious yet opportunistic market picture. Bitcoin’s network integrity was called into question by a long‑standing Tor‑related bug, Binance’s security chief unintentionally disclosed a hack vector months before a $6.3 billion breach, and major players like Ripple and Zcash are reshaping governance and product offerings. At the same time, traditional finance‑adjacent news—South Korea’s withdrawal freezes, Bitmine’s massive loss, and Nvidia’s volatile perps—underscore the broader macro‑risk environment.</p>\n<h2>1. Bitcoin Core reveals Tor‑node bug that let strangers connect</h2>\n<p>A newly disclosed vulnerability in Bitcoin Core allowed thousands of nodes operating over Tor to accept inbound connections from any peer without proper verification. Although the bug was patched in October 2025, its existence raised concerns about network anonymity and potential attack surfaces. The flaw could have enabled a malicious actor to relay false transactions or conduct denial‑of‑service attacks on privacy‑focused users. The disclosure, delayed until now, underscores the importance of continuous code audits, especially for privacy‑enhancing layers that many users rely on for censorship‑resistant transactions.</p>\n<h2>2. Binance CSO’s July interview foreshadowed the $6.3 B hack tactic</h2>\n<p>In a July interview, Binance’s chief security officer Jimmy Su described how fake coding assessments could be used to compromise employee devices—a scenario that later materialised in the record‑breaking $6.3 billion hack on the exchange. The revelation highlights a growing trend of social‑engineering attacks targeting crypto firms’ internal processes. Binance has since accelerated its security training and introduced zero‑trust network policies, but the incident serves as a cautionary tale for the entire industry about the need for robust employee vetting and continuous security awareness.</p>\n<h2>3. Bitcoin traders raise odds of sub‑$70,000 Christmas</h2>\n<p>The Block’s daily newsletter reported that market participants are increasingly betting on a price dip below $70 k before the holiday season. Technical indicators show a weakening bullish momentum, while on‑chain data points to a modest decline in active addresses. If Bitcoin does breach the $70 k threshold, it could trigger a cascade of stop‑loss orders and amplify bearish sentiment, potentially dragging altcoins lower as well.</p>\n<h2>4. Ripple’s bank‑lending system moves closer to launch on the XRP Ledger</h2>\n<p>Ripple announced that the number of validators supporting its bank‑lending protocol rose from 19 to 22, signaling growing confidence among the 35‑validator network. The system aims to enable on‑ledger loan issuance and settlement, reducing reliance on traditional correspondent banking. While the exact launch date remains undisclosed, the incremental validator adoption suggests a steady path toward production, positioning XRP as a bridge asset for institutional liquidity.</p>\n<h2>5. Zcash community votes on withdrawing 50,000 ZEC from grants treasury</h2>\n<p>Zcash holders are set to decide whether to pull 50,000 ZEC—approximately $50 million—from the community grants treasury. The proposal would reallocate future block rewards to a new development and legal‑defense fund, reflecting concerns over regulatory pressure and the need for sustained R&D. If approved, the move could strengthen Zcash’s long‑term resilience but also reduce immediate funding for ecosystem projects.</p>\n<h2>6. South Korea to permit crypto withdrawal freezes amid hacking threats</h2>\n<p>South Korean regulators are preparing a framework that would allow exchanges to temporarily freeze withdrawals when credible hacking threats emerge. The policy follows recent incidents, including GOPAX’s precautionary suspension and a $70,000 hot‑wallet breach at Prabang. While aimed at protecting users, the measure raises questions about custodial control and the balance between security and user autonomy.</p>\n<h2>7. Bitmine reports $6.3 billion annual net loss as Ether falls 44%</h2>\n<p>Mining conglomerate Bitmine disclosed a staggering $6.3 billion net loss for the year, driven largely by a 44 % plunge in Ether’s price. The loss reflects the broader stress on proof‑of‑stake‑centric miners who must adapt to lower staking yields and higher operational costs. Bitmine’s financial strain may prompt consolidation in the mining sector and could accelerate the shift toward diversified revenue streams such as staking‑as‑a‑service.</p>\n<h2>8. Nvidia perps tumble 7% on Hyperliquid after CEO ouster rumors</h2>\n<p>Perpetual contracts on Nvidia (NVDA) fell 7 % on the Hyperliquid platform after reports surfaced that the board might remove CEO Jensen Huang. The news added volatility to crypto‑linked equities, with Bitcoin remaining range‑bound. The episode illustrates how macro‑tech news can ripple into crypto markets, especially for assets that serve as a hedge against broader tech risk.</p>\n<h2>9. Solana Company posts $3.4 million Q3 revenue, up from $697 k YoY</h2>\n<p>Solana’s treasury‑management arm reported a dramatic revenue increase, driven primarily by higher staking rewards and expanded fee‑based services. The $3.4 million figure represents nearly a five‑fold year‑over‑year growth, signaling that the Solana ecosystem is maturing into a revenue‑generating infrastructure layer. This trend may attract more institutional capital seeking yield opportunities on high‑throughput chains.</p>\n<h2>10. General crypto daily roundup: trends, regulation, and market sentiment</h2>\n<p>Cointelegraph’s daily digest highlighted a spectrum of stories—from Bitcoin price dynamics to emerging regulatory actions across Asia. The collection underscores a market in transition: security concerns dominate headlines, governance decisions shape token economics, and macro‑tech events continue to influence crypto‑linked assets.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to persist as Bitcoin hovers around the $70 k‑$75 k band and traders weigh the risk of a holiday‑season dip. Security‑related news—both on‑chain (Bitcoin Tor bug) and off‑chain (Binance hack vector)—will keep risk‑off sentiment elevated, potentially driving capital toward stablecoins and regulated lending platforms like Ripple’s upcoming system. Meanwhile, institutional interest in high‑throughput chains (Solana) and token‑level governance (Zcash) suggests a diversification of capital away from pure speculation toward utility‑driven projects.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Technical security flaws (Bitcoin Tor bug) and social‑engineering attacks (Binance hack) highlight the need for stronger audit and employee training regimes.</li><li>Governance actions in Zcash and Ripple indicate a shift toward self‑funded development and on‑ledger financial services.</li><li>Regulatory moves in South Korea may set a precedent for emergency withdrawal freezes, balancing user protection with custodial rights.</li><li>Market sentiment is bearish on Bitcoin ahead of Christmas, with a growing probability of sub‑$70 k pricing.</li><li>Altcoin ecosystems like Solana are showing revenue growth, attracting yield‑seeking investors despite broader market softness.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] South Korea to permit crypto withdrawal freezes during hacking threats — <em>Cointelegraph</em></li>\n<li>[3] Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury — <em>CoinDesk</em></li>\n<li>[4] Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor — <em>CoinDesk</em></li>\n<li>[5] Ripple’s bank-lending system moves closer to launch on the XRP Ledger — <em>CoinDesk</em></li>\n<li>[6] Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack — <em>Cointelegraph</em></li>\n<li>[7] Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more — <em>The Block</em></li>\n<li>[8] Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe — <em>CoinDesk</em></li>\n<li>[9] ‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards — <em>The Block</em></li>\n<li>[10] Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794466431/xeonbit24/posts/crypto-roundup-november-12-2026-at-0153-pm-ict-key-risks-governance-shifts-and-m.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794466431/xeonbit24/posts/crypto-roundup-november-12-2026-at-0153-pm-ict-key-risks-governance-shifts-and-m.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-12-2026-at-0153-pm-ict-key-risks-governance-shifts-and-m",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 12, 2026 at 01:53 PM (ICT): Key Risks, Governance Shifts, and Market Stagnation"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+          "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+          "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+          "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+          "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+          "source": "The Block"
+        },
+        {
+          "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+          "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+          "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+          "source": "The Block"
+        },
+        {
+          "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+          "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-12T06:53:52.441Z",
+      "slug": "crypto-roundup-november-12-2026-at-0153-pm-ict-key-risks-governance-shifts-and-m"
+    },
+    {
       "id": "1794423387690",
       "title": "Crypto Roundup November 11, 2026 at 01:56 AM (ICT): Bitcoin’s rare double‑year loss, tokenized‑stock surge, and a stablecoin contraction",
       "summary": "Bitcoin is on track for its first back‑to‑back annual losses while a major bug that could have halted mining has been patched. Meanwhile, tokenized‑stock platforms launch, stablecoin supplies shrink sharply, and new data feeds and privacy tools reshape the ecosystem.",
@@ -32118,15 +32198,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-    "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
-    "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-    "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-    "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
-    "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
     "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
@@ -32617,10 +32688,18 @@
     "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
     "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
-    "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
+    "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+    "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+    "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+    "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+    "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+    "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+    "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported|https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
     "https://www.theblock.co/post/410688/three-missouri-men-charged-bitcoin-home-invasion?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32819,6 +32898,7 @@
     "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
     "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants|https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
     "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786|https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history|https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
+    "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history|https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury"
   ]
 }
