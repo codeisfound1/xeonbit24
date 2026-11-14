@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794635874053",
+      "title": "Crypto Roundup November 14, 2026 at 12:57 PM (ICT): Regulation, AI Payments, and Mining Shifts Define the Day",
+      "summary": "Regulatory pressure mounts as the DOJ seeks to seize $1.2 bn from the Binance hack, while Meta experiments with a points‑based prediction market. Meanwhile, AI‑driven payment tools and a looming power‑contract expiry in Paraguay reshape Bitcoin mining economics.",
+      "content": "<p>Today's crypto landscape is shaped by a blend of regulatory crackdowns, corporate experiments, and evolving infrastructure costs. From the U.S. Justice Department’s aggressive move against a $1.2 billion Binance‑related fund to Meta’s internal test of a prediction‑market app that uses reputation points, the market is being nudged by both policy and innovation. At the same time, AI‑enabled payment solutions from OpenAI and a new custody offering from Blockstream signal a maturing ecosystem, while Bitcoin miners in Paraguay face a looming power‑contract deadline that could shift hashpower away from the country. Below we break down the ten most relevant stories, assess their implications, and look ahead to the market’s short‑term trajectory.</p>\n<h2>1. DOJ Seeks to Seize $1.2 Billion from Binance Hack Fallout</h2>\n<p>The U.S. Department of Justice has filed a civil forfeiture claim to recover $1.2 billion tied to the 2024 Binance hack that siphoned funds from a hot wallet. The move underscores a broader trend of authorities targeting illicit proceeds in the crypto space, even when the original breach occurred years ago. By attaching a massive sum to the case, the DOJ sends a clear signal that large‑scale theft will be pursued aggressively, potentially deterring future hacks and prompting exchanges to bolster custodial safeguards.</p>\n<h2>2. Meta Tests a Prediction‑Market App Using “Cred” Points</h2>\n<p>Meta’s internal pilot of “Takes,” a prediction‑market platform that rewards correct forecasts with non‑monetary credibility points, reflects the tech giant’s interest in social‑layered betting without direct financial exposure. While the app is limited to employees, the experiment hints at future consumer‑facing products that could blend social networking with market‑based forecasting, raising questions about regulatory classification of such services under gambling or securities law.</p>\n<h2>3. House Oversight Memos Call for a Ban on Government Officials in Prediction Markets</h2>\n<p>Parallel to Meta’s experiment, a House Oversight staff memorandum recommends restricting federal employees, military personnel, and security‑clearance holders from participating in prediction markets. The memo cites concerns over insider information and market manipulation. If enacted, the policy could set a precedent for broader restrictions on high‑profile participants, affecting the liquidity and perception of emerging prediction‑market platforms.</p>\n<h2>4. Bitcoin Miners Face a $350 Million Annual Bill in Paraguay – AI Threatens Their Stay</h2>\n<p>Paraguayan miners currently pay the state utility $350 million a year for a 4 % slice of global hashpower, locked in contracts that expire at the end of 2027. However, AI‑driven optimization tools are enabling miners to locate cheaper, greener energy sources faster, potentially eroding Paraguay’s competitive edge. If miners shift to regions with lower carbon footprints or more flexible pricing, Paraguay could see a rapid decline in hosted hashpower, impacting the country’s revenue and the global distribution of mining power.</p>\n<h2>5. Blockstream Launches a New Bitcoin Custody System with Thales</h2>\n<p>Blockstream, in partnership with security firm Thales, unveiled a custody solution that isolates transaction signing to dedicated hardware modules, eliminating network exposure. Adam Back, Blockstream’s co‑founder, argues for “simpler security” to reduce attack surfaces. The product targets institutional investors seeking regulatory‑compliant, air‑gapped storage, and could accelerate the inflow of institutional capital into Bitcoin by addressing one of the sector’s biggest risk vectors.</p>\n<h2>6. OpenAI Introduces AI‑Powered Payments in ChatGPT via Visa, Mastercard, Amex</h2>\n<p>OpenAI’s new wallet integration allows AI agents to execute purchases on behalf of users using traditional card networks. While still limited to pre‑authorized transactions, the feature showcases how AI can act as a financial intermediary, potentially bridging the gap between fiat and crypto ecosystems. Developers may soon embed crypto payment options, expanding the utility of AI assistants in everyday commerce.</p>\n<h2>7. Kraken’s Parent Payward Gains Spot‑Trading Share Amid Slower Market Activity</h2>\n<p>Payward reported a 66 % YoY drop in adjusted EBITDA to $60 million, reflecting a broader slowdown in trading volumes. Nonetheless, its share of global spot trading nearly doubled, driven by fee‑based services and a focus on institutional onboarding. The divergence suggests that while retail enthusiasm wanes, platforms that diversify revenue streams can still capture market share.</p>\n<h2>8. Satoshi‑Era Wallet Moves 75 BTC After $260 Billion Lawsuit Service</h2>\n<p>A wallet dating back to Bitcoin’s early days transferred 75 BTC (≈$5 million) following a court notice served in a massive $260 billion lawsuit. The move, though modest in dollar terms, is symbolically significant: it demonstrates that even legacy addresses remain subject to modern legal processes, reinforcing the notion that “cold” storage is not immune to jurisdictional reach.</p>\n<h2>9. Daily Crypto News Recap Highlights Market Trends</h2>\n<p>Cointelegraph’s daily roundup reiterated the day’s key themes: regulatory pressure, AI integration, and shifting mining economics. The piece also noted modest price stability for Bitcoin and Ethereum, with BTC hovering around $68,200 and ETH near $2,350, suggesting that macro‑level news has yet to translate into sharp price moves.</p>\n<h2>10. Nvidia Board Considers Arm Executive as Potential CEO Replacement</h2>\n<p>While not a pure crypto story, the speculation around Nvidia’s leadership change is relevant because the chipmaker supplies GPUs that power both AI workloads and cryptocurrency mining. A shift in executive strategy could influence Nvidia’s stance on mining‑related product lines, potentially affecting hardware availability and pricing for miners.</p>\n<h2>Market Outlook</h2>\n<p>Regulatory actions remain the dominant driver of sentiment. The DOJ’s seizure attempt and the House Oversight memo signal a tightening environment that could increase compliance costs for exchanges and prediction‑market platforms. At the same time, technological advances—AI‑enabled payments, optimized mining location tools, and hardened custody solutions—are expanding the utility and security of crypto assets. The net effect is a market that may experience short‑term volatility as participants adjust to new rules, but with a longer‑term trajectory toward institutional adoption and diversified use cases.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Regulators are intensifying scrutiny on illicit funds and insider participation in prediction markets, potentially reshaping compliance frameworks.</li><li>Meta’s points‑based prediction app and the House memo illustrate a tug‑of‑war between innovation and oversight in social‑betting platforms.</li><li>Paraguayan miners face a critical contract deadline; AI‑driven energy‑search tools could redirect hashpower to greener or cheaper jurisdictions.</li><li>Blockstream’s new custody system and OpenAI’s AI‑payment wallet both aim to lower barriers for institutional and retail users, respectively.</li><li>Despite slower overall trading, platforms that diversify revenue (e.g., Payward) can still grow market share, indicating a maturing ecosystem.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more — <em>The Block</em></li>\n<li>[2] Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 — <em>CoinDesk</em></li>\n<li>[3] Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out — <em>CoinDesk</em></li>\n<li>[4] Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate — <em>Decrypt</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex — <em>Cointelegraph</em></li>\n<li>[7] Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system — <em>Cointelegraph</em></li>\n<li>[8] Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe — <em>Decrypt</em></li>\n<li>[9] Kraken parent Payward gains market share as slower trading weighs on earnings — <em>Cointelegraph</em></li>\n<li>[10] Meta tests prediction market app using ‘cred’ points instead of cash: WSJ — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "ai",
+        "defi",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794635873/xeonbit24/posts/crypto-roundup-november-14-2026-at-1257-pm-ict-regulation-ai-payments-and-mining.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794635873/xeonbit24/posts/crypto-roundup-november-14-2026-at-1257-pm-ict-regulation-ai-payments-and-mining.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-14-2026-at-1257-pm-ict-regulation-ai-payments-and-mining",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 14, 2026 at 12:57 PM (ICT): Regulation, AI Payments, and Mining Shifts Define the Day"
+      },
+      "sourceUrl": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+      "sourceTitle": "The Block / CoinDesk / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+          "source": "The Block"
+        },
+        {
+          "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+          "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+          "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+          "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+          "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+          "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+          "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+          "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
+          "url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-14T05:57:54.053Z",
+      "slug": "crypto-roundup-november-14-2026-at-1257-pm-ict-regulation-ai-payments-and-mining"
+    },
+    {
       "id": "1794595916032",
       "title": "Crypto Roundup November 13, 2026 at 01:51 AM (ICT): Bitcoin slides amid Fed rate fears and regulatory churn",
       "summary": "Bitcoin fell to a 12‑week low as investors flee to AI‑driven IPOs and brace for possible Fed rate hikes. At the same time, U.S. regulators face a wave of new appointments and legal battles that could reshape crypto oversight.",
@@ -32441,15 +32522,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-    "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
-    "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-    "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-    "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-    "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
     "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
     "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
     "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
@@ -32940,10 +33012,18 @@
     "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
     "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-    "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+    "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+    "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+    "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33142,6 +33222,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
     "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo|https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang|https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
     "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value|https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199|https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off|https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin"
+    "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199|https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off|https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304|https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011|https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
   ]
 }
