@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794765910244",
+      "title": "Crypto Roundup November 15, 2026 at 01:05 AM (ICT): Wall‑Street stablecoin push, Bitcoin ETF outflows and a wave of security breaches",
+      "summary": "Wall Street firms are racing to dominate the on‑chain dollar while Bitcoin ETFs suffer a $2.1 bn outflow streak, dragging BTC to a four‑month low. At the same time, enterprise blockchain gains traction, but security incidents at exchanges and DeFi platforms remind the industry of lingering risks.",
+      "content": "<p>Across the crypto ecosystem, November 15 2026 was marked by a clash of forces: traditional finance is moving aggressively into stablecoins, investors are pulling money out of Bitcoin ETFs, and a series of security breaches are shaking confidence in both centralized exchanges and DeFi protocols. At the same time, technical upgrades are reviving interest in enterprise blockchain solutions, and regulatory momentum in the United States remains muted as the lame‑duck Congress wraps up. This roundup dissects the ten most relevant stories, ties together the underlying trends, and offers a forward‑looking market outlook.</p>\n<h2>1. How Wall Street Is Racing to Claim the On‑chain Dollar</h2>\n<p>Goldman Sachs, Citi, SoFi, Anchorage, Mastercard, Visa and Circle are pooling roughly $270 million into “Project Faro,” a coordinated effort to embed fiat‑backed stablecoins into mainstream payment rails. The initiative signals a strategic pivot: rather than merely partnering with existing stablecoin issuers, these institutions aim to create their own on‑chain dollar that can be used for settlement, cross‑border payments and DeFi liquidity provision. The move challenges the dominance of Tether (USDT) and Circle’s USDC, which together control over 80 % of stablecoin market share. If Wall Street’s version gains regulatory clarity and deep liquidity, we could see a re‑allocation of on‑chain dollar volume, potentially tightening the spread between fiat and crypto markets and pressuring existing stablecoin issuers to innovate on transparency and yield‑generation.</p>\n<h2>2. Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days</h2>\n<p>Spot Bitcoin ETFs have recorded a seventh consecutive day of net outflows, shedding $185.4 million on Friday alone and pushing cumulative November withdrawals to $2.1 billion. The outflow coincides with Bitcoin’s slide toward $64,000, a four‑month low, and reflects waning retail enthusiasm after a prolonged rally earlier in the year. Institutional investors appear to be reallocating capital toward higher‑yielding DeFi protocols or waiting for clearer macro signals. The sustained outflow could pressure ETF sponsors to lower fees or bundle additional services, such as custodial insurance, to retain investors.</p>\n<h2>3. Bitcoin Falls to Four‑Month Low Near $62K as Crypto Sell‑off Deepens</h2>\n<p>Bitcoin’s dip to $62,000 triggered a broader market correction, with total crypto market cap shrinking 4 % to $2.26 trillion in 24 hours. Ether and Solana posted double‑digit weekly losses, underscoring the contagion effect across major assets. Analysts attribute the sell‑off to a combination of macro‑economic uncertainty, reduced ETF inflows, and the looming end of the current U.S. congressional session, which has stalled further regulatory clarity. The price action suggests that Bitcoin is now testing the $60k‑$65k support zone; a decisive break below $60k could open the path to the $55k level, while a bounce above $65k may restore confidence.</p>\n<h2>4. XRP Crashes to Its Lowest Since November 2024 as Money Leaves Crypto</h2>\n<p>XRP slid to a two‑year trough, driven by the same outflow dynamics that hit Bitcoin ETFs and a shrinking stablecoin supply that reduced overall market liquidity. The decline also reflects lingering legal uncertainty surrounding Ripple’s SEC case, which, although partially resolved, continues to dampen institutional appetite for XRP. The crash highlights how correlated many altcoins remain to Bitcoin’s price trajectory and to macro‑level capital flows.</p>\n<h2>5. RWA Protocol stUSDT Winds Down Three Years After $2.3 B TVL Peak</h2>\n<p>The real‑world asset (RWA) protocol behind stUSDT announced a wind‑down, citing undisclosed strategic reasons while assuring holders that all underlying assets remain fully collateralised. The protocol’s TVL peaked at $2.3 billion in 2023, but declining demand for tokenised fiat‑backed assets amid rising competition from Wall Street‑backed stablecoins likely eroded its relevance. The wind‑down serves as a cautionary tale for RWA projects that must continuously innovate to stay ahead of institutional entrants.</p>\n<h2>6. Enterprise Blockchain Is Going to Come Back from the Dead</h2>\n<p>Improvements in scalability (e.g., layer‑2 rollups), privacy‑preserving zero‑knowledge proofs, and on‑chain liquidity bridges are finally giving enterprises the technical confidence to adopt blockchain for supply‑chain, identity and finance use cases. Companies that previously abandoned pilots are now revisiting blockchain as a trusted data‑layer, especially in regulated industries where auditability is paramount. The article argues that the convergence of these tools could usher in a second wave of enterprise adoption, potentially unlocking billions in new on‑chain transaction volume.</p>\n<h2>7. Crypto Insiders Aren’t Counting on Silver Linings in Congress’ ‘Lame‑Duck’ Session</h2>\n<p>With the U.S. Congress entering its final weeks before the 2026 elections, crypto‑focused legislators are unlikely to pass substantive reforms. While Democrats are expected to pursue a more progressive tech agenda in the next session, the current lame‑duck period offers little in the way of regulatory relief. Market participants should therefore brace for a short‑term regulatory status‑quo, with any meaningful policy shifts deferred to 2027.</p>\n<h2>8. Coinone Warns of Phishing, Identity Theft After Customer Data Breach</h2>\n<p>South Korean exchange Coinone disclosed a breach exposing passwords, bank account numbers, national IDs and wallet addresses. The incident underscores the persistent vulnerability of centralized exchanges to social‑engineering attacks. While the exchange has pledged to enhance multi‑factor authentication and conduct a forensic audit, the breach may accelerate user migration toward non‑custodial wallets and decentralized exchanges (DEXs), further fragmenting market liquidity.</p>\n<h2>9. Kava Lend Loses Roughly $3.8 M to Hack, Sending KAVA Token Down Nearly 40%</h2>\n<p>A cross‑chain exploit on LayerZero allowed attackers to bridge 49.2 million KAVA to BNB Chain, where it was liquidated for $2.1 million in BNB and USDT. The hack caused KAVA’s price to tumble almost 40 %, highlighting the risk inherent in cross‑chain bridges and the need for rigorous audit practices. The incident may prompt DeFi platforms to adopt more conservative bridge designs or to rely on audited, permissioned bridge solutions.</p>\n<h2>10. Here’s What Happened in Crypto Today</h2>\n<p>The daily news roundup from Cointelegraph aggregates the above stories and adds context on market sentiment, regulatory chatter, and emerging DeFi projects. While the piece itself is a summary, it reinforces the narrative that the market is currently in a risk‑off mode, with capital flowing out of high‑visibility assets and into safer, regulated channels.</p>\n<h2>Market Outlook</h2>\n<p>In the short term, the crypto market is likely to remain under pressure. Continued outflows from Bitcoin ETFs, a fragile regulatory environment, and recent security breaches suggest a risk‑averse investor base. However, the aggressive entry of Wall Street into stablecoins could inject fresh liquidity and bring institutional credibility to the on‑chain dollar, potentially stabilising the market once the new stablecoins achieve scale. Enterprise blockchain adoption, while still nascent, may generate a parallel growth trajectory that is less price‑sensitive and more use‑case driven. If the sector can address security gaps—particularly around cross‑chain bridges—the overall ecosystem resilience will improve.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Traditional finance is mobilising $270 M to launch its own on‑chain dollar, challenging Tether and USDC dominance.</li><li>Bitcoin ETFs have seen $2.1 B of net outflows in November, contributing to BTC’s slide toward $62 K.</li><li>Major altcoins like XRP are mirroring Bitcoin’s weakness, while RWA protocols such as stUSDT are winding down amid competition.</li><li>Enterprise blockchain is regaining momentum thanks to scalability and privacy upgrades, hinting at a new source of on‑chain activity.</li><li>Security remains a top concern: data breaches at Coinone and a cross‑chain hack on Kava Lend highlight systemic vulnerabilities.</li><li>Regulatory progress in the U.S. is stalled during the lame‑duck session, pushing market participants to focus on technical and operational improvements.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] How Wall Street Is Racing to Claim the Onchain Dollar — <em>Decrypt</em></li>\n<li>[2] Enterprise blockchain is going to come back from the dead — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days — <em>Decrypt</em></li>\n<li>[4] Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session — <em>CoinDesk</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] Bitcoin falls to four-month low near $62K as crypto selloff deepens — <em>Cointelegraph</em></li>\n<li>[7] Coinone warns of phishing, identity theft after customer data breach — <em>Cointelegraph</em></li>\n<li>[8] RWA protocol stUSDT winds down three years after $2.3B TVL peak — <em>Cointelegraph</em></li>\n<li>[9] XRP crashes to its lowest since November 2024 as money leaves crypto — <em>CoinDesk</em></li>\n<li>[10] Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40% — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "defi",
+        "enterprise",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794765909/xeonbit24/posts/crypto-roundup-november-15-2026-at-0105-am-ict-wallstreet-stablecoin-push-bitcoi.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794765909/xeonbit24/posts/crypto-roundup-november-15-2026-at-0105-am-ict-wallstreet-stablecoin-push-bitcoi.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-15-2026-at-0105-am-ict-wallstreet-stablecoin-push-bitcoi",
+        "width": 1280,
+        "height": 720,
+        "format": "png",
+        "alt": "Crypto Roundup November 15, 2026 at 01:05 AM (ICT): Wall‑Street stablecoin push, Bitcoin ETF outflows and a wave of secu"
+      },
+      "sourceUrl": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "sourceTitle": "Decrypt / Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+          "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Enterprise blockchain is going to come back from the dead",
+          "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+          "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+          "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+          "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinone warns of phishing, identity theft after customer data breach",
+          "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+          "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-15T18:05:10.244Z",
+      "slug": "crypto-roundup-november-15-2026-at-0105-am-ict-wallstreet-stablecoin-push-bitcoi"
+    },
+    {
       "id": "1794722388759",
       "title": "Crypto Roundup November 15, 2026 at 12:59 PM (ICT): Market Stress, Hacks, and Regulatory Ripples",
       "summary": "Bitcoin and XRP plunge to multi‑month lows while Bitcoin ETFs bleed another $1 bn, a major Kava Lend hack rattles DeFi confidence, and regulators tighten their grip on prediction markets and tokenized finance. The week underscores a bearish sentiment across major assets, heightened security concerns, and a growing intersection of crypto with AI and traditional finance.",
@@ -32684,13 +32765,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-    "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
-    "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-    "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-    "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
     "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
     "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
@@ -33183,10 +33257,16 @@
     "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
     "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
     "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-    "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+    "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+    "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+    "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+    "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+    "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000|https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
     "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33385,6 +33465,7 @@
     "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199|https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off|https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
     "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304|https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011|https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
     "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze|https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst|https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-    "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto|https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350|https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
+    "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto|https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350|https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+    "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins|https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
   ]
 }
