@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1794808775361",
+      "title": "Crypto Roundup November 16, 2026 at 12:59 PM (ICT): Bitcoin options pressure, AI‑driven mining hijack and market volatility dominate",
+      "summary": "Bitcoin’s price is under pressure as a $60,000 put now dwarfs the previous $100,000 call, while AI‑enabled attacks on mining pools and a sharp token plunge at Aster add to market stress. Liquidity squeezes, regulatory chatter and tech‑sector weakness create a cautious outlook for the week ahead.",
+      "content": "<p>Across the crypto ecosystem, November 16 brought a mix of technical stress, security scares and macro‑level shifts. Bitcoin is flirting with a $60,000 support level, AI‑driven attacks on mining services have resurfaced, and a sudden 32% token drop at Aster sparked questions about market depth. At the same time, broader tech sentiment is souring after Asian chip stocks slid ahead of Nvidia’s earnings, and political prediction markets missed key U.S. midterm outcomes. The following roundup dissects each story, highlights common threads, and offers a forward‑looking market view.</p>\n<h2>1. Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000</h2>\n<p>Deribit data shows that open interest on a $60,000 put has ballooned to roughly $900 million, eclipsing the $100,000 call that dominated the market just weeks ago. An open‑interest figure represents the total value of all outstanding contracts, and a concentration on puts signals that traders expect a downside move. The shift follows Bitcoin’s recent slide from the $70k‑plus range to a four‑month low near $62,000, a move that triggered $2 billion in liquidations over a single 24‑hour period. The market is now watching for a decisive test of the $60k support, with a break potentially unlocking further downside pressure.</p>\n<h2>2. US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest</h2>\n<p>Anchorage Digital analytics attribute the latest Bitcoin sell‑off largely to U.S. investors, who appear to be liquidating positions in response to rising yields on Treasury bonds and a tightening monetary stance. The report also notes a “war room” forming among Silicon Valley executives to lobby for the return of Nvidia CEO Jensen Huang after his abrupt departure, underscoring how intertwined crypto sentiment is with broader tech narratives.</p>\n<h2>3. CZ denies Binance sold crypto as Bitcoin bounces from four‑month low near $62,000</h2>\n<p>Amid swirling rumors that Binance off‑loaded large crypto positions to prop up the market, CEO Changpeng Zhao publicly denied any such activity. The denial comes as Bitcoin briefly recovered from its low, but the rally appears thin, with $2 billion in liquidations still fresh in traders’ minds. The episode highlights the heightened scrutiny on exchange balance sheets after several high‑profile hacks earlier this year.</p>\n<h2>4. Luxor hit by AI‑enabled attack that redirected client hashrate, says vulnerability patched</h2>\n<p>Luxor’s mining pool suffered an AI‑driven exploit that rerouted customers’ hashpower to an attacker‑controlled wallet for several hours. The vulnerability was patched within two hours, and Luxor confirmed no private keys or personal data were exfiltrated. The incident illustrates the emerging “dark forest” scenario where AI tools can discover and weaponize zero‑day flaws in mining infrastructure faster than traditional security audits.</p>\n<h2>5. Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack</h2>\n<p>In a follow‑up interview, Luxor’s CEO warned the industry that AI‑assisted attacks could become a persistent threat, coining the term “dark forest” to describe a landscape where every participant assumes others may be hostile. He urged mining pools to adopt real‑time anomaly detection, multi‑signature controls on hashrate allocation, and regular red‑team exercises.</p>\n<h2>6. Aster CEO suspects foul play after token plunges 32% in minutes</h2>\n<p>Aster’s native token suffered a 32% drop within minutes of trading, prompting the CEO to point to “highly leveraged liquidations” as the primary driver. While the exchange remained operational, the event exposed thin order‑book depth and the risk of cascade liquidations when large leveraged positions unwind rapidly. Market participants are now watching for potential arbitrage opportunities as the token stabilizes.</p>\n<h2>7. Asian chip stocks tumble ahead of Nvidia Q3 earnings</h2>\n<p>Japan’s Nikkei 225 fell 2% and South Korea’s Kospi slipped 2.6% as investors priced in uncertainty around Nvidia’s upcoming earnings report. The broader sell‑off in semiconductor equities adds pressure on crypto miners, whose profitability is tightly linked to GPU pricing and availability. A weaker chip market could compress mining margins, especially for those still reliant on legacy hardware.</p>\n<h2>8. Jensen Huang weighs Nvidia comeback days after shock exit: FT</h2>\n<p>Reports indicate that a coalition of Silicon Valley leaders is lobbying the White House to persuade Jensen Huang to return to Nvidia. The move reflects Nvidia’s outsized influence on crypto mining, AI workloads, and the broader tech ecosystem. A swift comeback could stabilize GPU supply, indirectly supporting mining profitability.</p>\n<h2>9. Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing</h2>\n<p>Sharp‑eyed traders identified a public BitGo code change that added support for the Cash Cat token on Robinhood Chain ten days before the official listing announcement. By front‑running the news, they captured an estimated $6 million profit. The episode underscores the growing importance of on‑chain intelligence and the need for developers to manage information leakage in open‑source repositories.</p>\n<h2>10. Did prediction markets call the U.S. midterm election?: State of Crypto</h2>\n<p>Analysis of prediction‑market data shows that most platforms aligned closely with traditional polls by the end of the 2026 election cycle, yet both missed several key Senate races. The divergence highlights the still‑nascent ability of crypto‑based prediction markets to aggregate political sentiment accurately, though they remain a valuable barometer for risk‑aware investors.</p>\n<h2>Market Outlook</h2>\n<p>Technical pressure on Bitcoin, combined with a surge in bearish options, suggests the near‑term bias remains downside until a clear break above $65,000 occurs. The AI‑driven mining attacks add a layer of operational risk, while the broader tech sell‑off could compress miner margins further. However, potential positive catalysts include a strong rebound in GPU supply if Jensen Huang returns, and any unexpected bullish sentiment from institutional investors seeking a hedge against tightening monetary policy.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s $60,000 put now dominates open interest, signaling market expectation of further downside.</li><li>AI‑enabled attacks on mining pools are emerging as a serious security vector; pools must upgrade monitoring and governance.</li><li>Liquidity squeezes remain acute, as seen in Aster’s token plunge and $2 billion of crypto liquidations.</li><li>Tech‑sector weakness (chip stocks, Nvidia uncertainty) could tighten mining profitability.</li><li>Regulatory and exchange transparency remain under scrutiny, exemplified by Binance’s denial and heightened focus on exchange balance sheets.</li><li>On‑chain intelligence is becoming a profitable edge, as demonstrated by the BitGo front‑running case.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Aster CEO suspects foul play after token plunges 32% in minutes — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000 — <em>CoinDesk</em></li>\n<li>[3] Asian chip stocks tumble ahead of Nvidia Q3 earnings — <em>Cointelegraph</em></li>\n<li>[4] Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched — <em>The Block</em></li>\n<li>[5] Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack — <em>Cointelegraph</em></li>\n<li>[6] Jensen Huang weighs Nvidia comeback days after shock exit: FT — <em>Cointelegraph</em></li>\n<li>[7] US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[8] CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000 — <em>The Block</em></li>\n<li>[9] Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing — <em>The Block</em></li>\n<li>[10] Did prediction markets call the U.S. midterm election?: State of Crypto — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "nvidia",
+        "defi",
+        "mining",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794808774/xeonbit24/posts/crypto-roundup-november-16-2026-at-1259-pm-ict-bitcoin-options-pressure-aidriven.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794808774/xeonbit24/posts/crypto-roundup-november-16-2026-at-1259-pm-ict-bitcoin-options-pressure-aidriven.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-16-2026-at-1259-pm-ict-bitcoin-options-pressure-aidriven",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 16, 2026 at 12:59 PM (ICT): Bitcoin options pressure, AI‑driven mining hijack and market volatil"
+      },
+      "sourceUrl": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+          "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+          "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+          "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+          "source": "The Block"
+        },
+        {
+          "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+          "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+          "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+          "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+          "source": "The Block"
+        },
+        {
+          "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+          "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+          "source": "The Block"
+        },
+        {
+          "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-11-16T05:59:35.361Z",
+      "slug": "crypto-roundup-november-16-2026-at-1259-pm-ict-bitcoin-options-pressure-aidriven"
+    },
+    {
       "id": "1794765910244",
       "title": "Crypto Roundup November 15, 2026 at 01:05 AM (ICT): Wall‑Street stablecoin push, Bitcoin ETF outflows and a wave of security breaches",
       "summary": "Wall Street firms are racing to dominate the on‑chain dollar while Bitcoin ETFs suffer a $2.1 bn outflow streak, dragging BTC to a four‑month low. At the same time, enterprise blockchain gains traction, but security incidents at exchanges and DeFi platforms remind the industry of lingering risks.",
@@ -32765,16 +32845,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
-    "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-    "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
-    "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
-    "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-    "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
     "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
     "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33264,10 +33334,19 @@
     "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
     "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+    "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+    "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+    "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+    "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000|https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
     "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
@@ -33466,6 +33545,7 @@
     "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304|https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011|https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
     "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze|https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst|https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
     "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto|https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350|https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-    "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins|https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+    "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins|https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+    "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000|https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
