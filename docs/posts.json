@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794864030168",
+      "title": "Crypto Roundup November 16, 2026 at 04:20 AM (ICT): AI‑driven miner breach, Bitcoin under $60k pressure and regulatory turbulence",
+      "summary": "Bitcoin faces fresh downside risk as Nvidia earnings spark a broader sell‑off, while sophisticated AI attacks on mining pools highlight new security vectors. Meanwhile, U.S. regulators and global policymakers grapple with tokenized‑stock frameworks and blockchain leadership, and institutional players double‑down on Ether and Solana positions.",
+      "content": "<p>Across the crypto ecosystem, November 16 brought a mix of technical threats, market volatility, and regulatory maneuvering. An AI‑enabled hack on a major mining pool, a steep Bitcoin dip tied to Nvidia’s earnings, and growing institutional appetite for Ether set the tone. At the same time, U.S. lawmakers and UK officials signaled divergent approaches to tokenized securities and blockchain policy, while analysts projected bold long‑term price targets for Solana. Below we unpack each story, draw connections, and outline what the next weeks may hold for traders and investors.</p><h2>1. Hackers Redirected Bitcoin Miner Rewards via AI Attack</h2><p>Luxor disclosed that a sophisticated AI‑driven vector hijacked the Commander mining‑reward distribution tool, siphoning hashpower from more than a dozen client accounts. The attackers used machine‑learning models to mimic legitimate API calls, evading traditional detection. This incident underscores a new attack surface: AI‑augmented malware that can adapt in real time. Miners are urged to enforce multi‑factor authentication, isolate reward‑distribution nodes, and adopt behavioral analytics to spot anomalous patterns.</p><h2>2. Bitcoin Risks Falling Below $60,000 as Nvidia Earnings Threaten to Deepen Crypto Sell‑Off</h2><p>CoinDesk reports that Bitcoin’s price is under pressure from rising U.S. Treasury yields, outflows from spot ETFs, and forced liquidation cascades. Nvidia’s earnings, which missed consensus, amplified risk‑off sentiment across risk‑assets, pulling Bitcoin toward the $60k threshold. The correlation between AI‑chip stocks and crypto remains strong, as many miners rely on Nvidia GPUs for ancillary operations. Traders should monitor bond‑yield movements and the next wave of AI‑chip earnings for further downside cues.</p><h2>3. Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip</h2><p>De​crypt relays market analyst Tom Lee’s view that the recent Nvidia earnings slump and the upcoming Anthropic IPO created a “waterfall” effect, dragging Ether down 28% in two weeks to $1,800. Lee argues that the market’s exposure to AI‑related equities amplified risk‑off trades, spilling over into Ethereum. Despite the plunge, Bitmine’s continued accumulation suggests confidence in Ether’s long‑term utility, especially as DeFi and roll‑up solutions gain traction.</p><h2>4. Bitmine Edges Toward 5% of ETH Supply as Treasuries Report Buys Amid Market Slump</h2><p>Cointelegraph notes that Bitmine, along with Strategy, Strive, and Cypherpunk, has expanded its treasury holdings in Bitcoin, Ether, and Zcash. Bitmine alone is nearing a 5% stake in total Ether supply, a signal of institutional belief in Ethereum’s network effects despite short‑term price weakness. The purchases were timed during the recent dip, reinforcing the classic “buy the dip” play and potentially setting the stage for a supply‑driven rally if demand recovers.</p><h2>5. Democratic Senators Warn SEC’s Tokenized Stock Exemption Has Illicit Finance Gaps</h2><p>The Block highlights that four Democratic senators are pressing the SEC to tighten its new innovation exemption for tokenized stocks, citing concerns over money‑laundering and inadequate investor protections. The exemption allows private‑placement‑style token offerings without full registration, raising fears of regulatory arbitrage. If the Senate pushes for stricter rules, tokenized‑stock platforms could face higher compliance costs, slowing adoption but potentially improving market legitimacy.</p><h2>6. Coinbase and Broadridge Propose Standard for Tokenized Stock Disclosures</h2><p>Cointelegraph reports that Coinbase and Broadridge are collaborating on a disclosure protocol that would push corporate reports and voting materials directly into digital wallets. While the standard does not confer shareholder rights, it aims to bridge the information gap for tokenized shareholders. If widely adopted, the framework could become a de‑facto industry norm, easing regulatory concerns highlighted by the Senate while advancing the utility of tokenized equities.</p><h2>7. Boris Johnson Says UK Must Lead Blockchain Development Despite Crypto Doubts</h2><p>Former UK Prime Minister Boris Johnson, accompanied by Lord Ross Kempsell, called for a proactive regulatory stance to position the United Kingdom as a global blockchain hub. The remarks come amid lingering skepticism about crypto assets, but Johnson emphasized collaboration between regulators and industry to foster innovation, especially in supply‑chain and public‑service applications.</p><h2>8. Peraire‑Bueno Brothers Acquitted of Wire Fraud in $25 Million Ethereum MEV Case</h2><p>The Block details the acquittal of the brothers accused of orchestrating a massive MEV (Miner Extractable Value) exploit on Ethereum. The judge ruled that prosecutors failed to demonstrate intentional misrepresentation. The case highlights the legal gray area surrounding MEV activities, which sit at the intersection of legitimate arbitrage and illicit front‑running. The verdict may embolden other actors to pursue MEV strategies, prompting developers to accelerate MEV‑resistant protocol upgrades.</p><h2>9. Bitwise Sees Solana Reaching $1,100 by 2031 in Bull Case as On‑Chain Trading Grows</h2><p>The Block’s research arm projects Solana’s price could climb to $1,100 by 2031 if on‑chain trading volume continues its upward trajectory. The bull case assumes widespread adoption of Solana‑based DeFi, NFT, and gaming platforms, coupled with low transaction fees that attract high‑frequency traders. Even the base case of $385 suggests substantial upside from today’s levels, reinforcing Solana’s appeal as a high‑growth altcoin.</p><h2>10. Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief</h2><p>Decrypt quotes former White House crypto adviser Patrick Witt, who laments the Senate’s rejection of the Clarity Act, a bipartisan effort to provide regulatory certainty for digital assets. Witt warns that the absence of clear federal guidance will leave the market to a patchwork of state rules, potentially stifling innovation and exposing investors to inconsistent protections.</p><h2>Market Outlook</h2><p>The convergence of AI‑driven security threats, macro‑risk from AI‑chip earnings, and regulatory uncertainty creates a volatile near‑term environment. Bitcoin’s technical support at $60k is fragile; a breach could trigger further ETF outflows and a broader risk‑off cascade. Ether, however, benefits from institutional accumulation and the continued rollout of roll‑up solutions, suggesting a potential rebound once the sell‑off subsides. Altcoins like Solana may thrive if on‑chain activity sustains, but they remain vulnerable to broader market sentiment.</p><h2>Key Takeaways</h2><ul><li>AI is now a direct attack vector on mining infrastructure—security teams must adopt behavioral analytics and MFA.</li><li>Bitcoin faces a critical test at $60k; bond yields and AI‑chip earnings will be key catalysts.</li><li>Institutional players are buying Ether at depressed prices, indicating confidence in its long‑term utility.</li><li>U.S. regulatory scrutiny of tokenized securities is intensifying; industry standards from Coinbase/Broadridge could mitigate some concerns.</li><li>The UK aims to position itself as a blockchain leader, potentially attracting development talent despite broader crypto skepticism.</li><li>Legal outcomes around MEV remain unsettled, underscoring the need for protocol‑level defenses.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says — <em>Decrypt</em></li>\n<li>[2] Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump — <em>Cointelegraph</em></li>\n<li>[3] Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps — <em>The Block</em></li>\n<li>[4] Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip — <em>Decrypt</em></li>\n<li>[5] Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off — <em>CoinDesk</em></li>\n<li>[6] Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case — <em>The Block</em></li>\n<li>[7] Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows — <em>The Block</em></li>\n<li>[8] Boris Johnson says UK must lead blockchain development despite crypto doubts — <em>Cointelegraph</em></li>\n<li>[9] Coinbase and Broadridge propose standard for tokenized stock disclosures — <em>Cointelegraph</em></li>\n<li>[10] Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "regulation",
+        "blockchain",
+        "defi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794864029/xeonbit24/posts/crypto-roundup-november-16-2026-at-0420-am-ict-aidriven-miner-breach-bitcoin-und.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794864029/xeonbit24/posts/crypto-roundup-november-16-2026-at-0420-am-ict-aidriven-miner-breach-bitcoin-und.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-16-2026-at-0420-am-ict-aidriven-miner-breach-bitcoin-und",
+        "width": 1778,
+        "height": 1000,
+        "format": "png",
+        "alt": "Crypto Roundup November 16, 2026 at 04:20 AM (ICT): AI‑driven miner breach, Bitcoin under $60k pressure and regulatory t"
+      },
+      "sourceUrl": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+          "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+          "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
+          "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+          "source": "The Block"
+        },
+        {
+          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+          "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+          "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+          "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+          "source": "The Block"
+        },
+        {
+          "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+          "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+          "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
+          "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-16T21:20:30.168Z",
+      "slug": "crypto-roundup-november-16-2026-at-0420-am-ict-aidriven-miner-breach-bitcoin-und"
+    },
+    {
       "id": "1794808775361",
       "title": "Crypto Roundup November 16, 2026 at 12:59 PM (ICT): Bitcoin options pressure, AI‑driven mining hijack and market volatility dominate",
       "summary": "Bitcoin’s price is under pressure as a $60,000 put now dwarfs the previous $100,000 call, while AI‑enabled attacks on mining pools and a sharp token plunge at Aster add to market stress. Liquidity squeezes, regulatory chatter and tech‑sector weakness create a cautious outlook for the week ahead.",
@@ -32845,16 +32926,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
-    "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-    "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
-    "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
-    "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-    "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
     "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
     "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
     "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
@@ -33344,10 +33415,19 @@
     "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
     "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
-    "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
+    "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+    "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+    "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+    "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+    "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+    "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+    "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal|https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
     "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month|https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes|https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
     "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33546,6 +33626,7 @@
     "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze|https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst|https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
     "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto|https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350|https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
     "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins|https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-    "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000|https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000|https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor|https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432"
   ]
 }
