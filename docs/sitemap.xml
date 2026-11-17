@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-17-2026-at-0237-pm-ict-governance-strains-institutional-</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794901048/xeonbit24/posts/crypto-roundup-november-17-2026-at-0237-pm-ict-governance-strains-institutional-.jpg</image:loc>
+      <image:title>Crypto Roundup November 17, 2026 at 02:37 PM (ICT): Governance strains, institutional inflows and security scares dominate the market</image:title>
+      <image:caption>Crypto Roundup November 17, 2026 at 02:37 PM (ICT): Governance strains, institutional inflows and security scares domina</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-16-2026-at-0420-am-ict-aidriven-miner-breach-bitcoin-und</loc>
