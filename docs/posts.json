@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794946132837",
+      "title": "Crypto Roundup November 17, 2026 at 03:08 AM (ICT): Market Shifts, AI Hype, and Scaling Risks",
+      "summary": "Ark’s pivot to crypto stocks, Coinbase’s AI‑driven vision, and Ethereum’s risky scaling upgrade dominate the day, while security warnings and regulatory actions add pressure on the broader ecosystem.",
+      "content": "<p>Today's crypto landscape is defined by a clash between rapid institutional re‑allocation, ambitious AI roadmaps, and looming technical debt. Ark’s $85 million Nvidia trim and $40 million crypto‑stock buy signal renewed confidence in blockchain infrastructure, even as Coinbase bets that AI agents will handle virtually every transaction in the next decade. Meanwhile, Ethereum developers wrestle with a scaling upgrade that could break up to 15,000 dApps, highlighting the trade‑off between capacity and stability. Security concerns, regulatory moves, and new on‑chain loan products round out a day of both opportunity and caution.</p>\n<h2>1. Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks</h2>\n<p>ARK Investment Management reduced its Nvidia exposure by $85 million ahead of the chipmaker’s earnings release, while simultaneously adding $40 million in crypto‑related equities such as Block, Circle and Coinbase. The move reflects a broader sentiment that blockchain infrastructure is becoming a core growth engine, especially as AI workloads demand high‑throughput, low‑latency hardware. For investors, the shift underscores a re‑balancing act: traditional AI‑centric hardware remains valuable, but the upside potential of crypto‑centric firms is now seen as a more compelling long‑term play.</p>\n<h2>2. Coinbase CEO Says AI Agents Will Account for ‘99.9%’ of Transactions Within a Decade</h2>\n<p>Brian Armstrong outlined an ambitious roadmap where autonomous AI agents execute the vast majority of trades, payments and DeFi interactions on Coinbase’s platform. The firm is already building “payment tools for AI agents,” positioning itself as the primary gateway for machine‑to‑machine value transfer. Armstrong also reiterated his belief that Bitcoin has hit bottom, suggesting that price weakness is temporary and that institutional adoption will follow as AI‑driven liquidity ramps up.</p>\n<h2>3. Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps</h2>\n<p>During a core‑dev call, Ethereum teams disclosed that the upcoming “Glamsterdam” upgrade includes two scaling changes that improve throughput by roughly 3.3×. However, the changes also alter low‑level contract assumptions, potentially breaking thousands of existing dApps. The debate pits short‑term capacity gains against the risk of widespread disruption, forcing developers to consider retrofitting or migrating contracts before the hard fork. The situation illustrates the maturity challenge of a network that must evolve without alienating its vibrant ecosystem.</p>\n<h2>4. Jito’s Lucas Bruder Warns Crypto Builders to ‘Slow Down’ and Fix Security Weaknesses</h2>\n<p>Lucas Bruder of Jito Labs cautioned that “patient attackers” are exploiting the technical debt accumulated by rapid feature roll‑outs across many protocols. He urged teams to prioritize security audits, formal verification, and robust testing before launching new products. The warning resonates after recent API‑key exploits highlighted by Cointelegraph, emphasizing that speed without rigor can erode user trust.</p>\n<h2>5. Coinbase Expands On‑Chain Crypto Loans to New York via Morpho</h2>\n<p>Coinbase announced the launch of its on‑chain loan product in New York, allowing residents to collateralize Bitcoin, Ethereum and Solana for fiat‑backed loans through a partnership with Morpho. The move signals confidence in regulatory compliance and expands the utility of crypto as collateral, potentially increasing demand for high‑quality, low‑volatility assets like BTC and ETH.</p>\n<h2>6. Lighter Incident Exposes Risks Beyond Withdrawal Controls</h2>\n<p>A recent security breach at the Lighter platform demonstrated that limiting only withdrawal endpoints is insufficient. Attackers leveraged API keys to execute trades, internal transfers, and manipulate shared liquidity pools. The incident reinforces the need for granular, route‑level permissions and real‑time monitoring across all API‑driven actions.</p>\n<h2>7. Predictions Platform Kalshi Halts Trump‑Mention Contracts After CFTC Order</h2>\n<p>Kalshi complied with a Commodity Futures Trading Commission (CFTC) directive to stop offering contracts that reference former President Donald Trump. The order highlights the regulator’s growing scrutiny of political‑event derivatives and underscores the importance of clear compliance frameworks for prediction markets.</p>\n<h2>8. Jensen Huang Says He’d Be ‘Honored’ to Return as Nvidia CEO, Despite Board’s Resistance</h2>\n<p>Former Nvidia founder Jensen Huang expressed willingness to resume the CEO role if the board requests, despite ongoing leadership transitions. While not directly crypto‑related, Nvidia’s GPUs power AI model training and mining operations, making its executive stability a peripheral factor for the broader blockchain ecosystem.</p>\n<h2>9. Druckenmiller Short on Copper, Flags Economic Weakness in 2027</h2>\n<p>Investor Stanley Druckenmiller disclosed a short position on copper and warned of macro‑economic softness heading into 2027. Though centered on commodities, his outlook may influence risk‑off sentiment, potentially prompting investors to shift toward “safe‑haven” assets like Bitcoin, which he has previously described as a hedge against systemic risk.</p>\n<h2>10. Fomo Pays Creators $30 Million, Sharing ‘Lion’s Share’ of Revenue</h2>\n<p>Social‑trading platform Fomo announced a $30 million payout to creators who hold and discuss assets, aligning incentives between content producers and token holders. The model encourages authentic, long‑term holding behavior and could inspire similar revenue‑sharing schemes across other Web3 communities.</p>\n<h2>Market Outlook</h2>\n<p>Collectively, the headlines point to a market in transition. Institutional capital is re‑allocating toward crypto‑centric equities, while major exchanges double‑down on AI integration, suggesting a future where machine agents dominate transaction volume. At the same time, Ethereum’s scaling dilemma and Jito’s security admonitions remind participants that rapid innovation carries systemic risk. Regulatory pressure, exemplified by the CFTC’s Kalshi order, adds another layer of uncertainty, especially for derivative products. Overall, the market is likely to see modest upside in Bitcoin and Ethereum price levels as AI‑driven demand materializes, but volatility may spike around major protocol upgrades and security incidents.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Ark’s shift to crypto stocks signals renewed institutional confidence in blockchain infrastructure.</li><li>Coinbase’s AI‑agent vision could reshape transaction dynamics, making on‑chain liquidity more machine‑driven.</li><li>Ethereum’s Glamsterdam upgrade offers capacity gains but carries a high risk of breaking thousands of dApps.</li><li>Security hygiene is becoming a top priority; API‑key controls and thorough audits are essential.</li><li>Regulatory scrutiny of prediction markets and on‑chain lending continues to evolve, demanding robust compliance.</li><li>Revenue‑sharing models like Fomo’s may become a new norm for incentivizing genuine community participation.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks — <em>Decrypt</em></li>\n<li>[2] Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade — <em>CoinDesk</em></li>\n<li>[3] Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses — <em>The Block</em></li>\n<li>[4] Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps — <em>Decrypt</em></li>\n<li>[5] Predictions platform Kalshi complies with order to halt Trump mention contracts — <em>CoinDesk</em></li>\n<li>[6] Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance — <em>Decrypt</em></li>\n<li>[7] Coinbase expands onchain crypto loans to New York via Morpho — <em>The Block</em></li>\n<li>[8] Lighter incident exposes risks beyond withdrawal controls — <em>Cointelegraph</em></li>\n<li>[9] Druckenmiller says he is short copper, warns of economic weakness in 2027 — <em>CoinDesk</em></li>\n<li>[10] Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "crypto",
+        "market",
+        "ai",
+        "defi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794946132/xeonbit24/posts/crypto-roundup-november-17-2026-at-0308-am-ict-market-shifts-ai-hype-and-scaling.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794946132/xeonbit24/posts/crypto-roundup-november-17-2026-at-0308-am-ict-market-shifts-ai-hype-and-scaling.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-17-2026-at-0308-am-ict-market-shifts-ai-hype-and-scaling",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 17, 2026 at 03:08 AM (ICT): Market Shifts, AI Hype, and Scaling Risks"
+      },
+      "sourceUrl": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+      "sourceTitle": "Decrypt / CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+          "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+          "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+          "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+          "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
+          "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+          "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+          "source": "The Block"
+        },
+        {
+          "title": "Lighter incident exposes risks beyond withdrawal controls",
+          "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+          "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says",
+          "url": "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-17T20:08:52.837Z",
+      "slug": "crypto-roundup-november-17-2026-at-0308-am-ict-market-shifts-ai-hype-and-scaling"
+    },
+    {
       "id": "1794901049232",
       "title": "Crypto Roundup November 17, 2026 at 02:37 PM (ICT): Governance strains, institutional inflows and security scares dominate the market",
       "summary": "The Cardano Foundation’s controversial treasury request and a surge in institutional Bitcoin exposure set the tone, while Ark Invest’s crypto‑stock buying, Solana’s bullish price target and a wave of security breaches keep the sector on edge.",
@@ -33007,16 +33088,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-    "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-    "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-    "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-    "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
     "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
     "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
     "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
@@ -33506,10 +33577,19 @@
     "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
     "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+    "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+    "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+    "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+    "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+    "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+    "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+    "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+    "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
     "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
     "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may|https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b|https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
@@ -33708,6 +33788,7 @@
     "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins|https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
     "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000|https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor|https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
-    "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market|https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080"
+    "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market|https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+    "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks|https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade|https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850"
   ]
 }
