@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1794985174621",
+      "title": "Crypto Roundup November 18, 2026 at 01:59 PM (ICT): Bitcoin’s 12% plunge, Ethereum legal win, and institutional shifts",
+      "summary": "Bitcoin slipped 12% through its 200‑week moving average, while a U.S. judge cleared Ethereum of fraud claims. Meanwhile, Ark Invest reshuffled its crypto exposure, Coinbase’s AI blocked a deep‑fake scam, and the World Bank piloted stablecoin fund disbursements.",
+      "content": "<p>Today’s crypto landscape was defined by a sharp correction in Bitcoin, a landmark court ruling for Ethereum, and a flurry of institutional moves that signal both growing confidence and heightened vigilance across the sector.</p><h2>1. Bitcoin’s 12% slide through key support looks scary, but history says give it 3 months</h2><p>Bitcoin breached its 200‑week moving average, dropping roughly 12% in a single session. The 200‑week line is a long‑term trend indicator; crossing it often precedes a period of consolidation or a deeper correction. Historical data shows only three similar breaches since 2013, each followed by a rebound within three months. Analysts point to macro pressure—rising U.S. Treasury yields and a stronger dollar—as the immediate catalyst, while on‑chain metrics (declining hash rate, rising exchange inflows) suggest short‑term bearish sentiment.</p><h2>2. U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud</h2><p>A federal judge ruled that the Peraire‑Bueno brothers could not be convicted for allegedly defrauding investors with a 2023 trade against Ethereum bots because Ethereum’s protocol lacks a formal “terms of use” contract. The decision is a first‑of‑its‑kind legal clarification for open‑source blockchain protocols, reinforcing the notion that decentralized networks operate outside traditional contract law. The ruling may embolden developers and investors, but regulators warn that other fraud schemes—especially those involving misrepresentations of token utility—remain prosecutable.</p><h2>3. Ark Invest buys crypto stocks while selling $85 million in Nvidia</h2><p>Ark’s portfolio manager disclosed a reallocation: the firm added exposure to crypto‑related equities (e.g., Coinbase, MicroStrategy) while off‑loading $85 million of Nvidia shares. The move reflects Ark’s belief that crypto infrastructure will outperform traditional AI hardware in the coming year, especially as on‑chain lending and stablecoin adoption accelerate. Analysts view the shift as a vote of confidence in the broader crypto ecosystem’s earnings potential.</p><h2>4. Coinbase AI defense blocks $4.7 million from deep‑fake Elon Musk scam</h2><p>Coinbase’s new AI‑powered fraud detection system intercepted a sophisticated deep‑fake video of Elon Musk promoting a bogus token sale, stopping $4.7 million in attempted transfers. The system flagged 91 % of malicious transactions without human intervention, showcasing how machine learning can mitigate social‑engineering attacks that have plagued the industry. This success may set a new standard for exchange security and could pressure competitors to adopt similar AI safeguards.</p><h2>5. World Bank Group taps Circle and Citi to test stablecoin‑based fund disbursements</h2><p>The World Bank announced a pilot with Circle and Citi to disburse development funds using an interoperable stablecoin model. The initiative aims to reduce transaction costs, increase speed, and improve transparency for cross‑border aid. If successful, it could legitimize stablecoins as a tool for sovereign finance and encourage further regulatory clarity around tokenized fiat.</p><h2>6. XRP whales moved $270 million during the sell‑off; the coins didn’t go to exchanges</h2><p>Analysis of on‑chain data revealed that large XRP holders transferred roughly $270 million to two custodial vaults over three weeks, rather than dumping on exchanges. This behavior suggests a strategic repositioning—perhaps preparing for future liquidity events or hedging against regulatory risk—rather than panic selling. The lack of exchange inflows helped cushion XRP’s price decline amid broader market stress.</p><h2>7. Ledger hardware implant saga reaches Dubai’s Virgin Megastore</h2><p>Two Ledger wallet owners reported a combined loss of $604,000 after purchasing devices at a Virgin Megastore in Dubai that were allegedly tampered with. The incident raises fresh concerns about supply‑chain security for hardware wallets, prompting Ledger to issue a global advisory urging users to verify firmware signatures and purchase only from authorized retailers.</p><h2>8. What’s happening to crypto startup valuations?</h2><p>Secondary‑market data shows crypto unicorns from the 2021 boom now trade at 50‑70 % discounts compared to their peak valuations. However, the sector’s top companies—particularly those in DeFi infrastructure and Web3 gaming—are hitting new highs in private funding rounds, indicating a bifurcated market where established players face valuation pressure while emerging leaders attract fresh capital.</p><h2>9. CFTC nominee questions public benefit of prediction markets as legal fight grows</h2><p>Matthew Rowland, a Democratic nominee for the CFTC, expressed skepticism about the societal value of prediction markets during his confirmation hearing. His stance signals a potential regulatory tightening on platforms that enable speculative betting on real‑world events, a space that has seen rapid growth and increasing integration with crypto tokenomics.</p><h2>10. Here’s what happened in crypto today</h2><p>A daily roundup from Cointelegraph highlighted the day’s headline events, including Bitcoin’s slide, Ethereum’s court win, and regulatory chatter. The piece serves as a quick reference for traders and investors seeking a concise snapshot of market‑moving news.</p><h2>Market Outlook</h2><p>Short‑term volatility is likely to persist as Bitcoin tests the lower bounds of its 200‑week average and macro‑economic pressures remain elevated. Ethereum’s legal win may boost developer confidence, but regulatory scrutiny—especially around prediction markets and stablecoins—will continue to shape sentiment. Institutional activity, exemplified by Ark’s reallocation and the World Bank’s stablecoin pilot, suggests a gradual shift toward mainstream acceptance, even as security incidents (Ledger breach) remind participants of persistent risks.</p><h2>Key Takeaways</h2><ul><li>Bitcoin’s breach of a major long‑term support level could trigger a three‑month consolidation period.</li><li>The Ethereum court ruling clarifies that open‑source protocols lack traditional “terms of use,” reducing legal exposure for developers.</li><li>Institutional investors are reallocating capital toward crypto equities, signaling confidence in the sector’s earnings upside.</li><li>AI‑driven fraud defenses are proving effective, potentially setting new security benchmarks for exchanges.</li><li>Stablecoin pilots by major financial institutions could accelerate regulatory acceptance and real‑world use cases.</li><li>On‑chain whale behavior indicates strategic asset holding rather than panic selling, providing a stabilizing influence on price dynamics.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud — <em>CoinDesk</em></li>\n<li>[3] Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more — <em>The Block</em></li>\n<li>[4] Bitcoin's 12% slide through key support looks scary, but history says give it 3 months. — <em>CoinDesk</em></li>\n<li>[5] XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges — <em>CoinDesk</em></li>\n<li>[6] World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements — <em>The Block</em></li>\n<li>[7] Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam — <em>The Block</em></li>\n<li>[8] What’s happening to crypto startup valuations? — <em>The Block</em></li>\n<li>[9] Ledger hardware implant saga reaches Dubai’s Virgin Megastore — <em>Cointelegraph</em></li>\n<li>[10] CFTC nominee questions public benefit of prediction markets as legal fight grows — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "stablecoins",
+        "crypto market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794985174/xeonbit24/posts/crypto-roundup-november-18-2026-at-0159-pm-ict-bitcoins-12-plunge-ethereum-legal.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794985174/xeonbit24/posts/crypto-roundup-november-18-2026-at-0159-pm-ict-bitcoins-12-plunge-ethereum-legal.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-18-2026-at-0159-pm-ict-bitcoins-12-plunge-ethereum-legal",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 18, 2026 at 01:59 PM (ICT): Bitcoin’s 12% plunge, Ethereum legal win, and institutional shifts"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+          "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+          "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+          "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+          "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+          "source": "The Block"
+        },
+        {
+          "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+          "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+          "source": "The Block"
+        },
+        {
+          "title": "What’s happening to crypto startup valuations?",
+          "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+          "source": "The Block"
+        },
+        {
+          "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+          "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+          "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-11-18T06:59:34.621Z",
+      "slug": "crypto-roundup-november-18-2026-at-0159-pm-ict-bitcoins-12-plunge-ethereum-legal"
+    },
+    {
       "id": "1794946132837",
       "title": "Crypto Roundup November 17, 2026 at 03:08 AM (ICT): Market Shifts, AI Hype, and Scaling Risks",
       "summary": "Ark’s pivot to crypto stocks, Coinbase’s AI‑driven vision, and Ethereum’s risky scaling upgrade dominate the day, while security warnings and regulatory actions add pressure on the broader ecosystem.",
@@ -33088,15 +33168,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-    "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
-    "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-    "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-    "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-    "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-    "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-    "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
     "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
     "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33587,10 +33658,18 @@
     "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
     "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
-    "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332"
+    "https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332",
+    "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
+    "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+    "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+    "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+    "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+    "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
     "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may|https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b|https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
     "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai|https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million|https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
@@ -33789,6 +33868,7 @@
     "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000|https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor|https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
     "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market|https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
-    "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks|https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade|https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850"
+    "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks|https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade|https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud|https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
   ]
 }
