@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-19-2026-at-0159-pm-ict-fed-policy-clash-bitcoin-carry-tr</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795071599/xeonbit24/posts/crypto-roundup-november-19-2026-at-0159-pm-ict-fed-policy-clash-bitcoin-carry-tr.jpg</image:loc>
+      <image:title>Crypto Roundup November 19, 2026 at 01:59 PM (ICT): Fed policy clash, Bitcoin carry trade surge, and major security breaches</image:title>
+      <image:caption>Crypto Roundup November 19, 2026 at 01:59 PM (ICT): Fed policy clash, Bitcoin carry trade surge, and major security brea</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-18-2026-at-0240-am-ict-binances-65-b-freeze-order-aidriv</loc>

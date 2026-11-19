@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795071600160",
+      "title": "Crypto Roundup November 19, 2026 at 01:59 PM (ICT): Fed policy clash, Bitcoin carry trade surge, and major security breaches",
+      "summary": "The market reacted to mixed macro signals as the Fed’s aggressive rate‑hike stance sparked debate, while Bitcoin’s funding dynamics hint at lucrative carry‑trade opportunities in 2027. At the same time, a series of high‑profile security incidents—from a $3.4 million Ethereum vault hack to Binance‑related token thefts—kept risk on the agenda.",
+      "content": "<p>November 19, 2026 was a busy day for crypto, with macro‑economic policy, investment strategies, and security headlines all vying for attention. The Federal Reserve’s push for further rate hikes raised questions about inflation trends, while Bitcoin funding rates recovered enough to make carry trades look more attractive than U.S. Treasury bills next year. Meanwhile, a string of hacks—including a $3.4 million vault breach targeting Ethereum block builders and a massive token theft affecting Binance—underscored the persistent security challenges facing the ecosystem. This roundup dissects each story, draws connections, and projects how these forces may shape market sentiment in the weeks ahead.</p>\n<h2>1. Fed's rate‑hike push may be a mistake. Here's why</h2>\n<p>CoinDesk reports that the Federal Reserve is leaning on outdated data—specifically, lagging gasoline and energy price trends—to justify additional interest‑rate hikes. Analysts argue that falling energy costs signal easing inflation, making further tightening potentially premature. For crypto, higher rates traditionally strengthen the dollar and pressure risk assets, but a mis‑step by the Fed could reverse that trend, reviving demand for non‑sovereign stores of value like Bitcoin.</p>\n<h2>2. Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts</h2>\n<p>Sygnum, a Swiss crypto bank, forecasts that Bitcoin carry trades—borrowing at low rates to hold Bitcoin and earn its price appreciation—may outpace 2027 Treasury yields. The prediction follows a sharp decline in Bitcoin funding rates during 2026, which made the strategy less appealing earlier in the year. With funding now turning positive (about 8% annualized by October), the cost of borrowing Bitcoin is decreasing, reopening the arbitrage window for yield‑seeking investors.</p>\n<h2>3. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily digest highlighted several themes: Bitcoin’s price hovering near a newly identified “value zone,” regulatory chatter around stablecoins, and ongoing security incidents. The roundup serves as a barometer for market sentiment, showing that while price action remains range‑bound, underlying fundamentals—funding rates, policy outlook, and risk events—are in flux.</p>\n<h2>4. Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers</h2>\n<p>The Block echoed Sygnum’s view, noting that Bitcoin funding stayed negative for 67 consecutive days before climbing to roughly 8% annualized by the end of October. A negative funding rate means short‑sellers pay longs, effectively subsidizing Bitcoin holders. The shift to positive funding suggests a rebalancing of market participants and could fuel the carry‑trade thesis for the next year.</p>\n<h2>5. Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more</h2>\n<p>The Block’s newsletter reported a $6.5 billion asset‑freezing order against Binance from an Abu Dhabi court, highlighting ongoing legal pressures on the exchange. In the same breath, on‑chain analytics firm CryptoQuant placed Bitcoin back into a bearish phase but within a “value zone” where price is considered attractive relative to historical volatility. The juxtaposition of regulatory risk and technical valuation adds nuance to short‑term trading strategies.</p>\n<h2>6. Ethereum block builders received the most in a $3.4 million vault hack, data shows</h2>\n<p>CoinDesk uncovered that an automated trading bot exploited a vulnerability in K3 Capital’s sBOLD vault, siphoning over half of the $3.4 million stolen. The bot prioritized its own transactions by paying higher gas fees, a practice known as “front‑running.” The incident underscores the growing sophistication of DeFi attacks and the importance of robust audit practices for high‑value vaults.</p>\n<h2>7. Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight</h2>\n<p>U.S. senators expressed concern that the GENIUS Act—intended to create a safe‑harbor framework for state‑chartered stablecoin issuers—might inadvertently drive firms toward stricter federal regulation. The legislation urges the Treasury to extend safe‑harbor protections until at least January 2028, giving issuers time to adapt. Stablecoins remain a focal point for regulators because of their role in payments and potential systemic risk.</p>\n<h2>8. Binance hackers stole 192 tokens across 11 networks, court docs show</h2>\n<p>Cointelegraph detailed a multi‑chain theft that netted hackers $6.3 billion in value, with stablecoins accounting for $3.46 billion. The attackers moved assets across 11 blockchain networks, demonstrating the cross‑chain nature of modern crypto crime. The scale of the breach raises questions about Binance’s security posture and the broader need for improved custodial safeguards.</p>\n<h2>9. Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal</h2>\n<p>CoinDesk reported that a Michigan‑based Bitcoin miner, after liquidating its final Bitcoin holdings, still faces a cash shortfall to fund a $1.2 billion artificial‑intelligence data‑center partnership. The miner needs an additional $74.8 million to complete the project, highlighting the capital‑intensive nature of combining crypto mining with AI infrastructure and the risk of over‑leveraging.</p>\n<h2>10. Ledger expands hardware hack investigation to Germany, UAE as new cases emerge</h2>\n<p>The Block announced that Ledger is extending its investigation of hardware wallet tampering to incidents in Germany and the UAE. The compromised devices share a physical modification pattern first observed in Southeast Asia, suggesting a coordinated supply‑chain attack. Users are urged to verify firmware signatures and purchase devices only from trusted sources.</p>\n<h2>Market Outlook</h2>\n<p>Putting the pieces together, the crypto market appears to be at a crossroads. On the macro side, the Fed’s aggressive stance could keep the dollar strong, pressuring risk assets, but any policy misstep may quickly reverse that pressure and benefit Bitcoin as a hedge. Meanwhile, the resurgence of positive Bitcoin funding rates revives the carry‑trade narrative, potentially attracting institutional capital seeking yields above traditional fixed‑income products.</p>\n<p>Regulatory risk remains elevated, especially for stablecoins and major exchanges, as evidenced by the GENIUS Act debate and the Binance freezing order. Security threats are also front‑and‑center, with high‑value hacks targeting both DeFi infrastructure and custodial services. These factors collectively suggest a market that will likely stay range‑bound in the short term, with volatility spikes driven by policy announcements or security breaches.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Federal Reserve policy could be a double‑edged sword: premature rate hikes may depress crypto, while a pause could reignite bullish sentiment.</li><li>Bitcoin’s funding rate recovery strengthens the case for carry trades, making Bitcoin potentially more attractive than U.S. Treasury yields in 2027.</li><li>Regulatory scrutiny of stablecoins is intensifying; the GENIUS Act’s safe‑harbor timeline will be a critical watchpoint.</li><li>Security remains a top concern: multi‑chain thefts, vault hacks, and hardware wallet tampering highlight the need for stronger custodial and audit practices.</li><li>Liquidity pressures on miners and infrastructure projects (e.g., AI data centers) illustrate the capital‑intensive nature of scaling crypto operations.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Fed's rate hike push may be a mistake. Here's why — <em>CoinDesk</em></li>\n<li>[2] Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts — <em>Cointelegraph</em></li>\n<li>[3] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[4] Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers — <em>The Block</em></li>\n<li>[5] Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more — <em>The Block</em></li>\n<li>[6] Ethereum block builders received the most in a $3.4 million vault hack, data shows — <em>CoinDesk</em></li>\n<li>[7] Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight — <em>Cointelegraph</em></li>\n<li>[8] Binance hackers stole 192 tokens across 11 networks, court docs show — <em>Cointelegraph</em></li>\n<li>[9] Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal — <em>CoinDesk</em></li>\n<li>[10] Ledger expands hardware hack investigation to Germany, UAE as new cases emerge — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoins",
+        "regulation",
+        "security",
+        "market"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795071599/xeonbit24/posts/crypto-roundup-november-19-2026-at-0159-pm-ict-fed-policy-clash-bitcoin-carry-tr.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795071599/xeonbit24/posts/crypto-roundup-november-19-2026-at-0159-pm-ict-fed-policy-clash-bitcoin-carry-tr.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-19-2026-at-0159-pm-ict-fed-policy-clash-bitcoin-carry-tr",
+        "width": 675,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 19, 2026 at 01:59 PM (ICT): Fed policy clash, Bitcoin carry trade surge, and major security brea"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Fed's rate hike push may be a mistake. Here's why",
+          "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+          "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
+          "url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+          "source": "The Block"
+        },
+        {
+          "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+          "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+          "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+          "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+          "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+          "url": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-19T07:00:00.160Z",
+      "slug": "crypto-roundup-november-19-2026-at-0159-pm-ict-fed-policy-clash-bitcoin-carry-tr"
+    },
+    {
       "id": "1795030855533",
       "title": "Crypto Roundup November 18, 2026 at 02:40 AM (ICT): Binance’s $6.5 B Freeze Order, AI‑Driven BTC Sell‑offs, and Rising Regulatory Scrutiny",
       "summary": "Binance secured a $6.5 billion global freezing order to chase stolen crypto, while Bitcoin slid below key moving averages as miners fund AI projects and the Fed hints at a larger rate hike. Tokenized stocks, high‑profile legal cases, and a $1.5 billion on‑chain trading startup add further complexity to a market in transition.",
@@ -33249,15 +33330,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
-    "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-    "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-    "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-    "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-    "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
-    "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
-    "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
     "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
     "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
@@ -33748,10 +33820,18 @@
     "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
     "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
     "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
-    "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+    "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
+    "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+    "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may|https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b|https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
     "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai|https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million|https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
     "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row|https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
@@ -33950,6 +34030,7 @@
     "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market|https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
     "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks|https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade|https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud|https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
-    "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491|https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai|https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
+    "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491|https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai|https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+    "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue|https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
