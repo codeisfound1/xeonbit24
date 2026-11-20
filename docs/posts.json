@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795202395058",
+      "title": "Crypto Roundup November 20, 2026 at 02:19 AM (ICT): Bitcoin slides, Binance hack laundering spikes, and major institutional shifts",
+      "summary": "Bitcoin slipped below $60,000 for the first time since July, widening a price‑production cost gap highlighted by JPMorgan. Meanwhile, a fresh Binance hack saw $149 million of BTC mixed through coinjoins, and Cathie Wood redirected $91 million into the Anthropic IPO while trimming crypto exposure. The market’s bearish tilt is reinforced by stable‑coin outflows, a Wrapped Monero collapse, and AI‑related risk alerts.",
+      "content": "<p>Across the crypto ecosystem, November 20 2026 was marked by a cascade of bearish price action, heightened security concerns, and notable shifts in institutional capital. Bitcoin’s descent below the $60 k threshold triggered a series of sentiment‑driven sell‑offs, while the Binance hack underscored the growing sophistication of laundering techniques. At the same time, traditional finance players such as JPMorgan and high‑profile investors like Cathie Wood signaled a re‑evaluation of crypto exposure amid broader market turbulence. Below we break down each of the ten top stories, draw connections, and outline what the next weeks may hold for the market.</p>\n<h2>1. Bitcoin plunges below $59,000 as cash rush deepens bear‑market lows</h2>\n<p>CoinDesk reports that Bitcoin is edging toward its summer low of $57,700, driven by a “rush to cash” among investors. Delphi Digital’s strategist warned that a hawkish Federal Reserve could exacerbate the sell‑off, while STS Digital suggested that cash is the preferred safe‑haven asset right now. The price dip reflects a classic risk‑off environment where macro‑economic uncertainty pushes speculative assets lower.</p>\n<h2>2. Bitcoin falls below $60k for first time since July amid broader market sell‑off</h2>\n<p>Cointelegraph notes a nearly 6 % drop in BTC, coinciding with a broader equity market decline—Nasdaq fell more than 2 % and AI‑linked stocks, including Anthropic, tumbled nearly 10 %. The correlation between crypto and tech equities is re‑emerging, highlighting how sentiment in the AI sector now spills over into digital assets.</p>\n<h2>3. Bitcoin breaks below $60k as Crypto Fear Index hits worst level since February</h2>\n<p>Decrypt’s coverage adds that the Crypto Fear & Greed Index slid to its lowest point since February, reinforcing the narrative of heightened anxiety. The index’s plunge was triggered not only by price action but also by the negative spillover from the Anthropic IPO, which saw investors pull back from risk‑on positions across the board.</p>\n<h2>4. JPMorgan says Bitcoin price correction widens gap to estimated $86,000 production cost</h2>\n<p>The Block explains that JPMorgan’s internal model estimates the marginal cost of mining a Bitcoin at $86 k. With BTC now trading near $58–60 k, the gap has widened dramatically, raising questions about miner profitability and the potential for hash‑rate reductions if the price does not recover soon.</p>\n<h2>5. Binance hack laundering ramps up as $149 million in Bitcoin mixed through coinjoins</h2>\n<p>Elliptic, cited by The Block, observed a sharp rise in Bitcoin mixing activity following a recent Binance hack. Approximately $149 million of the stolen BTC has been routed through coinjoin services, a technique that obscures transaction trails. While little appears to have been cashed out yet, the rapid adoption of mixing tools signals a more sophisticated laundering ecosystem that regulators will need to monitor closely.</p>\n<h2>6. Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims</h2>\n<p>Cointelegraph reports that Sky Protocol’s USDS stablecoin endured $2 billion of withdrawals while maintaining its $1 peg. The protocol denied allegations linking it to illicit activity, but the massive outflow underscores a growing wariness among users who are pulling liquidity from platforms perceived as risky.</p>\n<h2>7. Wrapped Monero token collapses 99% after $13 million hack blamed on web host</h2>\n<p>Both Decrypt and The Block covered the devastating hack of Wagyu’s XMR1 wrapped Monero token. An attacker siphoned 5.2 million XMR1, selling a portion for $13.5 million and causing the token’s price to tumble more than 99 %. The founder has pledged refunds, but the incident highlights the vulnerability of wrapped assets that rely on centralized web infrastructure.</p>\n<h2>8. Cathie Wood bets $91 M on Anthropic IPO while paring crypto exposure</h2>\n<p>Decrypt notes that ARK Invest’s Cathie Wood allocated 934,968 Anthropic shares across six ETFs, amounting to a $91 million bet on the AI firm’s Nasdaq debut. Simultaneously, ARK trimmed $4.1 million from its Ethereum and Solana staking ETFs, signaling a strategic pivot away from crypto toward AI‑driven growth opportunities.</p>\n<h2>9. Google gives Gemini control of Mac apps, but its new AI agent comes with risks</h2>\n<p>Decrypt’s piece on Google’s Gemini AI agent highlights a new Mac‑app integration that can navigate files, apps, and websites. However, Google’s own documentation warns of prompt‑injection attacks, underscoring the security challenges inherent in powerful AI assistants that interact directly with user environments.</p>\n<h2>10. Wrapped Monero token collapse – founder promises refunds (The Block recap)</h2>\n<p>The Block reiterates the XMR1 hack details and the founder’s commitment to reimburse affected holders. While the promise may restore some confidence, the episode serves as a cautionary tale about the need for rigorous security audits, especially for wrapped tokens that bridge privacy‑focused assets with DeFi ecosystems.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of a deepening Bitcoin correction, rising laundering activity, and significant capital reallocation toward AI suggests a short‑to‑medium‑term bearish bias for crypto markets. Miner profitability pressures could lead to hash‑rate drops, while the outflows from stablecoins and wrapped assets indicate a broader flight to safety. However, the heightened focus on AI—both as an investment theme (Anthropic) and as a technology risk (Google Gemini)—may create new capital inflows once the market stabilizes. Investors should monitor Federal Reserve policy signals, regulatory responses to crypto laundering, and the resilience of DeFi protocols that have recently suffered high‑profile exploits.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s breach of the $60 k barrier intensifies a price‑production cost gap that could strain miners if the rally stalls.</li><li>Security threats are evolving: Binance’s hack demonstrates advanced mixing, while the Wrapped Monero breach shows the fragility of centralized wrapping services.</li><li>Stablecoin outflows from Sky Protocol reflect growing user caution amid allegations of illicit activity.</li><li>Institutional capital is shifting: Cathie Wood’s sizable Anthropic bet and simultaneous crypto ETF trimming highlight a pivot toward AI and away from crypto exposure.</li><li>AI‑related developments (Anthropic IPO, Google Gemini) are now tightly linked to crypto sentiment, amplifying market volatility.</li></ul>\n<p>Overall, the market appears to be in a risk‑off phase, with investors prioritizing cash, stablecoins, and AI‑centric opportunities over traditional crypto assets. Vigilance around security, miner economics, and macro‑policy will be critical for navigating the next few weeks.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure — <em>Decrypt</em></li>\n<li>[2] Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims — <em>Cointelegraph</em></li>\n<li>[3] Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic — <em>The Block</em></li>\n<li>[4] JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost — <em>The Block</em></li>\n<li>[5] Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks — <em>Decrypt</em></li>\n<li>[6] Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play — <em>CoinDesk</em></li>\n<li>[7] Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host — <em>Decrypt</em></li>\n<li>[8] Bitcoin falls below $60K for first time since July amid broader market selloff — <em>Cointelegraph</em></li>\n<li>[9] Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February — <em>Decrypt</em></li>\n<li>[10] Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "defi",
+        "ai"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795202394/xeonbit24/posts/crypto-roundup-november-20-2026-at-0219-am-ict-bitcoin-slides-binance-hack-laund.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795202394/xeonbit24/posts/crypto-roundup-november-20-2026-at-0219-am-ict-bitcoin-slides-binance-hack-laund.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-20-2026-at-0219-am-ict-bitcoin-slides-binance-hack-laund",
+        "width": 1279,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 20, 2026 at 02:19 AM (ICT): Bitcoin slides, Binance hack laundering spikes, and major institutio"
+      },
+      "sourceUrl": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+          "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+          "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+          "source": "The Block"
+        },
+        {
+          "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+          "source": "The Block"
+        },
+        {
+          "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+          "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+          "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+          "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+          "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-20T19:19:55.058Z",
+      "slug": "crypto-roundup-november-20-2026-at-0219-am-ict-bitcoin-slides-binance-hack-laund"
+    },
+    {
       "id": "1795157576208",
       "title": "Crypto Roundup November 20, 2026 at 01:52 PM (ICT): Retail AI frenzy, gold slump, and shifting Bitcoin dynamics",
       "summary": "Retail enthusiasm for AI IPOs, a sharp drop in gold, and renewed institutional Bitcoin buying defined the day. Meanwhile, Ethereum’s upgrade delay, a distressed miner, and regulatory moves added nuance to the market outlook.",
@@ -33491,16 +33572,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
-    "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
-    "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
-    "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
-    "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
-    "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
     "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
     "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
     "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
@@ -33990,10 +34061,19 @@
     "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
     "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
     "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-    "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152"
+    "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
+    "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+    "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+    "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+    "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+    "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+    "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+    "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+    "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
     "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575|https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny|https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
     "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
     "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows|https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks|https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -34192,6 +34272,7 @@
     "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491|https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai|https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
     "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue|https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo|https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105|https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too|https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid"
+    "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too|https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+    "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure|https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
   ]
 }
