@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795157576208",
+      "title": "Crypto Roundup November 20, 2026 at 01:52 PM (ICT): Retail AI frenzy, gold slump, and shifting Bitcoin dynamics",
+      "summary": "Retail enthusiasm for AI IPOs, a sharp drop in gold, and renewed institutional Bitcoin buying defined the day. Meanwhile, Ethereum’s upgrade delay, a distressed miner, and regulatory moves added nuance to the market outlook.",
+      "content": "<p>Today's crypto landscape was shaped by a mix of macro‑economic pressure, AI‑driven market excitement, and pivotal regulatory signals. Gold’s slide dragged down risk assets, yet institutional money still found a foothold in Bitcoin. At the same time, the crypto ecosystem grappled with infrastructure challenges—from a miner’s debt crisis to Ethereum’s postponed upgrade—while regulators and custodians reshuffled their positions.</p>\n<h2>1. Retail AI IPOs eclipse crypto hype: Anthropic’s $81 B debut draws $772 M</h2>\n<p>Anthropic, the AI startup behind Claude, went public with a staggering $81 billion valuation. Retail investors poured $772 million into the shares on the first day, the highest retail debut volume recorded by Vanda Research since 2012. The frenzy mirrors the earlier SpaceX IPO, highlighting how AI is becoming the new frontier for retail speculation, often at the expense of traditional crypto assets.</p>\n<h2>2. Crypto futures predict a 5 % dip for Anthropic on Friday</h2>\n<p>Despite the massive inflow, crypto‑derived futures on the Hyperliquid platform show traders positioning a $30 million short, suggesting a 5 % pull‑back at the next Nasdaq open. The $1.7 billion volume in AI‑linked contracts underscores how crypto markets are now a barometer for broader tech sentiment, blurring the line between AI and digital assets.</p>\n<h2>3. Gold’s plunge drags Bitcoin lower</h2>\n<p>Gold fell to its lowest level since September 2025, driven by a stronger U.S. dollar and easing inflation fears. The same macro catalyst—risk‑off sentiment—has weighed on Bitcoin, which slipped alongside the precious metal. Historically, Bitcoin has shown a modest correlation with gold during periods of monetary tightening, and today’s move reinforces that link.</p>\n<h2>4. Institutional Bitcoin buying rebounds with $4 B net inflow in Q3</h2>\n<p>Galaxy Research reports that Wall Street poured a net $4 billion into Bitcoin funds in the third quarter, ending a nine‑month selling streak. The influx was led by hedge funds and pension‑style investors seeking a hedge against fiat volatility. However, the momentum appears to be waning, as Q4 data already shows renewed outflows, suggesting a cautious re‑entry.</p>\n<h2>5. Distressed miner PowerCompute sells 267 BTC to clear $22 M debt</h2>\n<p>PowerCompute, a mid‑size Bitcoin miner, forced its lender to liquidate 267 BTC in September to settle a $22 million debt. The miner is left with roughly $650 k in cash and issued a going‑concern warning. The episode highlights the lingering risk of over‑leveraged mining operations, especially as energy costs remain volatile.</p>\n<h2>6. Ethereum upgrade delayed to 2027 by contract‑break concerns</h2>\n<p>The highly anticipated “Glamsterdam” upgrade, originally slated for December 2026, has been pushed to January 2027. Developers cite the need to avoid breaking existing smart contracts that rely on current protocol rules. The delay underscores the maturity challenge of large‑scale blockchain upgrades, where backward compatibility can outweigh speed.</p>\n<h2>7. VanEck swaps Gemini for Coinbase Custody on its BTC, ETH, SOL ETFs</h2>\n<p>VanEck announced that Coinbase Custody will replace Gemini as the custodian for its Bitcoin, Ether, and Solana ETFs once Gemini’s contracts expire in February 2027. The move reflects Coinbase’s growing dominance in institutional custody and may improve liquidity for the funds.</p>\n<h2>8. Coinbase backs CFTC proposal to separate prediction markets from gambling</h2>\n<p>Coinbase publicly supported the CFTC’s draft rule that would classify event‑based contracts as swaps rather than gambling products. The clarification would give prediction‑market platforms clearer regulatory certainty and could spur new product development on regulated venues.</p>\n<h2>9. CFTC Chair Selig discusses Hyperliquid, on‑chain venues, and Ripple’s policy outlook</h2>\n<p>In the latest Daily newsletter, CFTC Chair Rostin Selig outlined how on‑chain derivatives platforms like Hyperliquid might be integrated into the U.S. regulatory framework. He also noted that Senator Elizabeth Warren’s skepticism could delay definitive crypto policy, while Ripple’s ongoing legal battles continue to shape the market’s view of token classification.</p>\n<h2>10. Daily crypto news roundup</h2>\n<p>Cointelegraph’s daily digest highlighted the day’s key movements: Bitcoin’s modest dip, Ethereum’s upgrade delay, and the surge in AI‑related trading on crypto futures. The roundup serves as a reminder that crypto news is increasingly intertwined with broader tech and macro trends.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to persist as gold’s decline fuels risk‑off pressure and Bitcoin reacts to both macro and sector‑specific signals. Institutional appetite for Bitcoin remains evident, but the recent outflows suggest a “wait‑and‑see” stance. Ethereum’s upgrade delay may temper optimism for near‑term price gains, yet the careful approach could prevent a disruptive fork and preserve network stability.</p>\n<p>Regulatory clarity is slowly emerging. Coinbase’s endorsement of the CFTC proposal and the CFTC Chair’s remarks on on‑chain venues hint at a more structured environment for derivatives and prediction markets. Custodian shifts, such as VanEck’s move to Coinbase, further signal confidence in established custodial infrastructure.</p>\n<p>Overall, the market appears to be at a crossroads: macro‑driven risk aversion versus underlying institutional confidence in Bitcoin, and a tech‑driven pivot toward AI assets that are now being priced through crypto derivatives.</p>\n<h2>Key Takeaways</h2>\n<ul>\n<li>Retail enthusiasm for AI IPOs is now influencing crypto futures, indicating cross‑asset speculation.</li>\n<li>Gold’s slump has a direct negative impact on Bitcoin, reaffirming a modest correlation during risk‑off periods.</li>\n<li>Institutional Bitcoin inflows rebounded in Q3 but are showing early signs of reversal in Q4.</li>\n<li>Mining remains a vulnerable segment; over‑leveraged miners like PowerCompute face existential risk.</li>\n<li>Ethereum’s major upgrade is delayed to 2027 to protect existing contracts, highlighting upgrade complexity.</li>\n<li>Custodial realignments (VanEck to Coinbase) and regulatory advances (CFTC proposal) are building a more mature infrastructure for crypto assets.</li>\n</ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s — <em>Cointelegraph</em></li>\n<li>[2] Here's what's crashing gold and likely weighing on bitcoin too — <em>CoinDesk</em></li>\n<li>[3] Anthropic shares may fall 5% at Friday’s open, crypto futures suggest — <em>CoinDesk</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more — <em>The Block</em></li>\n<li>[6] This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive — <em>CoinDesk</em></li>\n<li>[7] Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling — <em>CoinDesk</em></li>\n<li>[8] Ethereum’s next big upgrade is pushed into 2027 by apps it would break — <em>CoinDesk</em></li>\n<li>[9] VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs — <em>CoinDesk</em></li>\n<li>[10] Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "regulation",
+        "AI",
+        "gold"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795157575/xeonbit24/posts/crypto-roundup-november-20-2026-at-0152-pm-ict-retail-ai-frenzy-gold-slump-and-s.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795157575/xeonbit24/posts/crypto-roundup-november-20-2026-at-0152-pm-ict-retail-ai-frenzy-gold-slump-and-s.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-20-2026-at-0152-pm-ict-retail-ai-frenzy-gold-slump-and-s",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 20, 2026 at 01:52 PM (ICT): Retail AI frenzy, gold slump, and shifting Bitcoin dynamics"
+      },
+      "sourceUrl": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+          "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+          "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+          "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+          "source": "The Block"
+        },
+        {
+          "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+          "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+          "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+          "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+          "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
+          "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-20T06:52:56.208Z",
+      "slug": "crypto-roundup-november-20-2026-at-0152-pm-ict-retail-ai-frenzy-gold-slump-and-s"
+    },
+    {
       "id": "1795117270618",
       "title": "Crypto Roundup November 19, 2026 at 02:41 AM (ICT): Bitcoin slides into death cross as AI IPO turbulence fuels market stress",
       "summary": "Bitcoin breached a technical death‑cross amid a volatile AI IPO, while regulatory uncertainty and delayed Ethereum upgrades add pressure. Tokenized stocks hold steady, offering a rare bright spot in a broadly bearish crypto landscape.",
@@ -33410,15 +33491,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
-    "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-    "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
-    "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
-    "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-    "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
     "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
@@ -33909,10 +33981,18 @@
     "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
     "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
     "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-    "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829"
+    "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
+    "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+    "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+    "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+    "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+    "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+    "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row|https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
     "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575|https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny|https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
     "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
@@ -34111,6 +34191,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud|https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
     "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491|https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai|https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
     "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue|https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo|https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105|https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo|https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105|https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too|https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid"
   ]
 }
