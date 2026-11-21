@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795243656337",
+      "title": "Crypto Roundup November 21, 2026 at 01:47 PM (ICT): Bitcoin dip, XRP unwind, regulatory shifts and AI breakthroughs",
+      "summary": "Bitcoin’s price fell below $57,000 amid a newly discovered node‑stalling bug, while XRP slumped 10% as long positions liquidated. Parallel regulatory moves in Hong Kong and the U.S., plus AI‑driven breakthroughs, add layers of complexity to a volatile market.",
+      "content": "<p>Crypto markets entered a turbulent weekend on November 21, 2026. Bitcoin breached the $57,000 threshold for the first time in two years, a move compounded by the discovery of a critical node‑stalling bug flagged by an AI scanner. At the same time, XRP suffered a double‑digit decline as long‑bet traders unwound positions, and a wave of regulatory activity—from Hong Kong’s licensing proposal to a U.S. Senate bill targeting death‑related prediction markets—shaped sentiment across the ecosystem. Below we break down each headline, explain the technical and regulatory nuances, and synthesize what these developments mean for the broader market.</p>\n<h2>1. Bitcoin nodes could be stalled by repeating one ID 50,000 times – AI found the bug</h2>\n<p>Bitcoin Core released emergency patches on Friday after Loupe, an AI‑powered code‑analysis tool from Block’s Spiral, identified a denial‑of‑service (DoS) vulnerability. The bug allows a malicious actor to craft a transaction that repeats a single identifier 50,000 times, causing node software to consume excessive memory and halt processing. While the exploit has not been observed on‑chain, the patch was fast‑tracked because it could jeopardize network reliability during periods of high traffic. The incident underscores the growing role of AI in security audits, but also highlights that even the most battle‑tested code can harbor obscure edge‑cases.</p>\n<h2>2. Bitcoin tanks below $57,000 for the first time in two years, and it’s not alone</h2>\n<p>Following the bug announcement, BTC slid to $56,800, breaking a two‑year low. The drop was amplified by broader risk‑off sentiment, with macro data showing weaker U.S. consumer confidence and a strengthening dollar. Mining profitability took a hit as the price fell below the breakeven threshold for many older ASIC operators, raising concerns about hash‑rate stability. However, the market’s depth remained relatively intact, suggesting that the sell‑off was driven more by panic than fundamental weakness.</p>\n<h2>3. XRP falls 10% as long bets unwind and ETF assets slip below $1 billion</h2>\n<p>XRP’s price plunged to $0.43 after a wave of liquidations hit long‑position holders. The unwind was triggered by a sudden drop in assets under management (AUM) for XRP‑linked exchange‑traded funds, which fell below the $1 billion mark for the first time since 2022. Technical indicators—most notably a bearish divergence on the MACD and a break below the 50‑day moving average—signal further downside potential unless buying pressure resurfaces. The episode illustrates how closely linked on‑chain token performance is to institutional product flows.</p>\n<h2>4. Hong Kong pushes to bring crypto custodians, advisers under licensing rules</h2>\n<p>Hong Kong’s Securities and Futures Commission (SFC) introduced a draft bill that would require crypto custodians and advisory firms to obtain a specific license, mirroring the jurisdiction’s approach to traditional securities. The legislation aims to tighten investor protection, enforce AML/KYC standards, and create a clearer regulatory sandbox for fintech innovation. If passed, the first reading scheduled for Dec. 2 could position Hong Kong as a more attractive hub for compliant crypto services, potentially drawing capital away from less regulated Asian markets.</p>\n<h2>5. JPMorgan says Bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’</h2>\n<p>JPMorgan’s research note highlighted that the sub‑$57,000 price level squeezes miner margins, especially for operations reliant on older hardware. The bank warned that prolonged low prices could lead to miner consolidation and a temporary dip in network security. In a separate development, the U.S. Senate approved the “Death Bets Act,” banning prediction markets that allow wagering on death or war outcomes. While not directly crypto‑related, the bill could affect platforms like Kalshi that host binary contracts, signaling a broader legislative appetite for limiting high‑risk speculative products.</p>\n<h2>6. Kalshi races to get ahead of New York order that could shut down exchange</h2>\n<p>Kalshi, a regulated U.S. prediction‑market platform, filed an emergency motion in New York state court to contest a restraining order that would effectively halt its operations. The order stems from a recent court loss where the judge questioned Kalshi’s compliance with the state’s “virtual‑currency” definition. Kalshi argues that its contracts are event‑based derivatives, not securities, and seeks a stay while it appeals. The outcome will be a bellwether for how U.S. regulators treat crypto‑adjacent prediction markets.</p>\n<h2>7. Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment</h2>\n<p>Fintech firm Fairmint announced its intention to launch a tokenized equity marketplace on Canton, a permissioned blockchain built on Ethereum. The project operates under the SEC’s five‑year “innovation exemption,” which allows experimental tokenized securities without full registration. By issuing fractionalized shares as ERC‑20 tokens, Fairmint hopes to lower barriers for retail investors and improve liquidity for private‑company equity. The move reflects a growing trend of blending traditional finance structures with decentralized infrastructure.</p>\n<h2>8. DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all‑time high</h2>\n<p>Digital Currency Group’s mining subsidiary, Fortitude, secured shareholder approval to pursue a Nasdaq listing, marking the first time a Zcash‑focused miner aims for a public equity debut. Despite the strategic milestone, ZEC price fell 55% from its record high, trading around $120. The disconnect suggests that market participants are still skeptical about the long‑term upside of privacy‑focused coins amid increasing regulatory scrutiny.</p>\n<h2>9. Claude claims historic math breakthrough one day after Anthropic IPO</h2>\n<p>Anthropic’s large‑language model, Claude, was credited by researcher Levent Alpöge with proving a 167‑year‑old conjecture in number theory. While independent verification is pending, the claim generated buzz about AI’s potential to accelerate scientific discovery. The timing—just after Anthropic’s IPO—raised eyebrows about possible hype, but the episode underscores how AI advancements are becoming a headline driver for both tech and crypto investors.</p>\n<h2>10. Nvidia shares sink to 52‑week low after report SEC is probing accounting</h2>\n<p>Nvidia’s stock plunged 13% to a 52‑week low after reports that the SEC’s enforcement division is reviewing the chipmaker’s accounting practices. The dip adds pressure on the broader AI hardware sector, which has been a key catalyst for crypto mining equipment demand. A weaker Nvidia could translate into slower ASIC price reductions, indirectly affecting miner economics across Bitcoin and other PoW networks.</p>\n<h2>Market Outlook</h2>\n<p>The confluence of technical glitches, price pressure on major assets, and a wave of regulatory activity points to a short‑term risk‑off environment. Bitcoin’s breach of $57,000 and the node‑stalling bug have shaken confidence in the network’s resilience, while XRP’s ETF outflows illustrate how institutional product flows can rapidly amplify token moves. On the regulatory front, Hong Kong’s licensing push and U.S. legislative actions suggest a tightening of oversight, which could both weed out bad actors and create clearer pathways for compliant projects. Meanwhile, AI breakthroughs—both in security (Loupe) and scientific research (Claude)—highlight a growing symbiosis between crypto and broader tech innovation.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Bitcoin’s price dip below $57,000 and the newly patched node‑stalling bug raise short‑term volatility but also demonstrate the ecosystem’s rapid response capabilities.</li><li>XRP’s 10% slide underscores the sensitivity of tokens to institutional fund flows and technical chart signals.</li><li>Regulatory momentum in Hong Kong and the U.S. could tighten compliance requirements, yet also provide a more predictable framework for legitimate players.</li><li>AI tools are becoming integral to both security (code scanning) and market narrative (Claude’s math claim), signaling a new layer of influence on crypto dynamics.</li><li>Mining economics are under pressure from lower BTC prices and potential hardware cost constraints linked to Nvidia’s accounting probe.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug — <em>CoinDesk</em></li>\n<li>[2] XRP falls 10% as long bets unwind and ETF assets slip below $1 billion — <em>CoinDesk</em></li>\n<li>[3] Hong Kong pushes to bring crypto custodians, advisers under licensing rules — <em>Cointelegraph</em></li>\n<li>[4] JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more — <em>The Block</em></li>\n<li>[5] Bitcoin tanks below $57,000 for the first time in two years, and its not alone — <em>CoinDesk</em></li>\n<li>[6] Kalshi races to get ahead of New York order that could shut down exchange — <em>CoinDesk</em></li>\n<li>[7] Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment — <em>CoinDesk</em></li>\n<li>[8] DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high — <em>The Block</em></li>\n<li>[9] Claude Claims Historic Math Breakthrough One Day After Anthropic IPO — <em>Decrypt</em></li>\n<li>[10] Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "xrp",
+        "regulation",
+        "market",
+        "ai"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795243655/xeonbit24/posts/crypto-roundup-november-21-2026-at-0147-pm-ict-bitcoin-dip-xrp-unwind-regulatory.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795243655/xeonbit24/posts/crypto-roundup-november-21-2026-at-0147-pm-ict-bitcoin-dip-xrp-unwind-regulatory.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-21-2026-at-0147-pm-ict-bitcoin-dip-xrp-unwind-regulatory",
+        "width": 679,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 21, 2026 at 01:47 PM (ICT): Bitcoin dip, XRP unwind, regulatory shifts and AI breakthroughs"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+          "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+          "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+          "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+          "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+          "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+          "source": "The Block"
+        },
+        {
+          "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+          "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+          "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-21T06:47:36.337Z",
+      "slug": "crypto-roundup-november-21-2026-at-0147-pm-ict-bitcoin-dip-xrp-unwind-regulatory"
+    },
+    {
       "id": "1795202395058",
       "title": "Crypto Roundup November 20, 2026 at 02:19 AM (ICT): Bitcoin slides, Binance hack laundering spikes, and major institutional shifts",
       "summary": "Bitcoin slipped below $60,000 for the first time since July, widening a price‑production cost gap highlighted by JPMorgan. Meanwhile, a fresh Binance hack saw $149 million of BTC mixed through coinjoins, and Cathie Wood redirected $91 million into the Anthropic IPO while trimming crypto exposure. The market’s bearish tilt is reinforced by stable‑coin outflows, a Wrapped Monero collapse, and AI‑related risk alerts.",
@@ -33572,16 +33653,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
-    "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-    "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-    "https://www.coindesk.com/",
-    "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-    "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-    "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-    "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-    "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
-    "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
     "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
     "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
     "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
@@ -34071,10 +34142,19 @@
     "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
     "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-    "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
+    "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+    "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+    "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+    "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575|https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny|https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
     "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
     "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows|https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks|https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
@@ -34273,6 +34353,7 @@
     "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue|https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo|https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105|https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too|https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-    "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure|https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
+    "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure|https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug|https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion|https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
