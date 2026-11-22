@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795328370522",
+      "title": "Crypto Roundup November 22, 2026 at 01:19 PM (ICT): Chainflip hack, regulatory pressure, and Bitcoin rebound dominate headlines",
+      "summary": "A series of high‑profile security breaches at Chainflip and a $1 million bridge exploit rattled DeFi, while Bitcoin surged past $60,000 after a $1.8 billion liquidation wave. Meanwhile, U.S. regulators cracked down on fake exchanges and New York’s AG targeted Kalshi, adding fresh regulatory headwinds.",
+      "content": "<p>Today's crypto landscape is defined by a clash between security failures, regulatory scrutiny, and a surprisingly resilient Bitcoin price action. A massive hack at the cross‑chain protocol Chainflip and a suspected bridge exploit in South Korea have sparked sharp token declines, yet Bitcoin managed to rebound above $60,000 after a brutal liquidation storm. At the same time, U.S. regulators intensified enforcement against fraudulent platforms, and New York’s Attorney General threatened to shut down a regulated derivatives exchange. These events together paint a picture of a market that remains volatile but still capable of rapid recovery.</p>\n<h2>1. Chainflip confirms $12 M hack, offers attacker 10% bounty</h2>\n<p>Chainflip disclosed that an attacker siphoned roughly $12 million from its vaults and, in a controversial move, offered a 10 % bounty to return 90 % of the funds by Nov. 23. The protocol framed the offer as a white‑hat recovery and said it would withdraw any law‑enforcement complaints if the attacker complied. While the bounty could incentivize a partial return, it also signals a weakening of trust in cross‑chain bridges, which already suffer from repeated exploits. Investors should watch for any partial restitution and assess Chainflip’s future governance reforms.</p>\n<h2>2. Chainflip’s FLIP token tumbles 34% after $4.86 M vault drain</h2>\n<p>The market reacted instantly: FLIP slumped 34 % after a suspected key‑validator compromise allowed an automated withdrawal of $4.86 million. On‑chain analysis showed a valid signature, suggesting the attacker may have accessed the validator’s private key. The price drop underscores how quickly confidence erodes when a protocol’s core security assumptions are breached. Stakeholders are likely to demand multi‑signature vaults or hardware‑based key management to prevent recurrence.</p>\n<h2>3. Cross‑chain protocol Chainflip’s FLIP tanks 30% after suspected $4.86 M vault drain</h2>\n<p>CoinDesk reported a similar 30 % decline, reinforcing the narrative that the incident is reshaping sentiment across the DeFi sector. The parallel coverage highlights the breadth of the fallout and the speed at which price information propagates across media outlets. For traders, the episode serves as a reminder to diversify exposure away from single‑point‑of‑failure protocols.</p>\n<h2>4. Cyber investigating suspected $1 M bridge exploit as Upbit, Bithumb freeze transfers</h2>\n<p>South Korea’s leading exchanges Upbit and Bithumb halted CYBER token deposits and withdrawals after a suspected $1 million bridge exploit. The coordinated freeze indicates heightened vigilance among custodial platforms when a vulnerability is detected. While the incident is smaller than Chainflip’s, it adds to a growing list of bridge‑related risks that could pressure the broader DeFi market, especially for assets that rely heavily on cross‑chain liquidity.</p>\n<h2>5. Bitcoin rebounds above $60,000 after $1.8 B crypto liquidation wave</h2>\n<p>Bitcoin surged back above the $60,000 mark after a $1.8 billion liquidation cascade wiped out leveraged short positions. The rapid bounce demonstrates Bitcoin’s strong support at the $60k level and the market’s ability to absorb shock when margin traders are forced out. However, the underlying volatility suggests that any further macro‑economic shock could trigger another wave of liquidations.</p>\n<h2>6. Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide</h2>\n<p>Regulatory pressure intensified as Kalshi, a New York‑based regulated derivatives exchange, prepared for a hearing on a state order that could effectively close its operations across the U.S. The Attorney General denied intent to shut the platform but warned of non‑compliance risks. The case highlights the tightening regulatory environment for crypto‑related financial products and may set precedents for other regulated exchanges.</p>\n<h2>7. Fraudsters Used Fake Crypto Exchanges to Steal $37 M, SEC Alleges</h2>\n<p>The SEC unveiled a scheme where eight Colorado‑registered entities masqueraded as legitimate crypto advisers and platforms, defrauding investors of $37 million. The fraudsters even fabricated SEC filings to appear credible. This enforcement action reinforces the agency’s focus on investor protection and signals that regulatory bodies are sharpening their tools against sophisticated scams.</p>\n<h2>8. GTA 6 Leaker Dangles a PC Port Behind a $15 M Crypto Pump</h2>\n<p>Decrypt reported that the anonymous leaker “Cyberleek” released a massive Xbox build of GTA 6 but is withholding the executable needed for a PC port until the associated CYBERLEEK token reaches a $15 million market cap. This pump‑and‑dump style promotion blends gaming hype with token speculation, illustrating how meme‑driven projects can still generate sizable capital flows despite broader market turbulence.</p>\n<h2>9. Signal Calls OS‑Level AI an ‘Existential Threat’ and Blocks Screenshots to Fight It</h2>\n<p>Signal introduced new privacy safeguards that block screenshots on iOS and auto‑enable screen security on Android when an AI assistant is detected reading a chat. While not directly a crypto story, the move reflects growing concerns about AI’s impact on privacy, a theme that resonates with the crypto community’s emphasis on data sovereignty.</p>\n<h2>10. Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm</h2>\n<p>Nvidia’s stock plunged 48 % amid fears that the AI hype cycle is entering a correction phase. The tech sell‑off spilled over into crypto, with Bitcoin briefly slipping below $60,000. The correlation suggests that macro‑tech sentiment continues to influence crypto valuations, especially for assets perceived as risk‑on.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to remain elevated. Security breaches at high‑profile DeFi protocols and bridge exploits will keep risk‑averse capital on the sidelines, while regulatory actions in the U.S. could constrain growth for compliant exchanges and derivatives platforms. Conversely, Bitcoin’s resilience above $60 k shows that core store‑of‑value demand persists, especially when leveraged positions are liquidated. Investors should monitor on‑chain metrics for Bitcoin and Ethereum, watch for any further disclosures from Chainflip, and stay alert to policy developments from the SEC and state regulators.</p>\n<h2>Key Takeaways</h2>\n<p>• Security remains the top risk: multiple hacks across bridges and cross‑chain protocols have triggered sharp token declines.<br>• Regulatory scrutiny is intensifying, targeting both fraudulent schemes and legitimate derivatives exchanges.<br>• Bitcoin’s bounce demonstrates strong support at $60k, but macro‑tech corrections could test that floor.<br>• Meme‑driven token pumps tied to non‑crypto events (e.g., GTA 6) still attract sizable capital, underscoring the need for due diligence.<br>• Privacy‑focused tech updates (Signal) and AI concerns hint at broader ecosystem shifts that may affect user behavior and adoption.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Chainflip confirms $12M hack, offers attacker 10% bounty — <em>Cointelegraph</em></li>\n<li>[2] Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide — <em>The Block</em></li>\n<li>[3] Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers — <em>The Block</em></li>\n<li>[4] GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump — <em>Decrypt</em></li>\n<li>[5] Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave — <em>CoinDesk</em></li>\n<li>[6] Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges — <em>Decrypt</em></li>\n<li>[7] Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain — <em>CoinDesk</em></li>\n<li>[8] Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It — <em>Decrypt</em></li>\n<li>[9] Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise — <em>The Block</em></li>\n<li>[10] Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "nft"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795328369/xeonbit24/posts/crypto-roundup-november-22-2026-at-0119-pm-ict-chainflip-hack-regulatory-pressur.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795328369/xeonbit24/posts/crypto-roundup-november-22-2026-at-0119-pm-ict-chainflip-hack-regulatory-pressur.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-22-2026-at-0119-pm-ict-chainflip-hack-regulatory-pressur",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup November 22, 2026 at 01:19 PM (ICT): Chainflip hack, regulatory pressure, and Bitcoin rebound dominate he"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+          "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+          "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+          "source": "The Block"
+        },
+        {
+          "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+          "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+          "source": "The Block"
+        },
+        {
+          "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+          "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+          "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+          "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+          "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+          "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+          "source": "The Block"
+        },
+        {
+          "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+          "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-22T06:19:30.522Z",
+      "slug": "crypto-roundup-november-22-2026-at-0119-pm-ict-chainflip-hack-regulatory-pressur"
+    },
+    {
       "id": "1795285339207",
       "title": "Crypto Roundup November 21, 2026 at 01:22 AM (ICT): Bitcoin rebounds, Chainflip hack, and AI‑driven market turbulence",
       "summary": "Bitcoin surged 9% back above $60k after a two‑year low, while a $4.86 million vault drain knocked Chainflip’s FLIP token down 30‑34%. Meanwhile, AI hype, regulatory scrutiny and novel crypto‑linked promotions are reshaping market sentiment.",
@@ -33733,9 +33814,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
     "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -34232,10 +34310,12 @@
     "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
     "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
     "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-    "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+    "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows|https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks|https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
     "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815|https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818|https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say|https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
@@ -34434,6 +34514,7 @@
     "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too|https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
     "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure|https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
     "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug|https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion|https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump|https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open|https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec"
+    "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump|https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open|https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+    "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813|https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
   ]
 }
