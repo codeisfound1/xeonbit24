@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795373148389",
+      "title": "Crypto Roundup November 22, 2026 at 01:45 AM (ICT): Bitcoin faces quantum threat as markets wobble",
+      "summary": "Bitcoin’s looming quantum‑security risk, a sudden price dip on Kraken, and a series of bridge exploits dominate today’s headlines. Meanwhile, regulatory pressure on US derivatives platforms and novel on‑chain FX ideas add layers of complexity to an already volatile market.",
+      "content": "<p>Crypto markets entered another turbulent session on November 22, 2026. Bitcoin briefly slipped below $17,000 on Kraken, while a fresh quantum‑security warning reminded the industry that the next generation of computers could eventually undermine the very foundations of the network. At the same time, South Korean exchanges froze CYBER token transfers after a suspected bridge exploit, and Chainflip disclosed a $12 million hack. The day also featured broader themes: user‑driven on‑chain foreign‑exchange, a daily news roundup, regulatory pressure on the US derivatives exchange Kalshi, and even a gaming‑related crypto pump tied to a GTA 6 leak. Below is a detailed look at each story, ordered by market impact.</p>\n<h2>1. Bitcoin’s Quantum Security Challenge Extends to Bridges, Custodians and Millions of Coins</h2>\n<p>CoinDesk reports that while quantum computers cannot yet break Bitcoin’s SHA‑256 hashing or ECDSA signatures, researchers warn the gap is narrowing. Leo Fan, a cryptography specialist, highlighted that the vulnerability is not limited to the core protocol; it also affects third‑party services such as cross‑chain bridges and custodial wallets that often rely on similar cryptographic primitives. The article stresses that a migration to quantum‑resistant algorithms (e.g., lattice‑based signatures) could take years, especially for custodians handling billions of dollars. For investors, the immediate risk remains low, but the narrative adds a long‑term strategic consideration for institutional holders and developers planning future upgrades.</p>\n<h2>2. Bitcoin Briefly Drops to $17K on Kraken, Exchange Upholds Trades</h2>\n<p>Kraken confirmed that a sudden dip to $17,000 was the result of a large sell order executed in the Canadian‑dollar market, not a security breach. The exchange said all trades were processed correctly and no accounts were compromised. The price movement sparked a brief wave of panic on social media, but the rapid rebound to the $18,500‑$19,000 range suggests limited market depth at the lower end of the order book. The incident underscores the fragility of Bitcoin’s price when large, centralized venues absorb sizable orders, and it may prompt traders to diversify execution across multiple venues to reduce slippage.</p>\n<h2>3. South Korean Exchanges Halt CYBER Transfers Amid Suspected Bridge Exploit</h2>\n<p>Both Upbit and Bithumb froze deposits and withdrawals of the CYBER token after an unexpected minting event on Solana was detected, followed by movements out of the token’s Ethereum bridge lockbox. The breach appears to target a cross‑chain bridge that links Solana and Ethereum, a common weak point in DeFi infrastructure. While the estimated loss is around $1 million, the incident highlights the systemic risk of bridges that lack rigorous audit trails and real‑time monitoring. Regulators in South Korea have been tightening oversight of crypto exchanges, and this freeze may accelerate calls for mandatory bridge security certifications.</p>\n<h2>4. Chainflip Confirms $12 Million Hack, Offers Attacker 10% Bounty</h2>\n<p>Chainflip, a cross‑chain liquidity protocol, disclosed that an attacker stole $12 million worth of assets. In a controversial move, the project offered a 10 % bounty for the return of the remaining 90 % of the funds, framing the recovery attempt as a white‑hat operation. The proposal has sparked debate within the community about the ethics of paying bounties to criminals and the potential precedent it sets for future incidents. From a risk‑management perspective, the hack reinforces the need for multi‑layered security audits, especially for protocols that handle large cross‑chain swaps.</p>\n<h2>5. The Future of On‑Chain FX Could Start With Users, Not Institutional Liquidity</h2>\n<p>Cointelegraph’s opinion piece argues that on‑chain foreign‑exchange (FX) does not need to replicate the trillion‑dollar institutional market to be viable. Instead, grassroots demand—such as remittances, travel payments, and gaming economies—can sustain smaller, user‑driven liquidity pools. The author suggests that decentralized autonomous organizations (DAOs) could govern FX rate oracles, reducing reliance on centralized price feeds. If successful, this model could lower transaction costs for cross‑border payments and create new revenue streams for DeFi platforms.</p>\n<h2>6. Here’s What Happened in Crypto Today</h2>\n<p>The daily roundup from Cointelegraph aggregates the day’s most relevant moves: Bitcoin’s price dip, the CYBER bridge freeze, regulatory headlines, and a surge in NFT‑related activity on the Solana network. While the piece is a summary, it reinforces the interconnectedness of price action, security events, and regulatory developments, reminding readers that a single headline can ripple across multiple sectors.</p>\n<h2>7. Kalshi Faces Monday Hearing on New York Order It Says Would Shut Down Its Exchange Nationwide</h2>\n<p>The Block reports that Kalshi, a regulated US derivatives exchange, is contesting a New York Attorney General order that could effectively halt its operations across the country. Kalshi argues the order is overreaching, while the AG maintains the goal is to protect consumers from unregistered derivatives. The hearing could set a precedent for how state regulators interact with federally‑licensed crypto‑derivatives platforms, potentially influencing the broader regulatory landscape for products like Bitcoin futures and options.</p>\n<h2>8. Google’s Quantum Chip Beats Classical Limits in ‘Impossible’ Game</h2>\n<p>Decrypt covered Google’s Willow quantum processor, which solved a four‑qubit coordination game that classical computers could not. Although the test is far from a commercial quantum computer, it signals rapid progress in hardware that could, in the future, threaten cryptographic schemes. The article serves as a reminder that quantum research is accelerating, and crypto projects should monitor these developments to stay ahead of potential security challenges.</p>\n<h2>9. GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump</h2>\n<p>A leaker known as Cyberleek released a massive Xbox build of the upcoming GTA 6 but is withholding the PC executable until the associated CYBERLEEK token reaches a $15 million market cap. The strategy blends hype‑driven marketing with tokenomics, creating a short‑term pump that could attract speculative investors. While not directly related to core blockchain technology, the incident illustrates how crypto incentives are being woven into mainstream entertainment promotions.</p>\n<h2>10. Cyber Investigating Suspected $1 Million Bridge Exploit as Upbit, Bithumb Freeze Transfers</h2>\n<p>This The Block follow‑up reiterates the ongoing investigation into the CYBER bridge exploit, emphasizing the collaborative effort between exchanges and the blockchain’s development team. The article notes that the incident has prompted a broader discussion on insurance mechanisms for bridge losses and the potential role of decentralized insurance protocols.</p>\n<h2>Market Outlook</h2>\n<p>Overall sentiment remains cautious. Bitcoin’s price volatility, combined with emerging quantum‑security concerns, suggests that short‑term traders may see heightened price swings. Bridge exploits and high‑profile hacks continue to erode confidence in cross‑chain solutions, likely prompting a shift toward more audited, permissioned bridges or the adoption of Layer‑2 rollups with built‑in fraud proofs. Regulatory pressure on US derivatives platforms, exemplified by Kalshi’s hearing, could tighten compliance costs for crypto‑based financial products, potentially slowing the growth of institutional participation.</p>\n<p>On the upside, user‑driven on‑chain FX and the continued interest in decentralized liquidity solutions indicate that demand for practical, low‑cost cross‑border payments remains strong. If projects can deliver secure, user‑centric products, they may capture a niche that bypasses the need for massive institutional liquidity.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Quantum‑security remains a long‑term risk for Bitcoin and its ecosystem; proactive migration to quantum‑resistant algorithms is advisable.</li><li>Large sell orders on centralized exchanges can trigger rapid price drops, highlighting the need for diversified execution strategies.</li><li>Bridge vulnerabilities continue to cause multi‑million dollar losses; stronger audits and real‑time monitoring are becoming industry standards.</li><li>Paying bounties to attackers, as seen with Chainflip, raises ethical and legal questions that the community must address.</li><li>User‑centric on‑chain FX could unlock new DeFi use cases without requiring institutional liquidity.</li><li>Regulatory scrutiny in the US is intensifying, potentially reshaping the landscape for crypto derivatives.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] The future of onchain FX could start with users, not institutional liquidity — <em>Cointelegraph</em></li>\n<li>[2] Google's Quantum Chip Beats Classical Limits in 'Impossible' Game — <em>Decrypt</em></li>\n<li>[3] Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins — <em>CoinDesk</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades — <em>Cointelegraph</em></li>\n<li>[6] South Korean exchanges halt CYBER transfers amid suspected bridge exploit — <em>Cointelegraph</em></li>\n<li>[7] Chainflip confirms $12M hack, offers attacker 10% bounty — <em>Cointelegraph</em></li>\n<li>[8] Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide — <em>The Block</em></li>\n<li>[9] Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers — <em>The Block</em></li>\n<li>[10] GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "security",
+        "market",
+        "regulation"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795373147/xeonbit24/posts/crypto-roundup-november-22-2026-at-0145-am-ict-bitcoin-faces-quantum-threat-as-m.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795373147/xeonbit24/posts/crypto-roundup-november-22-2026-at-0145-am-ict-bitcoin-faces-quantum-threat-as-m.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-22-2026-at-0145-am-ict-bitcoin-faces-quantum-threat-as-m",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 22, 2026 at 01:45 AM (ICT): Bitcoin faces quantum threat as markets wobble"
+      },
+      "sourceUrl": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "The future of onchain FX could start with users, not institutional liquidity",
+          "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+          "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+          "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+          "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+          "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+          "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+          "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+          "source": "The Block"
+        },
+        {
+          "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+          "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+          "source": "The Block"
+        },
+        {
+          "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+          "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-22T18:45:48.390Z",
+      "slug": "crypto-roundup-november-22-2026-at-0145-am-ict-bitcoin-faces-quantum-threat-as-m"
+    },
+    {
       "id": "1795328370522",
       "title": "Crypto Roundup November 22, 2026 at 01:19 PM (ICT): Chainflip hack, regulatory pressure, and Bitcoin rebound dominate headlines",
       "summary": "A series of high‑profile security breaches at Chainflip and a $1 million bridge exploit rattled DeFi, while Bitcoin surged past $60,000 after a $1.8 billion liquidation wave. Meanwhile, U.S. regulators cracked down on fake exchanges and New York’s AG targeted Kalshi, adding fresh regulatory headwinds.",
@@ -33814,11 +33895,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-    "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
     "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
     "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
@@ -34313,10 +34389,14 @@
     "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
-    "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
+    "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+    "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+    "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
     "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815|https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818|https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say|https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
     "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns|https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -34515,6 +34595,7 @@
     "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure|https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
     "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug|https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion|https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump|https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open|https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-    "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813|https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
+    "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813|https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+    "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits|https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
   ]
 }
