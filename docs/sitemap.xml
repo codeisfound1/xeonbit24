@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-23-2026-at-0210-pm-ict-spot-bitcoin-etf-outflows-fed-rat</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795417817/xeonbit24/posts/crypto-roundup-november-23-2026-at-0210-pm-ict-spot-bitcoin-etf-outflows-fed-rat.jpg</image:loc>
+      <image:title>Crypto Roundup November 23, 2026 at 02:10 PM (ICT): Spot Bitcoin ETF outflows, Fed rate‑hopes crumble and Cardano governance clash</image:title>
+      <image:caption>Crypto Roundup November 23, 2026 at 02:10 PM (ICT): Spot Bitcoin ETF outflows, Fed rate‑hopes crumble and Cardano govern</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-22-2026-at-0145-am-ict-bitcoin-faces-quantum-threat-as-m</loc>

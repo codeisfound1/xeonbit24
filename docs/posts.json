@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795417818519",
+      "title": "Crypto Roundup November 23, 2026 at 02:10 PM (ICT): Spot Bitcoin ETF outflows, Fed rate‑hopes crumble and Cardano governance clash",
+      "summary": "Bitcoin ETFs saw $1.8 bn withdrawn as investors brace for a possible Fed rate hike, while a market rout erased bets on a 50‑bp hike. Cardano’s community rejected a $4 m conference budget, and a $2 m DeFi exploit sparked a $3.7 m bridge drain. The combined signals point to heightened risk aversion across crypto.",
+      "content": "<p><b>Cardano holders are turning down a $4 million request for running its flagship event</b></p><p><b>Here’s what happened in crypto today</b></p><p><b>Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts</b></p><p><b>Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand</b></p><p><b>Market rout kills 50 basis points December Fed rate hike bets</b></p><p><b>Trump renews call for Nvidia to rehire Jensen Huang as CEO</b></p><p><b>Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December</b></p><p><b>Half of wallets on Trump’s dinner list got tokens from non-US exchanges</b></p><p><b>A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge</b></p><p><b>Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest</b></p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Cardano holders are turning down a $4 million request for running its flagship event — <em>CoinDesk</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts — <em>The Block</em></li>\n<li>[4] Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand — <em>CoinDesk</em></li>\n<li>[5] Market rout kills 50 basis points December Fed rate hike bets — <em>CoinDesk</em></li>\n<li>[6] Trump renews call for Nvidia to rehire Jensen Huang as CEO — <em>Cointelegraph</em></li>\n<li>[7] Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December — <em>Cointelegraph</em></li>\n<li>[8] Half of wallets on Trump’s dinner list got tokens from non-US exchanges — <em>Cointelegraph</em></li>\n<li>[9] A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge — <em>The Block</em></li>\n<li>[10] Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "market",
+        "crypto news",
+        "defi",
+        "cardano"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795417817/xeonbit24/posts/crypto-roundup-november-23-2026-at-0210-pm-ict-spot-bitcoin-etf-outflows-fed-rat.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795417817/xeonbit24/posts/crypto-roundup-november-23-2026-at-0210-pm-ict-spot-bitcoin-etf-outflows-fed-rat.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-23-2026-at-0210-pm-ict-spot-bitcoin-etf-outflows-fed-rat",
+        "width": 600,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 23, 2026 at 02:10 PM (ICT): Spot Bitcoin ETF outflows, Fed rate‑hopes crumble and Cardano govern"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+          "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+          "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+          "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Market rout kills 50 basis points December Fed rate hike bets",
+          "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+          "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+          "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+          "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+          "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+          "source": "The Block"
+        },
+        {
+          "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-23T07:10:18.519Z",
+      "slug": "crypto-roundup-november-23-2026-at-0210-pm-ict-spot-bitcoin-etf-outflows-fed-rat"
+    },
+    {
       "id": "1795373148389",
       "title": "Crypto Roundup November 22, 2026 at 01:45 AM (ICT): Bitcoin faces quantum threat as markets wobble",
       "summary": "Bitcoin’s looming quantum‑security risk, a sudden price dip on Kraken, and a series of bridge exploits dominate today’s headlines. Meanwhile, regulatory pressure on US derivatives platforms and novel on‑chain FX ideas add layers of complexity to an already volatile market.",
@@ -33895,15 +33976,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-    "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-    "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-    "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-    "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-    "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-    "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
     "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
     "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
@@ -34394,10 +34466,18 @@
     "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
     "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
     "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+    "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+    "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+    "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+    "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+    "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815|https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818|https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say|https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
     "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns|https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929|https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
@@ -34596,6 +34676,7 @@
     "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug|https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion|https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump|https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open|https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
     "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813|https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-    "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits|https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
+    "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits|https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
   ]
 }
