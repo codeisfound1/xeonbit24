@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-24-2026-at-0434-pm-ict-bitcoin-slides-under-60k-as-etfs-</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795512852/xeonbit24/posts/crypto-roundup-november-24-2026-at-0434-pm-ict-bitcoin-slides-under-60k-as-etfs-.webp</image:loc>
+      <image:title>Crypto Roundup November 24, 2026 at 04:34 PM (ICT): Bitcoin slides under $60K as ETFs bleed and regulatory moves intensify</image:title>
+      <image:caption>Crypto Roundup November 24, 2026 at 04:34 PM (ICT): Bitcoin slides under $60K as ETFs bleed and regulatory moves intensi</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-23-2026-at-0558-am-ict-oversold-bitcoin-massive-usdc-rec</loc>
