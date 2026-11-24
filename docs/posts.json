@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795556288553",
+      "title": "Crypto Roundup November 24, 2026 at 04:38 AM (ICT): Security flaws, regulatory shifts, and a volatile Bitcoin market",
+      "summary": "A hidden Coldcard flaw resurfaces, regulators ease on research tokens and South Korean ICO bans, while Bitcoin slides below $60k amid weak demand. Ethereum’s AI‑driven security push and new CFTC reserve rules add further complexity to the market landscape.",
+      "content": "<p>The crypto ecosystem is once again at a crossroads. A five‑year‑old security vulnerability in a leading hardware wallet has been exposed, regulators in the U.S. and South Korea are softening their stances, and Bitcoin’s price has slipped below $60,000 for the first time since the post‑FTX crash. At the same time, the Ethereum Foundation is reallocating resources to counter AI‑driven cryptographic threats, and the CFTC has issued guidance that could reshape how exchanges manage capital buffers. Below we break down each story, assess its immediate impact, and synthesize what the combined signals mean for the market’s short‑ and medium‑term trajectory.</p>\n<h2>1. Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits</h2>\n<p>Coinkite’s post‑mortem reveals that a software‑based random‑number generator (RNG) was shipped in place of the intended hardware RNG for over five years. The flaw escaped at least 15 independent security reviews, raising questions about the depth of current audit methodologies. While the vulnerability does not appear to have been exploited at scale, the mere possibility undermines confidence in hardware wallet security—a cornerstone of Bitcoin’s custody model. Investors may demand more transparent, third‑party verification processes, and firms that can prove rigorous, hardware‑level testing could capture market share.</p>\n<h2>2. Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?</h2>\n<p>Bitcoin slipped under $60,000, with realized losses nearly doubling in a single week. Glassnode’s on‑chain metrics show a pattern reminiscent of previous bottoms: a sharp rise in long‑term holder accumulation and a contraction in short‑term speculative activity. However, analysts caution that a further dip to $53,200 is plausible if macro‑economic pressures persist. The sell‑off appears driven more by weak demand than by a cascade of liquidations, suggesting that a rebound could be gradual rather than explosive.</p>\n<h2>3. Bitcoin Sell‑off Driven by Weak Demand, Forced Liquidations: 21Shares</h2>\n<p>Asset manager 21Shares echoes Glassnode’s view, warning that Bitcoin’s downturn may linger due to muted institutional appetite. The firm predicts an uneven recovery across crypto sectors, with DeFi and layer‑2 solutions likely to outperform Bitcoin’s price action. The commentary underscores a broader shift: capital is flowing toward higher‑yield, utility‑focused assets rather than pure store‑of‑value bets.</p>\n<h2>4. Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing</h2>\n<p>The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul to guard against AI‑generated attacks. While quantum‑resistant algorithms remain a long‑term goal, the rapid advancement of AI tools capable of finding subtle vulnerabilities in smart contracts poses an immediate risk. This strategic pivot may accelerate the adoption of zk‑SNARKs and other privacy‑preserving technologies that are less susceptible to AI‑driven analysis.</p>\n<h2>5. What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t</h2>\n<p>The CFTC’s staff guidance permits swap venues and clearinghouses to count Bitcoin, Ethereum, and stablecoins toward their 12‑month operating‑cost buffers. The catch: only assets held in highly liquid, custodial accounts qualify, and the guidance does not extend to less liquid tokens or DeFi‑based collateral. This move could lower capital costs for regulated entities, encouraging broader participation from traditional finance, but it also introduces a regulatory nuance that firms must navigate carefully.</p>\n<h2>6. SEC Staff Gives Molecule No‑Action Relief for Scientific Research Tokens</h2>\n<p>SEC staff signaled it will not recommend enforcement against Molecule’s utility tokens, which fund scientific research. The decision reflects a growing willingness to treat certain token models as non‑securities when they serve a clear, non‑speculative purpose. This could set a precedent for other niche‑utility tokens, especially those tied to public‑good projects, and may spur a modest wave of token issuances aimed at research and development funding.</p>\n<h2>7. South Korea Moves to Lift Its ICO Ban After Nearly a Decade</h2>\n<p>South Korea’s Financial Services Commission drafted a Digital Asset Act that would allow domestic projects to conduct ICOs under IPO‑style disclosure rules. The move aims to bring Korean innovators back from offshore jurisdictions and to create a regulated pipeline for token sales. If enacted, the policy could revitalize the Korean crypto ecosystem, attract foreign capital, and increase compliance standards across Asia.</p>\n<h2>8. Utah Moves to Dismiss Criminal Charges Against Kalshi After Trading Halt</h2>\n<p>Utah’s attorney general withdrew criminal charges against prediction‑market platform Kalshi, though civil litigation remains pending. The decision hinges on the state’s desire to avoid a precedent that could stifle innovation in regulated betting and derivatives markets. Kalshi’s case highlights the delicate balance regulators must strike between consumer protection and fostering fintech experimentation.</p>\n<h2>9. Payward’s Krak Plans Early 2027 Launch of US Credit Cards with Bitcoin Cashback, Including One Secured by USDC</h2>\n<p>Kraken’s new credit‑card brand, Krak, opened a waitlist for two U.S. products: a standard Bitcoin‑cashback card and a secured card that uses USDC as collateral. By integrating crypto rewards into mainstream payment infrastructure, Kraken aims to bridge the gap between on‑chain assets and everyday spending. The secured‑card model also offers a novel use‑case for stablecoins as credit backing, potentially inspiring similar products from other fintech firms.</p>\n<h2>10. Coldcard Reveals How Bitcoin Wallet Flaw Went Undetected for Over 5 Years</h2>\n<p>Cointelegraph’s coverage reiterates Coinkite’s explanation that the flaw escaped detection due to reliance on software‑level testing and insufficient hardware‑validation tooling. The company has not yet announced compensation for affected users, leaving a reputational gap. The episode may accelerate demand for open‑source hardware wallets that undergo continuous community audits.</p>\n<h2>Market Outlook</h2>\n<p>Collectively, these stories paint a picture of a market in transition. Security concerns—exemplified by the Coldcard saga—are prompting a reevaluation of audit standards, while regulatory bodies in the U.S., South Korea, and Utah are carving out more nuanced frameworks that differentiate between speculative tokens and utility‑driven assets. Bitcoin’s price weakness suggests that short‑term demand is fragile, yet on‑chain data indicates that long‑term holders remain committed, hinting at a potential bottom in the $53k‑$55k range.</p>\n<p>Ethereum’s proactive stance on AI‑related cryptographic risks could position the network as the most secure smart‑contract platform, attracting developers seeking resilience against next‑generation attacks. Meanwhile, the CFTC’s reserve guidance may lower the capital hurdle for regulated exchanges, encouraging institutional inflows that could benefit liquid assets like BTC, ETH, and major stablecoins.</p>\n<p>In the broader ecosystem, product innovation—such as Kraken’s crypto‑backed credit cards—signals growing consumer adoption, while the easing of ICO restrictions in South Korea could unleash a new wave of tokenized projects, especially in gaming, NFTs, and DeFi. Overall, the market appears poised for a gradual recovery, driven by institutional participation and infrastructure upgrades, but it remains vulnerable to macro‑economic headwinds and any further security breaches.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Security audits must evolve: hardware‑level testing is now a non‑negotiable baseline after the Coldcard flaw.</li><li>Bitcoin’s price may find a bottom near $53,000; long‑term holder accumulation suggests a rebound is possible once demand stabilizes.</li><li>Regulators are differentiating between utility and security tokens, opening pathways for niche projects like Molecule and future Korean ICOs.</li><li>Ethereum’s focus on AI‑driven threats could accelerate cryptographic upgrades and bolster its position as the premier smart‑contract platform.</li><li>The CFTC’s reserve guidance could lower capital costs for exchanges, encouraging broader institutional entry.</li><li>Consumer‑facing products (e.g., crypto‑backed credit cards) are bridging on‑chain assets with everyday finance, expanding the market’s user base.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits — <em>Decrypt</em></li>\n<li>[2] SEC staff gives Molecule no-action relief for scientific research tokens — <em>The Block</em></li>\n<li>[3] Utah moves to dismiss criminal charges against Kalshi after trading halt — <em>Cointelegraph</em></li>\n<li>[4] Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing — <em>Decrypt</em></li>\n<li>[5] Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares — <em>Cointelegraph</em></li>\n<li>[6] Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near? — <em>Decrypt</em></li>\n<li>[7] Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years — <em>Cointelegraph</em></li>\n<li>[8] What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t — <em>Decrypt</em></li>\n<li>[9] South Korea Moves to Lift Its ICO Ban After Nearly a Decade — <em>Decrypt</em></li>\n<li>[10] Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "regulation",
+        "market",
+        "defi",
+        "altcoins"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795556287/xeonbit24/posts/crypto-roundup-november-24-2026-at-0438-am-ict-security-flaws-regulatory-shifts-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795556287/xeonbit24/posts/crypto-roundup-november-24-2026-at-0438-am-ict-security-flaws-regulatory-shifts-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-24-2026-at-0438-am-ict-security-flaws-regulatory-shifts-",
+        "width": 1278,
+        "height": 719,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 24, 2026 at 04:38 AM (ICT): Security flaws, regulatory shifts, and a volatile Bitcoin market"
+      },
+      "sourceUrl": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+      "sourceTitle": "Decrypt / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+          "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
+          "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+          "source": "The Block"
+        },
+        {
+          "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+          "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+          "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+          "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+          "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+          "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+          "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+          "source": "Decrypt"
+        },
+        {
+          "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+          "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+          "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-24T21:38:08.553Z",
+      "slug": "crypto-roundup-november-24-2026-at-0438-am-ict-security-flaws-regulatory-shifts-"
+    },
+    {
       "id": "1795512853463",
       "title": "Crypto Roundup November 24, 2026 at 04:34 PM (ICT): Bitcoin slides under $60K as ETFs bleed and regulatory moves intensify",
       "summary": "Bitcoin slipped below $60,000 amid waning macro support and a sharp pull‑back in Nvidia‑driven buying, while Bitcoin ETFs recorded record outflows and the DOJ pursued $1.17 billion from the Binance hack. Ethereum’s foundation doubled its security staff ahead of a major upgrade, underscoring a busy week for both market dynamics and regulatory headlines.",
@@ -34138,16 +34219,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-    "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
-    "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-    "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-    "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-    "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-    "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-    "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-    "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
     "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -34637,10 +34708,19 @@
     "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
     "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
-    "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+    "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+    "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+    "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+    "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+    "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+    "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929|https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
     "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
     "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
     "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
@@ -34839,6 +34919,7 @@
     "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits|https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
     "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
     "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418|https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407|https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
-    "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472"
+    "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+    "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
