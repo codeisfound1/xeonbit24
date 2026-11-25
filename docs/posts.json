@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795593916775",
+      "title": "Crypto Roundup November 25, 2026 at 03:05 PM (ICT): Market dip, regulatory shifts and infrastructure upgrades",
+      "summary": "Bitcoin slipped below $59,000 as Ark Invest sold $6.8 million of its own ETF, while regulators in South Korea and the U.S. moved closer to clearer stable‑coin and derivatives rules. At the same time, Solana and Ethereum announced technical upgrades that could reshape network efficiency and security.",
+      "content": "<p>On November 25, 2026 the crypto market showed a mixed picture: Bitcoin retreated under $59,000, institutional sentiment softened, but a wave of regulatory and technical developments hinted at longer‑term resilience. Below we break down the ten most newsworthy stories, explain why they matter, and stitch together the broader narrative shaping the market.</p>\n<h2>1. Ark Invest sells $6.8 million of its own Bitcoin ETF as BTC dips below $59,000</h2>\n<p>Ark 21Shares’ Bitcoin ETF, the first U.S.‑listed spot Bitcoin fund, saw its sponsor, Cathie Wood’s Ark Invest, offload $6.8 million of shares. The sale came as Bitcoin slipped below the $59k psychological barrier, marking the first sub‑$60k close since early 2025. Ark’s move is interpreted as a precautionary rebalancing rather than a loss of confidence; the firm still holds a sizable position in the fund. The broader implication is that large institutional investors are now more sensitive to short‑term price volatility, which could amplify price swings when other funds follow suit.</p>\n<h2>2. CFTC staff nods to Bitcoin and Ether expense‑requirement rules; Ethereum Foundation doubles security staff</h2>\n<p>The U.S. Commodity Futures Trading Commission’s staff released a draft clarifying that Bitcoin and Ether futures contracts must meet specific expense‑reporting standards, a step toward tighter oversight of crypto derivatives. In parallel, the Ethereum Foundation announced a 40% increase in its security team to counter rising AI‑driven attack vectors. Together, these actions signal that regulators are tightening compliance while the Ethereum ecosystem proactively hardens its core protocol, a dual push that could boost institutional comfort with both assets.</p>\n<h2>3. South Korea’s draft crypto bill favours bank‑led stablecoins</h2>\n<p>South Korea’s new legislation proposes that only licensed banks may issue stablecoins, but it also permits fintech and tech firms to become the largest shareholders of those bank‑issued tokens. The bill aims to curb money‑laundering risks while preserving innovation. If passed, the Korean market could become a model for “bank‑backed” stablecoins, potentially shifting the global stablecoin race away from pure token‑issuers like Tether toward hybrid, regulated designs.</p>\n<h2>4. Solana developers propose validator‑work‑stop fix after recent speed upgrade</h2>\n<p>Solana’s core team unveiled a protocol change that will prevent validators from completing work on blocks that have already been orphaned (i.e., discarded). The inefficiency was exposed after Solana’s recent “Turbo‑Boost” speed upgrade, which raised block production to 10 kTPS but left wasted compute cycles. By halting work on lost blocks, the network expects to improve energy efficiency and reduce validator operating costs, addressing one of the main criticisms of high‑throughput chains.</p>\n<h2>5. Solana DEX Velocity halts trading over a critical bug</h2>\n<p>Just months after its September relaunch, the Velocity decentralized exchange—rebuilt from the compromised Drift Protocol—suspended all trading due to a smart‑contract bug that could allow order‑book manipulation. The incident underscores the lingering security challenges of DeFi platforms that undergo rapid rebuilds. Velocity’s team pledged a full audit and a compensation plan for affected users, but the episode may dampen short‑term confidence in Solana‑based DeFi.</p>\n<h2>6. Ten accounts account for all XRP Ledger trading growth last quarter</h2>\n<p>On‑chain analytics from CoinDesk revealed that ten ultra‑active wallets generated more than 100% of the XRP Ledger’s quarterly trading volume surge, while activity from the broader user base fell. This concentration suggests that institutional or whale‑level participants are driving the recent price rally, raising questions about market depth and the potential for abrupt reversals if those accounts withdraw liquidity.</p>\n<h2>7. Derive launches on‑chain options for Nvidia, Anthropic, oil and stock indices</h2>\n<p>Derive, a decentralized derivatives platform, introduced a suite of options contracts tied to Nvidia stock, AI‑startup Anthropic, crude oil, and major equity indices. By tokenizing these real‑world assets (RWAs), Derive expands the hedging toolkit for crypto traders, allowing them to offset exposure to both crypto and traditional markets without leaving the blockchain. The move could attract more capital‑rich participants seeking cross‑asset risk management.</p>\n<h2>8. Czech National Bank’s Bitcoin experiment remains opaque after a 40% loss</h2>\n<p>The Czech central bank bought Bitcoin in 2025 as a “digital gold” experiment. A year later, the coin is down roughly 40% from purchase price, and the bank’s audited statements list the holding at cost rather than fair market value. The lack of transparency fuels debate over how sovereigns should account for volatile crypto assets on balance sheets and may influence other central banks contemplating similar pilots.</p>\n<h2>9. Daily crypto news roundup</h2>\n<p>Cointelegraph’s “What Happened in Crypto Today” recap highlighted the same themes seen across the other stories: price pressure on Bitcoin, regulatory clarity in the U.S. and South Korea, and a series of technical fixes on Solana. The digest serves as a barometer of market sentiment, confirming that investors are closely watching both macro‑level policy shifts and chain‑specific engineering updates.</p>\n<h2>10. Trump’s comment on potentially pardoning Nvidia CEO Jensen Huang</h2>\n<p>Former President Donald Trump said a pardon for Nvidia’s Jensen Huang would be unnecessary, a remark made days before Huang faces congressional scrutiny over U.S. chip export controls. While unrelated to crypto directly, the statement reflects the growing intersection of AI hardware, geopolitics, and crypto, especially as platforms like Derive now offer Nvidia‑linked options.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term volatility is likely to persist as Bitcoin tests the $58k‑$60k range and institutional players adjust positions. However, the regulatory momentum in the U.S. (CFTC guidance) and South Korea (stablecoin bill) should lay groundwork for more predictable compliance frameworks, encouraging long‑term capital inflows. Technically, Solana’s efficiency upgrades and Ethereum’s security expansion address two of the most cited network‑risk vectors—energy waste and AI‑driven exploits—potentially making both ecosystems more attractive to developers and investors.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Institutional caution is evident: Ark’s ETF sell‑off and the concentration of XRP trading in a handful of accounts highlight sensitivity to price moves.</li><li>Regulatory clarity is accelerating, with the U.S. tightening futures reporting and South Korea paving the way for bank‑backed stablecoins.</li><li>Network upgrades are shifting focus from raw speed to efficiency and security, as seen in Solana’s validator fix and Ethereum’s expanded security team.</li><li>On‑chain derivatives (Derive) are bridging crypto with traditional assets, offering new hedging avenues.</li><li>Sovereign exposure to Bitcoin remains opaque, exemplified by the Czech central bank’s accounting approach.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000 — <em>The Block</em></li>\n<li>[2] South Korea’s crypto bill could move stablecoin race beyond token issuance — <em>Cointelegraph</em></li>\n<li>[3] Solana developers move to stop validators finishing work on blocks that already lost — <em>CoinDesk</em></li>\n<li>[4] Just 10 accounts drove all of the XRP Ledger's trading growth last quarter — <em>CoinDesk</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] Solana DEX Velocity halts trading over bug just months after relaunch — <em>Cointelegraph</em></li>\n<li>[7] Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more — <em>The Block</em></li>\n<li>[8] Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive — <em>CoinDesk</em></li>\n<li>[9] A year after buying bitcoin, Czech central bank won't say what it's worth — <em>CoinDesk</em></li>\n<li>[10] Trump willing to pardon Jensen Huang, says it won’t be necessary — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "solana",
+        "stablecoins",
+        "market",
+        "regulation"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795593916/xeonbit24/posts/crypto-roundup-november-25-2026-at-0305-pm-ict-market-dip-regulatory-shifts-and-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795593916/xeonbit24/posts/crypto-roundup-november-25-2026-at-0305-pm-ict-market-dip-regulatory-shifts-and-.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-25-2026-at-0305-pm-ict-market-dip-regulatory-shifts-and-",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 25, 2026 at 03:05 PM (ICT): Market dip, regulatory shifts and infrastructure upgrades"
+      },
+      "sourceUrl": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+          "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+          "source": "The Block"
+        },
+        {
+          "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+          "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+          "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+          "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+          "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+          "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+          "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-25T08:05:16.775Z",
+      "slug": "crypto-roundup-november-25-2026-at-0305-pm-ict-market-dip-regulatory-shifts-and-"
+    },
+    {
       "id": "1795556288553",
       "title": "Crypto Roundup November 24, 2026 at 04:38 AM (ICT): Security flaws, regulatory shifts, and a volatile Bitcoin market",
       "summary": "A hidden Coldcard flaw resurfaces, regulators ease on research tokens and South Korean ICO bans, while Bitcoin slides below $60k amid weak demand. Ethereum’s AI‑driven security push and new CFTC reserve rules add further complexity to the market landscape.",
@@ -34219,15 +34300,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
-    "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
-    "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
-    "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
     "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
@@ -34718,10 +34790,18 @@
     "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
     "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-    "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
+    "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+    "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+    "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+    "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+    "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+    "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+    "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+    "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
     "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
     "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
     "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
@@ -34920,6 +35000,7 @@
     "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
     "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418|https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407|https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
     "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
-    "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109|https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost"
   ]
 }
