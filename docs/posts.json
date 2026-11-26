@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795725513284",
+      "title": "Crypto Roundup November 26, 2026 at 03:38 AM (ICT): Regulatory pressure mounts as Bitcoin steadies above $60K",
+      "summary": "Regulators in Japan and Spain are tightening control over DeFi and crypto accounts, while the Fed’s hawkish stance threatens a December market dip. Bitcoin holds above $60,000, but technical signals and on‑chain data hint at lingering weakness.",
+      "content": "<p>Across the globe, crypto markets are navigating a confluence of regulatory tightening, macro‑economic uncertainty, and mixed technical signals. Bitcoin has managed to stay above the psychologically important $60,000 level, yet a bearish \"death cross\" and rising dormant supply suggest the rally is fragile. Meanwhile, Japan and Spain are moving to restrict DeFi access and freeze crypto accounts, respectively, adding a layer of compliance risk for users and service providers. The Federal Reserve’s hawkish tone ahead of the December FOMC blackout period raises the specter of a broader market melt‑down, while developments in tokenization and privacy research highlight both innovation and emerging vulnerabilities.</p>\n<h2>1. Japan weighs tighter oversight of DeFi and self‑custodial wallets</h2>\n<p>Japan’s Financial Services Agency (FSA) is evaluating stricter rules for DeFi platforms and non‑custodial wallets to curb illicit‑finance risks. The proposed measures could limit the ability of Japanese residents to connect directly to decentralized protocols without a licensed intermediary. If enacted, the policy would set a precedent for other jurisdictions that favor a “regulated gateway” model, potentially slowing DeFi adoption in a market that has been a hotbed for crypto innovation.</p>\n<h2>2. Spain moves to grant financial watchdog power to freeze crypto accounts</h2>\n<p>Spain’s new decree empowers the Financial Intelligence Unit (Sepblac) to suspend crypto, bank, and payment accounts for up to five working days without a court order. Non‑compliant firms face hefty fines. This swift‑action capability mirrors trends in the EU toward real‑time asset freezing, raising compliance costs for exchanges and custodians operating in Spain and possibly prompting a migration of services to more crypto‑friendly jurisdictions.</p>\n<h2>3. Crypto on notice as hawkish Fed risks December ‘meltdown’</h2>\n<p>Economist Robin Brooks warns that a continued hawkish stance from the Federal Reserve could trigger a sharp correction in crypto assets, especially if dovish cues fail to materialise before the FOMC blackout period. Higher rates typically depress risk‑on assets, and crypto, still viewed as a high‑volatility speculative class, is likely to feel the pressure first. Investors should watch Treasury yields and Fed minutes for early signals.</p>\n<h2>4. Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery</h2>\n<p>Bitcoin and major altcoins posted modest gains on Thanksgiving, but technical analysis shows a “death cross” – the 50‑day moving average falling below the 200‑day line – a classic bearish indicator. While the price staying above $60K provides short‑term support, the death cross suggests momentum may shift lower, especially if macro pressures intensify.</p>\n<h2>5. Bitcoin’s dormant supply rises, a behavior seen during previous bear‑market bottoming phases</h2>\n<p>On‑chain data reveals an increase in Bitcoin’s dormant supply – coins that have not moved for over a year. Historically, such accumulation precedes market bottoms, as long‑term holders lock in assets during periods of uncertainty. The current rise aligns with the price hovering near $60K, hinting at a potential bottom formation, but the signal is not decisive without corroborating price action.</p>\n<h2>6. A tiny payment can expose the IP address behind a Bitcoin wallet, developer finds</h2>\n<p>A Bitcoin Core contributor discovered that sending a tiny (under $0.35) transaction can trigger a wallet to rebroadcast a stuck payment, inadvertently leaking the sender’s IP address. This privacy flaw underscores the need for users to employ VPNs or Tor when broadcasting transactions, especially for privacy‑focused coins.</p>\n<hh2>7. Tokenized Anthropic Holders Doubled in 3 Days</h2>\n<p>The Block reports a rapid surge in tokenized holdings of Anthropic, an AI‑focused firm, indicating growing interest in tokenizing equity‑like assets. While still niche, the jump reflects broader market enthusiasm for on‑chain representation of real‑world assets, a trend that could intersect with DeFi lending and collateralisation mechanisms.</p>\n<h2>8. Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order</h2>\n<p>Decrypt expands on Spain’s decree, noting that Sepblac can now suspend accounts for up to five working days, with courts deciding on extensions. The move is part of a larger EU push for rapid asset‑freezing powers to combat money laundering, but it raises concerns about due‑process protections for crypto users.</p>\n<h2>9. Before the Sell‑Off, AI Stocks Showed Dot‑Com‑Level Bubble Signals: Study</h2>\n<p>Although not a crypto‑specific story, the Decrypt study on AI stocks reaching bubble‑like valuations mirrors the speculative fervour seen in many meme‑coin cycles. The research suggests that investors should be wary of over‑optimistic price targets in emerging tech sectors, including crypto, where hype can outpace fundamentals.</p>\n<h2>10. BIS chief Pablo Hernández de Cos set to become next ECB president: FT</h2>\n<p>The upcoming appointment of the BIS chief to the ECB brings a cautious stance toward stablecoins for mass payments, while endorsing the digital euro. This signals that central banks remain skeptical of private stablecoins as a payment backbone, favouring sovereign digital currencies instead.</p>\n<h2>Market Outlook</h2>\n<p>Regulatory headwinds in Japan and Spain are likely to tighten compliance requirements, potentially slowing DeFi inflows and prompting exchanges to bolster AML/KYC frameworks. Coupled with the Fed’s hawkish outlook, macro risk remains elevated. Technically, Bitcoin’s death cross and rising dormant supply paint a picture of short‑term weakness but possible long‑term accumulation. Altcoins tied to AI and tokenized assets may see episodic inflows, yet overall market breadth appears thin.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Regulators in major economies are moving toward stricter control of DeFi and crypto accounts, increasing compliance costs.</li><li>Bitcoin’s price stability above $60K offers a temporary floor, but bearish technical signals caution against complacency.</li><li>On‑chain metrics (dormant supply, IP‑leak vulnerability) highlight both hidden strength and emerging privacy risks.</li><li>The Fed’s hawkish stance could trigger a December correction; investors should monitor interest‑rate cues.</li><li>Tokenization of real‑world assets gains momentum, but regulatory clarity will be essential for sustainable growth.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Japan weighs tighter oversight of DeFi, self-custodial wallets — <em>Cointelegraph</em></li>\n<li>[2] Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study — <em>Decrypt</em></li>\n<li>[3] Spain moves to grant financial watchdog power to freeze crypto accounts — <em>Cointelegraph</em></li>\n<li>[4] Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery — <em>Decrypt</em></li>\n<li>[5] Crypto on notice as hawkish Fed risks December ‘meltdown’ — <em>Cointelegraph</em></li>\n<li>[6] Tokenized Anthropic Holders Doubled in 3 Days — <em>The Block</em></li>\n<li>[7] A tiny payment can expose the IP address behind a bitcoin wallet, developer finds — <em>CoinDesk</em></li>\n<li>[8] Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases — <em>CoinDesk</em></li>\n<li>[9] Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order — <em>Decrypt</em></li>\n<li>[10] BIS chief Pablo Hernández de Cos set to become next ECB president: FT — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "regulation",
+        "market",
+        "stablecoins"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795725512/xeonbit24/posts/crypto-roundup-november-26-2026-at-0338-am-ict-regulatory-pressure-mounts-as-bit.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795725512/xeonbit24/posts/crypto-roundup-november-26-2026-at-0338-am-ict-regulatory-pressure-mounts-as-bit.png",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-26-2026-at-0338-am-ict-regulatory-pressure-mounts-as-bit",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Crypto Roundup November 26, 2026 at 03:38 AM (ICT): Regulatory pressure mounts as Bitcoin steadies above $60K"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+          "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+          "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+          "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+          "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+          "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+          "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+          "source": "The Block"
+        },
+        {
+          "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+          "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+          "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+          "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+          "source": "Decrypt"
+        },
+        {
+          "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+          "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-26T20:38:33.284Z",
+      "slug": "crypto-roundup-november-26-2026-at-0338-am-ict-regulatory-pressure-mounts-as-bit"
+    },
+    {
       "id": "1795679732811",
       "title": "Crypto Roundup November 26, 2026 at 02:55 PM (ICT): Privacy shifts, miner hijack and a new European Bitcoin ETF dominate the headlines",
       "summary": "Zcash urges users to migrate $300 million from an aging privacy protocol, a massive miner hijack exposed routing flaws, and Europe’s first spot Bitcoin ETF launched in Switzerland. Together they highlight security, regulatory, and institutional trends reshaping the market.",
@@ -34462,16 +34543,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-    "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-    "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-    "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-    "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
-    "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-    "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-    "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
     "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
     "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
@@ -34961,10 +35032,19 @@
     "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
     "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-    "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+    "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+    "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+    "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+    "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
     "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on|https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090|https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
     "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules|https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance|https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
     "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million|https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35163,6 +35243,7 @@
     "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109|https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
     "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks|https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach|https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-    "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system|https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724|https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
+    "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system|https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724|https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+    "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study|https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
