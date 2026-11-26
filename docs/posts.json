@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795679732811",
+      "title": "Crypto Roundup November 26, 2026 at 02:55 PM (ICT): Privacy shifts, miner hijack and a new European Bitcoin ETF dominate the headlines",
+      "summary": "Zcash urges users to migrate $300 million from an aging privacy protocol, a massive miner hijack exposed routing flaws, and Europe’s first spot Bitcoin ETF launched in Switzerland. Together they highlight security, regulatory, and institutional trends reshaping the market.",
+      "content": "<p>Today’s crypto landscape is defined by three intersecting forces: heightened security scrutiny, expanding institutional products, and tighter regulatory oversight. Zcash’s push to retire its legacy Sapling shield, a coordinated attack that rerouted up to 1.9 EH/s of mining power, and the debut of Europe’s only spot Bitcoin ETF on the SIX Swiss Exchange illustrate how technical risk, market maturation, and policy pressure are converging. Below we break down each story, connect the dots, and project what the next weeks may hold for traders and investors.</p><h2>1. Zcash developers urge migration of $300 million from Sapling</h2><p>Zcash’s core team announced a plan to halt new deposits into the Sapling shielded pool, urging users to move roughly $300 million to the newer Orchard protocol. The rationale is that advances in AI‑assisted cryptanalysis could eventually erode the mathematical assumptions that keep Sapling private. By accelerating the transition, Zcash hopes to preserve its reputation as a leading privacy coin while giving developers time to harden Orchard against emerging threats. For most holders, the move simply requires a one‑time shielded transaction; the underlying value of ZEC remains unchanged.</p><h2>2. Hackers hijack over 1,000 Bitcoin miners via fake internet routes</h2><p>A sophisticated attack exploited a routing vulnerability still present in many large mining pools. By broadcasting counterfeit BGP (Border Gateway Protocol) announcements, the attacker redirected up to 1.9 exahashes per second—about 5 % of the global hash rate—for a single second, funneling the work to a rogue pool they controlled. The incident underscores the fragility of the internet’s routing layer and the need for mining pools to adopt BGP security measures such as RPKI and route‑origin validation. While the financial impact was limited (no coins were stolen), the episode sent a clear warning to the mining ecosystem about supply‑chain attack vectors.</p><h2>3. Europe’s only spot Bitcoin ETF begins trading in Switzerland</h2><p>BIT Asset Management launched the BBIT fund on the SIX Swiss Exchange, offering investors exposure to 350 BTC with a low 0.19 % annual expense ratio. As the first spot Bitcoin ETF approved for European investors, BBIT fills a regulatory gap that previously forced EU traders into futures‑based products or offshore trusts. The ETF’s debut is likely to attract institutional capital seeking a regulated, custodial‑safe avenue into Bitcoin, potentially adding several hundred million dollars of net inflows over the next quarter.</p><h2>4. Galaxy Digital revises its Bitcoin bottom call</h2><p>After previously labeling the June 30 close at $58,525 as a market bottom, Galaxy now treats any daily close below that level as the start of a deeper correction. The firm cites lingering macro‑economic uncertainty, a slowdown in on‑chain activity, and the miner‑hijack incident as catalysts that could push Bitcoin into a new lower range. While the warning is bearish, Galaxy still expects a long‑term upward trajectory, emphasizing that short‑term volatility is “the new normal.”</p><h2>5. UK regulator tightens DeFi rules after $6.3 B Binance hack</h2><p>The UK Financial Conduct Authority (FCA) announced a draft framework targeting DeFi protocols that facilitate illicit laundering. The move follows a high‑profile hack where North‑Korea‑linked actors moved $6.3 billion of stolen Binance assets through decentralized bridges and mixers. The proposed rules would require KYC on on‑ramps, mandatory audit trails for smart contracts, and a licensing regime for “DeFi service providers.” The FCA’s stance signals a global shift toward bringing decentralized finance under the same compliance umbrella as traditional finance.</p><h2>6. Ripple’s share price disparity highlighted in SEC filings</h2><p>Two SEC‑registered mutual funds reported vastly different valuations for Ripple (XRP) stock: $90 per share in Fund A versus $300 in Fund B, a 70 % spread. The discrepancy stems from differing assumptions about the outcome of Ripple’s ongoing SEC litigation and the perceived risk of future regulatory action. Investors should note that such valuation gaps can create arbitrage opportunities but also reflect deep uncertainty around the legal status of many crypto assets.</p><h2>7. Sky protocol initiates emergency vote to transfer $25 M amid liquidity stress</h2><p>Sky’s Core Facilitator invoked the protocol’s emergency response mechanism to fast‑track a $25 million USDC transfer, bypassing the scheduled Dec 3 vote. The move was prompted by a sudden liquidity crunch caused by a large outflow from a major on‑chain lending partner. While the emergency vote was approved, the episode highlights governance challenges in decentralized protocols where rapid capital movements can strain treasury buffers.</p><h2>8. Fidelity files for a spot Chainlink ETF</h2><p>In a bid to capture demand for oracle services, Fidelity submitted a filing for a spot Chainlink (LINK) ETF. If approved, the product would give investors direct exposure to the price of LINK without the need to hold the token themselves. The filing reflects a broader trend of asset managers expanding beyond Bitcoin and Ethereum to niche infrastructure tokens that power the broader Web3 ecosystem.</p><h2>9. Musk’s X wins ruling in alleged Bitcoin content‑farm case</h2><p>Elon Musk’s platform X secured a favorable court decision in a lawsuit alleging that the site operated a “Bitcoin content farm” that inflated mining‑related advertising revenue. The ruling clarifies that X’s algorithmic promotion of mining content does not constitute illegal market manipulation, setting a precedent for how social media platforms can be held accountable for crypto‑related content.</p><h2>10. 1Password breach: usernames and emails exposed, vaults remain safe</h2><p>A hacker accessed a 1Password database, stealing customer names and email addresses. The company confirmed that encrypted vaults were untouched, and no passwords or private keys were compromised. While not a direct crypto incident, the breach serves as a reminder that peripheral services used by crypto users—password managers, exchanges, and wallets—remain attractive attack vectors.</p><h2>Market Outlook</h2><p>Security concerns dominate the short‑term narrative. The miner hijack and Zcash privacy migration illustrate that both network‑level and protocol‑level vulnerabilities can quickly erode confidence. At the same time, institutional demand is solidifying, as evidenced by the launch of BBIT and Fidelity’s Chainlink ETF filing. Regulatory pressure, especially in the UK, will likely tighten compliance costs for DeFi projects, potentially slowing new protocol launches but also weeding out malicious actors.</p><p>Bitcoin’s price is expected to test the $58,500 threshold in the coming weeks. A breach below that level could trigger a broader risk‑off, while a sustained hold above it may restore some bullish sentiment, especially if ETF inflows add upward pressure. Altcoins tied to infrastructure (LINK, ZEC, XRP) will likely trade on a mix of project‑specific news and overall market risk appetite.</p><h2>Key Takeaways</h2><ul><li>Security remains the top priority: routing attacks and privacy protocol upgrades show that technical risk can affect market confidence.</li><li>Institutional products are expanding beyond Bitcoin: the European spot Bitcoin ETF and a prospective Chainlink ETF signal growing mainstream acceptance.</li><li>Regulators are moving decisively on DeFi, with the UK leading a push for KYC and licensing that could reshape the sector.</li><li>Valuation disparities, such as Ripple’s divergent fund prices, highlight lingering legal uncertainty for many tokens.</li><li>Governance mechanisms in DeFi protocols are being stress‑tested; emergency votes like Sky’s may become more common under liquidity strain.</li></ul><p>Investors should monitor Bitcoin’s $58,500 support level, watch for further developments in mining pool security, and keep an eye on regulatory filings that could affect DeFi and oracle markets.</p>\n<h2>Sources</h2>\n<ol>\n<li>[1] Zcash developers want users to move $300 million out of an older privacy system — <em>CoinDesk</em></li>\n<li>[2] Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says — <em>The Block</em></li>\n<li>[3] Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route — <em>CoinDesk</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report — <em>Cointelegraph</em></li>\n<li>[6] Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more — <em>The Block</em></li>\n<li>[7] Ripple is worth $90 a share to one fund and $300 to another, SEC filings show — <em>CoinDesk</em></li>\n<li>[8] Sky proposes emergency vote on $25M transfer amid liquidity stress — <em>Cointelegraph</em></li>\n<li>[9] Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525 — <em>The Block</em></li>\n<li>[10] 1Password hacker stole customer names and emails, but vaults safe — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "zcash",
+        "defi",
+        "etfs",
+        "ripple",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795679732/xeonbit24/posts/crypto-roundup-november-26-2026-at-0255-pm-ict-privacy-shifts-miner-hijack-and-a.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795679732/xeonbit24/posts/crypto-roundup-november-26-2026-at-0255-pm-ict-privacy-shifts-miner-hijack-and-a.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-26-2026-at-0255-pm-ict-privacy-shifts-miner-hijack-and-a",
+        "width": 800,
+        "height": 408,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 26, 2026 at 02:55 PM (ICT): Privacy shifts, miner hijack and a new European Bitcoin ETF dominate"
+      },
+      "sourceUrl": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Zcash developers want users to move $300 million out of an older privacy system",
+          "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+          "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+          "source": "The Block"
+        },
+        {
+          "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+          "url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+          "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+          "source": "The Block"
+        },
+        {
+          "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+          "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+          "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+          "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+          "source": "The Block"
+        },
+        {
+          "title": "1Password hacker stole customer names and emails, but vaults safe",
+          "url": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-11-26T07:55:32.811Z",
+      "slug": "crypto-roundup-november-26-2026-at-0255-pm-ict-privacy-shifts-miner-hijack-and-a"
+    },
+    {
       "id": "1795639565252",
       "title": "Crypto Roundup November 25, 2026 at 03:45 AM (ICT): Security breaches, regulatory moves and institutional momentum reshape the market",
       "summary": "A coordinated hashrate hijacking attack hit Bitcoin miners, while Fidelity filed for a spot Chainlink ETF and Nvidia settled a $290 million crypto‑mining lawsuit. Meanwhile, the Ethereum Foundation announced a quantum‑resistant hash upgrade and regulators intensified crackdowns, underscoring heightened security and compliance pressures across the ecosystem.",
@@ -34381,15 +34462,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-    "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
-    "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-    "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
-    "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
     "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
     "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
@@ -34880,10 +34952,18 @@
     "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
     "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
     "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
-    "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
+    "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+    "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+    "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+    "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+    "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+    "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+    "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+    "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
     "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
     "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on|https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090|https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
     "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules|https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance|https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
@@ -35082,6 +35162,7 @@
     "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
     "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109|https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-    "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks|https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach|https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723"
+    "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks|https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach|https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+    "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system|https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724|https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
   ]
 }
