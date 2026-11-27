@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xeonbit24.com/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xeonbit24.com/#crypto-roundup-november-27-2026-at-0256-pm-ict-ethereum-upgrades-binance-recover</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795766199/xeonbit24/posts/crypto-roundup-november-27-2026-at-0256-pm-ict-ethereum-upgrades-binance-recover.jpg</image:loc>
+      <image:title>Crypto Roundup November 27, 2026 at 02:56 PM (ICT): Ethereum upgrades, Binance recovery, and Asian regulatory push</image:title>
+      <image:caption>Crypto Roundup November 27, 2026 at 02:56 PM (ICT): Ethereum upgrades, Binance recovery, and Asian regulatory push</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xeonbit24.com/#crypto-roundup-november-26-2026-at-0338-am-ict-regulatory-pressure-mounts-as-bit</loc>

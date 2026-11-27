@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1795766199844",
+      "title": "Crypto Roundup November 27, 2026 at 02:56 PM (ICT): Ethereum upgrades, Binance recovery, and Asian regulatory push",
+      "summary": "Ethereum’s Glamsterdam upgrade moves toward a December test, Binance restores withdrawals after a $6.3 billion hack, and a new Asian working group signals tighter cross‑border crypto regulation. Meanwhile, Monero slides, Ripple edges closer to a $800 million stable‑coin lending vault, and legal actions in the U.S. keep the market on edge.",
+      "content": "<p>Today’s crypto landscape is defined by a mix of technical progress, recovery from one of the largest hacks in history, and a wave of regulatory coordination across Asia. Ethereum developers are pushing the Glamsterdam upgrade forward despite earlier delays, while Binance finally lifts its withdrawal freeze after a four‑week suspension. At the same time, Asian regulators are forming a joint working group on digital payments, hinting at more harmonised rules that could affect cross‑border flows. Smaller‑cap assets like Monero feel the pressure from exchange delistings, and legacy legal battles continue to shape investor sentiment.</p>\n<h2>1. Binance restores withdrawals after $6.3 billion hack</h2>\n<p>Binance announced that all customer withdrawals are fully operational, ending a four‑week suspension triggered by the October hack that stole roughly $6.3 billion in crypto assets. While most blockchain networks are back online, a handful remain paused for unrelated maintenance, reminding users that operational risk still exists even for the largest exchanges. The rapid restoration demonstrates Binance’s deep liquidity reserves and its ability to coordinate with custodial partners, but the incident has reignited debates about centralized exchange security and the need for better insurance mechanisms.</p>\n<h2>2. Ripple’s lending vault nears activation on the XRP Ledger</h2>\n<p>Ripple’s long‑awaited lending platform is set to tap the XRP Ledger’s $800 million stable‑coin vaults on Dec. 9. The vaults, which will hold lenders’ capital, are ready, but the loan‑issuing smart contract still requires one more validator to start its two‑week countdown. If successful, the system could provide on‑chain, low‑cost credit to institutions, leveraging XRP’s high throughput and low fees. This move underscores Ripple’s strategy to shift from pure payments to broader decentralized finance (DeFi) services, potentially boosting XRP’s utility and price stability.</p>\n<h2>3. China, Japan, South Korea and ASEAN form digital‑payments working group</h2>\n<p>Four major Asian economies plus the ASEAN bloc announced a new working group focused on cross‑border digital payments and crypto regulation. The initiative follows a May meeting in Uzbekistan and aims to create interoperable standards for stable‑coin usage, anti‑money‑laundering (AML) compliance, and consumer protection. While the group stops short of a binding treaty, its formation signals a coordinated approach that could reduce regulatory arbitrage and pave the way for region‑wide payment corridors using blockchain technology.</p>\n<h2>4. Ethereum’s Glamsterdam upgrade cleared for December test</h2>\n<p>Ethereum developers have finally green‑lit the Glamsterdam upgrade for a mid‑December test on the Hoodi testnet. After weeks of debate over gas‑pricing changes that risked breaking existing contracts, the team decided to keep the planned storage‑charge model. The upgrade also raises the question of post‑quantum readiness, with some proposals suggesting that future hard forks prioritize quantum‑resistant cryptography. The successful test will be a key milestone before the next major mainnet upgrade, Hegotá, slated for early 2027.</p>\n<h2>5. Ethereum devs schedule Glamsterdam rollout for Dec. 15 on Hoodi testnet</h2>\n<p>In a related announcement, the Ethereum core team set Dec. 15 as the target date for the Hoodi testnet rollout of Glamsterdam. The schedule reflects confidence that the recent gas‑pricing adjustments will not destabilise existing dApps. Developers also discussed whether post‑quantum cryptography should take precedence in the subsequent Hegotá upgrade, highlighting a growing awareness of long‑term security concerns as quantum computers become more capable.</p>\n<h2>6. Monero suffers biggest single‑day slide in over five months</h2>\n<p>Privacy‑focused Monero (XMR) dropped more than 11 % in a single day, marking its steepest decline since early June. The plunge was triggered by back‑to‑back delistings on two major exchanges, which reduced liquidity and sparked sell pressure. While Monero’s fundamentals—strong privacy tech and a dedicated community—remain intact, the episode illustrates how regulatory scrutiny and exchange decisions can disproportionately affect privacy coins.</p>\n<h2>7. New York AG secures $1.37 billion judgment against NovaTech founders</h2>\n<p>The New York Attorney General obtained a $1.37 billion court judgment against the founders of NovaTech, a crypto firm accused of running a Ponzi scheme targeting Haitian and other immigrant communities. The judgment follows a default ruling from August 2025 and reinforces the U.S. regulator’s aggressive stance against fraud in the crypto space. Although NovaTech is not a major market player, the case serves as a cautionary tale for investors and underscores the importance of due‑diligence.</p>\n<h2>8. Japan’s crypto security group partners with SEAL to accelerate hack response</h2>\n<p>Japan’s leading crypto security consortium has enlisted the Special Electronic Attack Liaison (SEAL) unit to speed up incident response after a recent data breach exposed hundreds of thousands of email addresses from two domestic exchanges. The partnership aims to improve threat intelligence sharing, rapid containment, and forensic analysis. It reflects a broader trend of governments and private security firms collaborating to mitigate cyber‑risk in the rapidly expanding crypto ecosystem.</p>\n<h2>9. Here’s what happened in crypto today</h2>\n<p>Cointelegraph’s daily roundup highlighted the same themes covered above: Binance’s withdrawal restoration, Ethereum’s Glamsterdam progress, and heightened regulatory activity in Asia. The piece also noted modest Bitcoin price stability around $62,800, while DeFi protocols continue to see net inflows of roughly $1.2 billion this week, driven largely by stable‑coin lending platforms.</p>\n<h2>10. Ethereum devs set Glamsterdam’s Hoodi rollout for mid‑December after delays</h2>\n<p>Following the earlier postponement in October, the Ethereum team reaffirmed the mid‑December timeline for the Hoodi rollout, citing resolved concerns over gas‑price adjustments. The delay was initially caused by fears that the new storage‑charge model could break legacy contracts, but extensive testing on testnets has alleviated those worries. The upgrade remains a critical step toward improving Ethereum’s scalability and cost efficiency.</p>\n<h2>Market Outlook</h2>\n<p>Short‑term sentiment is mixed. Binance’s recovery restores confidence in centralized exchanges, but the sheer scale of the hack reminds participants of systemic risk. Ethereum’s upgrade trajectory suggests continued technical innovation, which could attract developers seeking a more efficient layer‑1. Meanwhile, the Asian working group may usher in a more predictable regulatory environment for cross‑border payments, potentially boosting the adoption of stable‑coins and CBDCs in the region. On the downside, privacy‑focused assets like Monero remain vulnerable to exchange delistings, and legal actions such as the NovaTech judgment keep regulatory risk high for lesser‑known projects.</p>\n<h2>Key Takeaways</h2>\n<ul><li>Binance’s withdrawal restoration mitigates immediate liquidity concerns but highlights the need for stronger exchange safeguards.</li><li>Ethereum’s Glamsterdam upgrade is back on track, with a December testnet launch that could set the stage for the Hegotá hard fork.</li><li>Ripple’s lending vault is poised to unlock $800 million in stable‑coin credit, expanding XRP’s DeFi use cases.</li><li>Asian regulators are moving toward coordinated digital‑payment standards, which could streamline cross‑border crypto flows.</li><li>Monero’s price drop underscores the fragility of privacy coins amid exchange delistings.</li><li>Legal enforcement actions in the U.S. continue to shape market discipline and investor caution.</li></ul>\n<h2>Sources</h2>\n<ol>\n<li>[1] Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15 — <em>The Block</em></li>\n<li>[2] Monero suffers biggest single-day slide in over 5 months. Here’s why — <em>CoinDesk</em></li>\n<li>[3] New York AG secures $1.37B court judgment against NovaTech founders — <em>Cointelegraph</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] Japan’s crypto security group taps SEAL to speed up hack response — <em>Cointelegraph</em></li>\n<li>[6] Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins — <em>CoinDesk</em></li>\n<li>[7] Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays — <em>Cointelegraph</em></li>\n<li>[8] Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack — <em>CoinDesk</em></li>\n<li>[9] Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know — <em>CoinDesk</em></li>\n<li>[10] China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "ripple",
+        "regulation",
+        "market"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795766199/xeonbit24/posts/crypto-roundup-november-27-2026-at-0256-pm-ict-ethereum-upgrades-binance-recover.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795766199/xeonbit24/posts/crypto-roundup-november-27-2026-at-0256-pm-ict-ethereum-upgrades-binance-recover.jpg",
+        "publicId": "xeonbit24/posts/crypto-roundup-november-27-2026-at-0256-pm-ict-ethereum-upgrades-binance-recover",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Crypto Roundup November 27, 2026 at 02:56 PM (ICT): Ethereum upgrades, Binance recovery, and Asian regulatory push"
+      },
+      "sourceUrl": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "sourceTitle": "The Block / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+          "source": "The Block"
+        },
+        {
+          "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+          "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+          "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+          "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+          "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+          "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+          "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+          "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-27T07:56:39.844Z",
+      "slug": "crypto-roundup-november-27-2026-at-0256-pm-ict-ethereum-upgrades-binance-recover"
+    },
+    {
       "id": "1795725513284",
       "title": "Crypto Roundup November 26, 2026 at 03:38 AM (ICT): Regulatory pressure mounts as Bitcoin steadies above $60K",
       "summary": "Regulators in Japan and Spain are tightening control over DeFi and crypto accounts, while the Fed’s hawkish stance threatens a December market dip. Bitcoin holds above $60,000, but technical signals and on‑chain data hint at lingering weakness.",
@@ -34543,15 +34623,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-    "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-    "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-    "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-    "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
     "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
@@ -35042,10 +35113,18 @@
     "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
     "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
     "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
-    "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+    "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+    "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+    "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+    "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+    "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on|https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090|https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
     "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules|https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance|https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
     "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million|https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272|https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why|https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
@@ -35244,6 +35323,7 @@
     "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109|https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
     "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks|https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach|https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
     "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system|https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724|https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
-    "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study|https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study|https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051|https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why|https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
